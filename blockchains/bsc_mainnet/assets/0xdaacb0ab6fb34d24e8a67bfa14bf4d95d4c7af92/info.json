@@ -1,0 +1,12 @@
+{
+    "name": "pNetwork",
+    "website": "https://p.network",
+    "description": "The heartbeat of cross-chain composability.",
+    "explorer": "https://bscscan.com/token/0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92",
+    "research": "https://research.binance.com/en/projects/pnetwork",
+    "type": "ERC20",
+    "symbol": "PNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
+}
