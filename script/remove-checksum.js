@@ -1,4 +1,4 @@
-const { readdirSync, renameSync } = require('fs')
+const { readdirSync, renameSync, mkdirSync } = require('fs')
 
 const removeChecksum = (_source, _temp) =>
   readdirSync(_source, { withFileTypes: true })
