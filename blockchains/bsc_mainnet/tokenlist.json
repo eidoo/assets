@@ -789,11 +789,7 @@
             "name": "TeraBlock Token",
             "symbol": "TBC",
             "decimals": 18,
-<<<<<<< HEAD:blockchains/bsc_mainnet/tokenlist.json
             "logoURI": "https://assets.eidoo.io/blockchains/smartchain/assets/0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE/logo.png",
-=======
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1/logo.png",
->>>>>>> 81fdb5c7b5d46d77336feb2e728b605f924a82d9:blockchains/smartchain/tokenlist.json
             "pairs": []
         },
         {
