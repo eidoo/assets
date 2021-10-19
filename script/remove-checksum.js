@@ -1,6 +1,6 @@
-const { readdirSync, renameSync, mkdirSync } = require('fs')
+const { readdirSync, renameSync, mkdirSync, rmdirSync } = require('fs')
 
-const removeChecksum = (_source, _temp) =>
+const removeChecksumAndMove = (_source, _temp) =>
   readdirSync(_source, { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .forEach(dirent => {
@@ -8,4 +8,7 @@ const removeChecksum = (_source, _temp) =>
     })
 
 
-removeChecksum(process.argv[2], process.argv[3])
+mkdirSync(`${process.argv[2]}/temp`)
+removeChecksumAndMove(`${process.argv[2]}/assets`, `${process.argv[2]}/temp`)
+removeChecksumAndMove(`${process.argv[2]}/temp`, `${process.argv[2]}/assets`)
+rmdirSync(`${process.argv[2]}/temp`)
