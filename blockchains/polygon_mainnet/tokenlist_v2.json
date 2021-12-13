@@ -1,1 +1,426 @@
-[]
+[
+  {
+    "name": "Polygon",
+    "type": "coin",
+    "decimals": 18,
+    "symbol": "MATIC",
+    "description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Krill",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "Krill",
+    "description": "PolyWhale is a popular yield farm on Polygon that allows users to earn KRILL through yield farming, then stakes it in Nests to earn more tokens.",
+    "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b"
+  },
+  {
+    "name": "Impossible Finance IDIA",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "IDIA",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
+    "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89"
+  },
+  {
+    "name": "SushiToken (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "SUSHI",
+    "description": "Sushi is the home of DeFi. Our community is building a comprehensive, decentralized trading platform for the future of finance.",
+    "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
+  },
+  {
+    "name": "EverRise",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
+  },
+  {
+    "name": "Wrapped MATIC",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "WMATIC",
+    "description": "Wrapped MATIC",
+    "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+  },
+  {
+    "name": "SpaceRat",
+    "type": "POLYGON",
+    "decimals": 9,
+    "symbol": "SRAT",
+    "description": "SpaceRat is a community-driven project built on Matic Network. Three functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+    "address": "0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4"
+  },
+  {
+    "name": "Wrapped CCX",
+    "type": "POLYGON",
+    "decimals": 6,
+    "symbol": "wCCX",
+    "description": "Wrapped Conceal ($wCCX) is just a representation of ₡CCX on any of the available bridged ecosystems — a tokenized ₡CCX. Exactly one $wCCX will always represent (or equal) one ₡CCX.",
+    "address": "0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a"
+  },
+  {
+    "name": "Route",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "ROUTE",
+    "description": "Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.",
+    "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+  },
+  {
+    "name": "CRV (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "CRV",
+    "description": "The main purposes of the Curve DAO token are to incentivise liquidity providers on the Curve Finance platform as well as getting as many users involved as possible in the governance of the protocol.",
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af"
+  },
+  {
+    "name": "USD Coin (PoS)",
+    "type": "POLYGON",
+    "decimals": 6,
+    "symbol": "USDC",
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+  },
+  {
+    "name": "Fish",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "FISH",
+    "description": "Value-oriented, economically sustainable hybrid yield aggregator on Polygon.",
+    "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b"
+  },
+  {
+    "name": "GameStation",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "GAMER",
+    "description": "GameStation is a decentralized multi-chain gaming launchpad and marketplace.",
+    "address": "0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47"
+  },
+  {
+    "name": "WolfSafePoorPeople",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "WSPP",
+    "description": "WSPP is a PRC-20 token, which was designed to develop NFT and GameFi programs of the project, as well as for AMA rewards, trading, staking and farming within the platform.",
+    "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f"
+  },
+  {
+    "name": "The 4th Pillar Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "FOUR",
+    "description": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange.",
+    "address": "0x48cbc913de09317df2365e6827df50da083701d5"
+  },
+  {
+    "name": "WaultSwap Polygon",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "WEXpoly",
+    "description": "Wault Finance is a decentralized finance hub that connects all of the primary DeFi use-cases within one simple ecosystem, on the Binance Smart Chain. In short, an all-in-one DeFi Platform!We’ve built a protocol including 2 tokens – WAULTx and WEX – and some unique features such as: WaultSwap (AMM), Wault Launchpad (new project presales), Wault Locker (liquidity locks for new or established projects), Wault Farms (staking and farming) and many other great services.",
+    "address": "0x4c4bf319237d98a30a929a96112effa8da3510eb"
+  },
+  {
+    "name": "ChainLink Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "LINK",
+    "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
+    "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+  },
+  {
+    "name": "Million",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "MM",
+    "description": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
+    "address": "0x5647fe4281f8f6f01e84bce775ad4b828a7b8927"
+  },
+  {
+    "name": "Qi Dao",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "QI",
+    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+  },
+  {
+    "name": "Hoge Finance",
+    "type": "POLYGON",
+    "decimals": 9,
+    "symbol": "HOGE",
+    "description": "We Meme Business.",
+    "address": "0x58c1bbb508e96cfec1787acf6afe1c7008a5b064"
+  },
+  {
+    "name": "PYQ",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PYQ",
+    "description": "PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.",
+    "address": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8"
+  },
+  {
+    "name": "Ape Swap Finance Banana",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "BANANA",
+    "description": "ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain. ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.",
+    "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+  },
+  {
+    "name": "0xBitcoin Token",
+    "type": "POLYGON",
+    "decimals": 8,
+    "symbol": "0xBTC",
+    "description": "Pure-mined neutral token.",
+    "address": "0x71b821aa52a49f32eed535fca6eb5aa130085978"
+  },
+  {
+    "name": "Augury Finance",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "OMEN",
+    "description": "Augury Finance is a financial ecosystem on the Polygon (MATIC) blockchain which focuses on trust, community ownership, and sustainable returns.",
+    "address": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e"
+  },
+  {
+    "name": "Paint",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PAINT",
+    "description": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
+    "address": "0x7c28f627ea3aec8b882b51eb1935f66e5b875714"
+  },
+  {
+    "name": "Wrapped Ether",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "WETH",
+    "description": "WETH is Wrapped Ether",
+    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+  },
+  {
+    "name": "QuickSwap",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "QUICK",
+    "description": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
+    "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
+  },
+  {
+    "name": "Gravity Finance",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "GFI",
+    "description": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
+    "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
+  },
+  {
+    "name": "PolyDoge",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PolyDoge",
+    "description": "PolyDoge is a digital currency with one of the most vibrant communities on the powerful Polygon Network.",
+    "address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+  },
+  {
+    "name": "moonwolf.io",
+    "type": "POLYGON",
+    "decimals": 9,
+    "symbol": "WOLF",
+    "description": "Moonwolf is a deflationary token on Matic / Polygon",
+    "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16"
+  },
+  {
+    "name": "(PoS) Dai Stablecoin",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DAI",
+    "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
+  },
+  {
+    "name": "Matic Aave interest bearing USDC",
+    "type": "POLYGON",
+    "decimals": 6,
+    "symbol": "maUSDC",
+    "description": "aTokens on Polygon are known as maTokens.",
+    "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82"
+  },
+  {
+    "name": "PUSD",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PUSD",
+    "description": "PUSD is a completely decentralized stablecoin minted by staking Matic on Polygon network. PUSD is the USD-pegged stablecoin used to pay out loans on the PolyQuity protocol.",
+    "address": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72"
+  },
+  {
+    "name": "UniCrypt",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "UNCX",
+    "description": "UNCX is the governance token of the UniCrypt platform.",
+    "address": "0x9eecd634c7a934f752af0eb90dda9ecc262f199f"
+  },
+  {
+    "name": "miMATIC",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "miMATIC",
+    "description": "MAI (miMatic) is a stablecoin backed by collateral, and can only be minted with this collateral backing it. MAI is soft pegged to the USD, meaning that 1 MAI is around 1 USD.",
+    "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1"
+  },
+  {
+    "name": "IRON Titanium Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "TITAN",
+    "description": "Multi-chain Partial-Collateralized Stablecoin",
+    "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a"
+  },
+  {
+    "name": "Crypto.com Coin",
+    "type": "POLYGON",
+    "decimals": 8,
+    "symbol": "CRO",
+    "description": "The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.",
+    "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c"
+  },
+  {
+    "name": "Impossible Finance",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "IF",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. IF is the governance and fee accrual token for the swap.",
+    "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1"
+  },
+  {
+    "name": "Uniswap (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "UNI",
+    "description": "The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.",
+    "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+  },
+  {
+    "name": "Ariadne",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "ARDN",
+    "description": "Ariadne is a cross-chain DeFi marketplace that is lowering the fees to enter/exit farms on multiple blockchains and saves swaps and bridges costs for both EVM and non-EVM chains.",
+    "address": "0xb6ebc3ca1741a8f37551e44a51ec00ad417b38ca"
+  },
+  {
+    "name": "DFYN Token (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DFYN",
+    "description": "The DFYN token, will perform a crucial role in the functioning of the Dfyn ecosystem. The DFYN token is expected to have multiple utilities.",
+    "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+  },
+  {
+    "name": "Pegaxy",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PGX",
+    "description": "Pegaxy Game Native Governance Token",
+    "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae"
+  },
+  {
+    "name": "(PoS) Tether USD",
+    "type": "POLYGON",
+    "decimals": 6,
+    "symbol": "USDT",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+  },
+  {
+    "name": "Adamant",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "ADDY",
+    "description": "Adamant is a yield optimizer vault that provides users with an easy and safe way to automatically compound their tokens on the Polygon (MATIC) network and maximize their yields.",
+    "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539"
+  },
+  {
+    "name": "Polyroll Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "ROLL",
+    "description": "Polyroll is a decentralized casino powered by Chainlink and Polygon. It claims to be provably fair, transparent and immutable games, anytime anywhere.",
+    "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6"
+  },
+  {
+    "name": "PearZap Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "PEAR",
+    "description": "High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features",
+    "address": "0xc8bcb58caef1be972c0b638b1dd8b0748fdc8a44"
+  },
+  {
+    "name": " Stacker Ventures Token (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "STACK",
+    "description": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
+    "address": "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7"
+  },
+  {
+    "name": "GAMEE Token",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "GMEE",
+    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+    "address": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7"
+  },
+  {
+    "name": "Aave (PoS)",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "AAVE",
+    "description": "Aave Protocol is a decentralised liquidity protocol where people can lend and borrow digital assets. The AAVE token is the governance token of the protocol, so AAVE holders can vote on proposals for updates. AAVE holders can also stake their AAVE in the protocol Safety Module and earn Safety Incentives for securing the protocol",
+    "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+  },
+  {
+    "name": "IRON Stablecoin",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "IRON",
+    "description": "Multi-chain Partial-Collateralized Stablecoin",
+    "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a"
+  },
+  {
+    "name": "Telcoin",
+    "type": "POLYGON",
+    "decimals": 2,
+    "symbol": "TEL",
+    "description": "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+    "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
+  },
+  {
+    "name": "CherryPick",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "pCherry",
+    "description": "Fleta Connect is a new DeFi(Decentralized Finance) service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users.",
+    "address": "0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66"
+  },
+  {
+    "name": "CremePieSwap",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "CPIE",
+    "description": "Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.",
+    "address": "0xfad70fd116559914240fab82b0078c4e82a6a1b8"
+  }
+]
