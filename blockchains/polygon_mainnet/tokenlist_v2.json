@@ -264,6 +264,14 @@
     "address": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72"
   },
   {
+    "name": "ISLAMICOIN",
+    "type": "POLYGON",
+    "decimals": 7,
+    "symbol": "ISLAMI",
+    "description": "ISLAMICOIN A Cryptocurrency For The Global Muslim Community",
+    "address": "0x9c891326fd8b1a713974f73bb604677e1e63396d"
+  },
+  {
     "name": "UniCrypt",
     "type": "POLYGON",
     "decimals": 18,

@@ -2056,6 +2056,14 @@
     "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
   },
   {
+    "name": "Spell Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPELL",
+    "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
+    "address": "0x090185f2135308bad17527004364ebcc2d37e5f6"
+  },
+  {
     "name": "CentaSaveX",
     "type": "ERC20",
     "decimals": 8,
@@ -15038,6 +15046,14 @@
     "symbol": "KRL",
     "description": "Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly",
     "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
+  },
+  {
+    "name": "REALM Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "REALM",
+    "description": "REALM is the native token of the Realm metaverse.",
+    "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8"
   },
   {
     "name": "Cryptomind",
@@ -47550,6 +47566,14 @@
     "symbol": "GT",
     "description": "GateChain is a public blockchain dedicated to blockchain asset safety even after private keys are compromised.",
     "address": "0xe66747a101bff2dba3697199dcce5b743b454759"
+  },
+  {
+    "name": "Merchant Token (MTO)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MTO",
+    "description": "DeFi Payment Protocol that enables POS terminals on blockchains and brings consumer protection to crypto payments",
+    "address": "0xe66b3aa360bb78468c00bebe163630269db3324f"
   },
   {
     "name": "SilverStone",
