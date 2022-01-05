@@ -96,6 +96,14 @@
     "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b"
   },
   {
+    "name": "Streamr",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+    "address": "0x3a9a81d576d83ff21f26f325066054540720fc34"
+  },
+  {
     "name": "GameStation",
     "type": "POLYGON",
     "decimals": 18,
@@ -408,6 +416,22 @@
     "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a"
   },
   {
+    "name": "DEI",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DEI",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3"
+  },
+  {
+    "name": "DEUS",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DEUS",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
+  },
+  {
     "name": "Telcoin",
     "type": "POLYGON",
     "decimals": 2,
@@ -422,6 +446,14 @@
     "symbol": "pCherry",
     "description": "Fleta Connect is a new DeFi(Decentralized Finance) service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users.",
     "address": "0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66"
+  },
+  {
+    "name": "Equalizer",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "EQZ",
+    "description": "Equalizer is the first dedicated flash loan marketplace that can handle the rising demand for DeFi lending and borrowing. It sets itself apart by offering the lowest fees and transaction costs, a virtually unlimited choice of token vaults, high liquidity through yield farming, scalable, multi-chain infrastructure, and integration friendly.",
+    "address": "0xeaf631ac57f3cdddd261770dd47f85066131a156"
   },
   {
     "name": "CremePieSwap",

@@ -544,6 +544,14 @@
     "address": "0x07f5ceded6b3dba557b3663edc8941fb37b63945"
   },
   {
+    "name": "Streamr",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+    "address": "0x0864c156b3c5f69824564dec60c629ae6401bf2a"
+  },
+  {
     "name": "Binamon",
     "type": "BEP20",
     "decimals": 18,
@@ -1400,6 +1408,14 @@
     "address": "0x14b06bf2c5b0afd259c47c4be39cb9368ef0be3f"
   },
   {
+    "name": "IDM Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "IDM",
+    "description": "IDM Token is intended to invite crypto currency investors to finance our big project in building a digital ecosystem of cooperatives and MSMEs in Indonesia. IDM tokens are at an early stage on the Binance Smart Chain network.",
+    "address": "0x14b13e06f75e1f0fd51ca2e699589ef398e10f4c"
+  },
+  {
     "name": "DungeonSwap Token",
     "type": "BEP20",
     "decimals": 18,
@@ -1510,6 +1526,14 @@
     "symbol": "X-Token",
     "description": "X-Token is the first token that will empower crypto traders, investors, and minorities who have no access to computers. Building decentralized applications and donating the usage fees will help cryptomaniacs and minorities alike.",
     "address": "0x1657223bb7b9d272957b3f3cf70f9c36a4c99ab9"
+  },
+  {
+    "name": "Life Token v2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LTNv2",
+    "description": "Life Token v2 is a charity orientated token on the Binance Smart Chain aiming to aid suicide prevention charities all over the world, to help save lives.",
+    "address": "0x167e5455e4c978883b414e7f02c0147eec9a18e9"
   },
   {
     "name": "Binance-Peg Tezos Token",
@@ -2200,6 +2224,14 @@
     "address": "0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b"
   },
   {
+    "name": "Binance-Peg APENFT Token",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "NFT",
+    "description": "APENFT was born with the mission to register world-class artworks as NFTs on blockchain. It aims to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists.",
+    "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d"
+  },
+  {
     "name": "Atlantis Token",
     "type": "BEP20",
     "decimals": 18,
@@ -2648,6 +2680,14 @@
     "address": "0x265f638eab14dd43d80bb71aae3289b1c6d46a3f"
   },
   {
+    "name": "KAKA Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "KAKA",
+    "description": "KAKA is a token issued by KAKA NFT World.",
+    "address": "0x26a1bdfa3bb86b2744c4a42ebfdd205761d13a8a"
+  },
+  {
     "name": "Koduro",
     "type": "BEP20",
     "decimals": 9,
@@ -2726,6 +2766,14 @@
     "symbol": "WOLF",
     "description": "Wolf is an community token in the same way as Doge, but better. We are the wolf pack",
     "address": "0x2773f3fb0f7baba01cdcaab002fd3373de2860b3"
+  },
+  {
+    "name": "VITE Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "VITE",
+    "description": "VITE(Vite) is a lightning-fast blockchain where transactions incur zero fees.",
+    "address": "0x2794dad4077602ed25a88d03781528d1637898b4"
   },
   {
     "name": "CumRocket",
@@ -3704,6 +3752,14 @@
     "address": "0x3498c7927da877faa14198d24caebd6516189646"
   },
   {
+    "name": "Shambala",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BALA",
+    "description": "BALA is the platform token of Shambala metaverse",
+    "address": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed"
+  },
+  {
     "name": "TeslaSafe",
     "type": "BEP20",
     "decimals": 9,
@@ -3894,6 +3950,14 @@
     "symbol": "SAFEBTC",
     "description": "SafeBTC is a token with frictionless fee redistribution and liquidity-adds on transfers.",
     "address": "0x380624a4a7e69db1ca07deecf764025fc224d056"
+  },
+  {
+    "name": "LIMOCOIN SWAP",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LMCSWAP",
+    "description": "Limocoin Swap is a token created to allow, by the principle of cryptographic assets, the evolution of market solutions. It is based on a strong community built in four years by one of the subsidiaries of the parent company SIMTREX COMMERCIAL BROKERS LLC, GIT. SA",
+    "address": "0x383094a91ef2767eed2b063ea40465670bf1c83f"
   },
   {
     "name": "BabyPooCoin",
@@ -4568,6 +4632,14 @@
     "address": "0x42873a833717753a8d77ad6d0a8710af2c66c052"
   },
   {
+    "name": "SafeMoon V2",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SFM",
+    "description": "SafeMoon is a cryptocurrency token created in March 2021 on the Binance Smart Chain blockchain.",
+    "address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5"
+  },
+  {
     "name": "DiamondsAlaskaMalamute",
     "type": "BEP20",
     "decimals": 9,
@@ -4854,6 +4926,14 @@
     "symbol": "WOO",
     "description": "Wootrade aims to provide deep liquidity and superior order execution at the lowest cost for traders, exchanges, institutions, and DeFi platforms. Its flagship, WOO X, is a professional trading platform featuring customizable modules, and zero-fees with deep liquidity across spot and margin. Wootrade was founded by Kronos Research, a quantitative trading firm generating $10-15B in daily volume, with the goal of democratizing access to deep liquidity and yield strategies through various products.",
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+  },
+  {
+    "name": "LucidLandsGem",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "LLG",
+    "description": "Lucid Lands is the first decentralized NFT play-to-earn game on BSC network that integrates both 3D-animated gaming NFT and 2D unique computer-generated collective NFT marketplace.",
+    "address": "0x4691f60c894d3f16047824004420542e4674e621"
   },
   {
     "name": "Metagon Network",
@@ -5270,6 +5350,14 @@
     "symbol": "XCV",
     "description": "The Metaverse Assets Liquidation Aggregator for Everyone",
     "address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8"
+  },
+  {
+    "name": "The Essential Coin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ESC",
+    "description": "The essential Coin (ESC) is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. \n\nESC will be a blockchain meta-verse, which will have the ESC token as its native currency.",
+    "address": "0x4c48cca6153db911002f965d22fdefcd95f33be9"
   },
   {
     "name": "Panda Girl",
@@ -6496,6 +6584,22 @@
     "address": "0x5dfb6437489235fe08a8f706bb261938f4e2d849"
   },
   {
+    "name": "CleanOcean",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "CLEAN",
+    "description": "An innovative crypto investment project combining the growth potential of blockchain technology with oceanic conservatory operations.",
+    "address": "0x5e19266e4a17521d65eff608517fa0c82ca24813"
+  },
+  {
+    "name": "HeroesTD",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HTD",
+    "description": "Heroes TD is a Free to Play or Play to Earn 3D GameFi built with Heroes Metaverse. You can play with each other and trade items on the NFT market! Join Heroes TD today and get your life-time investment!",
+    "address": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f"
+  },
+  {
     "name": "Baby Doge Inu",
     "type": "BEP20",
     "decimals": 9,
@@ -7248,6 +7352,14 @@
     "address": "0x689437c050678935db89381fe0b8f6ed4a3eec66"
   },
   {
+    "name": "Silva Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SILVA",
+    "description": "SILVA Token is a multi-functional platform which allows each participant to keep money in a multi-currency online wallet, buy and sell currency on the exchange, invest money, get a huge benefit in a convenient currency.",
+    "address": "0x68b5edb385b59e30a7a7db1e681a449e94df0213"
+  },
+  {
     "name": "Cryptonite",
     "type": "BEP20",
     "decimals": 9,
@@ -7278,6 +7390,14 @@
     "symbol": "WINLAMBO",
     "description": "WINLAMBO is a Lambo generating token! Holders benefit from 2% passive income and a lifetime of chances at winning 210,000 BUSD.",
     "address": "0x6a79e08db6c08b8f88703794bf1a47f5a01eb9dc"
+  },
+  {
+    "name": "TRVL",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TRVL",
+    "description": "Dtravel is a DAO: a community-owned and governed ecosystem that operates for the benefit of its community members.",
+    "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f"
   },
   {
     "name": "Polka City",
@@ -7736,6 +7856,14 @@
     "address": "0x72faa679e1008ad8382959ff48e392042a8b06f7"
   },
   {
+    "name": "METAMUSK Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "METAMUSK",
+    "description": "MetaMusk Token's fundamental objective is to transform the monetary system.",
+    "address": "0x734c5f3f8f6ad9697b26ecc6388678aafd3db3b2"
+  },
+  {
     "name": "Alaska Inu",
     "type": "BEP20",
     "decimals": 18,
@@ -8038,6 +8166,14 @@
     "symbol": "RMOON",
     "description": "An Autonomous Yield and deflationary token.",
     "address": "0x78bc22a215c1ef8a2e41fa1c39cd7bdc09bd5174"
+  },
+  {
+    "name": "BinaHero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "BinaHero is a decentralized NFT game that integrates collection, mining, market trading, and PVE. Players can play to earn in the game.",
+    "address": "0x78c3ade403438b37638304f9fbbfb1b76608c1bd"
   },
   {
     "name": "Jointer",
@@ -8536,7 +8672,7 @@
     "address": "0x8034aa1ebb42a4e2110e91666497198e977c8d81"
   },
   {
-    "name": "SafeMoon",
+    "name": "Old SafeMoon",
     "type": "BEP20",
     "decimals": 9,
     "symbol": "SAFEMOON",
@@ -8558,6 +8694,14 @@
     "symbol": "BabyFlokiCoin",
     "description": "Baby Floki Coin is a new crypto coin brought to life by fans & members of the Shiba Inu/Doge community. BabyFlokiCoin is Elon Musk’s very own shiba inu and he’s on a mission to become the first puppy to go to the moon! He’s built to reward you by sending 5% of every transaction made to your wallet.",
     "address": "0x808fac147a9c02723d0be300ac4753eaf93c0e1f"
+  },
+  {
+    "name": "Koda Cryptocurrency",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "KODA",
+    "description": "Koda token is a futuristic currency created and developed by Summit BC development team and will be the native token on SummitSwap.",
+    "address": "0x8094e772fa4a60bdeb1dfec56ab040e17dd608d5"
   },
   {
     "name": "XMPT Token",
@@ -12272,6 +12416,14 @@
     "address": "0xb89add4a17eadb084a065f9cace752a268dab8b3"
   },
   {
+    "name": "Santa Floki",
+    "type": "BEP20",
+    "decimals": 2,
+    "symbol": "HoHoHo",
+    "description": "Santa Floki rewards those that are good with BUSD and those that believe in him. His plans this year is to deliver gifts to those in need with its charity program and help warm hearts for Christmas.",
+    "address": "0xb8a5e028f833f08a29564ded368b4cacb4e18ff5"
+  },
+  {
     "name": "Travel Coin",
     "type": "BEP20",
     "decimals": 4,
@@ -12398,6 +12550,14 @@
     "symbol": "DOGE",
     "description": "Binance-Peg Dogecoin (DOGE BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Dogecoin (DOGE) at a ratio of 1:1.",
     "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+  },
+  {
+    "name": "Titano",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TITANO",
+    "description": "Titano Finance is transforming DeFi with the Titano Autostaking Protocol (TAP) that delivers the industry’s highest fixed APY, rebasing rewards every 30 minutes, and a simple buy-hold-earn system that grows your portfolio in your wallet, fast",
+    "address": "0xba96731324de188ebc1ed87ca74544ddebc07d7f"
   },
   {
     "name": "Fire Token",
@@ -12870,6 +13030,14 @@
     "symbol": "N1CE",
     "description": "A community of people who loves cryptocurrencies and blockchain, with a high level of expertise they can share with others",
     "address": "0xc14df1e2fff3708816495e7364ff274aceecad91"
+  },
+  {
+    "name": "HUH Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "HUH",
+    "description": "HUH Token is the first ever UTIMEME cryptocurrency combining the power of meme tokens with the usability of utility tokens. Refer friends now and earn 10% in BNB.",
+    "address": "0xc15e89f2149bcc0cbd5fb204c9e77fe878f1e9b2"
   },
   {
     "name": "Elon Peg",
@@ -13392,6 +13560,14 @@
     "address": "0xc808592e5b4585f982bc728d63b227634bc007a4"
   },
   {
+    "name": "BNB Gold",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BNB GOLD",
+    "description": "BNBGOLD is the governance token for the BNBGOLD Ecosystem.",
+    "address": "0xc836dcc9c880d4558c301e6d439db1b1dcaf7f3a"
+  },
+  {
     "name": "SafeWolf",
     "type": "BEP20",
     "decimals": 9,
@@ -13542,6 +13718,14 @@
     "symbol": "NanoDOGE",
     "description": "NanoDOGE is a community based token with automatic buy-backs and reflections to all holders",
     "address": "0xcae755389bee1b066f4713f3909983b48161ae2e"
+  },
+  {
+    "name": "Galaxy Goggle",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "GG",
+    "description": "Galaxy Goggle DAO is a decentralized reserve currency protocol based on the GG token. Each GG token is backed by a basket of assets (e.g. MIM, AVAX) in the collateral pool, giving it an intrinsic value that it cannot fall below. GGDAO also introduces economic and game-theoretic dynamics into the market through staking and minting.",
+    "address": "0xcaf23964ca8db16d816eb314a56789f58fe0e10e"
   },
   {
     "name": "Starpunk",
@@ -13872,6 +14056,14 @@
     "address": "0xd05a0c5c68acba9aa9952fa65189038840752977"
   },
   {
+    "name": "Parallel Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PRL",
+    "description": "The Parallel takes some of the greatest ideas from the real world and puts them to work in a magical world, The Parallel Metaverse where everyone can have fun and find happiness.",
+    "address": "0xd07e82440a395f3f3551b42da9210cd1ef4f8b24"
+  },
+  {
     "name": "Afen Blockchain",
     "type": "BEP20",
     "decimals": 18,
@@ -14110,6 +14302,14 @@
     "symbol": "HERO",
     "description": "Next-Gen Deflationary Real Utility Token Coupled with Ultra-HD Metascanning Technology",
     "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13"
+  },
+  {
+    "name": "Coinscope",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "COINSCOPE",
+    "description": "Coinscope is the leading early coin listing and voting website. It is aiming to make crypto discoverable and efficient globally. It provides all the essential tools to assist users draw their own conclusions.",
+    "address": "0xd41c4805a9a3128f9f7a7074da25965371ba50d5"
   },
   {
     "name": "SafePal Token",
@@ -15256,6 +15456,14 @@
     "address": "0xe60ef2b118c35c987ce28d3b69f84378f2b84b4a"
   },
   {
+    "name": "Sphynx BSC",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SPHYNX",
+    "description": "SphynxSwap aims to provide an AIO solution for trading, farming, staking and holding in a cross chain environment. The amount of platforms out there can be overwhelming and difficult for an individual to navigate. The idea is to break that massive barrier for those new to the world of crypto.",
+    "address": "0xe64972c311840cfaf2267dcfd365571f9d9544d9"
+  },
+  {
     "name": "ROOBEE",
     "type": "BEP20",
     "decimals": 18,
@@ -15670,6 +15878,14 @@
     "symbol": "BFK",
     "description": "Battle Fort Knox - BFK is a complete gaming ecosystem with our native token $BFK, our NFT Marketplace, and our P2E 2D shooter coming to iOS, Android, and Windows.",
     "address": "0xed44623b06616bccec876617c124f5461bd5f79b"
+  },
+  {
+    "name": "SpookyShiba",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SPOOKYSHIBA",
+    "description": "\nSpookyShiba is the first \"horror Genre\" Token on Binance Smartchain with utility for holders tied into the NFT Marketplace.",
+    "address": "0xed74bc5dc139356e08de28143996f5ef6e4334a4"
   },
   {
     "name": "BabyBoxer",
@@ -16734,6 +16950,14 @@
     "symbol": "GHD",
     "description": "Giftedhands aims to offer solutions to constant issues in payment to freelancer developers in terms of speeding up the payment process.",
     "address": "0xfdfd27ae39cebefdbaac8615f18aa68ddd0f15f5"
+  },
+  {
+    "name": "New Year Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NYT",
+    "description": "The New Year token is a currency focused on NFT and New Year symbols, with real use.",
+    "address": "0xfdff7a8eda6a3739132867f989be4bf84e803c15"
   },
   {
     "name": "PokerFI.finance",

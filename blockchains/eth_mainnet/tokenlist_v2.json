@@ -12832,6 +12832,14 @@
     "address": "0x3b3f859ab4cebb73c3043b99c33719052265e1e7"
   },
   {
+    "name": "OpenDAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOS",
+    "description": "$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.",
+    "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+  },
+  {
     "name": "Teacher Coin",
     "type": "ERC20",
     "decimals": 18,
@@ -19056,6 +19064,14 @@
     "address": "0x5978708d6cce1cc9640eed47422d64c91bbd5171"
   },
   {
+    "name": "pTokens pLTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "pLTC",
+    "description": "pTokens LTC is a one-to-one pegged tokenised Litecoin on Ethereum. Leveraging the pTokens system, Litecoin is automatically moved into the Ethereum protocol as an ERC-777 token. pTokens LTC makes Litecoin compatible with all financial dApps, bringing unparalleled liquidity to the DeFi ecosystem.",
+    "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f"
+  },
+  {
     "name": "Bitgene Token",
     "type": "ERC20",
     "decimals": 18,
@@ -23054,6 +23070,14 @@
     "symbol": "HLI",
     "description": "-",
     "address": "0x6baf7fcea90b0968dc5ed7b8dcb76c986637ff55"
+  },
+  {
+    "name": "Gas DAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GAS",
+    "description": "A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network.",
+    "address": "0x6bba316c48b49bd1eac44573c5c871ff02958469"
   },
   {
     "name": "xensor",
@@ -36208,6 +36232,14 @@
     "address": "0xad2aa3c57570ad9811ba8ee90316f9c73f78035a"
   },
   {
+    "name": "PieDAO DOUGH v2",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DOUGH",
+    "description": "The asset allocation DAO. Pie DAO makes diversified asset allocation and rebalancing a piece of cake. Universal access to anyone on the Ethereum network, with no minimum.",
+    "address": "0xad32a8e6220741182940c5abf610bde99e737b2d"
+  },
+  {
     "name": "BIDCOIN",
     "type": "ERC20",
     "decimals": 8,
@@ -40184,6 +40216,14 @@
     "address": "0xc0829421c1d260bd3cb3e0f06cfe2d52db2ce315"
   },
   {
+    "name": "GYEN",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "GYEN",
+    "description": "GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments",
+    "address": "0xc08512927d12348f6620a698105e1baac6ecd911"
+  },
+  {
     "name": "Bit Ether",
     "type": "ERC20",
     "decimals": 3,
@@ -43784,6 +43824,14 @@
     "address": "0xd32540c0d54a7fcdd9500bfa57d3ba1e604581d7"
   },
   {
+    "name": "Rocket Pool",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RPL",
+    "description": "Rocket Pool Protocol (RPL) - Decentralised Proof of Stake Pool",
+    "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+  },
+  {
     "name": "MHIMG1-2/30M2",
     "type": "ERC20",
     "decimals": 0,
@@ -45904,6 +45952,14 @@
     "address": "0xde1289e68ad9e65ccf50d800c0cec2d514b80a40"
   },
   {
+    "name": "DEI",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEI",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3"
+  },
+  {
     "name": "DeltaChain Token",
     "type": "ERC20",
     "decimals": 8,
@@ -45958,6 +46014,14 @@
     "symbol": "FML",
     "description": "-",
     "address": "0xde522a2778e4554707e6a8df36a4871ce9967bb5"
+  },
+  {
+    "name": "DEUS",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEUS",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
   },
   {
     "name": "EPay",
