@@ -696,6 +696,14 @@
     "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89"
   },
   {
+    "name": "Ethereum Meta",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ETHM",
+    "description": "If Ethereum is like http then Ethereum Meta is https — a secure transport layer",
+    "address": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca"
+  },
+  {
     "name": "ShonToken",
     "type": "BEP20",
     "decimals": 18,
@@ -808,7 +816,7 @@
     "address": "0x0d6a59cef44bac622e91313b366c7f802b2670d6"
   },
   {
-    "name": "Filecoin",
+    "name": "Binance-Peg Filecoin",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "FIL",
@@ -1248,12 +1256,28 @@
     "address": "0x127cf9704ddfcf0e9ec1dc20f11877731d18ac34"
   },
   {
+    "name": "Metakings",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MTK",
+    "description": "Metakings is an AI-powered fighting universe in which anyone can earn rewards such as tokens and NFTs through competent gameplay and contributions to the ecosystem. Players can engage in combat, gather resources, develop their characters, and establish their own land-based kingdoms. The game will be powered by its official token, the Metakings token ($MTK). In-game characters can also be collected as NFTs in the game and exchanged for tokens in our official NFT marketplace.",
+    "address": "0x129385c4acd0075e45a0c9a5177bdfec9678a138"
+  },
+  {
     "name": "DartChain",
     "type": "BEP20",
     "decimals": 8,
     "symbol": "DART",
     "description": "Dart Chain Finance The Advanced DeFi Platform Of The Future!",
     "address": "0x12b6ffba41844a51a25e13065d393e54af0633df"
+  },
+  {
+    "name": "Baby Yooshi",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BabyYooshi",
+    "description": "Baby YooShi is a token on Binance Smart Chain boasting various features. BabyYooShi name and image are inspired by a dinosaur in Super Mario, whose name is Yoshi.",
+    "address": "0x12b83d77a606d8f5c4ce29dffdb592c523364995"
   },
   {
     "name": "Radio Caca V2",
@@ -1472,6 +1496,14 @@
     "address": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409"
   },
   {
+    "name": "AstroSpaces.io",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SPACES",
+    "description": "AstroSpaces.io is building the biggest web3 integrated social network!",
+    "address": "0x156df0dd6300c73ac692d805720967cf4464776e"
+  },
+  {
     "name": "OLD Real Trump Token - DO NOT BUY",
     "type": "BEP20",
     "decimals": 9,
@@ -1560,12 +1592,28 @@
     "address": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037"
   },
   {
+    "name": "Baby Bali",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BB",
+    "description": "We are the first token to combine these 5 super elements at once.",
+    "address": "0x16f9cc3c6f8d8006cfc0ee693cef9d76b0d44c36"
+  },
+  {
     "name": "SafeUniverse",
     "type": "BEP20",
     "decimals": 9,
     "symbol": "SAFU",
     "description": "A Frictionless Yield Generation, Community Driven Protocol.",
     "address": "0x16feb16f7ee2190312d03f449eeec2339add2d83"
+  },
+  {
+    "name": "Wrapped ElectricCash",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "wELCASH",
+    "description": "The idea of wrapped ELCASH is to advantage of the BSC infrastructure and gain exposure to smart contract functionalities. Introducing new use cases relating to smart contracts and dApp) ensures further growth of the ELCASH ecosystem. It is also an excellent chance for BSC users to join ELCASH ecosystem by swapping their tokens to wELCASH and join ELCASH ecosystem.",
+    "address": "0x1722bf5da9391d6986092b90a53672e8e0fead83"
   },
   {
     "name": "SafeCity",
@@ -1662,6 +1710,14 @@
     "symbol": "SWORD",
     "description": "Flaring Sword is the first entertainment platform providing a variety of games industry services under a single roof, accessible through a single login discover, buy, and play games, watch live-streaming feeds, interact with your favorite influencers, participate in contests, compete in tournaments and much more.",
     "address": "0x17dd6e742a5324d3f1b2b242374fc01bc61ee56d"
+  },
+  {
+    "name": "COXSWAP",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "COX",
+    "description": "COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token .",
+    "address": "0x17fea92ca2e7570d07b63ecd6b698e01386555a4"
   },
   {
     "name": "DYT TOKEN",
@@ -2288,6 +2344,14 @@
     "address": "0x20512ee0052236b009772af0ed22bc58b40c27b9"
   },
   {
+    "name": "OBRok Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "OBROK",
+    "description": "OBROk Token is Launched in 17.06.2021 and with limited supply, produced with the BEP-20(BSC) network. The working areas of the OBRok Token (OBROK) Team are;\n* Metaverse\n* Web 3.0\n* Aeronautical Sciences and Space\n* Renewable Energy",
+    "address": "0x205afd08cefe438377a0abc5a20cb4462e1a8c5c"
+  },
+  {
     "name": "UltimoGG",
     "type": "BEP20",
     "decimals": 9,
@@ -2304,7 +2368,7 @@
     "address": "0x2089f0cbe8aca0950fa8c5bb04ade2323aee832f"
   },
   {
-    "name": "Jetfuel.Finance",
+    "name": "Fuel Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "Fuel",
@@ -2472,7 +2536,7 @@
     "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc"
   },
   {
-    "name": "DITTO Money Token",
+    "name": "Ditto",
     "type": "BEP20",
     "decimals": 9,
     "symbol": "DITTO",
@@ -2662,6 +2726,14 @@
     "symbol": "HEROES",
     "description": "DeHero is a decentralized GameFi application based on BSC.",
     "address": "0x261510dd6257494eea1dda7618dbe8a7b87870dd"
+  },
+  {
+    "name": "META",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "$META",
+    "description": "META is a community meme and rewards token. All holders of META are automatically rewarded SHIB. Hold META, and watch your SHIB grow passively.",
+    "address": "0x26165a5a3dd21fa528becf3ff7f114d00a517344"
   },
   {
     "name": "Cream ALPHA Token",
@@ -3278,6 +3350,14 @@
     "symbol": "ZEP",
     "description": "Self generating liquidity token - Reflection paid back to holders.",
     "address": "0x2e291e1c9f85a86d0c58ae15621aac005a8b2ead"
+  },
+  {
+    "name": "MetaCash",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "META",
+    "description": "The metacash project is referred to the world of the metaverse and virtual reality, through creating a large community of more than 3000 members.",
+    "address": "0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3"
   },
   {
     "name": "PumpETH",
@@ -4760,7 +4840,7 @@
     "address": "0x4437743ac02957068995c48e08465e0ee1769fbe"
   },
   {
-    "name": "ZeroSwap",
+    "name": "ZeroSwapToken",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "ZEE",
@@ -5272,7 +5352,7 @@
     "address": "0x4afc8c2be6a0783ea16e16066fde140d15979296"
   },
   {
-    "name": "Trust Wallet Token",
+    "name": "Trust Wallet",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "TWT",
@@ -5960,7 +6040,7 @@
     "address": "0x55b53855eae06c4744841dbfa06fce335db4355b"
   },
   {
-    "name": "Tether USD",
+    "name": "Binance-Peg BSC-USD",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "USDT",
@@ -6960,12 +7040,20 @@
     "address": "0x631e1e455019c359b939fe214edc761d36bf6ad6"
   },
   {
-    "name": "BLink",
+    "name": "BLinkToken",
     "type": "BEP20",
     "decimals": 6,
-    "symbol": "blink",
+    "symbol": "BLINK",
     "description": "BLink is a partnership between WINk and Binance community.",
     "address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f"
+  },
+  {
+    "name": "SinCity Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SIN",
+    "description": "Sin City is a metaverse multiplayer game built on blockchain. Your very own decentralized virtual world, centered around a social play-to-earn empire building model and housing multiple gaming & gambling applications for an immersive experience.",
+    "address": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010"
   },
   {
     "name": "TripCandy",
@@ -7328,6 +7416,14 @@
     "address": "0x68590a47578e5060a29fd99654f4556dbfa05d10"
   },
   {
+    "name": "ShibaZilla",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "ShibaZilla",
+    "description": "ShibaZilla aims to go above and beyond for its community, by providing investors 5% liquidity and 5% Reflection Rewards.",
+    "address": "0x68810a6f5bb0491cb9ccf8c52735a1acf5f28009"
+  },
+  {
     "name": "Rewards Bunny",
     "type": "BEP20",
     "decimals": 18,
@@ -7358,6 +7454,14 @@
     "symbol": "SILVA",
     "description": "SILVA Token is a multi-functional platform which allows each participant to keep money in a multi-currency online wallet, buy and sell currency on the exchange, invest money, get a huge benefit in a convenient currency.",
     "address": "0x68b5edb385b59e30a7a7db1e681a449e94df0213"
+  },
+  {
+    "name": "Mist",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "$MIST",
+    "description": "Mist Token is the native in-game currency of Mist developed to incorporate NFTs with in-game functions for MMO audience.",
+    "address": "0x68e374f856bf25468d365e539b700b648bf94b67"
   },
   {
     "name": "Cryptonite",
@@ -7816,7 +7920,7 @@
     "address": "0x7269d98af4aa705e0b1a5d8512fadb4d45817d5a"
   },
   {
-    "name": "Unifi Protocol DAO",
+    "name": "UNFI",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "UNFI",
@@ -7848,7 +7952,7 @@
     "address": "0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6"
   },
   {
-    "name": "AllianceBlock",
+    "name": "AllianceBlock Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "bALBT",
@@ -7942,6 +8046,22 @@
     "symbol": "SMGM",
     "description": "Tired of only going to the moon? Come to Mars instead! SpaceX's aspirational goal has been to land the first humans on Mars by 2024, but don’t wait until then. Let us take you there right now! We are a community-driven project that has implemented some of the best tokenomics around. Our goal is simple: end testicular cancer",
     "address": "0x74f3a669a8f35010f6f8811c495c0a5f60c5d04d"
+  },
+  {
+    "name": "Nabox Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NABOX",
+    "description": "Nabox aims to allow users to utilize their digital assets across chains at the click of a button.",
+    "address": "0x755f34709e369d37c6fa52808ae84a32007d1155"
+  },
+  {
+    "name": "TrustFi Network Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TFI",
+    "description": "TFI is the native token of TrustFi Network, a decentralized BaaS solution for DeFi market based on multichain environment.",
+    "address": "0x7565ab68d3f9dadff127f864103c8c706cf28235"
   },
   {
     "name": "CatInu",
@@ -8128,7 +8248,7 @@
     "address": "0x7859b01bbf675d67da8cd128a50d155cd881b576"
   },
   {
-    "name": "Bitcoin Standard Hashrate Token",
+    "name": "StandardBTCHashrateToken",
     "type": "BEP20",
     "decimals": 17,
     "symbol": "BTCST",
@@ -8184,7 +8304,7 @@
     "address": "0x78e1936f065fd4082387622878c7d11c9f05ecf4"
   },
   {
-    "name": "CafeSwap Token (BREW)",
+    "name": "CafeSwap Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BREW",
@@ -8416,6 +8536,14 @@
     "address": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92"
   },
   {
+    "name": "METAGALAXY LAND",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MEGALAND",
+    "description": "The spacemap focuses on the development of the technology, operations infrastructure, new partnerships, and marketing initiatives.",
+    "address": "0x7cd8c22d3f4b66230f73d7ffcb48576233c3fe33"
+  },
+  {
     "name": "Caramel Swap",
     "type": "BEP20",
     "decimals": 18,
@@ -8486,6 +8614,14 @@
     "symbol": "GMT",
     "description": "A token backed by real assets that brings in constantly growing daily BTC income to its owner.",
     "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
+  },
+  {
+    "name": "pTokens GALA",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GALA",
+    "description": "Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items.",
+    "address": "0x7ddee176f665cd201f93eede625770e2fd911990"
   },
   {
     "name": "Ormeus Coin",
@@ -9288,6 +9424,14 @@
     "address": "0x8869eac0d82245a2df50a0fad770d72ce63649d1"
   },
   {
+    "name": "DeFi Degen Land",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DDL",
+    "description": "DeFi Degen Land is a Metaverse / gamified DeFi where the player join an online 'world' that has the capability of interacting with the blockchain. DeFiDegenLand holders earns Bitcoin as an incentive to keep holding the token, also it's the native token on the metaverse.",
+    "address": "0x88803312628fd21542f706b0c7dc8495c1c10b2e"
+  },
+  {
     "name": "PocMon",
     "type": "BEP20",
     "decimals": 9,
@@ -9544,6 +9688,14 @@
     "address": "0x8c5a93fa9bb2b0f396e80b51323767043c58e686"
   },
   {
+    "name": "BinaryX",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BNX",
+    "description": "BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model.",
+    "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97"
+  },
+  {
     "name": "Cream Litecoin Token",
     "type": "BEP20",
     "decimals": 8,
@@ -9606,6 +9758,14 @@
     "symbol": "HY",
     "description": "Every distributed ledger and blockchain has its own strengths. The hybrix token gives access to all these benefits as it exists on top of all distributed ledger systems. The open hybrix protocol enables free transport of value between all distributed ledgers. A welcoming addition next to the possibilities of atomic swaps and decentralized exchanges.",
     "address": "0x8d3437e683004bd36bf21d4d075cc10165a863e8"
+  },
+  {
+    "name": "VELHALLA.io",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SCAR",
+    "description": "The Velas Metaverse. Velhalla is a metaverse unlike any other out there in the market.",
+    "address": "0x8d9fb713587174ee97e91866050c383b5cee6209"
   },
   {
     "name": "PinkElon",
@@ -9872,6 +10032,14 @@
     "address": "0x91f8da7a1f4b2c788317ba46c2d210f09afb606b"
   },
   {
+    "name": "QRKITA TOKEN",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "QRT",
+    "description": "We Are First Online Qris Platform In Indonesia. Qrkita Provides The Latest Technology For Online And Offline Merchant To Boost Their Sales.",
+    "address": "0x921d3a6ed8223afb6358410f717e2fb13cbae700"
+  },
+  {
     "name": "Super Shiba",
     "type": "BEP20",
     "decimals": 18,
@@ -9888,7 +10056,7 @@
     "address": "0x927ff4ad97991c1eec44ab02c6970088ffa85250"
   },
   {
-    "name": "Frontier",
+    "name": "Frontier Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "FRONT",
@@ -9984,7 +10152,7 @@
     "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4"
   },
   {
-    "name": "Helmet.insure",
+    "name": "Helmet.insure Governance Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "Helmet",
@@ -12336,6 +12504,14 @@
     "address": "0xb7d9905edf8b7b093e3c74af8d6982d0f3d37762"
   },
   {
+    "name": "WealthSecrets",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "WSC",
+    "description": "We allow access to different odds slips, sell likely winnable odds, P2P betting and the creation of your bet event with our WSC token.",
+    "address": "0xb7dacf54a54bfea818f21472d3e71a89287841a7"
+  },
+  {
     "name": "FatCake",
     "type": "BEP20",
     "decimals": 18,
@@ -12638,6 +12814,14 @@
     "symbol": "wXRP",
     "description": "Do more something with your Ripple",
     "address": "0xbbc9fa4b395fee68465c2cd4a88cde267a34ed2a"
+  },
+  {
+    "name": "DYOR Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "DYOR",
+    "description": "DYOR (Do Your Own Research) Token was developed by victims of scams to bring together a community to fight against the growing number of rug pulls",
+    "address": "0xbbe0a94f363a52da9229a7546434b6e657a6a78f"
   },
   {
     "name": "Safe Energy",
@@ -13006,6 +13190,14 @@
     "symbol": "XRT",
     "description": "Robonomics Token bridged by Anyswap",
     "address": "0xc0a51ac9d548bdcde53fa59448029e41a39feb20"
+  },
+  {
+    "name": "Blockchain Monster Hunt (BCMC)",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BCMC",
+    "description": "First Multichain NFT game",
+    "address": "0xc10358f062663448a3489fc258139944534592ac"
   },
   {
     "name": "Babybnb",
@@ -13460,7 +13652,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "BabyDoge",
-    "description": "Earn Coins & Rescue Dogs. Baby Doge has learned a few tricks and lessons from his meme father, Doge Coin. A new crypto birthed by members of the Doge Coin online community. Baby Doge seeks to impress his father by showing his new improved transaction speeds & adorableness. He is Hyper-deflationary with an integrated smart staking system built in to reward you, so more baby doge coins are being automatically added to your wallet each transaction. Simply Love, pet, and watch your baby doge grow.",
+    "description": "Baby Doge Coin has learned a few tricks and lessons from his meme father, Doge. A new crypto birthed by fans of the Doge Meme online community. He is Hyper-deflationary with static reflection that rewards holders, so more baby doge coins are being automatically added to your wallet each transaction. Simply Love, pet, and hold as 5% from each transaction is automatically redistributed to baby doge holders via smart contract.",
     "address": "0xc748673057861a797275cd8a068abb95a902e8de"
   },
   {
@@ -13672,7 +13864,7 @@
     "address": "0xca3c1dc12b0dd0d65964abaa533106cf4f372c78"
   },
   {
-    "name": "BIFI Token",
+    "name": "beefy.finance",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BIFI",
@@ -13936,6 +14128,14 @@
     "address": "0xcd9b26795d834d75867d950898695a30b1eb17e1"
   },
   {
+    "name": "Son of Doge V2",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SODV2",
+    "description": "SON aims to build a sustainable, long term token that will drive an NFT market place.",
+    "address": "0xcdb943908de5ee37998a53f23467017d1a307e60"
+  },
+  {
     "name": "DogeShib",
     "type": "BEP20",
     "decimals": 9,
@@ -13990,6 +14190,14 @@
     "symbol": "ADX",
     "description": "Addax is a crypto currency with a purpose to tackle real world problems such as climate change, famine, public healthcare, poverty, children in need, education, gender inequality, marine conservation and wildlife conservation through every transaction.",
     "address": "0xce666d0e507c5f2afe0671ee29a99cfa97954c48"
+  },
+  {
+    "name": "TORG",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TORG",
+    "description": "A sustainable, completely decentralized, and utility-focused cryptocurrency, aimed at global human development.",
+    "address": "0xcea59dce6a6d73a24e6d6944cfabc330814c098a"
   },
   {
     "name": "Orakuru",
@@ -14086,6 +14294,14 @@
     "symbol": "SIMP",
     "description": "$SIMP is a frictionless farming token operating on the Binance Smart Chain, designed to power trust and transactions for Adult Entertainment Stars and their communities, starting by powering the existing PocketStars & RocketStars platforms.",
     "address": "0xd0accf05878cafe24ff8b3f82f194c62ed755707"
+  },
+  {
+    "name": "WEB3 Inu",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "WEB3",
+    "description": "Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain.",
+    "address": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f"
   },
   {
     "name": "bPRIVA",
@@ -14360,6 +14576,14 @@
     "address": "0xd4d2abbef1b26458504e7027233d5e7f09ea476d"
   },
   {
+    "name": "MarsSpaceXToken",
+    "type": "BEP20",
+    "decimals": 4,
+    "symbol": "MPX",
+    "description": "Mars Space X is a deflationary cryptocurrency, but also modern high-end finance.",
+    "address": "0xd4ebabd6e70bf0a16e8ccdbc6b00fe7817390f47"
+  },
+  {
     "name": "SMARTWORTH",
     "type": "BEP20",
     "decimals": 18,
@@ -14438,6 +14662,14 @@
     "symbol": "STRX",
     "description": "StrikeX is the sole currency for the TradeStrike ecosystem; TradeStrike Lite, TradeStrike Wallet & TradeStrike.",
     "address": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec"
+  },
+  {
+    "name": "LFW Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LFW",
+    "description": "By the time you get into our journey, you will find out that Legend of Fantasy War (LFW) is not just any ordinary game, it contains its own ecosystem and the most unique concept of many different universes within one world, we call it the Legendary Fantasy World.",
+    "address": "0xd71239a33c8542bd42130c1b4aca0673b4e4f48b"
   },
   {
     "name": "RichQuack",
@@ -15240,6 +15472,14 @@
     "address": "0xe3894cb9e92ca78524fb6a30ff072fa5e533c162"
   },
   {
+    "name": "NELO Metaverse",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "NELO",
+    "description": "NELO Metaverse = NFT Mining + Gamefi + SocialFi on BSC",
+    "address": "0xe38950f71e2d2fc4ca9dc9c3625d82560b0a5d8f"
+  },
+  {
     "name": "Kindcow Finance",
     "type": "BEP20",
     "decimals": 8,
@@ -15264,7 +15504,7 @@
     "address": "0xe3e8cc42da487d1116d26687856e9fb684817c52"
   },
   {
-    "name": "Swirge",
+    "name": "SWGb",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "SWGb",
@@ -15800,6 +16040,14 @@
     "address": "0xebdf1b978dc2576ef0020ba4cf5f98174425c3a1"
   },
   {
+    "name": "Solar Energy",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SEG",
+    "description": "Solar Energy ($SEG) is a deflationary BEP20 token from Binance Smart Chain",
+    "address": "0xec126e20e7cb114dd3ba356100eaca2cc2921322"
+  },
+  {
     "name": "Babylons Governance Token",
     "type": "BEP20",
     "decimals": 18,
@@ -15822,6 +16070,14 @@
     "symbol": "PNFT",
     "description": "NFT borrowing and lending made easy at your fingertips",
     "address": "0xec43d3153c1f08946fa71cdd3a14af64fd58f27e"
+  },
+  {
+    "name": "CryptoDrop",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CDROP",
+    "description": "The only decentralized random gamification on chain BSC",
+    "address": "0xec6ca5a04b08e382d218de9cb30c9d8176406d34"
   },
   {
     "name": "Moon Protocol",
@@ -16096,6 +16352,14 @@
     "address": "0xf0a0913ba2b173c1fbca1c1b2fcfc0e3678f66a9"
   },
   {
+    "name": "CryptoGodz",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GODZ",
+    "description": "CRYPTOGODZA VIRTUAL UNIVERSE OF FANTASY HEROES FOR P2P NFT GAMING",
+    "address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43"
+  },
+  {
     "name": "Scooby",
     "type": "BEP20",
     "decimals": 18,
@@ -16152,7 +16416,7 @@
     "address": "0xf215a127a196e3988c09d052e16bcfd365cd7aa3"
   },
   {
-    "name": "Reef",
+    "name": "Reef.finance",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "REEF",
@@ -16502,6 +16766,14 @@
     "symbol": "NSTLE",
     "description": "Nestle Finance is an autonomous yield and liquidity protocol",
     "address": "0xf79a6cada446f331bc560cde7946d09aef0ee18b"
+  },
+  {
+    "name": "MetaSafeMoon",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "METASFMA",
+    "description": "The first BEP20 Token that will make it possible for you to buy land on the moon.",
+    "address": "0xf7a086bff67ded4aa785e8a0a81d4345d9bb4740"
   },
   {
     "name": "Super Floki",
@@ -16862,6 +17134,14 @@
     "symbol": "BBKFI",
     "description": "BitBlocks Finance is a decentralized yield farming protocol running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.",
     "address": "0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4"
+  },
+  {
+    "name": "Meta World Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MTW",
+    "description": "Meta-World is an island nation-building game for the NFT platform.",
+    "address": "0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b"
   },
   {
     "name": "DRUGS",

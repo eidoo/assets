@@ -248,7 +248,7 @@
     "address": "0x00c4b398500645eb5da00a1a379a88b11683ba01"
   },
   {
-    "name": "Skale",
+    "name": "SKALE Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SKL",
@@ -544,7 +544,7 @@
     "address": "0x0200412995f1bafef0d3f97c4e28ac2515ec1ece"
   },
   {
-    "name": "Unilend Finance",
+    "name": "UniLend",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "UFT",
@@ -2160,7 +2160,7 @@
     "address": "0x09970aec766b6f3223aca9111555e99dc50ff13a"
   },
   {
-    "name": "MIR Token",
+    "name": "Mirror Protocol",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MIR",
@@ -2848,7 +2848,7 @@
     "address": "0x0cde550b066ff98da123377eeb0a149607c9ca17"
   },
   {
-    "name": "Public Mint Token",
+    "name": "Public Mint",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MINT",
@@ -3142,6 +3142,14 @@
     "symbol": "RTC",
     "description": "-",
     "address": "0x0e5d22c0cabcb15bc75c3f5050ba56dff2b3cd6f"
+  },
+  {
+    "name": "CarLive Chain",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "IOV",
+    "description": "CarLive Chain is a vertical application of blockchain technology in the field of automotive social network.",
+    "address": "0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47"
   },
   {
     "name": "Top.One Coin",
@@ -3664,7 +3672,7 @@
     "address": "0x10bae51262490b4f4af41e12ed52a0e744c1137a"
   },
   {
-    "name": "UMX",
+    "name": "UniMex Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "UMX",
@@ -3806,6 +3814,14 @@
     "symbol": "QVT",
     "description": "-",
     "address": "0x1183f92a5624d68e85ffb9170f16bf0443b4c242"
+  },
+  {
+    "name": "Nyx Token",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "NYXT",
+    "description": "Nyx has an 8% tax taken from every purchase and sale, 4% is split to help MS and Veterans through charitble donations.2 is sent back to the holders,1 each is burned and project marketing wallet for future growth.\n",
+    "address": "0x118b552725e1892137740cb4d29390d952709639"
   },
   {
     "name": "Planemo Xchange Utility",
@@ -4184,7 +4200,7 @@
     "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
   },
   {
-    "name": "arNXM",
+    "name": "Armor NXM",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "arNXM",
@@ -4744,7 +4760,7 @@
     "address": "0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829"
   },
   {
-    "name": "GALA",
+    "name": "Gala",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "GALA",
@@ -5944,7 +5960,7 @@
     "address": "0x1b35806945ac1f02fe4fe68eba0d55b8104aa603"
   },
   {
-    "name": "VesperToken (VSP)",
+    "name": "Vesper",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VSP",
@@ -6296,7 +6312,7 @@
     "address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714"
   },
   {
-    "name": "TOWER Token",
+    "name": "TOWER",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "TOWER",
@@ -7424,7 +7440,7 @@
     "address": "0x2215459bbfc4a1041bb8b4e53d8c69d63f3b3224"
   },
   {
-    "name": "Augur",
+    "name": "Reputation",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "REPv2",
@@ -8448,7 +8464,7 @@
     "address": "0x26c5331a8aaede3d3af276fd61329163a55ecbca"
   },
   {
-    "name": "CELL Token",
+    "name": "Cellframe",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CELL",
@@ -9088,7 +9104,7 @@
     "address": "0x2941deaad71adb02b944bd38ebce2f1f4c9a62dc"
   },
   {
-    "name": "Froge Finance ",
+    "name": "Froge Finance",
     "type": "ERC20",
     "decimals": 9,
     "symbol": "FROGE",
@@ -9600,7 +9616,7 @@
     "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d"
   },
   {
-    "name": "CREAM",
+    "name": "Cream Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CREAM",
@@ -10160,7 +10176,7 @@
     "address": "0x2e2e0a28f6585e895dd646a363bae29b77b88a31"
   },
   {
-    "name": "YFIM",
+    "name": "Yfi.mobi",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "YFIM",
@@ -11104,7 +11120,7 @@
     "address": "0x32fb6403f76f65b929a77ebe941f454ca814f64c"
   },
   {
-    "name": "Akita Inu (AKITA)",
+    "name": "Akita Inu",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AKITA",
@@ -11208,7 +11224,7 @@
     "address": "0x3373bbf962190b158902a27fbc2d9277a05b10ab"
   },
   {
-    "name": "Wrapped Anatha Token",
+    "name": "Anatha",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "wANATHA",
@@ -13320,10 +13336,10 @@
     "address": "0x3da327288da2fd44ca855748432d78226537def5"
   },
   {
-    "name": "LTO",
+    "name": "LTO Network",
     "type": "ERC20",
     "decimals": 8,
-    "symbol": "XLTO",
+    "symbol": "LTO",
     "description": "Old ERC20 Smart Contract for LTO Network, please swap to v2. LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.",
     "address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d"
   },
@@ -13832,7 +13848,7 @@
     "address": "0x40e6131e32e7a86e072d80d12ecb94d7e3d09fa1"
   },
   {
-    "name": "XOR",
+    "name": "SORA",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "XOR",
@@ -14280,7 +14296,7 @@
     "address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e"
   },
   {
-    "name": "PICKLE",
+    "name": "Pickle Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "PICKLE",
@@ -14638,6 +14654,14 @@
     "symbol": "SOLVE",
     "description": "Solve.Care is a healthcare IT company that builds blockchain platforms which the team believes may improve the way healthcare is delivered and managed.",
     "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+  },
+  {
+    "name": "DappRadar",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RADAR",
+    "description": "DappRadar aims to be one of the leading global NFT & DeFi DAPP store.",
+    "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe"
   },
   {
     "name": "AdEx",
@@ -15112,7 +15136,7 @@
     "address": "0x468ab3b1f63a1c14b361bc367c3cc92277588da1"
   },
   {
-    "name": "WOO",
+    "name": "WOO Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "WOO",
@@ -15214,6 +15238,14 @@
     "symbol": "NUTZ",
     "description": "-",
     "address": "0x46ffe978f4cf28e7135804ff244b6cdc8dc51377"
+  },
+  {
+    "name": "Bankless DeFi Innovation Index",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMI",
+    "description": "The Bankless DeFi Innovation Index is a simple composite index which will be built on Set Protocol. The index screens for promising early stage DeFi projects which are not yet considered blue chip. GMI attempts to produce an optimal weighting via the use of a combination of square-root market cap, relative secondary market liquidity, and relative token dilution/emission scoring.",
+    "address": "0x47110d43175f7f2c2425e7d15792acc5817eb44f"
   },
   {
     "name": "LORDLESS HOPS",
@@ -16968,7 +17000,7 @@
     "address": "0x4e2224bae4036f85fbc2293e05cbc66d3ac23f1c"
   },
   {
-    "name": "MCB",
+    "name": "MCDEX Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MCB",
@@ -17752,7 +17784,7 @@
     "address": "0x521cdd9083b751dba264e9e000d11511993836e9"
   },
   {
-    "name": "pTokens pBTC",
+    "name": "pTokens BTC",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "pBTC",
@@ -18144,7 +18176,7 @@
     "address": "0x54c402817c437a492dce44e2ff1e82d168196c86"
   },
   {
-    "name": "BarterTrade Token",
+    "name": "BarterTrade",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BART",
@@ -18800,7 +18832,7 @@
     "address": "0x584b44853680ee34a0f337b712a8f66d816df151"
   },
   {
-    "name": "HEGIC",
+    "name": "Hegic",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "HEGIC",
@@ -19064,7 +19096,7 @@
     "address": "0x5978708d6cce1cc9640eed47422d64c91bbd5171"
   },
   {
-    "name": "pTokens pLTC",
+    "name": "pTokens LTC",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "pLTC",
@@ -19216,7 +19248,7 @@
     "address": "0x5a50b3d55e9a1089029824a26caaa8f2abfc4bb0"
   },
   {
-    "name": "MarshToken",
+    "name": "UnMarshal",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MARSH",
@@ -19544,7 +19576,7 @@
     "address": "0x5beabaebb3146685dd74176f68a0721f91297d37"
   },
   {
-    "name": "Xfinance Token",
+    "name": "Xfinance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "XFI",
@@ -20416,7 +20448,7 @@
     "address": "0x5f9172eceeac7bbac9dd6a8013bfa9a30f5e5628"
   },
   {
-    "name": "LUSD Token",
+    "name": "Liquity USD",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "LUSD",
@@ -21064,7 +21096,7 @@
     "address": "0x6265bcd2ca8e8ee077cb9a9c66a851f18216022e"
   },
   {
-    "name": "AIOZ Network Coin",
+    "name": "AIOZ Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AIOZ",
@@ -21352,7 +21384,7 @@
     "address": "0x63a2ccd492e316eefab5b3326db3c7b0a94c3726"
   },
   {
-    "name": "CyberFi",
+    "name": "CyberFi Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CFi",
@@ -21952,7 +21984,7 @@
     "address": "0x66980dbff5476f2d09a9330821e8f6b2572c4b1a"
   },
   {
-    "name": "WISE Token",
+    "name": "Wise Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "WISE",
@@ -22216,7 +22248,7 @@
     "address": "0x67b562802ae7da63283741103d14f508597f6380"
   },
   {
-    "name": "Kylin Network Token",
+    "name": "Kylin",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "KYL",
@@ -22616,7 +22648,7 @@
     "address": "0x69a4f651f0e3ae823be95eda4041d4edf317ed71"
   },
   {
-    "name": "$POOLZ finance",
+    "name": "Poolz Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "POOLZ",
@@ -22960,7 +22992,7 @@
     "address": "0x6b048d884188895eba104645ee6ffa093fe80a07"
   },
   {
-    "name": "Multi-collateral DAI",
+    "name": "Dai",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "DAI",
@@ -22984,7 +23016,7 @@
     "address": "0x6b2bab5e4b9bc9592636c16bc4e5e07ef076cd6d"
   },
   {
-    "name": "Sushi",
+    "name": "SushiSwap",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SUSHI",
@@ -23816,7 +23848,7 @@
     "address": "0x6fbf4e57ec93cdd33c74762f7d99694228a68cd2"
   },
   {
-    "name": "Umbrella Network Token",
+    "name": "Umbrella Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "UMB",
@@ -23960,7 +23992,7 @@
     "address": "0x7025bab2ec90410de37f488d1298204cd4d6b29d"
   },
   {
-    "name": "Bird.Money (BIRD)",
+    "name": "Bird.Money",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BIRD",
@@ -24240,7 +24272,7 @@
     "address": "0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4"
   },
   {
-    "name": "Axion (AXN)",
+    "name": "Axion",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AXN",
@@ -24488,7 +24520,7 @@
     "address": "0x72e646b78a2b58cbd9b0282c2e9c812bc8033293"
   },
   {
-    "name": "SMARTCREDIT",
+    "name": "SmartCredit Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SMARTCREDIT",
@@ -25064,7 +25096,7 @@
     "address": "0x766e38d64eddc4fd2369326e5ea4bf0b010c6a93"
   },
   {
-    "name": "BBR",
+    "name": "Boolberry",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BBR",
@@ -25984,7 +26016,7 @@
     "address": "0x7b0cb0481e20448b030deb3f292b61605ecef050"
   },
   {
-    "name": "dfohub buidl",
+    "name": "DFOhub",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "buidl",
@@ -26368,7 +26400,7 @@
     "address": "0x7d0bb7a2fdc7e15e2937226670f1622931459660"
   },
   {
-    "name": "Matic Network",
+    "name": "Polygon",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MATIC",
@@ -27344,7 +27376,7 @@
     "address": "0x820618367fb401310502760462fba400a32c1d69"
   },
   {
-    "name": "Origin Token (OGN)",
+    "name": "Origin Protocol",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "OGN",
@@ -31176,6 +31208,14 @@
     "address": "0x94d6b4fb35fb08cb34aa716ab40049ec88002079"
   },
   {
+    "name": "Sphynx ETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPHYNX",
+    "description": "At Sphynx we aim to provide an AIO(All-In-One) solution for trading, farming, staking and holding.\nThe amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate.\nThis creates a massive barrier to entry for those new to the world of crypto trading. We've taken it upon ourselves to make this experience simpler, smoother and faster by wrapping everything a trader needs into one platform.",
+    "address": "0x94dfd4e2210fa5b752c3cd0f381edad9da6640f8"
+  },
+  {
     "name": "EQR TEST mg8000",
     "type": "ERC20",
     "decimals": 0,
@@ -31320,7 +31360,7 @@
     "address": "0x9565b60c81cdfae61ec0afd0d2469b01ac45ca49"
   },
   {
-    "name": "Fei",
+    "name": "Fei USD",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "FEI",
@@ -32648,7 +32688,7 @@
     "address": "0x9cda8a60dd5afa156c95bd974428d91a0812e054"
   },
   {
-    "name": "DOKI",
+    "name": "Doki Doki Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "DOKI",
@@ -32920,7 +32960,7 @@
     "address": "0x9e2cf95ab33adc202bfdf13136ca19a5226ae5ba"
   },
   {
-    "name": "Metis Token",
+    "name": "MetisDAO",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "Metis",
@@ -33408,7 +33448,7 @@
     "address": "0xa017ac5fac5941f95010b12570b812c974469c2c"
   },
   {
-    "name": "Harvest Reward Token",
+    "name": "Harvest Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "FARM",
@@ -33520,10 +33560,10 @@
     "address": "0xa09cebc152553e1086be9ce5efbd9dcbb6641479"
   },
   {
-    "name": "Wrapped CrescoFin (WCRES)",
+    "name": "Wrapped CrescoFin",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "WCRES",
+    "symbol": "wCRES",
     "description": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns.\n\nIncorporated and regulated in Switzerland.",
     "address": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a"
   },
@@ -33728,7 +33768,7 @@
     "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606"
   },
   {
-    "name": "Pundi X",
+    "name": "Pundi X (Old)",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "NPXS",
@@ -33800,7 +33840,7 @@
     "address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521"
   },
   {
-    "name": "RedFOX Labs",
+    "name": "RFOX",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "RFOX",
@@ -33840,7 +33880,7 @@
     "address": "0xa1f18ba7a1fa1f2c15eae5c42e722278f1235b7a"
   },
   {
-    "name": "Alpha Token",
+    "name": "Alpha Finance Lab",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ALPHA",
@@ -34320,7 +34360,7 @@
     "address": "0xa4ec83c8907888d006a37debf755ee39766f38ae"
   },
   {
-    "name": "RBC",
+    "name": "Rubic",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "RBC",
@@ -36376,7 +36416,7 @@
     "address": "0xadd9c6c4375b5afa3c952ed517a0e532e6238815"
   },
   {
-    "name": "AdEx",
+    "name": "Ambire AdEx",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ADX",
@@ -37336,7 +37376,7 @@
     "address": "0xb24f135c954b71b75dd413b288835b5a8d4afa74"
   },
   {
-    "name": "MINDS",
+    "name": "Minds",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MINDS",
@@ -39816,7 +39856,7 @@
     "address": "0xbe9329273a9d9e34b31d4b83a038e724a685be72"
   },
   {
-    "name": "StormX Token",
+    "name": "StormX",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "STMX",
@@ -40120,7 +40160,7 @@
     "address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f"
   },
   {
-    "name": "Synthetix Network",
+    "name": "Synthetix",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SNX",
@@ -40136,7 +40176,7 @@
     "address": "0xc020c00e45dd3529e18012282657a1136c2b13e6"
   },
   {
-    "name": "Wrapped Ether",
+    "name": "WETH",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "WETH",
@@ -42264,7 +42304,7 @@
     "address": "0xcb5ea3c190d8f82deadf7ce5af855ddbf33e3962"
   },
   {
-    "name": "ROOT",
+    "name": "Rootkit Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ROOT",
@@ -42968,7 +43008,7 @@
     "address": "0xcf1d879e7016d654584bfa0487e10714d24c5eff"
   },
   {
-    "name": "BEPRO",
+    "name": "BEPRO Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BEPRO",
@@ -43560,7 +43600,7 @@
     "address": "0xd2567afba8704547466d32336a23777232ae18ca"
   },
   {
-    "name": "OMG",
+    "name": "OMG Network",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "OMG",
@@ -43592,7 +43632,7 @@
     "address": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4"
   },
   {
-    "name": "LUNA Token",
+    "name": "Terra",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "LUNA",
@@ -45232,7 +45272,7 @@
     "address": "0xdac4ae188ace3c8985765edc6c9b4739d4845ddc"
   },
   {
-    "name": "ATARI Token",
+    "name": "Atari Token",
     "type": "ERC20",
     "decimals": 0,
     "symbol": "ATRI",
@@ -45848,7 +45888,7 @@
     "address": "0xdd96e83861b8bf7c413265d9131cbe68e442e02f"
   },
   {
-    "name": "KNC Legacy",
+    "name": "Kyber Network Crystal Legacy",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "KNCL",
@@ -46792,7 +46832,7 @@
     "address": "0xe277ac35f9d327a670c1a3f3eec80a83022431e4"
   },
   {
-    "name": "Injective Protocol",
+    "name": "Injective",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "INJ",
@@ -47088,7 +47128,7 @@
     "address": "0xe40afd59daf2e6bf3a2116409cc3329958e1b667"
   },
   {
-    "name": "ZRX",
+    "name": "0x",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ZRX",
@@ -47552,7 +47592,7 @@
     "address": "0xe61eecfdba2ad1669cee138f1919d08ced070b83"
   },
   {
-    "name": "Coin (COIN)",
+    "name": "COIN",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "COIN",
@@ -48096,7 +48136,7 @@
     "address": "0xe95990825aab1a7f0af4cc648f76a3bcc99f25b2"
   },
   {
-    "name": "aETHc",
+    "name": "ankrETH",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aETHc",
@@ -48344,7 +48384,7 @@
     "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
   },
   {
-    "name": "SURF",
+    "name": "SURF Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SURF",
@@ -48608,7 +48648,7 @@
     "address": "0xebd01df7e1e56e89a52c5de185377d3a2eef9a2b"
   },
   {
-    "name": "Everest ID (ID)",
+    "name": "Everest",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ID",
@@ -50344,7 +50384,7 @@
     "address": "0xf4065e4477e91c177ded71a7a6fb5ee07dc46bc9"
   },
   {
-    "name": "VRA",
+    "name": "Verasity",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VRA",
@@ -50880,7 +50920,7 @@
     "address": "0xf6505474a590a4c4d9e532ac8fc32b1ffea481fa"
   },
   {
-    "name": "CryptoLocally (GIV)",
+    "name": "GIVLY Coin",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "GIV",
@@ -51456,7 +51496,7 @@
     "address": "0xf9366471f3c2f94608afa3e4951a5754c8606c32"
   },
   {
-    "name": "Visor",
+    "name": "Visor.Finance",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VISR",

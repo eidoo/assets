@@ -80,6 +80,14 @@
     "address": "0x172370d5cd63279efa6d502dab29171933a610af"
   },
   {
+    "name": "BLOK",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "BLOK",
+    "description": "Bloktopia is a Skyscraper Metaverse built and Backed by Polygon.",
+    "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84"
+  },
+  {
     "name": "USD Coin (PoS)",
     "type": "POLYGON",
     "decimals": 6,

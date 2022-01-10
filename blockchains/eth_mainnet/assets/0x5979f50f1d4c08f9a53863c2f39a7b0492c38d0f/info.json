@@ -1,5 +1,5 @@
 {
-    "name": "pTokens pLTC",
+    "name": "pTokens LTC",
     "website": "https://ptokens.io/",
     "description": "pTokens LTC is a one-to-one pegged tokenised Litecoin on Ethereum. Leveraging the pTokens system, Litecoin is automatically moved into the Ethereum protocol as an ERC-777 token. pTokens LTC makes Litecoin compatible with all financial dApps, bringing unparalleled liquidity to the DeFi ecosystem.",
     "explorer": "https://etherscan.io/token/0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f",
