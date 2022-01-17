@@ -92,7 +92,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "LTB",
-    "description": "Yield farming mechanism provides sustainable and profitable yields combined with transparent security features.\n",
+    "description": "Yield farming mechanism provides sustainable and profitable yields combined with transparent security features.",
     "address": "0x01413859d321f423054f6a26276325e8085dd5fc"
   },
   {
@@ -140,7 +140,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "DOGEK",
-    "description": "Doge King is a MEME & Self Solvent Token on #BSC inspired by #DOGE Coin. Its completely based on decentralized smart contract which incentivized holders of DOGEK. \n\nNFT marketplace is one of its core product, which is preparing to boost NFT usability on Binance Smart Chain. Doge King aims to build a very user friendly & convenient NFT marketplace as well as NFT creation platform alongside of its core feature MEME token.",
+    "description": "Doge King is a MEME & Self Solvent Token on #BSC inspired by #DOGE Coin. Its completely based on decentralized smart contract which incentivized holders of DOGEK. NFT marketplace is one of its core product, which is preparing to boost NFT usability on Binance Smart Chain.",
     "address": "0x01db446f7c6d20ce1fca421b4397da789fbb21f1"
   },
   {
@@ -248,6 +248,14 @@
     "address": "0x0321394309cad7e0e424650844c3ab3b659315d3"
   },
   {
+    "name": "HeroCatKey",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HCK",
+    "description": "Hero Cat game is a Metaverse about cat heros. It bringing new gamefi playand earn experience for its players. Players can use Hero Cat crypto to fight, develop, upgrade, and join battles. Players will earn crypto by playing or contributing to the community.",
+    "address": "0x032a4e59387e08443cf1df662141da09c31cefa1"
+  },
+  {
     "name": "Lightning",
     "type": "BEP20",
     "decimals": 18,
@@ -300,7 +308,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "CPAN",
-    "description": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game  was founded.",
+    "description": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game was founded.",
     "address": "0x04260673729c5f2b9894a467736f3d85f8d34fc8"
   },
   {
@@ -556,7 +564,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BMON",
-    "description": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20).  ommunity Governance.  Buy NFT in itsphysical variant . Entry fee and rewards in tournaments ",
+    "description": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20).",
     "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340"
   },
   {
@@ -844,7 +852,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BETU",
-    "description": "Sports, esports and crypto betting platform, secured by smart contracts and powered by the BETU token. \nBetU Fantasy is a separate play to earn game. Players make fantasy bets on real sport and esport events to earn crypto rewards every week.",
+    "description": "Sports, esports and crypto betting platform, secured by smart contracts and powered by the BETU token. BetU Fantasy is a separate play to earn game. Players make fantasy bets on real sport and esport events to earn crypto rewards every week.",
     "address": "0x0df1b3f30865c5b324797f8db9d339514cac4e94"
   },
   {
@@ -908,7 +916,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "RYOSHI",
-    "description": "Ryoshi is a deflationary, community  driven meme token that came to take over the meme game. With 10% burn from every transaction that  decreases the supply and increases the demand you can kick back and watch your RYOSHI value grow. To ensure a fair distribution we have decided to burn 50% of the total supply",
+    "description": "Ryoshi is a deflationary, community driven meme token that came to take over the meme game. With 10% burn from every transaction that decreases the supply and increases the demand you can kick back and watch your RYOSHI value grow.",
     "address": "0x0e5f989ce525acc4ee45506af91964f7f4c9f2e9"
   },
   {
@@ -1044,7 +1052,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "DEVO",
-    "description": "Devolution is an NFT based game.\nYou can collect, earn, win and trade your NFTs while playing and socializing with your friends.",
+    "description": "Devolution is an NFT based game. You can collect, earn, win and trade your NFTs while playing and socializing with your friends.",
     "address": "0x0fd98b8c58560167a236f1d0553a9c2a42342ccf"
   },
   {
@@ -1164,7 +1172,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "KCCPAD",
-    "description": "KCCPad is the first major launch pad on KCC. KCCPad brings stabilty, safety and amazing opportunities on the new and highly anticipated KuCoin Community Chain!\n\nThe KCC launch pad is a deflationary launch pad with a 1% fee for selling, a 25% fee for early unstaking and projects will need to commit to buying and burning KCC tokens to launch their IDO.",
+    "description": "KCCPad is the first major launch pad on KCC. KCCPad brings stabilty, safety and amazing opportunities on the new and highly anticipated KuCoin Community Chain!",
     "address": "0x11582ef4642b1e7f0a023804b497656e2663bc9b"
   },
   {
@@ -1212,7 +1220,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "PUL",
-    "description": "What is Paralel Universe? (PUL)\nIt is a Defi project token which investors determine its price and  is completely decentralized and connects different universes and realities designed on the fact that a different life you live in games generates income for you in the real world.\n",
+    "description": "What is Paralel Universe? (PUL) It is a Defi project token which investors determine its price and is completely decentralized and connects different universes and realities designed on the fact that a different life you live in games generates income for you in the real world.",
     "address": "0x11ed1d93bdd3ee180ca724ac82f911663f0dafb2"
   },
   {
@@ -1820,7 +1828,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "BOXER",
-    "description": "A community-driven, dog-themed protocol with actual\nuse cases and utility.",
+    "description": "A community-driven, dog-themed protocol with actual use cases and utility.",
     "address": "0x192e9321b6244d204d4301afa507eb29ca84d9ef"
   },
   {
@@ -2028,7 +2036,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "ColdKoala",
-    "description": "Launched on May 20th, ColdKoala Coin strives to make a difference in the world by dedicating a large portion of its funds to supporting charities that work with endangered and injured koalas, such as those that were displaced during the Australian Wildfires. A charity wallet has been established with 10% of the token's minted supply and through the tokenomics that have been coded into the contract, that wallet will continue to grow with every transaction.\n",
+    "description": "Launched on May 20th, ColdKoala Coin strives to make a difference in the world by dedicating a large portion of its funds to supporting charities that work with endangered and injured koalas, such as those that were displaced during the Australian Wildfires. A charity wallet has been established with 10% of the token's minted supply and through the tokenomics that have been coded into the contract, that wallet will continue to grow with every transaction.",
     "address": "0x1bfe24e7fb1d3b2dffd9c1d49372b07bc6fda829"
   },
   {
@@ -2084,7 +2092,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "HAKKA",
-    "description": "Hakka Finance: Decentralized Derivatives & Original Financial Instruments\n\nHakka Finance is a decentralized financial ecosystem with remarkable DeFi products administered by governance token: $HAKKA.\n\nBy distributing HAKKA directly into the hands of users and the community, an increasingly large ecosystem will be incentivized to upgrade the protocol and collectively lead the protocol into the future under excellent governance.",
+    "description": "Hakka Finance: Decentralized Derivatives & Original Financial Instruments Hakka Finance is a decentralized financial ecosystem with remarkable DeFi products administered by governance token: $HAKKA.",
     "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac"
   },
   {
@@ -2340,7 +2348,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "MUSO",
-    "description": "MUSO Finance is a BEP20 token built on the Binance Smart Chain, meaning low fees, fast transaction times, and smart contract compatibility\n\nIdea to innovation – MUSO Finance was founded in 2021 by likeminded people whom all have a keen interest in music and crypto.\n\nWith MUSO Finance being the driving force of various projects the team have every intention to be at the forefront of the music industry, offering fair payment to all artists and zestful community events.",
+    "description": "MUSO Finance is a BEP20 token built on the Binance Smart Chain, meaning low fees, fast transaction times, and smart contract compatibility Idea to innovation - MUSO Finance was founded in 2021 by likeminded people whom all have a keen interest in music and crypto. With MUSO Finance being the driving force of various projects the team have every intention to be at the forefront of the music industry, offering fair payment to all artists and zestful community events.",
     "address": "0x20512ee0052236b009772af0ed22bc58b40c27b9"
   },
   {
@@ -2348,7 +2356,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "OBROK",
-    "description": "OBROk Token is Launched in 17.06.2021 and with limited supply, produced with the BEP-20(BSC) network. The working areas of the OBRok Token (OBROK) Team are;\n* Metaverse\n* Web 3.0\n* Aeronautical Sciences and Space\n* Renewable Energy",
+    "description": "OBROk Token is Launched in 17.06.2021 and with limited supply, produced with the BEP-20(BSC) network. The working areas of the OBRok Token (OBROK) Team are * Metaverse * Web 3.0 * Aeronautical Sciences and Space * Renewable Energy",
     "address": "0x205afd08cefe438377a0abc5a20cb4462e1a8c5c"
   },
   {
@@ -2492,7 +2500,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "JIND",
-    "description": "JIND is the token that will be used by JINDO SWAP and JINDO NFT in the future.  JINDO SWAP is a SWAP built on the BSC chain, and if it provides liquidity, you can receive JINDO FEED tokens.  In the future these will be used on the JINDO NFT to purchase and synthesize puppies, and JINDO FEED tokens to level up puppies.",
+    "description": "JIND is the token that will be used by JINDO SWAP and JINDO NFT in the future. JINDO SWAP is a SWAP built on the BSC chain, and if it provides liquidity, you can receive JINDO FEED tokens. In the future these will be used on the JINDO NFT to purchase and synthesize puppies, and JINDO FEED tokens to level up puppies.",
     "address": "0x22d6363949e295873d261b812a281d014367e8f9"
   },
   {
@@ -2692,7 +2700,7 @@
     "type": "BEP20",
     "decimals": 7,
     "symbol": "HYPER",
-    "description": "Hyperchain X is the world’s first community-driven token in gaming. The goal is to create a crypto gaming platform with an all-in-one application consisting of elements like: buy-in tournaments, 1 vs 1 high stake battles, league creation options for esport teams, live streams, and an NFT marketplace that is unseen in this space. \n\nWe will also be creating our own mobile game for android/iOS with in-game NFTS. All purchases in our game and platform will be built on $HYPER tokens.",
+    "description": "Hyperchain X is the world’s first community-driven token in gaming. The goal is to create a crypto gaming platform with an all-in-one application consisting of elements like: buy-in tournaments, 1 vs 1 high stake battles, league creation options for esport teams, live streams, and an NFT marketplace that is unseen in this space.",
     "address": "0x25b15e17164b97202616e36af1234db944121185"
   },
   {
@@ -2900,7 +2908,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "ORION",
-    "description": "Orion will have 2 presales 40% whitelisted, 60% hosted on Dxsale. This will  be a fair launch with a max 2 BNB on whitelist and 4 BNB on Dxapp. Whitelist will be on a first come first serve basis and will only be announced on Telegram.",
+    "description": "Orion will have 2 presales 40% whitelisted, 60% hosted on Dxsale. This will be a air launch with a max 2 BNB on whitelist and 4 BNB on Dxapp. Whitelist will be on a first come first serve basis and will only be announced on Telegram.",
     "address": "0x2821989877c0189bf63837f18a2856e30297af70"
   },
   {
@@ -2940,7 +2948,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "TAT",
-    "description": "TAT is a  utility token designed to create value and alleviate most financial problems faced by Africans",
+    "description": "TAT is a utility token designed to create value and alleviate most financial problems faced by Africans",
     "address": "0x290c665656a67e0ea0784f90ecbaeff77c884217"
   },
   {
@@ -2974,6 +2982,14 @@
     "symbol": "PEX",
     "description": "Metaverse platform made for artists and content creators",
     "address": "0x2963dcc52549573bbfbe355674724528532c0867"
+  },
+  {
+    "name": "HeroCatToken",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HCT",
+    "description": "Hero Cat game is a Metaverse about cat heros. It bringing new gamefi playand earn experience for its players. Players can use Hero Cat crypto to fight, develop, upgrade, and join battles. Players will earn crypto by playing or contributing to the community.",
+    "address": "0x29a1e54de0fce58e1018535d30af77a9d2d940c4"
   },
   {
     "name": "Dexioprotocol",
@@ -3108,7 +3124,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "SAFEYIELD",
-    "description": "SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and redistributes tokens directly to wallets of holders.    ",
+    "description": "SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and redistributes tokens directly to wallets of holders.",
     "address": "0x2ae7bf2937f47fedbdce48db8aca4c5e0b814632"
   },
   {
@@ -3600,6 +3616,14 @@
     "address": "0x31d0a7ada4d4c131eb612db48861211f63e57610"
   },
   {
+    "name": "Kiba Inu",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "KIBA",
+    "description": "Kiba Inu restores integrity to meme coins by building a safe Dex and Launchpad. Kiba Swap includes a dex and launchpad that includes features enabling investors to know which projects are safe and which they may want to avoid. We are on our way to becoming the leader of all meme coins and expanding into a multifaceted crypto project.",
+    "address": "0x31d3778a7ac0d98c4aaa347d8b6eaf7977448341"
+  },
+  {
     "name": "NFTPunk.Finance",
     "type": "BEP20",
     "decimals": 9,
@@ -3620,7 +3644,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "MBOX",
-    "description": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs.  Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain",
+    "description": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain",
     "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
   },
   {
@@ -3796,7 +3820,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "OGC",
-    "description": "We  created a utility token called Onegetcoin OGC. We combine two utility concepts, use them for payments and use them for staking / farming at DEFI, so that OGC will create a wallet system with decentralized passive income.",
+    "description": "We created a utility token called Onegetcoin OGC. We combine two utility concepts, use them for payments and use them for staking / farming at DEFI, so that OGC will create a wallet system with decentralized passive income.",
     "address": "0x33d53608167ac3679c0fe9f7a7a725891cf0f471"
   },
   {
@@ -3900,7 +3924,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "SNS",
-    "description": "CREATE YOUR OWN UNIQUE SOLAR SYSTEM on  Binance Smart Chain.",
+    "description": "CREATE YOUR OWN UNIQUE SOLAR SYSTEM on Binance Smart Chain.",
     "address": "0x360883b7e7faad5ce3b4295dabe3f4ce01a408a2"
   },
   {
@@ -4460,7 +4484,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "MEGARISE",
-    "description": "MegaRise - A Proprietary, Hyper Deflationary Token. MegaRise  holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool.",
+    "description": "MegaRise - A Proprietary, Hyper Deflationary Token. MegaRise holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool.",
     "address": "0x3ec7ba1b86387b8cb323eac3f2aae217c876f9a7"
   },
   {
@@ -4828,7 +4852,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "SGT",
-    "description": "\nSquidGame is a token on the Binance Smart Chain that offers auto static rewards on every transaction.",
+    "description": "SquidGame is a token on the Binance Smart Chain that offers auto static rewards on every transaction.",
     "address": "0x440fc7da66e34e01af5201bdf5815739b0ae743f"
   },
   {
@@ -5054,6 +5078,14 @@
     "symbol": "WSPP",
     "description": "The first cryptocurrency to think about reducing the poor by providing social assistance.",
     "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f"
+  },
+  {
+    "name": "SpongeBob Square",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SPONGS",
+    "description": "Spong is a meme token and has its own web marketplace that provides hoodies that can be purchased using the Spong token",
+    "address": "0x471f883bbd2c705f418ba3d6667ef05342c4ee05"
   },
   {
     "name": "LITTLE FISH MOON",
@@ -5324,7 +5356,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "$TIME",
-    "description": "Buy some $TIME for our future generations. The planet is dying, and we're going to help.  Planting 1,000,000 trees, whilst cleaning up our air and oceans and protecting wildlife, all whilst contributing to charities with the same drive and focus.\n",
+    "description": "Buy some $TIME for our future generations. The planet is dying, and we're going to help. Planting 1,000,000 trees, whilst cleaning up our air and oceans and protecting wildlife, all whilst contributing to charities with the same drive and focus.",
     "address": "0x4aad6a01068c2621545d087a3c5281837112585b"
   },
   {
@@ -5436,7 +5468,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "ESC",
-    "description": "The essential Coin (ESC) is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. \n\nESC will be a blockchain meta-verse, which will have the ESC token as its native currency.",
+    "description": "The essential Coin (ESC) is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. ESC will be a blockchain meta-verse, which will have the ESC token as its native currency.",
     "address": "0x4c48cca6153db911002f965d22fdefcd95f33be9"
   },
   {
@@ -5908,7 +5940,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "X2P",
-    "description": "X2P (a BSC project) is a frictionless, high-yield, deflationary & decentralized token on the Binance Smart Chain. A 10% transaction fee will be distributed over all  holders & 5% will go to the Liquidity Pool. Our goal is to motivate people by holding their coins and maximize their profits by doing this. Our system is built so it fits holders.  Our Tokenomics are designed to be a passive way of staking to long term investors since their tokens will increase with every transaction.",
+    "description": "X2P (a BSC project) is a frictionless, high-yield, deflationary & decentralized token on the Binance Smart Chain. A 10% transaction fee will be distributed over all holders & 5% will go to the Liquidity Pool. Our goal is to motivate people by holding their coins and maximize their profits by doing this. Our system is built so it fits holders.",
     "address": "0x53dcd4ef8e21fe014594a0854c4271a0623b31ec"
   },
   {
@@ -6260,7 +6292,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "ERC20",
-    "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi. With a built-in smart-contract introduced the future needs and desires of holders ERC20 Token is open-ended by design, it is extremely well-suited to serving as a foundational layer for a very large number of both financial, non-financial  and farming with Non-fungible token (NFT) world in the years to come.",
+    "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi. With a built-in smart-contract introduced the future needs and desires of holders ERC20 Token is open-ended by design, it is extremely well-suited to serving as a foundational layer for a very large number of both financial, non-financial and farming with Non-fungible token (NFT) world in the years to come.",
     "address": "0x58730ae0faa10d73b0cddb5e7b87c3594f7a20cb"
   },
   {
@@ -6580,7 +6612,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "Fwatch",
-    "description": "Foliowatch is the first smart Defi Dashboard with LP management on the Binance Smartchain.  It is Portfolio and liquidity pool performance watch plus yield farming, Fully decentralized.",
+    "description": "Foliowatch is the first smart Defi Dashboard with LP management on the Binance Smartchain. It is Portfolio and liquidity pool performance watch plus yield farming, Fully decentralized.",
     "address": "0x5cdcb6c1a30f59d59393d1629172634056e0461c"
   },
   {
@@ -6844,7 +6876,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "SPW",
-    "description": "SoupSwap Is Multi-Ecosystems Decentralized Finance Platform\n",
+    "description": "SoupSwap Is Multi-Ecosystems Decentralized Finance Platform",
     "address": "0x604d105f2f1f68641a000f03b5dc557bfffdb8fe"
   },
   {
@@ -6948,7 +6980,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "RiseUp",
-    "description": "Rise Up is a movement and the next growth token with an innovative buy back and burn system. A hyper deflationary token decreasing supply and economically increasing the price over time.  Rise Up is building utilities to help investors check smart contracts and for launching safe tokens",
+    "description": "Rise Up is a movement and the next growth token with an innovative buy back and burn system. A hyper deflationary token decreasing supply and economically increasing the price over time. Rise Up is building utilities to help investors check smart contracts and for launching safe tokens",
     "address": "0x61c911b6d1b46dcadbb61bfa7100290a6faad53d"
   },
   {
@@ -6964,7 +6996,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "$SUPDOG",
-    "description": "SUPERDOGE is a deflationary meme coin that donates 2% of every transaction  to multiple charities.",
+    "description": "SUPERDOGE is a deflationary meme coin that donates 2% of every transaction to multiple charities.",
     "address": "0x622a1297057ea233287ce77bdbf2ab4e63609f23"
   },
   {
@@ -7116,7 +7148,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "SHILLING",
-    "description": "Hold SHILLING and earn BNB!  10% Tax, 4% goes to a claimable BNB that rewards holders every 3 days on our website.",
+    "description": "Hold SHILLING and earn BNB! 10% Tax, 4% goes to a claimable BNB that rewards holders every 3 days on our website.",
     "address": "0x643b6ef6306417a0b3fa2813eb5baf30f5dd8736"
   },
   {
@@ -7320,6 +7352,14 @@
     "address": "0x667bebff5cda3c4a460b514ab478da0a8cf80910"
   },
   {
+    "name": "Vodka Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "VODKA",
+    "description": "Vodka Token — collectible play-to-earn NFT game based on DeFi.",
+    "address": "0x66da5cc445fec38a9475ae7941f89110b9d256b9"
+  },
+  {
     "name": "BurnCoin",
     "type": "BEP20",
     "decimals": 9,
@@ -7476,7 +7516,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "COUGAR",
-    "description": "COUGAR is a community driven, fair launched DeFi Token.  6% of every transaction is donated to http://savelacougars.org to help fund California's first freeway wildlife crossing.",
+    "description": "COUGAR is a community driven, fair launched DeFi Token. 6% of every transaction is donated to http://savelacougars.org to help fund California's first freeway wildlife crossing.",
     "address": "0x694dc0619e7140d83f2627d573015565096832d3"
   },
   {
@@ -7540,7 +7580,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "SFC",
-    "description": "SafeCap Binance Smart Chain based project. SafeCap is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.\n",
+    "description": "SafeCap Binance Smart Chain based project. SafeCap is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.",
     "address": "0x6bbf411a9a50ef4427d64d1ea74ad294c2bbb0c8"
   },
   {
@@ -7582,6 +7622,14 @@
     "symbol": "OCTI",
     "description": "Welcome to OCTION! Trade options through CeDeFi, with no middlemen, no centralized organization, lower fees, more option types and zero data or market manipulation. OCTION allows for options trading through a democratic framework on the Blockchain, specifically the Binance Smart Chain.",
     "address": "0x6c1de9907263f0c12261d88b65ca18f31163f29d"
+  },
+  {
+    "name": "CR7 Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CR7",
+    "description": "CR7 Token is a token built for the next generation of fan engagement and the digital assets that power it!",
+    "address": "0x6c43751fef27c956f7e75d5c345a65df1465f7e0"
   },
   {
     "name": "Absorber",
@@ -7708,7 +7756,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "DOGEY",
-    "description": "Doge Yellow Coin DOGEY\nDoge Yellow Coin is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk",
+    "description": "Doge Yellow Coin DOGEY Doge Yellow Coin is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk",
     "address": "0x6f373cd69c329b1da2e00b861ad950e59454aa18"
   },
   {
@@ -8640,11 +8688,19 @@
     "address": "0x7e2d99b3b4854e741dc6ada101937a1a3aab861e"
   },
   {
+    "name": "OVR",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "OVR",
+    "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+    "address": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe"
+  },
+  {
     "name": "WMASS Token",
     "type": "BEP20",
     "decimals": 8,
     "symbol": "WMASS",
-    "description": "WMASS standardizes MASS to the BEP 20 format.  The platform supports 1:1 conversion of MASS to tokens such as BEP 20. Wrapped MASS (WMASS) is the first wrapped token backed 1:1 by MASS. It's fully transparent, 100% verifiable and community led.",
+    "description": "WMASS standardizes MASS to the BEP 20 format. The platform supports 1:1 conversion of MASS to tokens such as BEP 20. Wrapped MASS (WMASS) is the first wrapped token backed 1:1 by MASS. It's fully transparent, 100% verifiable and community led.",
     "address": "0x7e396bfc8a2f84748701167c2d622f041a1d7a17"
   },
   {
@@ -8780,7 +8836,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "P2E",
-    "description": "PLS2E.io = DAO+DEX+NFTs+GameFi LaunchPad. \nThe best GameFi infrastructure platform on BSC and put forward the concept of Earn As A Service (EAAS)",
+    "description": "PLS2E.io = DAO+DEX+NFTs+GameFi LaunchPad. The best GameFi infrastructure platform on BSC and put forward the concept of Earn As A Service (EAAS)",
     "address": "0x7f9c20c4c09c32478ae10a7543e5199c2f53691d"
   },
   {
@@ -8796,7 +8852,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "CORGI",
-    "description": "Corgi Doge is a payment protocol designed to be accessible and lightweight, with a focus on reducing transaction fees. Fast and free transactions on a secure and decentralized network make Corgi ideal for everyday payment.  ",
+    "description": "Corgi Doge is a payment protocol designed to be accessible and lightweight, with a focus on reducing transaction fees. Fast and free transactions on a secure and decentralized network make Corgi ideal for everyday payment.",
     "address": "0x802c68730212295149f2bea78c25e2cf5a05b8a0"
   },
   {
@@ -8860,7 +8916,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BMON-Z1",
-    "description": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON-Z1 the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20).  ommunity Governance.  Buy NFT in itsphysical variant . Entry fee and rewards in tournaments ",
+    "description": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON-Z1 the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20). Community Governance. Buy NFT in itsphysical variant. Entry fee and rewards in tournaments.",
     "address": "0x80e15fe54e9d155f8366187a6a32bdef9c2366c4"
   },
   {
@@ -9092,7 +9148,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "LIGHT",
-    "description": "With Light DeFi, the currency will not depend so much on buying strength and selling strength. There will be external liquidity that will provide an automatic valuation of the asset.\n",
+    "description": "With Light DeFi, the currency will not depend so much on buying strength and selling strength. There will be external liquidity that will provide an automatic valuation of the asset.",
     "address": "0x842668e2b9a73240abf6532dedc89c9c3e050c98"
   },
   {
@@ -9148,7 +9204,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "KINGSHIB",
-    "description": "The King of the Shiba Kingdom has arrived to the Binance Smart Chain to provide\nhis subjects protection for their investments and rewards for their fealty. King Shiba\nbanishes all reward tokens from his lands, instead providing the kingdom reflection and\ndaily burns to give it the best chance to moon. Sell all peasant shiba and floki tokens you\nhold and pay tribute to the King of Shibas!",
+    "description": "The King of the Shiba Kingdom has arrived to the Binance Smart Chain to provide. His subjects protection for their investments and rewards for their fealty. King Shiba banishes all reward tokens from his lands, instead providing the kingdom reflection and daily burns to give it the best chance to moon.",
     "address": "0x84f4f7cdb4574c9556a494dab18ffc1d1d22316c"
   },
   {
@@ -9188,7 +9244,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "WEL",
-    "description": "Dear Trust Wallet Team.\nAccording to the meeting, We have collaboration with the BSC team at the suggestion of the Sea Binance Team (telegram user @bibiapac @Jessbinance, @BrettBinance, @BinanceBrokerTeam). So We would like to submit our Logo to Trust Wallet for more business collaboration.   \n",
+    "description": "Dear Trust Wallet Team. According to the meeting, We have collaboration with the BSC team at the suggestion of the Sea Binance Team (telegram user @bibiapac @Jessbinance, @BrettBinance, @BinanceBrokerTeam). So We would like to submit our Logo to Trust Wallet for more business collaboration.",
     "address": "0x854b4c305554c5fa72353e31b8480c0e5128a152"
   },
   {
@@ -9292,7 +9348,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "EMP",
-    "description": "EMP Token DeFi is a decentralized token. It aims in the medium term to acquire mining rigs using 100% clean energy.\n",
+    "description": "EMP Token DeFi is a decentralized token. It aims in the medium term to acquire mining rigs using 100% clean energy.",
     "address": "0x86a45b508a375ac8f0fd387e7532b70f71291152"
   },
   {
@@ -9404,7 +9460,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "BIMP",
-    "description": "BIMP is BNB In My Pocket.\n\nBimp.Finance is the future of NFT merchandise selling for female online streamers. Our vision is to provide a platform where female streamers can sell a different NFT merchandise and gain commissions and royalties from every NFT sold through their channels.\n\nWe envision that our platform NFT collection will provide a long-term revenue model for the both of our female streamers and Bimp investors.",
+    "description": "BIMP is BNB In My Pocket. Bimp.Finance is the future of NFT merchandise selling for female online streamers. Our vision is to provide a platform where female streamers can sell a different NFT merchandise and gain commissions and royalties from every NFT sold through their channels. We envision that our platform NFT collection will provide a long-term revenue model for the both of our female streamers and Bimp investors.",
     "address": "0x8855cfba493d8a22f924a5ce1b06efbcea68ffec"
   },
   {
@@ -9640,12 +9696,28 @@
     "address": "0x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef"
   },
   {
+    "name": "Woonkly Power",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "WOOP",
+    "description": "Woonkly Metasocial Network is a Decentralized Social Network where all posts are converted into NFTs directly, where users have full control of their data and where the content is not uploaded to a server but to users' computers through IPFS",
+    "address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18"
+  },
+  {
     "name": "Cerberus Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "CERBERUS",
     "description": "GoCerberus is automatic liquidity acquisition yield farm running on Binance Smart Chain. GoCerberus tokenomics is a hybrid between yield farming and Safemoon.",
     "address": "0x8b3268a23131dafbd77165690767f285c1aac6c5"
+  },
+  {
+    "name": "CashCow",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "COW",
+    "description": "CashCow is a fairly launched, low supply and highly deflationary DeFi Token that includes NFT and Play2Earn features",
+    "address": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483"
   },
   {
     "name": "Sphynx Network",
@@ -9932,7 +10004,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "POR",
-    "description": "First In-game and Metaverse Ads Token On Blockchain\nPortuma Token ($POR) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 10 Billion tokens in total.\nPOR's bravest goal to offer an in-game advertising tool to all mobile and desktop game developers and companies and users of the world.",
+    "description": "First In-game and Metaverse Ads Token On Blockchain. Portuma Token ($POR) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 10 Billion tokens in total. POR's bravest goal to offer an in-game advertising tool to all mobile and desktop game developers and companies and users of the world.",
     "address": "0x9000cac49c3841926baac5b2e13c87d43e51b6a4"
   },
   {
@@ -10532,7 +10604,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "FSHIBBY",
-    "description": "Token that has real-world usecases: FindShibby App & Shibby Snacks\nChoose your own rewards! Earn rewards in different tokens like SHIBA Inu, BNB, USD-T and many more.",
+    "description": "Token that has real-world usecases: FindShibby App & Shibby Snacks. Choose your own rewards! Earn rewards in different tokens like SHIBA Inu, BNB, USDT and many more.",
     "address": "0x9a21477b4e9ea5f7946d75876a186a1194559828"
   },
   {
@@ -10660,7 +10732,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "STRI",
-    "description": "Strite Finance was built soon after the emergence of non-fungible tokens. With the incredible hype behind these NFTs, Strite aims to connect yield staking with the new age of digital media.\n\nTo put it plain and simple, Strite envisions a strong connection with non-fungible tokens. This will include a public marketplace where individuals can buy & sell specific NFTs in a user-friendly manner.",
+    "description": "Strite Finance was built soon after the emergence of non-fungible tokens. With the incredible hype behind these NFTs, Strite aims to connect yield staking with the new age of digital media. To put it plain and simple, Strite envisions a strong connection with non-fungible tokens. This will include a public marketplace where individuals can buy & sell specific NFTs in a user-friendly manner.",
     "address": "0x9b93c29595dd603f75854eba3c5f4ee078ee4454"
   },
   {
@@ -10756,7 +10828,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "LNR",
-    "description": "Lunar (LNR) is a DeFi ecosystem that aims to solve the biggest problems preventing crypto from true mass adoption. This starts with their Lunar DEX, which initially aims to streamline the entire process of BSC token trading into a single platform with a frictionless user experience.\nAt the core of the Lunar Ecosystem is the Lunar Token (LNR), which distributes 3% of LNR transactions and a percentage of Lunar DEX transactions to holders in passive earnings. ",
+    "description": "Lunar (LNR) is a DeFi ecosystem that aims to solve the biggest problems preventing crypto from true mass adoption. This starts with their Lunar DEX, which initially aims to streamline the entire process of BSC token trading into a single platform with a frictionless user experience. At the core of the Lunar Ecosystem is the Lunar Token (LNR), which distributes 3% of LNR transactions and a percentage of Lunar DEX transactions to holders in passive earnings.",
     "address": "0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1"
   },
   {
@@ -11164,7 +11236,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "TSC",
-    "description": "TrusterCoin is a utility token for business tokenization platform  at a time when entrepreneurs through blockchain technology.",
+    "description": "TrusterCoin is a utility token for business tokenization platform at a time when entrepreneurs through blockchain technology.",
     "address": "0xa2a26349448ddafae34949a6cc2cecf78c0497ac"
   },
   {
@@ -11476,7 +11548,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "BTCGAME",
-    "description": "Btc Game is a blockchain-based community driven social games experience that pays\ndividends to the players. The platform is filled with reward systems to give players many ways\nto win and earn over time.\n",
+    "description": "Btc Game is a blockchain-based community driven social games experience that pays dividends to the players. The platform is filled with reward systems to give players many ways to win and earn over time.",
     "address": "0xa7e288771a90f4f65df907521e7f3ba36d860a54"
   },
   {
@@ -11494,6 +11566,14 @@
     "symbol": "CRH",
     "description": "Cranch is online gaming, staking, farming & NFT marketplace a decentralized cryptocurrency based on the blockchain technology. ",
     "address": "0xa83e84d45edb55324e2d10e1817f071481289d90"
+  },
+  {
+    "name": "ZenFi AI Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ZENFI",
+    "description": "ZENFI AI provisions an Intelligent Metaverse",
+    "address": "0xa84d7a90bdbbe6de3fffe9b7f549366320ef90d3"
   },
   {
     "name": "Evergreen token",
@@ -11580,7 +11660,7 @@
     "type": "BEP20",
     "decimals": 3,
     "symbol": "SNN",
-    "description": "SeChain project is building the future of decentralized services, where the\nservice provider & the customers can get the work done in decentralized\nenvironment ",
+    "description": "SeChain project is building the future of decentralized services, where the service provider & the customers can get the work done in decentralized environment.",
     "address": "0xa997e5aaae60987eb0b59a336dce6b158b113100"
   },
   {
@@ -12116,7 +12196,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "$PIZZA",
-    "description": "PIZZA NFT, an exclusive creator & developer of The NFT Pizza Dough Astros: Astro KungFu Fighters & Astro Jocks. A series of 2000 NFT Astros will be created and minted for Smart Chain NFT Marketplace.  NFT Astros will be characters in 2D, 3D & VR games.",
+    "description": "PIZZA NFT, an exclusive creator & developer of The NFT Pizza Dough Astros: Astro KungFu Fighters & Astro Jocks. A series of 2000 NFT Astros will be created and minted for Smart Chain NFT Marketplace. NFT Astros will be characters in 2D, 3D & VR games.",
     "address": "0xb07905396a419b121213efe1d17cfd0ff20ae597"
   },
   {
@@ -12188,7 +12268,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "SPAY",
-    "description": "Crypto in your everyday life.\nSPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency.",
+    "description": "Crypto in your everyday life. SPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency.",
     "address": "0xb21225f833f2fb1be7d88ee5347aae001f5b5db1"
   },
   {
@@ -12420,7 +12500,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "HGHG",
-    "description": "HUG HUG COIN PROJECT is launched to address the long-standing problem of the Japanese idol industry.\n\nHUG HUG COIN PROJECT operates to realize the idea of \"content protection\" by utilizing new technologies such as blockchain and NFT.",
+    "description": "HUG HUG COIN PROJECT is launched to address the long-standing problem of the Japanese idol industry. HUG HUG COIN PROJECT operates to realize the idea of content protection by utilizing new technologies such as blockchain and NFT.",
     "address": "0xb626213cb1d52caa1ed71e2a0e62c0113ed8d642"
   },
   {
@@ -13116,7 +13196,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "TRUBGR",
-    "description": "TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about  its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone.",
+    "description": "TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone.",
     "address": "0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e"
   },
   {
@@ -13214,6 +13294,14 @@
     "symbol": "JGN",
     "description": "Juggernaut is a complete custom DeFi synthetics suite, governance, and NFT ecosystem + marketplace.",
     "address": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75"
+  },
+  {
+    "name": "Multi-Chain Capital",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MCC",
+    "description": "You buy on Ethereum and BSC, we farm on multiple chains and return the profits to $MCC holders. ",
+    "address": "0xc146b7cdbaff065090077151d391f4c96aa09e0c"
   },
   {
     "name": "N1CE Token",
@@ -13476,7 +13564,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "TTDX",
-    "description": "Turtledex is the first decentralized storage solution on Binance Smart Chain. Our goal is to provide a network of node operators and share their storage and bandwidth to create completely secured and fast decentralized storage system.\",\n    \"research\": \"https://gitdoc.turtledex.io/",
+    "description": "Turtledex is the first decentralized storage solution on Binance Smart Chain. Our goal is to provide a network of node operators and share their storage and bandwidth to create completely secured and fast decentralized storage system.",
     "address": "0xc4957a864245aa4373be1f33ae24e93876b7dfe1"
   },
   {
@@ -13616,6 +13704,14 @@
     "address": "0xc7091aa18598b87588e37501b6ce865263cd67ce"
   },
   {
+    "name": "DODToken",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DOD",
+    "description": "DOD (Day of Defeat) is a token issued on the Binance Smart Chain. It is first and exciting social experiment on this planet, with a radical deflationary mathematical model which will keep the price of DOD token rising continuously.",
+    "address": "0xc709878167ed069aea15fd0bd4e9758ceb4da193"
+  },
+  {
     "name": "NFTBOX",
     "type": "BEP20",
     "decimals": 9,
@@ -13660,7 +13756,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "SAFUYIELD",
-    "description": "SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects. The token is deflationary, and has a limited supply.\nThe token decreases in circulation with every transaction thanks to its smart token burning mechanism.\n\nSAFU.net / SAFUYIELD aim is to bring a series of tools for the BSC ecosystem including a DEX, NFT marketplace, smart contract code scanner, liquidity lock and more...",
+    "description": "SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects.",
     "address": "0xc74cd0042c837ce59210857504ebb0859e06aa22"
   },
   {
@@ -13668,7 +13764,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "MetaInu",
-    "description": "Decentralized Inu Meme Coin of the Metaverse.\nMetaverseInu is the first official Inu-based meme coin of the Metaverse universe which aims to create a decentralized, fast and unique chain with the enhanced MetaverseInu genesis structure.",
+    "description": "Decentralized Inu Meme Coin of the Metaverse. MetaverseInu is the first official Inu-based meme coin of the Metaverse universe which aims to create a decentralized, fast and unique chain with the enhanced MetaverseInu genesis structure.",
     "address": "0xc75bcc3ae0844c16fd1881b8bb47bd509303a135"
   },
   {
@@ -13856,6 +13952,14 @@
     "address": "0xca0a9df6a8cad800046c1ddc5755810718b65c44"
   },
   {
+    "name": "Wrapped JAXNET",
+    "type": "BEP20",
+    "decimals": 0,
+    "symbol": "WJXN",
+    "description": "Jax.Network provides the technological infrastructure for a decentralized energy-standard monetary system. Our blockchain is anchored to the Bitcoin network and issues two digital currencies JAX and JXN. JAX is a stablecoin pegged to the energy spent on mining, while JXN is an asset coin representing the value of the whole network.",
+    "address": "0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6"
+  },
+  {
     "name": "ChubbyAkita",
     "type": "BEP20",
     "decimals": 9,
@@ -13956,7 +14060,7 @@
     "type": "BEP20",
     "decimals": 3,
     "symbol": "PAYNS",
-    "description": "PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers.\n\n",
+    "description": "PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers.",
     "address": "0xcb6b5d0562bb2acbd930c3112857e5121a02b522"
   },
   {
@@ -14228,7 +14332,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "HEROEGG",
-    "description": "HeroFi is a mobile aRPG game in which players can earn tokens through PvP/PvE battles between Heroes.\n100,000 $HEROEGG will \"hatch\" a special character NFT called Genesis Hero that has a gender (either male or female) and a star rating (from three to six).",
+    "description": "HeroFi is a mobile aRPG game in which players can earn tokens through PvP/PvE battles between Heroes. 100,000 $HEROEGG will hatch a special character NFT called Genesis Hero that has a gender (either male or female) and a star rating (from three to six).",
     "address": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf"
   },
   {
@@ -14348,7 +14452,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "UDOGE",
-    "description": "100% OF MERCH /DONATIONS TO  yield COLLABORATIVE.",
+    "description": "100% OF MERCH DONATIONS TO yield COLLABORATIVE.",
     "address": "0xd1948c71362386453feb698bc5d902abba38598f"
   },
   {
@@ -14644,7 +14748,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "LONG",
-    "description": "First Literature Non-Fungible Token (NFT) in Crypto Assets\n\nLong Asset Token functions for Staking, Farming, and can also be used for transactions at the LONG NFT Marketplace, Collectibles & NFTs.",
+    "description": "First Literature Non-Fungible Token (NFT) in Crypto Assets. Long Asset Token functions for Staking, Farming, and can also be used for transactions at the LONG NFT Marketplace, Collectibles & NFTs.",
     "address": "0xd6004836cb07d063f2cb498c25e351cc93194079"
   },
   {
@@ -14868,7 +14972,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "BINGUS",
-    "description": "Bingus Token is the latest DEFI project with claws to release on the Binance Smart Chain. NFT & Shelter donations ongoing.\n",
+    "description": "Bingus Token is the latest DEFI project with claws to release on the Binance Smart Chain. NFT & Shelter donations ongoing.",
     "address": "0xda20c8a5c3b1ab48e31ba6e43f0f2830e50218d8"
   },
   {
@@ -14940,7 +15044,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "$HONEY",
-    "description": "Honeypad Is The Hive To Bee!\nWe Reward Holders Through Tax Rewards, Automatic Token Burning, and a Pioneering Buy-back System.\nAll While Providing A Secure And Vibrant Eco-system.",
+    "description": "Honeypad Is The Hive To Bee! We Reward Holders Through Tax Rewards, Automatic Token Burning, and a Pioneering Buy-back System. All While Providing A Secure And Vibrant Eco-system.",
     "address": "0xdb607c61aaa2a954bf1f9d117953f12d6c319e15"
   },
   {
@@ -15236,7 +15340,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "X2P",
-    "description": "Xenon Pay [X2P] is a deflationary, high-yield, frictionless & decentralized token on the Binance Smart Chain.  The simple way to grow your money like the world’s most sophisticated investors. While existing solutions offer to solve just one problem at a time, our team is up to build secure, useful, & easy to use payment solutions for multiple problems. It includes easy cryptocurrency payment systems integration.",
+    "description": "Xenon Pay is a deflationary, high-yield, frictionless & decentralized token on the Binance Smart Chain. The simple way to grow your money like the world’s most sophisticated investors. While existing solutions offer to solve just one problem at a time, our team is up to build secure, useful, & easy to use payment solutions for multiple problems. It includes easy cryptocurrency payment systems integration.",
     "address": "0xdfd85305a752d70a07a995fa724ac4ff787ebef2"
   },
   {
@@ -15680,6 +15784,14 @@
     "address": "0xe5a09784b16e1065c37df14c6e2f06fdce317a1b"
   },
   {
+    "name": "CVIP",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CVIP",
+    "description": "CVIP is a decentralized protocol on binance smart chain where users can farm ,stake participate in IDOs. Users and Partners can perform farm optimisers and earn crypto by participating in various options.",
+    "address": "0xe5a46bf898ce7583b612e5d168073ff773d7857e"
+  },
+  {
     "name": "Sportemon-Go",
     "type": "BEP20",
     "decimals": 9,
@@ -15836,7 +15948,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "ZUKI",
-    "description": "Zuki Moba is a MOBA Esport Game (Multiplayer Online Battle Arena) which is built with a Decentralized Economy application community-oriented. In-game NFT is used to build characters, game items, and Metaverse structures. In addition, Play to Earn mechanism is applied to create economic benefits for Gamers, creating a unique point compared to traditional MOBA games.\n$ZUKI is Zuki Moba's in-game token",
+    "description": "Zuki Moba is a MOBA Esport Game (Multiplayer Online Battle Arena) which is built with a Decentralized Economy application community-oriented. In-game NFT is used to build characters, game items, and Metaverse structures. In addition, Play to Earn mechanism is applied to create economic benefits for Gamers, creating a unique point compared to traditional MOBA games. $ZUKI is Zuki Moba's in-game token",
     "address": "0xe81257d932280ae440b17afc5f07c8a110d21432"
   },
   {
@@ -15908,7 +16020,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "XXT",
-    "description": "The XXT-Token (XXT) is a cryptocurrency designed to be the means of payment and integrate the entire adult entertainment ecosystem.\nOur objective is to use the token as currency to pay and receive for services and products,\nintegrating customers, stores, hotels, sex-shops, motels, suppliers, adult live stream, bars and nightclubs.",
+    "description": "The XXT-Token is a cryptocurrency designed to be the means of payment and integrate the entire adult entertainment ecosystem. Our objective is to use the token as currency to pay and receive for services and products, integrating customers, stores, hotels, sex-shops, motels, suppliers, adult live stream, bars and nightclubs.",
     "address": "0xea01a1a3cf143f90b4ac6d069bd369826574cd45"
   },
   {
@@ -16140,7 +16252,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "SPOOKYSHIBA",
-    "description": "\nSpookyShiba is the first \"horror Genre\" Token on Binance Smartchain with utility for holders tied into the NFT Marketplace.",
+    "description": "SpookyShiba is the first horror Genre Token on Binance Smartchain with utility for holders tied into the NFT Marketplace.",
     "address": "0xed74bc5dc139356e08de28143996f5ef6e4334a4"
   },
   {
@@ -16494,6 +16606,14 @@
     "symbol": "MDG",
     "description": "MDG aims to become bsc’s ultimate rewards token. Community members Earn MDG just by holding them in their wallets. MDG holds weekly lottos with huge jackpots.",
     "address": "0xf3175f46b35bf82f5e1fb44c2a64db99c52b7eb4"
+  },
+  {
+    "name": "MetaNet",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MNet",
+    "description": "MetaNet is a proprietary, hyper deflationary token on the Binance Smart Chain network. MetaNet is a platform in where content creators buy and sell NFTs.",
+    "address": "0xf3630c7eed28514b4c14222bb86e31b53a5da101"
   },
   {
     "name": "SIAMESE NEKO",
@@ -16988,7 +17108,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "FOX",
-    "description": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet.  It also rewards community environmental action via Fox in Action token drops.",
+    "description": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops.",
     "address": "0xfad8e46123d7b4e77496491769c167ff894d2acb"
   },
   {
@@ -17084,7 +17204,7 @@
     "type": "BEP20",
     "decimals": 9,
     "symbol": "Hyperboost",
-    "description": "\nHyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know that it’s an advance hyper-deflationary token with a cutting-edge hyper buyback burn protocol built in to earn passive rewards through static reflections and burns, so more HyperBoost are automatically added to your wallet for each transaction.",
+    "description": "HyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know that it’s an advance hyper-deflationary token with a cutting-edge hyper buyback burn protocol built in to earn passive rewards through static reflections and burns, so more HyperBoost are automatically added to your wallet for each transaction.",
     "address": "0xfbc37a1865dd46091a45221f575062a3b8b2e676"
   },
   {
@@ -17296,11 +17416,27 @@
     "address": "0xff749e976358791a3799262b8fccedf8d0888563"
   },
   {
+    "name": "Euro Shiba Inu",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "EShib",
+    "description": "EShib rewards its holders with 5%, another 5% goes to donations in case of natural disasters, educate, care for and improve the environment, reforest and classify said lands as a protected area, train companies in the world of cryptocurrency.",
+    "address": "0xffaa85705ae216363e4e843b67ff3c238fcf0de2"
+  },
+  {
     "name": "STAKD Finance (STAKD)",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "STAKD",
     "description": "STAKD Finance is a powerful DeFi ecosystem on Binance Smart Chain that wants to revolutionize the DeFi sector on BSC by providing all in one solution for everyone.",
     "address": "0xffb3edd21be33d5e78c9e0c2a275b3fd42670d67"
+  },
+  {
+    "name": "BleuFi",
+    "type": "BEP20",
+    "decimals": 2,
+    "symbol": "Bleu",
+    "description": "BleuFi Marketplace is a next generation marketplace where artists and collectors can create, sell and collect digital items secured with blockchain.",
+    "address": "0xffdc00285dde1f5b5c65c6a963357b4c55d8f601"
   }
 ]
