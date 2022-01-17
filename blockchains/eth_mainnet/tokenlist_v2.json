@@ -804,7 +804,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "HBTC",
-    "description": "HBTC is a Bitcoin  ERC20 token on Ethereum blockchain launched by Huobi Global, ensuring that users can use HBTC and BTC for 1:1 exchange at Huobi Global at any time.",
+    "description": "HBTC is a Bitcoin ERC20 token on Ethereum blockchain launched by Huobi Global, ensuring that users can use HBTC and BTC for 1:1 exchange at Huobi Global at any time.",
     "address": "0x0316eb71485b0ab14103307bf65a021042c6d380"
   },
   {
@@ -844,7 +844,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "Zin",
-    "description": "A DeFi Investment platform which will combine the investment tools of crypto and traditional stocks. Zin will be a 100% deflationary token.  Zin tokens will have a burn mechanism.",
+    "description": "A DeFi Investment platform which will combine the investment tools of crypto and traditional stocks. Zin will be a 100% deflationary token. Zin tokens will have a burn mechanism.",
     "address": "0x033e223870f766644f7f7a4b7dc2e91573707d06"
   },
   {
@@ -876,7 +876,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ULU",
-    "description": "Universal Liquidity Union (ULU) is the bridge to every coin.  ULU aims to combine the best features of Uniswap and Balancer and route everything via the ULU token as medium of liquidity exchange.",
+    "description": "Universal Liquidity Union (ULU) is the bridge to every coin. ULU aims to combine the best features of Uniswap and Balancer and route everything via the ULU token as medium of liquidity exchange.",
     "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4"
   },
   {
@@ -1108,7 +1108,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniDAI",
-    "description": "Aave UniDAI  is an interest bearing token pegged 1:1 to the underlying DAI deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniDAI is an interest bearing token pegged 1:1 to the underlying DAI deposited in the Uniswap Market of Aave Protocol.",
     "address": "0x048930eec73c91b44b0844aeacdebadc2f2b6efb"
   },
   {
@@ -3732,7 +3732,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "1INCH",
-    "description": "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange — DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.    ",
+    "description": "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange — DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.",
     "address": "0x111111111117dc0aa78b770fa6a738034120c302"
   },
   {
@@ -3820,7 +3820,7 @@
     "type": "ERC20",
     "decimals": 9,
     "symbol": "NYXT",
-    "description": "Nyx has an 8% tax taken from every purchase and sale, 4% is split to help MS and Veterans through charitble donations.2 is sent back to the holders,1 each is burned and project marketing wallet for future growth.\n",
+    "description": "Nyx has an 8% tax taken from every purchase and sale, 4% is split to help MS and Veterans through charitble donations.2 is sent back to the holders,1 each is burned and project marketing wallet for future growth.",
     "address": "0x118b552725e1892137740cb4d29390d952709639"
   },
   {
@@ -9908,7 +9908,7 @@
     "type": "ERC20",
     "decimals": 0,
     "symbol": "SCHA",
-    "description": "Schain Wallet is mobile defi wallet designed to help people staking and earn profit, storage,  transfer coin & token with security and lower fees",
+    "description": "Schain Wallet is mobile defi wallet designed to help people staking and earn profit, storage, transfer coin & token with security and lower fees",
     "address": "0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a"
   },
   {
@@ -10960,6 +10960,14 @@
     "address": "0x3205df88cf95b5a702f2b6a1cc10e2075f54387c"
   },
   {
+    "name": "Reserve Rights",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RSR",
+    "description": "The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.",
+    "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70"
+  },
+  {
     "name": "Traxia Membership Token",
     "type": "ERC20",
     "decimals": 18,
@@ -11124,7 +11132,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AKITA",
-    "description": "AKITA INU 秋田犬 is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik Buterin and the other half were locked to a Uniswap pool and the keys burned.\n​\nIt is same as SHIBA INU but with different tokenmetrics.",
+    "description": "AKITA INU 秋田犬 is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik Buterin and the other half were locked to a Uniswap pool and the keys burned. It is same as SHIBA INU but with different tokenmetrics.",
     "address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6"
   },
   {
@@ -13876,7 +13884,7 @@
     "type": "ERC20",
     "decimals": 8,
     "symbol": "QRDO",
-    "description": "Qredo is a blockchain infrastructure that delivers interoperability, fast settlement, and decentralized custody.\n",
+    "description": "Qredo is a blockchain infrastructure that delivers interoperability, fast settlement, and decentralized custody.",
     "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
   },
   {
@@ -15332,7 +15340,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "HUB",
-    "description": "SwapHub aims to build a new DeFi ecosystem. The  first stage is to support users to stake LP. Then we will extend the functions.",
+    "description": "SwapHub aims to build a new DeFi ecosystem. The first stage is to support users to stake LP. Then we will extend the functions.",
     "address": "0x4790f605cbdba5fce4f209868b5a05b3bff7272c"
   },
   {
@@ -16200,6 +16208,14 @@
     "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8"
   },
   {
+    "name": "Kiba Inu",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "KIBA",
+    "description": "Kiba Inu restores integrity to meme coins by building a safe Dex and Launchpad. Kiba Swap includes a dex and launchpad that includes features enabling investors to know which projects are safe and which they may want to avoid. We are on our way to becoming the leader of all meme coins and expanding into a multifaceted crypto project. ",
+    "address": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900"
+  },
+  {
     "name": "BingoCoin",
     "type": "ERC20",
     "decimals": 18,
@@ -16254,6 +16270,14 @@
     "symbol": "HTN",
     "description": "AI Auto Trading Application",
     "address": "0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619"
+  },
+  {
+    "name": "Decentral Games",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DG",
+    "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+    "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
   },
   {
     "name": "United States of America",
@@ -16788,7 +16812,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MINI",
-    "description": "MiniSwap enable to have a connected network of DeFi ecosystems.  MiniSwap provides a decentralised platform for exercising financial products.",
+    "description": "MiniSwap enable to have a connected network of DeFi ecosystems. MiniSwap provides a decentralised platform for exercising financial products.",
     "address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec"
   },
   {
@@ -17092,7 +17116,7 @@
     "type": "ERC20",
     "decimals": 8,
     "symbol": "BSCGIRL",
-    "description": "This token is It is a token that cross-chains BEP20 BSC GIRL of the following URL to ERC20 token.\nhttps://bscscan.com/token/0x5c6fb802f173dba15e2caada433032b1368af59f",
+    "description": "This token is It is a token that cross-chains BEP20 BSC GIRL of the following URL to ERC20 token. https://bscscan.com/token/0x5c6fb802f173dba15e2caada433032b1368af59f",
     "address": "0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2"
   },
   {
@@ -17428,7 +17452,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "TAT",
-    "description": "TAT is a  utility token designed to create value and alleviate most financial problems faced by Africans",
+    "description": "TAT is a utility token designed to create value and alleviate most financial problems faced by Africans",
     "address": "0x505d0ffa350b2687eb8393aebd14632f2990991a"
   },
   {
@@ -20844,7 +20868,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniETH",
-    "description": "Aave UniETH  is an interest bearing token pegged 1:1 to the underlying ETH deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniETH is an interest bearing token pegged 1:1 to the underlying ETH deposited in the Uniswap Market of Aave Protocol.",
     "address": "0x6179078872605396ee62960917128f9477a5ddbb"
   },
   {
@@ -26916,7 +26940,7 @@
     "type": "ERC20",
     "decimals": 9,
     "symbol": "AMPLG",
-    "description": "Ample Gold ($AMPLG) is worlds first and only goldpegged elastic tokensupply defi-protocol. $AMPLG is a decentralized ERC20 token which reaches supply-price equilibrium by increasing and decreasing the totalsupply. This is done by Rebasing events which trigger at random time intervals.  If you own x percentage of the network, you will always own that that much.",
+    "description": "Ample Gold ($AMPLG) is worlds first and only goldpegged elastic tokensupply defi-protocol. $AMPLG is a decentralized ERC20 token which reaches supply-price equilibrium by increasing and decreasing the totalsupply. This is done by Rebasing events which trigger at random time intervals.",
     "address": "0x8003c49f6ebacddc493ea47cab45e892d1b638a1"
   },
   {
@@ -27948,7 +27972,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniSETHETH",
-    "description": "Aave UniSETHETH  is an interest bearing token pegged 1:1 to the underlying SETH and ETH deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniSETHETH is an interest bearing token pegged 1:1 to the underlying SETH and ETH deposited in the Uniswap Market of Aave Protocol.",
     "address": "0x84bbcab430717ff832c3904fa6515f97fc63c76f"
   },
   {
@@ -29164,7 +29188,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "LTK",
-    "description": "Litecoin Token (LTC)  is a cryptocurrency and operates on the Ethereum platform.",
+    "description": "Litecoin Token (LTC) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71"
   },
   {
@@ -30552,6 +30576,14 @@
     "address": "0x916885426255235da7a0bd90447986c00675f9ec"
   },
   {
+    "name": "JACY",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "JACY",
+    "description": "We are a community run crypto currency that thrives on your involvement. We look forward to talking with you and having you join us on this adventure.",
+    "address": "0x916c5de09cf63f6602d1e1793fb41f6437814a62"
+  },
+  {
     "name": "ETHEERA",
     "type": "ERC20",
     "decimals": 18,
@@ -30564,7 +30596,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "PUSSY",
-    "description": "PUSSY is an ERC20 token built on the Ethereum blockchain. The project is found on the idea that strong community foundation and goals are the fundamental building blocks of any token. PUSSY has built its foundation as a meme coin to rival the likes of DOGE and SHIB, but also plans it one step further by creating future utility for the token and DAPPs built on the ecosystem.  Ideas being currently pursued by the devs include a PUSSY DAO, Arcade, Farming, Studio, and charity partnerships.",
+    "description": "PUSSY is an ERC20 token built on the Ethereum blockchain. The project is found on the idea that strong community foundation and goals are the fundamental building blocks of any token. PUSSY has built its foundation as a meme coin to rival the likes of DOGE and SHIB, but also plans it one step further by creating future utility for the token and DAPPs built on the ecosystem.",
     "address": "0x9196e18bc349b1f64bc08784eae259525329a1ad"
   },
   {
@@ -31212,7 +31244,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SPHYNX",
-    "description": "At Sphynx we aim to provide an AIO(All-In-One) solution for trading, farming, staking and holding.\nThe amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate.\nThis creates a massive barrier to entry for those new to the world of crypto trading. We've taken it upon ourselves to make this experience simpler, smoother and faster by wrapping everything a trader needs into one platform.",
+    "description": "At Sphynx we aim to provide an AIO(All-In-One) solution for trading, farming, staking and holding. The amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate. This creates a massive barrier to entry for those new to the world of crypto trading.",
     "address": "0x94dfd4e2210fa5b752c3cd0f381edad9da6640f8"
   },
   {
@@ -31316,7 +31348,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniLINKETH",
-    "description": "Aave UniLINKETH  is an interest bearing token pegged 1:1 to the underlying LINK and ETH deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniLINKETH is an interest bearing token pegged 1:1 to the underlying LINK and ETH deposited in the Uniswap Market of Aave Protocol.",
     "address": "0x9548db8b1ca9b6c757485e7861918b640390169c"
   },
   {
@@ -32292,7 +32324,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MRS",
-    "description": "MRS, Marsan Exchange, aims to become the leading Canadian Cryptoassets exchange.The initial product is MRS Terminal, a multi-platform crypto trading desk.\n\nMarsan Exchange (MRS) was founded in April 2020 and is headquartered in Montreal, Canada.\n\nMRS is issued as an ERC-20 token running on the Ethereum network, with a total supply fixed at 10 million token, no pre-sale and with the initial liquidity locked forever.\n\nMRS provides membership access to discounted rates.",
+    "description": "MRS, Marsan Exchange, aims to become the leading Canadian Cryptoassets exchange.The initial product is MRS Terminal, a multi-platform crypto trading desk.",
     "address": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08"
   },
   {
@@ -33564,7 +33596,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "wCRES",
-    "description": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns.\n\nIncorporated and regulated in Switzerland.",
+    "description": "wCRES represents unregistered equity in CrescoFin, a better banking alternative, with higher rates than in a bank and fully insured deposits and returns. Incorporated and regulated in Switzerland.",
     "address": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a"
   },
   {
@@ -34720,6 +34752,14 @@
     "address": "0xa685d6f87e3be27d72ce216842147c4149e0ce9a"
   },
   {
+    "name": "fees.wtf",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WTF",
+    "description": "WTF token is fees.wtf's token. It is airdropped to all users who have spent gas in the Ethereum ecosystem.",
+    "address": "0xa68dd8cb83097765263adad881af6eed479c4a33"
+  },
+  {
     "name": "Solereum Cash",
     "type": "ERC20",
     "decimals": 18,
@@ -35212,7 +35252,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "KP4R",
-    "description": "Keep4r  Network is an improved fork of the keep3r network!",
+    "description": "Keep4r Network is an improved fork of the keep3r network!",
     "address": "0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e"
   },
   {
@@ -38692,7 +38732,7 @@
     "type": "ERC20",
     "decimals": 6,
     "symbol": "aUniUSDT",
-    "description": "Aave UniUSDT  is an interest bearing token pegged 1:1 to the underlying USDT deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniUSDT is an interest bearing token pegged 1:1 to the underlying USDT deposited in the Uniswap Market of Aave Protocol.",
     "address": "0xb977ee318010a5252774171494a1bcb98e7fab65"
   },
   {
@@ -39196,7 +39236,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniDAIETH",
-    "description": "Aave UniDAIETH  is an interest bearing token pegged 1:1 to the underlying DAI and ETH deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniDAIETH is an interest bearing token pegged 1:1 to the underlying DAI and ETH deposited in the Uniswap Market of Aave Protocol.",
     "address": "0xbbbb7f2ac04484f7f04a2c2c16f20479791bbb44"
   },
   {
@@ -40932,7 +40972,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SGT",
-    "description": "snglsDAO Governance Token is the reputation token for the snglsDAO.  Join the revolution of unstoppable media and the fight for freedom from censorship!",
+    "description": "snglsDAO Governance Token is the reputation token for the snglsDAO. Join the revolution of unstoppable media and the fight for freedom from censorship!",
     "address": "0xc4199fb6ffdb30a829614beca030f9042f1c3992"
   },
   {
@@ -41796,7 +41836,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "aUniLENDETH",
-    "description": "Aave UniLENDETH  is an interest bearing token pegged 1:1 to the underlying LEND and ETH deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniLENDETH is an interest bearing token pegged 1:1 to the underlying LEND and ETH deposited in the Uniswap Market of Aave Protocol.",
     "address": "0xc88ebbf7c523f38ef3eb8a151273c0f0da421e63"
   },
   {
@@ -42572,7 +42612,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "SPACE",
-    "description": "Spacelens is a decentralized eCommerce platform that allows anyone to buy and sell physical products, digital goods, and services around the world.\n",
+    "description": "Spacelens is a decentralized eCommerce platform that allows anyone to buy and sell physical products, digital goods, and services around the world.",
     "address": "0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f"
   },
   {
@@ -43052,7 +43092,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ONX",
-    "description": "Forget everything you know About owning things. ownix – The most dynamic NFT platform of our digital era.​ Presenting a huge collection of artworks, moments and digital assets – a total ​ experience for the creators and collectors around the world\n",
+    "description": "Forget everything you know About owning things. ownix - The most dynamic NFT platform of our digital era. Presenting a huge collection of artworks, moments and digital assets - a total experience for the creators and collectors around the world",
     "address": "0xcf78c7dd70d6f30f6e3609e905e78305da98c863"
   },
   {
@@ -44740,7 +44780,7 @@
     "type": "ERC20",
     "decimals": 4,
     "symbol": "XPR",
-    "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds  and use crypto seamlessly.",
+    "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and use crypto seamlessly.",
     "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af"
   },
   {
@@ -45300,7 +45340,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "EPK",
-    "description": "EpiK Protocol is a decentralized trusted knowledge graph\ncollaboration platform of the People, by the People, for the People.",
+    "description": "EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.",
     "address": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4"
   },
   {
@@ -46412,7 +46452,7 @@
     "type": "ERC20",
     "decimals": 6,
     "symbol": "aUniUSDC",
-    "description": "Aave UniUSDC  is an interest bearing token pegged 1:1 to the underlying USDC deposited in the Uniswap Market of Aave Protocol.",
+    "description": "Aave UniUSDC is an interest bearing token pegged 1:1 to the underlying USDC deposited in the Uniswap Market of Aave Protocol.",
     "address": "0xe02b2ad63eff3ac1d5827cbd7ab9dd3dac4f4ad0"
   },
   {
@@ -46868,7 +46908,7 @@
     "type": "ERC20",
     "decimals": 8,
     "symbol": "NEX",
-    "description": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the  non-custodial Nash Exchange to receive a revenue share.",
+    "description": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the non-custodial Nash Exchange to receive a revenue share.",
     "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
   },
   {
@@ -50624,6 +50664,14 @@
     "address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
   },
   {
+    "name": "LooksRare",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOOKS",
+    "description": "LooksRare is the community-first NFT marketplace with rewards for participating. ",
+    "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e"
+  },
+  {
     "name": "Fractal",
     "type": "ERC20",
     "decimals": 18,
@@ -51748,7 +51796,7 @@
     "type": "ERC20",
     "decimals": 18,
     "symbol": "LEC",
-    "description": "LOVE EARTH Coin, is a charity token, aiming to build a new charity model in the age of Web 3.0\nThe LOVE EARTH project continuous provide funding to various kinds of charity project. DAO, a Decentrized Autonomous Organization, proposes and vote for which charity project to be donated in each month\nAmount of donation each month will be according to the number of valid coin addresses, based on the principle of donating 0.1 LEC per holder address per month. The more holders,the more will be donated",
+    "description": "LOVE EARTH Coin, is a charity token, aiming to build a new charity model in the age of Web 3.0",
     "address": "0xfa30e62eedcf80d47d42947fbcc034beed5c09fe"
   },
   {
@@ -51884,7 +51932,7 @@
     "type": "ERC20",
     "decimals": 8,
     "symbol": "CRC",
-    "description": "CR Coin es un token digital con la principal función de ser un medio de pago digital, rápido, seguro y sin intermediarios lo cual puede conocerse también como un “Token de Utilidad” ya que nuestro principal enfoque es darle la mayor cantidad de usos posibles a CR Coin y así  nuestros usuarios lo puedan utilizar para comprar comida, ropa, servicios y demás.",
+    "description": "CR Coin es un token digital con la principal función de ser un medio de pago digital, rápido, seguro y sin intermediarios lo cual puede conocerse también como un “Token de Utilidad” ya que nuestro principal enfoque es darle la mayor cantidad de usos posibles a CR Coin y así nuestros usuarios lo puedan utilizar para comprar comida, ropa, servicios y demás.",
     "address": "0xfb19c03a02a519a44542343803f3d42578cbc243"
   },
   {
@@ -52192,11 +52240,11 @@
     "address": "0xfc97655ae3714de60b518b7ea225b240abf9d24e"
   },
   {
-    "name": "DAFI Token (DAFI)",
+    "name": "DAFI Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "DAFI",
-    "description": "Rewarding networks - reinvented. DAFI rewards users based on network adoption, for smarter Staking & Social rewards.\n\nSame chains. New possibilities.",
+    "description": "Rewarding networks - reinvented. DAFI rewards users based on network adoption, for smarter Staking & Social rewards. Same chains. New possibilities.",
     "address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439"
   },
   {
