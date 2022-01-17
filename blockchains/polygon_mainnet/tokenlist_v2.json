@@ -64,6 +64,22 @@
     "address": "0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a"
   },
   {
+    "name": "OVR",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "OVR",
+    "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+    "address": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30"
+  },
+  {
+    "name": "Daily COP",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DLYCOP",
+    "description": "Daily COP is a stablecoin pegged to the Colombian Peso to make financial services accesible to everyone and let Colombians easily enter the crypto-space with a familiar and stable currency that will open a new world of knowledge and opportunities.",
+    "address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a"
+  },
+  {
     "name": "Route",
     "type": "POLYGON",
     "decimals": 18,
@@ -462,6 +478,14 @@
     "symbol": "EQZ",
     "description": "Equalizer is the first dedicated flash loan marketplace that can handle the rising demand for DeFi lending and borrowing. It sets itself apart by offering the lowest fees and transaction costs, a virtually unlimited choice of token vaults, high liquidity through yield farming, scalable, multi-chain infrastructure, and integration friendly.",
     "address": "0xeaf631ac57f3cdddd261770dd47f85066131a156"
+  },
+  {
+    "name": "Decentral Games",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "DG",
+    "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+    "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4"
   },
   {
     "name": "CremePieSwap",
