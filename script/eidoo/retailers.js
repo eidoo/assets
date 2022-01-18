@@ -26,7 +26,9 @@ readdirSync(dir, { withFileTypes: true })
       }
     } else {
       const key = fileName.replace(new RegExp("_", "g"), " ")
-      output[key] = fileName.replace(new RegExp("&", "g"), "%26")
+      output[key] = fileName
+        .replace(new RegExp("&", "g"), "%26")
+        .replace(new RegExp("\\+", "g"), "%2B")
     }
   })
 
