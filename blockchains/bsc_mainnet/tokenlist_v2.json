@@ -3240,6 +3240,14 @@
     "address": "0x2c8368f8f474ed9af49b87eac77061beb986c2f1"
   },
   {
+    "name": "ElonGoat",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "EGT",
+    "description": "Elon GOAT Token ($EGT) is building a biblical sized monument on the back of a semi-trailer dedicated to the Godfather of Crypto, Elon Musk.",
+    "address": "0x2ca25319e2e63719f87221d8bf3646f8f5de5ded"
+  },
+  {
     "name": "PizzaSwap",
     "type": "BEP20",
     "decimals": 18,
@@ -4624,6 +4632,14 @@
     "address": "0x40b34cc972908060d6d527276e17c105d224559d"
   },
   {
+    "name": "AgeOfGods",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AOG",
+    "description": "AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token economy and Play-to-Earn.",
+    "address": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c"
+  },
+  {
     "name": "Cyber Time Finance",
     "type": "BEP20",
     "decimals": 18,
@@ -5952,6 +5968,14 @@
     "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
   },
   {
+    "name": "NOSHIT",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "NSH",
+    "description": "Educative token-review platform aiming to make the crypto-world more comprehendible & less shitty. - NFTs, dApp games, Rewards",
+    "address": "0x53f042f3e809d2dcc9492de2dbf05d1da0ef5fbb"
+  },
+  {
     "name": "DogeZoo",
     "type": "BEP20",
     "decimals": 9,
@@ -6198,6 +6222,14 @@
     "symbol": "PETN",
     "description": "A Decentralised Finance (DeFi) based Governance Token, with the benefit of Utility Token, Security Token & CryptoCurrency. It is Deflationary, also provides Staking Reward.",
     "address": "0x57457b5d725d85a70a3625d6a71818304e773618"
+  },
+  {
+    "name": "NFTY Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NFTY",
+    "description": "NFTY is a multi-chain NFT and Web3 authentication network.",
+    "address": "0x5774b2fc3e91af89f89141eacf76545e74265982"
   },
   {
     "name": "TEZILLA",
@@ -7544,6 +7576,14 @@
     "address": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f"
   },
   {
+    "name": "METAVERSE FACE",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MEFA",
+    "description": "Decentralized blockchain platform providing Face Nft for Metaverse",
+    "address": "0x6ad0f087501eee603aeda0407c52864bc7f83322"
+  },
+  {
     "name": "Polka City",
     "type": "BEP20",
     "decimals": 18,
@@ -8240,6 +8280,14 @@
     "address": "0x76f6cd75ce81e88916f8d933ab76efe18ced6ad3"
   },
   {
+    "name": "HI",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HI",
+    "description": "hi is leveraging blockchain technology to build services that are community powered. Members of hi are the key stakeholders of this ecosystem and the business is committed to maximize membership value - not profits. Our first product is a digital wallet that provides members with the most seamless payment experience via social messengers. The HI is a membership token that powers the hi ecosystem.",
+    "address": "0x77087ab5df23cfb52449a188e80e9096201c2097"
+  },
+  {
     "name": "Booster",
     "type": "BEP20",
     "decimals": 18,
@@ -8656,7 +8704,7 @@
     "address": "0x7d72deda97afce34caeb5dcbcc4001b7ceb8074b"
   },
   {
-    "name": "GoMining Token",
+    "name": "GMT Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "GMT",
@@ -10486,6 +10534,14 @@
     "symbol": "RONINGMZ",
     "description": "Token issued by Ronin Gamez studio as a transactional token for the future game launchpad",
     "address": "0x980b37a82b60a32965b6e56356d14e0410ea440f"
+  },
+  {
+    "name": "Hoppy",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "HOP",
+    "description": "For a Greener Future, one Hop at a time!",
+    "address": "0x984811e6f2695192add6f88615df637bf52a5cae"
   },
   {
     "name": "TENDIE",
@@ -13624,6 +13680,14 @@
     "address": "0xc53708664b99df348dd27c3ac0759d2da9c40462"
   },
   {
+    "name": "Stream",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "STRM",
+    "description": "LiveView is to provide an all-in-one platform for viewers to be able to watch and choose whichever videos they want around the world.",
+    "address": "0xc598275452fa319d75ee5f176fd3b8384925b425"
+  },
+  {
     "name": "Swamp.finance",
     "type": "BEP20",
     "decimals": 18,
@@ -15078,6 +15142,14 @@
     "symbol": "WGR",
     "description": "BEP20 tokenized version of wagerr",
     "address": "0xdbf8265b1d5244a13424f13977723acf5395eab2"
+  },
+  {
+    "name": "DeepMaze",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DPZ",
+    "description": "DEEPMAZE is a crowding pool backed auto liquidity Defi token built on Binance Smart Chain. It solves the liquidity, value, and discretion trilemma that is a problem in the current ecosystem.",
+    "address": "0xdc0118b27276065c573386aa44e7a6e5e2af07c1"
   },
   {
     "name": "DOS Network Token",
@@ -17166,6 +17238,14 @@
     "symbol": "OLE",
     "description": "Olecoin is a BEP 20 token leading the launching of the first Brazilian platform to tokenize soccer players future receives. New talents could create their profiles, we use real scouts to validate their informations and once it is approved we create their tokens promoting to our community and with investors. Tokens could be NFT, DeFi or ERC-20. We use the right technology according to the commercial contract signed with the new talent.",
     "address": "0xfb4b7ee058828b5fbf2e475da88f1903f453334e"
+  },
+  {
+    "name": "NOKU v2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NOKU",
+    "description": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.",
+    "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2"
   },
   {
     "name": "Binance-Peg Aave Token",
