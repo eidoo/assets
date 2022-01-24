@@ -6931,7 +6931,7 @@
     "name": "NOKU",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "NOKU",
+    "symbol": "Old NOKU",
     "description": "Noku Chain an Ethereum sidechain dedicated to NFT tokens and DeFi",
     "address": "0x1fc52f1abade452dd4674477d4711951700b3d27"
   },
@@ -26584,7 +26584,7 @@
     "address": "0x7dd474dce035debf073dcb9c188584d761b1d024"
   },
   {
-    "name": "GoMining Token",
+    "name": "GMT Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "GMT",
@@ -27246,6 +27246,14 @@
     "symbol": "YANG",
     "description": "-",
     "address": "0x81611acd4460fd996aa657835af044644fa8ae29"
+  },
+  {
+    "name": "NOKU v2",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NOKU",
+    "description": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.",
+    "address": "0x8167d3b1024cb51a2dd1b4d889ddf7023420796a"
   },
   {
     "name": "Globalvillage ecosystem",
