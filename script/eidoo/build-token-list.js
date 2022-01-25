@@ -4,10 +4,12 @@ const { readdirSync, readFileSync, writeFileSync } = require('fs')
 
 const overrides = require('./build-token-list_overrides.json')
 
+const LIMIT = 800
+
 ;(async () => {
   const { data: resBody } = await axios({
     method: 'get',
-    url: 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?limit=200&sort=cmc_rank',
+    url: `https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?limit=${LIMIT}&sort=cmc_rank`,
     headers: {
       'X-CMC_PRO_API_KEY': 'REPLACEME'
     }

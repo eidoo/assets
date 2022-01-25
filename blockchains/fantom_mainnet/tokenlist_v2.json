@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Fantom",
+    "type": "coin",
+    "decimals": 18,
+    "symbol": "FTM",
+    "description": "A DAG-Based Smart-Contract Platform.",
+    "address": "0x0000000000000000000000000000000000000000"
+  }
+]

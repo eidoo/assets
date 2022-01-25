@@ -16,12 +16,28 @@
     "address": "0x0000000000085d4780b73119b644ae5ecd22b376"
   },
   {
+    "name": "Tokenlon",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LON",
+    "description": "LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses.",
+    "address": "0x0000000000095413afc295d19edeb1ad7b71c952"
+  },
+  {
     "name": "Stox",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "STX",
     "description": "-",
     "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+  },
+  {
+    "name": "AllianceBlock",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ALBT",
+    "description": "AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock’s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent.",
+    "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0"
   },
   {
     "name": "SKALE Network",
@@ -32,12 +48,92 @@
     "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
   },
   {
+    "name": "PlayChip",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PLA",
+    "description": "PlayChip’s vision is to become the Universal Gaming Token. PlayChip is an ERC20 token at the centre of an existing online gaming ecosystem.",
+    "address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5"
+  },
+  {
+    "name": "Hero Origen Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "-",
+    "address": "0x02585e4a14da274d02df09b222d4606b10a4e940"
+  },
+  {
+    "name": "Orion Protocol",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "ORN",
+    "description": "Built on the most advanced liquidity aggregator ever developed, Orion Protocol solves some of the largest issues in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform. This underpins each solution built on the protocol, including revolutionary trading solution Orion Terminal - aggregating the liquidity of the entire crypto market on one decentralized platform. The roadmap also includes a price oracle and a high-margin DEX.",
+    "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
+  },
+  {
+    "name": "LikeCoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LIKE",
+    "description": "LikeCoin is a protocol for content attribution, monetization and distribution. LikeCoin chain is a Bonded Proof of Stake blockchain developed on top of Cosmos SDK. As a permissionless protocol, 800+ media chose to adopt LikeCoin with her WordPress plugin.",
+    "address": "0x02f61fd266da6e8b102d4121f5ce7b992640cf98"
+  },
+  {
+    "name": "Huobi BTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HBTC",
+    "description": "HBTC is a Bitcoin ERC20 token on Ethereum blockchain launched by Huobi Global, ensuring that users can use HBTC and BTC for 1:1 exchange at Huobi Global at any time.",
+    "address": "0x0316eb71485b0ab14103307bf65a021042c6d380"
+  },
+  {
+    "name": "LCX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LCX",
+    "description": "LCX.com - Innovating Capital Markets. Solutions for compliant digital assets and security tokens. LCX is a secure and compliant platform for buying, selling, transferring, and storing digital currency.",
+    "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
+  },
+  {
+    "name": "BarnBridge",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BOND",
+    "description": "Tokenized Risk Protocol",
+    "address": "0x0391d2021f89dc339f60fff84546ea23e337750f"
+  },
+  {
     "name": "KuCoin Shares",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "KCS",
     "description": "Kucoin Shares (KCS) is an exchange based token and native currency of the Kucoin crypto exchange.",
     "address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab"
+  },
+  {
+    "name": "Rai Reflex Index",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RAI",
+    "description": "RAI is a non pegged, ETH backed stable asset built by Reflexer. It is the first asset of its kind that, instead of being pegged to a specific target such as the USD, it freely floats while it’s being influenced by market forces.",
+    "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+  },
+  {
+    "name": "Ternoa",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CAPS",
+    "description": "TERNOA is a blockchain designed to provide secured, decentralized, and long-term data transmission. TERNOA relies upon the use of NFTs as vehicles to store encrypted data across long periods of time, and built-in oracles to trigger data releases to third parties.",
+    "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2"
+  },
+  {
+    "name": "SIX",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "SIX",
+    "description": "-",
+    "address": "0x04b99ae45176955165ba8eb655b9028fc00dfe50"
   },
   {
     "name": "CRO Decentralized Finance",
@@ -56,6 +152,14 @@
     "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
   },
   {
+    "name": "MOVEX Dollar",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MUSD",
+    "description": "-",
+    "address": "0x052fe7e1b9c0eae5a4f55f307c77f31c391803e8"
+  },
+  {
     "name": "Gemini dollar",
     "type": "ERC20",
     "decimals": 2,
@@ -70,6 +174,118 @@
     "symbol": "ZIL",
     "description": "-",
     "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27"
+  },
+  {
+    "name": "SUKU",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SUKU",
+    "description": "The link between open finance, traceability, and transparency. The future of supply chains today.",
+    "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7"
+  },
+  {
+    "name": "Chimpion",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BNANA",
+    "description": "Chimpion created the first ever online banking for the crypto community.",
+    "address": "0x07ef9e82721ac16809d24dafbe1792ce01654db4"
+  },
+  {
+    "name": "CoinEx Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CET",
+    "description": "-",
+    "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
+  },
+  {
+    "name": "Edgeless",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "EDG",
+    "description": "The Ethereum smart contract-based Casino offers a 0% house edge and solves the casino transparency question.",
+    "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+  },
+  {
+    "name": "CITY",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CITY",
+    "description": "-",
+    "address": "0x08a2246dcb48db6a5a9e1f6bc082752fceddd106"
+  },
+  {
+    "name": "MATH Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MATH",
+    "description": "65+ Popular public chains supported",
+    "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
+  },
+  {
+    "name": "Spell Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPELL",
+    "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
+    "address": "0x090185f2135308bad17527004364ebcc2d37e5f6"
+  },
+  {
+    "name": "Unblocked Ledger Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ULT",
+    "description": "-",
+    "address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+  },
+  {
+    "name": "Mirror Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MIR",
+    "description": "Goverance token of Mirror Protocol.",
+    "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608"
+  },
+  {
+    "name": "Folexcoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "FLX",
+    "description": "-",
+    "address": "0x09a8501e22da800cb7a482fc5e2bf32c90a55995"
+  },
+  {
+    "name": "district0x Network Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DNT",
+    "description": "Billed as a network of decentralized markets and communities",
+    "address": "0x0abdace70d3790235af448c88547603b945604ea"
+  },
+  {
+    "name": "xDai",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STAKE",
+    "description": "POA Network has launched the first-ever blockchain where the native currency of the chain is USD-stable.",
+    "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6"
+  },
+  {
+    "name": "Impossible Finance IDIA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "IDIA",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
+    "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89"
+  },
+  {
+    "name": "Tellor",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TRB",
+    "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
+    "address": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5"
   },
   {
     "name": "yearn.finance",
@@ -88,12 +304,84 @@
     "address": "0x0c6e8a8358cbde54f8e4cd7f07d5ac38aec8c5a4"
   },
   {
+    "name": "CocosToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "COCOS",
+    "description": "-",
+    "address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381"
+  },
+  {
+    "name": "Bifrost",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BFC",
+    "description": "Developers can combine the best protocols to develop substantially more scalable and flexible DApps.",
+    "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c"
+  },
+  {
+    "name": "EverRise",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
+  },
+  {
+    "name": "Public Mint",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MINT",
+    "description": "Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.",
+    "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059"
+  },
+  {
+    "name": "Streamr DATAcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "Streamr provides a complete system to tokenize the value of real-time data to enable a new way for machines and people to trade it on a decentralised P2P network.",
+    "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+  },
+  {
+    "name": "Wrapped NXM",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "wNXM",
+    "description": "WNXM represents wrapped NXM tokens that are freely transferable and only KYC-ed members of the Nexus Mutual are able to wrap and unwrap NXM.",
+    "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde"
+  },
+  {
     "name": "Basic Attention Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BAT",
     "description": "Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+  },
+  {
+    "name": "Avt",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVT",
+    "description": "Aventus is a layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.",
+    "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+  },
+  {
+    "name": "ACATENA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ATA",
+    "description": "-",
+    "address": "0x0dd2ee1278342ff207bccc8e38e7a9cdf0bbe5e1"
+  },
+  {
+    "name": "DAO Maker",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DAO",
+    "description": "DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors.",
+    "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
   },
   {
     "name": "Decentraland",
@@ -104,12 +392,60 @@
     "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
   },
   {
+    "name": "SURPRISE",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPS",
+    "description": "-",
+    "address": "0x0f801928106c4c4272275e130be1473dbd8b492c"
+  },
+  {
+    "name": "Pundi X",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PUNDIX",
+    "description": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.",
+    "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38"
+  },
+  {
+    "name": "The Midas Touch Gold",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TMTG",
+    "description": "The Midas Touch Gold (TMTG) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x10086399dd8c1e3de736724af52587a2044c9fa2"
+  },
+  {
+    "name": "Fuse",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "Fuse",
+    "description": "-",
+    "address": "0x1029383292b098f2302dd19299b58659fde14aba"
+  },
+  {
     "name": "1INCH Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "1INCH",
     "description": "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange — DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.",
     "address": "0x111111111117dc0aa78b770fa6a738034120c302"
+  },
+  {
+    "name": "Centrality",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CENNZ",
+    "description": "Centrality is a Kiwi company formed by like-minded individuals that are interested in cutting edge technology and creating something purposeful.",
+    "address": "0x1122b6a0e00dce0563082b6e2953f3a943855c1f"
+  },
+  {
+    "name": "CarryToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRE",
+    "description": "Carry (CRE) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e"
   },
   {
     "name": "MX Token",
@@ -120,12 +456,68 @@
     "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
   },
   {
+    "name": "Planetagro-Exchange",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BANANA",
+    "description": "This token is meant to boost and facilitate reliable banana product trade.",
+    "address": "0x12a64ae35cccbf75c169f0a4bdafeeefefa1958c"
+  },
+  {
+    "name": "GRID",
+    "type": "ERC20",
+    "decimals": 12,
+    "symbol": "GRID",
+    "description": "GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
+    "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
+  },
+  {
+    "name": "MoneyToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "IMT",
+    "description": "The MoneyToken platform allows you to receive liquid funds right now, based on the current value of your cryptocurrency asset holdings.",
+    "address": "0x13119e34e140097a507b07a5564bde1bc375d9e6"
+  },
+  {
+    "name": "mosExpensiveToken",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0x133834219045ed0cf692619d63abcd251e6b1ca1"
+  },
+  {
+    "name": "HighBank",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HIGH",
+    "description": "-",
+    "address": "0x1354c8c1a66c2573ce9cc3e92e98d17869501a46"
+  },
+  {
     "name": "Binantex",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BNT",
     "description": "Binantex is a USD-pegged stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD.",
     "address": "0x139838869d3e1ab94c798917840da1c079103c84"
+  },
+  {
+    "name": "DeFi Pulse Index",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DPI",
+    "description": "A basket created by DeFiPulse of the top DeFi tokens by market cap. The DPI Set is rebalanced monthly to realign to its market cap weighted index.",
+    "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
+  },
+  {
+    "name": "Student Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STC",
+    "description": "Student Coin is the first crypto platform that allows users to easily design, create, and manage personal, start-up, NFT, and DeFi tokens.",
+    "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e"
   },
   {
     "name": "Gala",
@@ -136,12 +528,52 @@
     "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
   },
   {
+    "name": "PAID Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PAID",
+    "description": "PAID Network is a comprehensive business toolkit for all business transaction needs.",
+    "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787"
+  },
+  {
     "name": "Chernobyl",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CHR",
     "description": "-",
     "address": "0x161a5d1fc314727ba7ffd8ef166f32ca30ff87df"
+  },
+  {
+    "name": "Humanscape",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HUM",
+    "description": "-",
+    "address": "0x174afe7a032b5a33a3270a9f6c30746e25708532"
+  },
+  {
+    "name": "Numeraire",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NMR",
+    "description": "Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting.",
+    "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+  },
+  {
+    "name": "Revolution Populi",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RVP",
+    "description": "The Blockchain Database for the Internet.",
+    "address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
+  },
+  {
+    "name": "ZBToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ZB",
+    "description": "Zerobank is a legal ecosystem utilizing blockchain and smart contract.",
+    "address": "0x182a603541a4483c308475147d621bbb4e2587c6"
   },
   {
     "name": "Audius",
@@ -152,12 +584,100 @@
     "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
   },
   {
+    "name": "Reserve",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RSV",
+    "description": "The stable cryptocurrency that is economically and legally robust at any scale.",
+    "address": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988"
+  },
+  {
+    "name": "Augur",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "REP",
+    "description": "Augur (REP) is meant to harness the wisdom of the crowd through prediction markets on a protocol owned and operated by holders of the Ethereum-based Reputation token.",
+    "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862"
+  },
+  {
+    "name": "DEAPCOIN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEP",
+    "description": "The DEA Project is a blockchain-based multimedia digital entertainment platform featuring digital arts, games, and various other forms of entertainment. ",
+    "address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
+  },
+  {
     "name": "Unity Ingot",
     "type": "ERC20",
     "decimals": 2,
     "symbol": "UNI",
     "description": "-",
     "address": "0x1a986f1659e11e2ae7cc6543f307bae5cde1c761"
+  },
+  {
+    "name": "Bitpanda Ecosystem Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BEST",
+    "description": "BEST offers you a wide range of rewards, perks and benefits, applicable to the whole growing Bitpanda ecosystem.",
+    "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+  },
+  {
+    "name": "Vesper",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VSP",
+    "description": "Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives.",
+    "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+  },
+  {
+    "name": "DataBroker DAO Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "-",
+    "address": "0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22"
+  },
+  {
+    "name": "ViteToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VITE",
+    "description": "-",
+    "address": "0x1b793e49237758dbd8b752afc9eb4b329d5da016"
+  },
+  {
+    "name": "ORIGINATE Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ORC",
+    "description": "-",
+    "address": "0x1c09ef4493465569f6d704a5cc4f9864bcd2e56a"
+  },
+  {
+    "name": "USDK",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "USDK",
+    "description": "USDK (USDK) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb"
+  },
+  {
+    "name": "Reserve",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RSV",
+    "description": "-",
+    "address": "0x1c5857e110cd8411054660f60b5de6a6958cfae2"
+  },
+  {
+    "name": "bZx Protocol Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BZRX",
+    "description": "-",
+    "address": "0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9"
   },
   {
     "name": "Keep3rV1",
@@ -174,6 +694,30 @@
     "symbol": "WAVES",
     "description": "The main token for Waves Protocol.",
     "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a"
+  },
+  {
+    "name": "mIAU Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "mIAU",
+    "description": "Wrapped Mirror IAU Token.",
+    "address": "0x1d350417d9787e000cc1b95d70e9536dcd91f373"
+  },
+  {
+    "name": "Reserve",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RSV",
+    "description": "-",
+    "address": "0x1dcac83e90775b5f4bc2ffac5a5749e25acc610d"
+  },
+  {
+    "name": "Shiryo-Inu",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "Shiryo-Inu",
+    "description": "Shiryo-Inu is a P2E card game built on the Ethereum network",
+    "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02"
   },
   {
     "name": "Sola Token",
@@ -200,6 +744,38 @@
     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
   },
   {
+    "name": "FOR",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FOR",
+    "description": "The Force Token (FOR) is a utility token, it is the governance token of ForTube system.",
+    "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f"
+  },
+  {
+    "name": "ChainGuardians Governance Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CGG",
+    "description": "ChainGuardians Blockchain Video Game Defi Platform.",
+    "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43"
+  },
+  {
+    "name": "CoinLoan",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "CLT",
+    "description": "The CoinLoan Token (CLT) is a part of the CoinLoan crypto lending platform.",
+    "address": "0x2001f2a0cf801ecfda622f6c28fb6e10d803d969"
+  },
+  {
+    "name": "Clover",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "CLV",
+    "description": "A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.",
+    "address": "0x22222c03318440305ac3e8a7820563d6a9fd777f"
+  },
+  {
     "name": "Wrapped Bitcoin",
     "type": "ERC20",
     "decimals": 8,
@@ -216,12 +792,84 @@
     "address": "0x226bb599a12c826476e3a771454697ea52e9e220"
   },
   {
+    "name": "CRYPTOFOREX",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "CFX",
+    "description": "CRYPTOFOREX is a US dollar pegged stablecoin that aims to bring the benefits of cryptocurrency into forex trading.`",
+    "address": "0x226f15cdbaa36814ce3cb287563069c32cc1a293"
+  },
+  {
+    "name": "DREP",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DREP",
+    "description": "-",
+    "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3"
+  },
+  {
+    "name": "XITO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "USDX",
+    "description": "-",
+    "address": "0x237c0e91c28d20254a2f25976b81262e63bb767f"
+  },
+  {
+    "name": "Unisocks Edition 0",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOCKS",
+    "description": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.",
+    "address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5"
+  },
+  {
+    "name": "GNY",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GNY",
+    "description": "-",
+    "address": "0x247551f2eb3362e222c742e9c788b8957d9bc87e"
+  },
+  {
+    "name": "The Truth",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UFO",
+    "description": "UFO is an dual purpose token that powers the metaverse and helps govern it.",
+    "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b"
+  },
+  {
     "name": "Hinto",
     "type": "ERC20",
     "decimals": 5,
     "symbol": "HNT",
     "description": "-",
     "address": "0x24fb4c36a83cbdbcd670856406f622e09a643d4d"
+  },
+  {
+    "name": "Cellframe",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CELL",
+    "description": "CELL is a token of the Cellframe Network.",
+    "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
+  },
+  {
+    "name": "DEXTools",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEXT",
+    "description": "Ultimate Hub and Defi App For Uniswap and DEX trading.",
+    "address": "0x26ce25148832c04f3d7f26f32478a9fe55197166"
+  },
+  {
+    "name": "Crypto20",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "C20",
+    "description": "Crypto20 is the world's first tokenized crypto index fund.",
+    "address": "0x26e75307fc0c021472feb8f727839531f112f317"
   },
   {
     "name": "BORA",
@@ -232,6 +880,14 @@
     "address": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
   },
   {
+    "name": "AirSwap",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "AST",
+    "description": "AirSwap powers peer-to-peer trading.",
+    "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+  },
+  {
     "name": "UNICORN",
     "type": "ERC20",
     "decimals": 8,
@@ -240,12 +896,44 @@
     "address": "0x2730d6fdc86c95a74253beffaa8306b40fedecbb"
   },
   {
+    "name": "aleph.im ERC-20 v2",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ALEPH",
+    "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
+    "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
+  },
+  {
+    "name": "ELYSIA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "EL",
+    "description": "Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.",
+    "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
+  },
+  {
+    "name": "BitBall Treasure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTRS",
+    "description": "-",
+    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
+  },
+  {
     "name": "FirstEnergy Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "FET",
     "description": "-",
     "address": "0x296b3fc8e3cc768f834152586e5ad708bfe8f163"
+  },
+  {
+    "name": "Origin Dollar (OUSD)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OUSD",
+    "description": "The first stablecoin that earns a yield while it’s still in your wallet",
+    "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
   },
   {
     "name": "FarmaTrust Token",
@@ -272,12 +960,68 @@
     "address": "0x2b1f91afbac59fafb0e5eaa22e0ff0539e97eba8"
   },
   {
+    "name": "HEX",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "HEX",
+    "description": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
+    "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+  },
+  {
+    "name": "Cream Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CREAM",
+    "description": "Cream - Crypto Rules Everything Around Me",
+    "address": "0x2ba592f78db6436527729929aaf6c908497cb200"
+  },
+  {
     "name": "UST",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "UST",
     "description": "-",
     "address": "0x2bdbf15d055899a767f5459a151bed15fb8fd2f6"
+  },
+  {
+    "name": "VideoCoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VID",
+    "description": "-",
+    "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5"
+  },
+  {
+    "name": "All Sports Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOC",
+    "description": "All Sports (SOC) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3"
+  },
+  {
+    "name": "LITonium",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "LIT",
+    "description": "-",
+    "address": "0x2e3c062e16c1a3a04ddc5003c62e294305d83684"
+  },
+  {
+    "name": "EXNCE",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "XNC",
+    "description": "-",
+    "address": "0x2e84df8ba0c87670a7073689aa94e7f1d2d85970"
+  },
+  {
+    "name": "Throne",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "THN",
+    "description": "Throne has developed an exciting and disruptive blockchain technology that will transform our relationship to content and empower content creators like never before.",
+    "address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9"
   },
   {
     "name": "Revain",
@@ -288,12 +1032,60 @@
     "address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9"
   },
   {
+    "name": "Dollars",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "USDx",
+    "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
+    "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
+  },
+  {
+    "name": "TEMCO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TEMCO",
+    "description": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
+    "address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+  },
+  {
+    "name": "HUMToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HUM",
+    "description": "-",
+    "address": "0x301a7f0f98725d3f9ca889e935b579f1d896b322"
+  },
+  {
+    "name": "Walleteum",
+    "type": "ERC20",
+    "decimals": 13,
+    "symbol": "EUM",
+    "description": "-",
+    "address": "0x3071a55a0f7916d796b54a2d095db85df693d956"
+  },
+  {
+    "name": "PLANET",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PLA",
+    "description": "PLANET is used as a currency for transactions in the crypto industry. PLANET tokens are used as prize money and participation tickets for e-sports related businesses in Japan.",
+    "address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
+  },
+  {
     "name": "THORChain ETH.RUNE",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "RUNE",
     "description": "THORChain describes itself as a decentralized liquidity network that allows users to swap assets instantly at manipulation-resistant market prices.",
     "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+  },
+  {
+    "name": "Radicle",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RAD",
+    "description": "Radicle Token",
+    "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
   },
   {
     "name": "Reserve Rights",
@@ -304,12 +1096,84 @@
     "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70"
   },
   {
+    "name": "Movement DAO Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MDT",
+    "description": "-",
+    "address": "0x32a087d5fdf8c84ec32554c56727a7c81124544e"
+  },
+  {
+    "name": "CRUST",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRU",
+    "description": "CRUST provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer. Crust's technical stack is also capable of supporting a decentralized computing layer. It is designed to build a decentralized cloud ecosystem that values data privacy and ownership.",
+    "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
+  },
+  {
+    "name": "HedgeTrade",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HEDG",
+    "description": "-",
+    "address": "0x3363d570f6df3c74d486bb8785d3ebfb9e2347d3"
+  },
+  {
+    "name": "RAMP DEFI",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RAMP",
+    "description": "Unlocking Liquid Capital From Staked Assets",
+    "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+  },
+  {
+    "name": "Data Economy Index",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "The Data Economy Index is an ecosystem of data-based products and services.",
+    "address": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1"
+  },
+  {
     "name": "Alice",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ALICE",
     "description": "-",
     "address": "0x33dcd369d697132de252884336225de31fb474b2"
+  },
+  {
+    "name": "BLOCKv (VEE)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VEE",
+    "description": "BLOCKv provides a platform enabling the creation of Vatoms, a digital asset class (NFT) that bridges the gap between physical & digital worlds, creating new levels of human engagement.",
+    "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+  },
+  {
+    "name": "Frax Share",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FXS",
+    "description": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+    "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+  },
+  {
+    "name": "Badger",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BADGER",
+    "description": "DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.",
+    "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d"
+  },
+  {
+    "name": "Efforce",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WOZX",
+    "description": "The first blockchain-based energy-saving platform.",
+    "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
   },
   {
     "name": "Chiliz",
@@ -320,12 +1184,44 @@
     "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
   },
   {
+    "name": "MANTRA DAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OM",
+    "description": "MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for Web 3.0",
+    "address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+  },
+  {
     "name": "DENT",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "DENT",
     "description": "Creating a world-wide marketplace on Ethereum Blockchain to sell and buy Mobile Data with DENT Tokens.",
     "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258"
+  },
+  {
+    "name": "PARSIQ",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PRQ",
+    "description": "Connect blockchain activity to off-chain apps and devices. Monitor and secure DeFi applications. Build custom event triggers and power real-time automations.",
+    "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2"
+  },
+  {
+    "name": "Small Love Potion",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "SLP",
+    "description": "Small Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).",
+    "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
+  },
+  {
+    "name": "Civilization",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CIV",
+    "description": "The World's First 100% Decentralized Investment Fund (DIF)",
+    "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
   },
   {
     "name": "The Sandbox",
@@ -344,6 +1240,70 @@
     "address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645"
   },
   {
+    "name": "Mithril Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MITH",
+    "description": "-",
+    "address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb"
+  },
+  {
+    "name": "AMO Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AMO",
+    "description": "AMO Coin (AMO) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
+  },
+  {
+    "name": "Concentrated Voting Power",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CVP",
+    "description": "PowerPool is a solution for accumulating governance power in Ethereum-based protocols by pooling tokens (COMP, BAL, LEND, YFI, BZRX, AKRO, etc.). The CVP token name refers to Concentrated Voting Power: CVP holders decide how pooled GTs will vote when the vote occurs in their root protocol. Also, CVP holders govern the entire protocol (key ecosystem variables, collateral types, adding new pools).",
+    "address": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
+  },
+  {
+    "name": "DDX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DDX",
+    "description": "Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy.",
+    "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a"
+  },
+  {
+    "name": "DREP",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DREP",
+    "description": "DREP is committed to building connectors and toolboxes based on blockchain technology, and aims to provide solutions that combine ease of use, flexibility, and frictionless integration.",
+    "address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2"
+  },
+  {
+    "name": "DREP",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DREP",
+    "description": "-",
+    "address": "0x3aca71c508e06dc6b2758dab6eb20f7654572fb7"
+  },
+  {
+    "name": "Advertising Token",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "AVT",
+    "description": "-",
+    "address": "0x3b16fb80ab6ac8562203f3913f58ee0c4dfc08b8"
+  },
+  {
+    "name": "OpenDAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOS",
+    "description": "$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.",
+    "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+  },
+  {
     "name": "Voyager Token",
     "type": "ERC20",
     "decimals": 8,
@@ -360,12 +1320,76 @@
     "address": "0x3c55b99c58a1dc7001dd96b902212d11c8ec7e15"
   },
   {
+    "name": "BoringDAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BOR",
+    "description": "BoringDAO is a decentralized asset bridge that uses tunnel mechanism to move tokens cross different chains.",
+    "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9"
+  },
+  {
+    "name": "DEX Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "DEXT",
+    "description": "-",
+    "address": "0x3cd7047117dbfd0dcb470514172ace9f394c31e8"
+  },
+  {
+    "name": "CircuitsOfValue",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "Coval",
+    "description": "Combine different blockchain tokens into a single token. Tradable DeFi Pools. Make any token a privacy token. Make Tradable Portfolios. ",
+    "address": "0x3d658390460295fb963f54dc0899cfb1c30776df"
+  },
+  {
+    "name": "Cashlink",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "CLT",
+    "description": "-",
+    "address": "0x3da327288da2fd44ca855748432d78226537def5"
+  },
+  {
+    "name": "LTO Network",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "LTO",
+    "description": "Old ERC20 Smart Contract for LTO Network, please swap to v2. LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.",
+    "address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d"
+  },
+  {
     "name": "Unipot",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "UNI",
     "description": "-",
     "address": "0x3e370a6c8255b065bd42bc0ac9255b269cfcc172"
+  },
+  {
+    "name": "LINA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LINA",
+    "description": "Linear Finance is a cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity",
+    "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937"
+  },
+  {
+    "name": "Market Coin",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "MC",
+    "description": "-",
+    "address": "0x3f013b600d31557f551131614f439e0c292dfd90"
+  },
+  {
+    "name": "Aavegotchi",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GHST",
+    "description": "Aavegotchis are crypto-collectibles living on the Ethereum blockchain, backed by the ERC721 standard used in popular blockchain games. $GHST is the official utility token of the Aavegotchi ecosystem and can be used to purchase portals, wearables, and consumables.",
+    "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
   },
   {
     "name": "Ren",
@@ -376,12 +1400,100 @@
     "address": "0x408e41876cccdc0f92210600ef50372656052a38"
   },
   {
+    "name": "SORA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XOR",
+    "description": "Sora is a decentralized autonomous economic system, where users vote on how to mint new units of the XOR token through a democratic referendum process. The goal is to create a decentralized, yet rational world economic system.",
+    "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
+  },
+  {
+    "name": "Qredo",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "QRDO",
+    "description": "Qredo is a blockchain infrastructure that delivers interoperability, fast settlement, and decentralized custody.",
+    "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
+  },
+  {
+    "name": "TokenPocket Token",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "TPT",
+    "description": "-",
+    "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1"
+  },
+  {
+    "name": "Dragon",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DRGN",
+    "description": "Dragonchain is a hybrid blockchain platform, where sensitive business logic and smart contract functionality is held by the owner. Its cryptocurrency is denoted by the symbol DGRN.",
+    "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e"
+  },
+  {
+    "name": "FunFair",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "FUN",
+    "description": "Envisioning the decentralization of the concept behind casinos, FunFair harnesses peer-to-peer technology in combination with cryptography.",
+    "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+  },
+  {
+    "name": "Civic",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "CVC",
+    "description": "Civic is an identity management service that allows one to protect and authorize the use of their identity in real-time.",
+    "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+  },
+  {
+    "name": "Farm Partner",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FARM",
+    "description": "-",
+    "address": "0x41f723448433367be140d528d35efecd3e023db6"
+  },
+  {
+    "name": "XuanCoin",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "XNC",
+    "description": "-",
+    "address": "0x4238c2e2e9e387b6feb23acbb81b3b6dea648b8d"
+  },
+  {
+    "name": "Loom Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOOM",
+    "description": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
+    "address": "0x42476f744292107e34519f9c357927074ea3f75d"
+  },
+  {
+    "name": "Hot Cross Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HOTCROSS",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. We are a cohort of builders who aggressively seek out opportunities to meet the demands of the now for both B2B and B2C.",
+    "address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e"
+  },
+  {
     "name": "PlatonCoin",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "PLTC",
     "description": "Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology.",
     "address": "0x429d83bb0dcb8cdd5311e34680adc8b12070a07f"
+  },
+  {
+    "name": "FUNY - TOKEN",
+    "type": "ERC20",
+    "decimals": 3,
+    "symbol": "FUN",
+    "description": "-",
+    "address": "0x42a75636e6f73e48e74a085f3efd81068586f74c"
   },
   {
     "name": "UOSToken",
@@ -392,12 +1504,52 @@
     "address": "0x430bd07726423a54f6d82ab0f578ce62a3b8054d"
   },
   {
+    "name": "dForce",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DF",
+    "description": " dForce Lending is a decentralized lending protocol.",
+    "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0"
+  },
+  {
+    "name": "SMARTCOIN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STC",
+    "description": "-",
+    "address": "0x437c7136d9629f6c14d87e6eb67d963b9878b136"
+  },
+  {
     "name": "BITLoTo",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BTT",
     "description": "-",
     "address": "0x439ad7ac2b7d92a24c25537cf1aa243f365d0cb0"
+  },
+  {
+    "name": "DODO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DODO",
+    "description": "DODO is a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm and built for capital efficiency.",
+    "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd"
+  },
+  {
+    "name": "SOLVE",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "SOLVE",
+    "description": "Solve.Care is a healthcare IT company that builds blockchain platforms which the team believes may improve the way healthcare is delivered and managed.",
+    "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f"
+  },
+  {
+    "name": "AdEx",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "ADX",
+    "description": "-",
+    "address": "0x4470bb87d77b963a013db939be332f927f2b992e"
   },
   {
     "name": "Orchid",
@@ -414,6 +1566,14 @@
     "symbol": "PAXG",
     "description": "PAX Gold (PAXG) is a digital asset where one token is backed by one fine troy ounce (t oz) of a 400 oz London Good Delivery gold bar, stored in Brink’s gold vaults.",
     "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+  },
+  {
+    "name": "Kryll.io Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KRL",
+    "description": "Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly",
+    "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
   },
   {
     "name": "Telcoin",
@@ -448,6 +1608,14 @@
     "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
   },
   {
+    "name": "BitRewards Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BIT",
+    "description": "-",
+    "address": "0x47da42696a866cdc61a4c809a515500a242909c1"
+  },
+  {
     "name": "ChronoTech TIME",
     "type": "ERC20",
     "decimals": 8,
@@ -456,12 +1624,44 @@
     "address": "0x485d17a6f1b8780392d53d64751824253011a260"
   },
   {
+    "name": "GoMoney2",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "GOM2",
+    "description": "GOM2 restructures the DeFi narrative to reward token holders. In addition, GOM2 tokens can be used to swap with other ERC-20 tokens.",
+    "address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7"
+  },
+  {
+    "name": "0x52657075746174696f6e00000000000000000000000000000000000000000000",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "REP",
+    "description": "-",
+    "address": "0x48c80f1f4d53d5951e5d5438b54cba84f29f32a5"
+  },
+  {
     "name": "Cartesi Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CTSI",
     "description": "-",
     "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
+  },
+  {
+    "name": "Gold Tether",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "XAUt",
+    "description": "Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage.",
+    "address": "0x4922a015c4407f87432b179bb209e125432e4a2a"
+  },
+  {
+    "name": "Bitether",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTR",
+    "description": "-",
+    "address": "0x499a6b77bc25c26bcf8265e2102b1b3dd1617024"
   },
   {
     "name": "Quant",
@@ -480,12 +1680,76 @@
     "address": "0x4a74df6113e3d38d8e184273341cb6bbb6885152"
   },
   {
+    "name": "SWAP",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SWP",
+    "description": "-",
+    "address": "0x4b35e0ab998ebe8414871c13cf778f9d0bbdf609"
+  },
+  {
+    "name": "Decentral Games",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DG",
+    "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+    "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
+  },
+  {
+    "name": "Vether",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VETH",
+    "description": "Vether is designed to be a store-of-value with properties of strict scarcity, unforgeable costliness and a fixed emission schedule.",
+    "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279"
+  },
+  {
+    "name": "Hxro Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HXRO",
+    "description": "Hxro is a cryptocurrency exchange platform that offers perpetual, time-based digital derivatives markets. Hxro offers a way to interact with the market.",
+    "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3"
+  },
+  {
+    "name": "TrueFi",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "TRU",
+    "description": "TrueFi is an on-chain uncollateralized lending protocol",
+    "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+  },
+  {
     "name": "WINSTEX",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "WIN",
     "description": "A seamlessly integrated cryptocurrency exchange that meets your specific trading and investing needs.",
     "address": "0x4cac2515716ab2531402ca8f992e235189f29c5a"
+  },
+  {
+    "name": "KEY",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KEY",
+    "description": "SelfKey is a self-sovereign identity platform, built on the Ethereum blockchain, which aims to enable individuals and companies to have full ownership of their digital identity.",
+    "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"
+  },
+  {
+    "name": "0x4b45590000000000000000000000000000000000000000000000000000000000",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KEY",
+    "description": "-",
+    "address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c"
+  },
+  {
+    "name": "AION",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "AION",
+    "description": "-",
+    "address": "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466"
   },
   {
     "name": "Menlo One",
@@ -496,12 +1760,44 @@
     "address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392"
   },
   {
+    "name": "CONUN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CON",
+    "description": "A service platform that enables high-performance computing resources to be handled by sharing idle resources between participants' personal computers and smartphones. ",
+    "address": "0x4dd672e77c795844fe3a464ef8ef0faae617c8fb"
+  },
+  {
+    "name": "Sappchain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SAPP",
+    "description": "SAPPCHAIN is a decentralized end-to-end encrypted anonymous messaging App with peer-to-peer transfer of money and cryptocurrency solution.",
+    "address": "0x4df76a9dab9bb8310e4ad3dc4336a8e26ed24ebb"
+  },
+  {
+    "name": "\"\"",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MDT",
+    "description": "-",
+    "address": "0x4dfd148b532e934a2a26ea65689cf6268753e130"
+  },
+  {
     "name": "Fantom Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "FTM",
     "description": "Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.",
     "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+  },
+  {
+    "name": "Convex Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CVX",
+    "description": "A platform built to boost rewards for CRV stakers and liquidity providers alike, all in a simple and easy to use interface. Convex aims to simplify staking on Curve, as well as the CRV-locking system with the help of its native fee-earning token: CVX.",
+    "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
   },
   {
     "name": "CelerToken",
@@ -528,6 +1824,14 @@
     "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc"
   },
   {
+    "name": "PYR",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "PYR",
+    "description": "-",
+    "address": "0x50398de4651ffecf38a93cc4de9f2f0e20f3dad1"
+  },
+  {
     "name": "FTX Token (FTT)",
     "type": "ERC20",
     "decimals": 18,
@@ -544,12 +1848,36 @@
     "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
   },
   {
+    "name": "InsurChain2.0",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "INSUR",
+    "description": "-",
+    "address": "0x51fb3da8a67861361281ac56fe2ad8c3b4539ffa"
+  },
+  {
     "name": "pTokens BTC",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "pBTC",
     "description": "pTokens BTC is a one-to-one pegged tokenised Bitcoin on Ethereum. Leveraging the pTokens system, Bitcoin is automatically moved into the Ethereum protocol as an ERC-777 token. pTokens BTC makes Bitcoin compatible with all financial dApps, bringing unparalleled liquidity to the DeFi ecosystem.",
     "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b"
+  },
+  {
+    "name": "Penta Network Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNT",
+    "description": "-",
+    "address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
+  },
+  {
+    "name": "InsurAce",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "INSUR",
+    "description": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
+    "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429"
   },
   {
     "name": "XY Oracle",
@@ -560,12 +1888,116 @@
     "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
   },
   {
+    "name": "Digger",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DG",
+    "description": "-",
+    "address": "0x5565317065fb33ea1afb4d55665402ecc557d7cc"
+  },
+  {
+    "name": "REVV",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "REVV",
+    "description": "REVV is the main utility token and in-game currency for branded motorsports blockchain game titles produced by Animoca Brands, such as the F1® Delta Time blockchain game platform, and a title based on the MotoGP™ motorsport intellectual property, releasing in Q4 of 2020.",
+    "address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+  },
+  {
+    "name": "Bread",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BRD",
+    "description": "BRD bills itself as 'the simple and secure onramp to bitcoin, ethereum, and other digital currencies'.",
+    "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
+  },
+  {
+    "name": "bZx Protocol Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BZRX",
+    "description": "BZRX is a bZx protocol governance token",
+    "address": "0x56d811088235f11c8920698a204a5010a788f4b3"
+  },
+  {
+    "name": "Bluzelle Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BLZ",
+    "description": "-",
+    "address": "0x5732046a883704404f284ce41ffadd5b007fd668"
+  },
+  {
+    "name": "KredX Token",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "KRT",
+    "description": "-",
+    "address": "0x5783862cef49094be4de1fe31280b2e33cf87416"
+  },
+  {
+    "name": "Synth sUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "sUSD",
+    "description": "-",
+    "address": "0x57ab1e02fee23774580c119740129eac7081e9d3"
+  },
+  {
+    "name": "sUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "sUSD",
+    "description": "sUSD is an ERC-20 token made by the Synthetix team which tracks the price of USD.",
+    "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+  },
+  {
+    "name": "Marlin POND",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "POND",
+    "description": "Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0",
+    "address": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+  },
+  {
+    "name": "Dawn",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DAWN",
+    "description": "Dawn is an open-source protocol for gaming and competitions.",
+    "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+  },
+  {
+    "name": "Hegic",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HEGIC",
+    "description": "Hegic is an on-chain, non-custodial peer-to-pool options trading protocol built on Ethereum. Currently Hegic supports options trading in for Bitcoin (wBTC) and Ether (ETH).",
+    "address": "0x584bc13c7d411c00c01a62e8019472de68768430"
+  },
+  {
+    "name": "Contentos",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "COS",
+    "description": "The decentralized global ecosystem for digital content, where content can be freely produced, distributed and transacted, and where the value and rights will be returned to creators and contributors.",
+    "address": "0x589891a198195061cb8ad1a75357a3b7dbadd7bc"
+  },
+  {
     "name": "Livepeer Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "LPT",
     "description": "A decentralized video streaming protocol that empowers developers to build video enabled applications backed by a competitive market of economically incentivized service providers.",
     "address": "0x58b6a8a3302369daec383334672404ee733ab239"
+  },
+  {
+    "name": "GXC",
+    "type": "ERC20",
+    "decimals": 10,
+    "symbol": "GXC",
+    "description": "-",
+    "address": "0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8"
   },
   {
     "name": "Power Ledger",
@@ -584,12 +2016,28 @@
     "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f"
   },
   {
+    "name": "Lido DAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LDO",
+    "description": "Lido is a liquid staking solution for Ethereum. Lido lets users stake their ETH - with no minimum deposits or maintaining of infrastructure - whilst participating in on-chain activities, e.g. lending, to compound returns. LDO is an ERC20 token granting governance rights in the Lido DAO.",
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+  },
+  {
     "name": "Voyager Token",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "VGX",
     "description": "The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.",
     "address": "0x5af2be193a6abca9c8817001f45744777db30756"
+  },
+  {
+    "name": "CUBE",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CUBE",
+    "description": "-",
+    "address": "0x5b0cffdb6e04992ebfe4748f6fd8fa868f216fdb"
   },
   {
     "name": "BTC",
@@ -600,12 +2048,196 @@
     "address": "0x5b2801375de6c23fcf8d2ecd453d3fa72c254306"
   },
   {
+    "name": "DAD",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "DAD",
+    "description": "-",
+    "address": "0x5b322514ff727253292637d9054301600c2c81e8"
+  },
+  {
+    "name": "BitForex Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BF",
+    "description": "Bitforex Token (BF) is token issued by BitForex Exchange, it is the proof of platform ownership. BF are issued mainly through trade mining, community and ecosystem mutual construction, and being released gradually.",
+    "address": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5"
+  },
+  {
+    "name": "BANANA TOKEN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BNANA",
+    "description": "-",
+    "address": "0x5c2f940281e735ca3496d8138be12d18023dce9f"
+  },
+  {
+    "name": "cUSD Currency",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "cUSD",
+    "description": "-",
+    "address": "0x5c406d99e04b8494dc253fcc52943ef82bca7d75"
+  },
+  {
     "name": "MXCToken",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MXC",
     "description": "MXC Supernodes provide LPWAN network services to devices around the world.",
     "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e"
+  },
+  {
+    "name": "NKN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NKN",
+    "description": "NKN, or New Kind of Network, is an open-source protocol for public blockchain-based peer-to-peer Networks to share network bandwidth and Internet connectivity.",
+    "address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb"
+  },
+  {
+    "name": "MixMarvel Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MIX",
+    "description": "MixMarvel is a global game publishing platform based on blockchain technology.",
+    "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429"
+  },
+  {
+    "name": "BOND",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BOND",
+    "description": "The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance.",
+    "address": "0x5dc02ea99285e17656b8350722694c35154db1e8"
+  },
+  {
+    "name": "dKargo",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DKA",
+    "description": "A decentralized and cooperative protocol for next generation logistics .",
+    "address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0"
+  },
+  {
+    "name": "Chess Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CHESS",
+    "description": "-",
+    "address": "0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5"
+  },
+  {
+    "name": "Liquity USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LUSD",
+    "description": "Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+  },
+  {
+    "name": "WanCoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WAN",
+    "description": "-",
+    "address": "0x5fc6de61258e63706543bb57619b99cc0e5a5a1f"
+  },
+  {
+    "name": "iExec RLC",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "RLC",
+    "description": "iExec claims to have developed the first decentralized marketplace for cloud computing resources.",
+    "address": "0x607f4c5bb672230e8672085532f7e901544a7375"
+  },
+  {
+    "name": "Themis",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GET",
+    "description": "Themis is a trusted blockchain infrastructure based on group escrow service, the problmes of fair exchanges which using cryptocurrencies as the medium, and helping to build a new generation of trusted network.",
+    "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
+  },
+  {
+    "name": "GXToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GXT",
+    "description": "-",
+    "address": "0x60c87297a1feadc3c25993ffcadc54e99971e307"
+  },
+  {
+    "name": "QASH",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "QASH",
+    "description": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
+    "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+  },
+  {
+    "name": "Unit Payment International",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "UPI",
+    "description": "-",
+    "address": "0x61b21c6ee787bc1df5ef873e5f6809711c62ab92"
+  },
+  {
+    "name": "Cybereits Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRE",
+    "description": "-",
+    "address": "0x61f33da40594cec1e3dc900faf99f861d01e2e7d"
+  },
+  {
+    "name": "MultiVAC",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MTV",
+    "description": "MultiVAC is the innovative sharding protocol and pioneering flexible computing framework. MultiVAC is also called 'Multi-core Ethereum'. As a high-throughput and flexible public blockchain platform, MultiVAC proposed an all-dimensional sharding solution to increase TPS of blockchain, and MultiVAC is the first one that proposed a flexible computing framework, so the developers can trade-off freely about the blockchain trilemma on this framework.",
+    "address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f"
+  },
+  {
+    "name": "CUBE",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AUTO",
+    "description": "Autonomous Car Future Mobility Platform",
+    "address": "0x622dffcc4e83c64ba959530a5a5580687a57581b"
+  },
+  {
+    "name": "cVault.finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CORE",
+    "description": "CORE is the first ever deflationary farming token.",
+    "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7"
+  },
+  {
+    "name": "Reflexer Ungovernance Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FLX",
+    "description": "FLX is the ungovernance token for the RAI stable asset and the Reflexer ecosystem. It is a backstop asset for the RAI protocol.",
+    "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4"
+  },
+  {
+    "name": "AIOZ Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AIOZ",
+    "description": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
+    "address": "0x626e8036deb333b408be468f951bdb42433cbf18"
+  },
+  {
+    "name": "StrikeCoin Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STC",
+    "description": "-",
+    "address": "0x629aee55ed49581c33ab27f9403f7992a289ffd5"
   },
   {
     "name": "Shine Network Token",
@@ -616,6 +2248,46 @@
     "address": "0x630323f3a19d248cab2fa9ef1cd743e7985768dd"
   },
   {
+    "name": "PEAK",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "PEAK",
+    "description": "PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth.",
+    "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+  },
+  {
+    "name": "MarketPeak",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "PEAK",
+    "description": "-",
+    "address": "0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d"
+  },
+  {
+    "name": "BigTorum Stake",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "BTS",
+    "description": "-",
+    "address": "0x63dcad9e5f2d784fc4f12abf61ec47236faba895"
+  },
+  {
+    "name": "GAME Credits",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GAME",
+    "description": "The next-generation blockchain platform for large-scale online games and social apps. GAME Credits is a platform eSports solution for true digital item ownership - Blockchain for every game and every gamer - empower your players and deliver what they want - true ownership, digital security and boundless possibilities for fun.",
+    "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
+  },
+  {
+    "name": "E-RADIX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "eXRD",
+    "description": "E-RADIX (eXRD) is the Ethereum token of Radix, the first layer one protocol built for DeFi. Radix introduces a scalable, secure-by-design, composable platform with a DeFi specific build environment to make it easy to build and launch scalable DeFi.",
+    "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
+  },
+  {
     "name": "Chronobank TIME (EOL)",
     "type": "ERC20",
     "decimals": 8,
@@ -624,12 +2296,36 @@
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
   },
   {
+    "name": "BTSE Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BTSE",
+    "description": "BTSE utility token carefully designed to augment the user experience on the exchange and within the BTSE ecosystem.",
+    "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
+  },
+  {
+    "name": "SyncFab Smart Manufacturing Blockchain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MFG",
+    "description": "Decentralizing Manufacturing Supply Chains with Blockchain and the MFG Token",
+    "address": "0x6710c63432a2de02954fc0f851db07146a6c0312"
+  },
+  {
     "name": "USDN",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "USDN",
     "description": "Neutrino USDN is a stablecoin issued on Waves Protocol. Collaterization is based on NSBT. More details in WP.",
     "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0"
+  },
+  {
+    "name": "Start Chain",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "STC",
+    "description": "-",
+    "address": "0x6752787d5a119dad443e97cc6cc4449c655ed5d2"
   },
   {
     "name": "Gnosis",
@@ -648,12 +2344,36 @@
     "address": "0x681724368d052a4e29fc226ed5085082d74fe716"
   },
   {
+    "name": "BAR Coin",
+    "type": "ERC20",
+    "decimals": 5,
+    "symbol": "BAR",
+    "description": "-",
+    "address": "0x69765c619f11bbcc5c382f9127383a2126f94138"
+  },
+  {
+    "name": "Mask Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MASK",
+    "description": "The portal to the new, open internet.",
+    "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+  },
+  {
     "name": "Crowdvilla Ownership",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "CRV",
     "description": "-",
     "address": "0x69f64d814aa278825997e71738120392993973a4"
+  },
+  {
+    "name": "Elitium",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "EUM",
+    "description": "Elitium provides a luxury lifestyle platform for its clientele using a sustainable cryptocurrency solution.",
+    "address": "0x6ab4a7d75b0a42b6bc83e852dab9e121f9c610aa"
   },
   {
     "name": "Dai",
@@ -672,12 +2392,100 @@
     "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
   },
   {
+    "name": "MaskFactory",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MFT",
+    "description": "-",
+    "address": "0x6b60d7285504d73dd88547cf1289c3b5528827d3"
+  },
+  {
+    "name": "Gas DAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GAS",
+    "description": "A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network.",
+    "address": "0x6bba316c48b49bd1eac44573c5c871ff02958469"
+  },
+  {
+    "name": "QuickSwap",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QUICK",
+    "description": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
+    "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f"
+  },
+  {
+    "name": "Phala",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PHA",
+    "description": "Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs.",
+    "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
+  },
+  {
     "name": "Holo",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "HOT",
     "description": "Holochain (HOT) is a decentralized application platform that uses peer-to-peer networking for processing agent-centric agreement and consensus mechanisms between users.",
     "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+  },
+  {
+    "name": "GENE TOKEN (PARKGENE)",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "GENE",
+    "description": "Parkgene (GENE) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d"
+  },
+  {
+    "name": "Render Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RNDR",
+    "description": "Distributed GPU rendering on the blockchain.",
+    "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+  },
+  {
+    "name": "LQTY Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LQTY",
+    "description": "Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+    "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+  },
+  {
+    "name": "RAKON",
+    "type": "ERC20",
+    "decimals": 12,
+    "symbol": "RKN",
+    "description": "-",
+    "address": "0x6e5a43db10b04701385a34afb670e404bc7ea597"
+  },
+  {
+    "name": "InsurChain Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "INSUR",
+    "description": "-",
+    "address": "0x6ea6531b603f270d23d9edd2d8279135dc5d6773"
+  },
+  {
+    "name": "Swapscan",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SWP",
+    "description": "-",
+    "address": "0x6eab9c5e768c8c37e94dc236c6cde7dba4d0f3b3"
+  },
+  {
+    "name": "Gods Unchained",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "GODS",
+    "description": "-",
+    "address": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab"
   },
   {
     "name": "Huobi Token",
@@ -688,12 +2496,84 @@
     "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
+    "name": "New York Exchange Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NYE",
+    "description": "It utilizes the blockchain technology to create a financial integration between old classic stock and commodities market with the new trend of Crypto Trading platforms. Transaction Transparency: Records and manages price, contracts, and transaction history. Re-evaluation of Corporate Values: In order to safeguard ITO participants, our crypto holders and their assets, NYE controls potential risks by depending on objective metrics analysis and multi-variable assessment.",
+    "address": "0x6f5e77cea0abdda40013a8ef53639c96972fb745"
+  },
+  {
+    "name": "BitFlux",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FLX",
+    "description": "-",
+    "address": "0x70b147e01e9285e7ce68b9ba437fe3a9190e756a"
+  },
+  {
     "name": "Unica Coin",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "UNI",
     "description": "-",
     "address": "0x70d17291e47dc09852baec47ed795ce9b1d64789"
+  },
+  {
+    "name": "XSGD",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "XSGD",
+    "description": "Fully collateralised Singapore-dollar backed stablecoin. ",
+    "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
+  },
+  {
+    "name": "Highstreet",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HIGH",
+    "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.",
+    "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282"
+  },
+  {
+    "name": "Best US Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BEST",
+    "description": "-",
+    "address": "0x71c830a05d787c1316a55bf9055a6f5920218537"
+  },
+  {
+    "name": "GLOBALFOUNDATION",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "GF",
+    "description": "-",
+    "address": "0x727443713e3ff01411feaae52dae5d142a3c7b29"
+  },
+  {
+    "name": "BitBall Treasure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTRS",
+    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
+    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
+  },
+  {
+    "name": "JasmyCoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "JASMY",
+    "description": "JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+    "address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+  },
+  {
+    "name": "Strike Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STRK",
+    "description": "Strike Finance Governance Token",
+    "address": "0x74232704659ef37c08995e386a2e26cc27a8d7b1"
   },
   {
     "name": "Status",
@@ -704,12 +2584,36 @@
     "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
   },
   {
+    "name": "BOSAGORA",
+    "type": "ERC20",
+    "decimals": 7,
+    "symbol": "BOA",
+    "description": "BOSAGORA aims to establish a decentralized, censorship-resistant blockchain platform where stakers (part of the congress) can decide on what projects to support through a democratic decision-making process.",
+    "address": "0x746dda2ea243400d5a63e0700f190ab79f06489e"
+  },
+  {
+    "name": "HyperDao",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HDAO",
+    "description": "Decentralised Financial Services Ecosystem.",
+    "address": "0x74faab6986560fd1140508e4266d8a7b87274ffd"
+  },
+  {
     "name": "OKB",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "OKB",
     "description": "OKB is a global utility token issued by OK Blockchain foundation.",
     "address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+  },
+  {
+    "name": "Pyrrhos",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PYR",
+    "description": "-",
+    "address": "0x761684e229f04ce8985b49e3beb1cd994c776a21"
   },
   {
     "name": "Dogelon",
@@ -720,12 +2624,132 @@
     "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3"
   },
   {
+    "name": "LITION",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LIT",
+    "description": "-",
+    "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2"
+  },
+  {
+    "name": "Illuvium",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ILV",
+    "description": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
+    "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+  },
+  {
+    "name": "Value ETH",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "vETH",
+    "description": "Value DeFi: Bringing True Value to DeFi.",
+    "address": "0x76a034e76aa835363056dd418611e4f81870f16e"
+  },
+  {
+    "name": "MonsterEnergyToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0x76cb396be0f76dbc58a8eb0569b7163bf02d5555"
+  },
+  {
+    "name": "Tornado Cash",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TORN",
+    "description": "A fully decentralized protocol for private transactions on Ethereum.",
+    "address": "0x77777feddddffc19ff86db637967013e6c6a116c"
+  },
+  {
+    "name": "Fleta Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FLETA",
+    "description": "FLETA is a blockchain platform that aims to offer infrastructure that can be applied to real-world business models. FLETA has its own core blockchain technologies like Level Tree Validation, Parallel Sharding, Independent multi-chain Structure, Block Redesign, and PoF(Proof-of-Formulation) which is its own consensus algorithm.",
+    "address": "0x7788d759f21f53533051a9ae657fa05a1e068fc6"
+  },
+  {
+    "name": "Ampleforth Governance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FORTH",
+    "description": "FORTH is the governance token for the Ampleforth protocol. AMPL is the first rebasing currency and a key DeFi building block for denominating stable contracts. The AMPL protocol adjusts total supply daily based on market conditions, transferring volatility from price to supply. Unlike stablecoin models, AMPL does not rely on traditional banks or lenders of last resort.",
+    "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
+  },
+  {
+    "name": "Sentivate",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SNTVT",
+    "description": "SENTIVATE IS A HYBRID WEB BUILT TO BE A VIABLE & REALISTIC REPLACEMENT FOR THE MODERN WEB. FASTER, SAFER, & MORE SCALABLE THAN ANY SOLELY CENTRALIZED OR DECENTRALIZED WEB.",
+    "address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8"
+  },
+  {
     "name": "HarmonyOne",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ONE",
     "description": "-",
     "address": "0x799a4202c12ca952cb311598a024c80ed371a41e"
+  },
+  {
+    "name": "Astra",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "AST",
+    "description": "-",
+    "address": "0x79a00a26f05f901fbc7d29cccf1156ed0599b5fc"
+  },
+  {
+    "name": "Aether",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AETH",
+    "description": "-",
+    "address": "0x7a2cf566ee773acced9f4ac48bc05c11b31900c2"
+  },
+  {
+    "name": "AstroTokens",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "ASTRO",
+    "description": "-",
+    "address": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88"
+  },
+  {
+    "name": "EFILUM",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "EFI",
+    "description": "-",
+    "address": "0x7b6f4c8264a8da34f84c360923d32e82922665e2"
+  },
+  {
+    "name": "KOK Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KOK",
+    "description": "-",
+    "address": "0x7bd6a4e7db3a34c485a8dd02b30b6565e3bbc633"
+  },
+  {
+    "name": "Onyx USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OUSD",
+    "description": "-",
+    "address": "0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e"
+  },
+  {
+    "name": "Shping Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SHPING",
+    "description": "Shping is the ultimate shopping companion, allowing you to compare pricing on products with a simple barcode scan of a product and earn money for interacting with the products you love.",
+    "address": "0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec"
   },
   {
     "name": "Polygon",
@@ -736,12 +2760,100 @@
     "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
   },
   {
+    "name": "VectorspaceAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VXV",
+    "description": "Our platform powers research groups, data vendors, funds and institutions by generating on-demand NLP/NLU correlation matrix datasets",
+    "address": "0x7d29a64504629172a429e64183d6673b9dacbfce"
+  },
+  {
+    "name": "COS",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "COS",
+    "description": "One-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more.",
+    "address": "0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f"
+  },
+  {
+    "name": "GMT Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMT",
+    "description": "A token backed by real assets that brings in constantly growing daily BTC income to its owner.",
+    "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
+  },
+  {
+    "name": "REBITCOIN",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "RBTC",
+    "description": "REBITCOIN",
+    "address": "0x7f65be7fad0c22813e51746e7e8f13a20baa9411"
+  },
+  {
     "name": "Aave",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AAVE",
     "description": "Aave Protocol is a decentralised liquidity protocol where people can lend and borrow digital assets. The AAVE token is the governance token of the protocol, so AAVE holders can vote on proposals for updates. AAVE holders can also stake their AAVE in the protocol Safety Module and earn Safety Incentives for securing the protocol",
     "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+  },
+  {
+    "name": "Bitreal",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTR",
+    "description": "-",
+    "address": "0x8040d35ed6c82f75b1078cf5eb93a2cfd34b2bd8"
+  },
+  {
+    "name": "Pendle",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PENDLE",
+    "description": "Pendle is a protocol for people to trade and hedge yield. Users can tokenize yield and trade them on Pendle's AMM",
+    "address": "0x808507121b80c02388fad14726482e061b8da827"
+  },
+  {
+    "name": "Clover Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CLV",
+    "description": "Clover Finance is an infrastructure platform focused on cross-chain compatibility.",
+    "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52"
+  },
+  {
+    "name": "Measurable Data Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MDT",
+    "description": "Measurable Data Token (MDT) aims to provide a decentralized data economy, where data providers and data buyers can exchange data securely and anonymously.",
+    "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26"
+  },
+  {
+    "name": "Kin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KIN",
+    "description": "-",
+    "address": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5"
+  },
+  {
+    "name": "Rare",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "RARE",
+    "description": "-",
+    "address": "0x81b1bfd6cb9ad42db395c2a27f73d4dcf5777e2d"
+  },
+  {
+    "name": "Origin Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OGN",
+    "description": "Enabling peer-to-peer commerce",
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
   },
   {
     "name": "Ankr",
@@ -752,12 +2864,84 @@
     "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
   },
   {
+    "name": "EXNCE",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "XNC",
+    "description": "-",
+    "address": "0x8317b216d7c3f9a5b8401e4b6814d13a7be390ec"
+  },
+  {
     "name": "ProChain",
     "type": "ERC20",
     "decimals": 2,
     "symbol": "PRO",
     "description": "-",
     "address": "0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2"
+  },
+  {
+    "name": "Polkastarter",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "POLS",
+    "description": "Polkastarter is a DEX built for cross-chain token pools and auctions, enabling projects to raise capital on a decentralized, permissionless and interoperable environment based on Polkadot.",
+    "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
+  },
+  {
+    "name": "Unibright",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "UBT",
+    "description": "Unibright offers a unified framework that aims to bring blockchain technology and smart contracts to mainstream usage.",
+    "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e"
+  },
+  {
+    "name": "MannyBUX",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "BUX",
+    "description": "-",
+    "address": "0x84a2d83b9ef6474a085834e8cf00c5b4d7b99440"
+  },
+  {
+    "name": "DIA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DIA",
+    "description": "DIA (Decentralised Information Asset) claims to provide financial institutions with an immutable and verified single source of financial market data for any market and asset type.",
+    "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
+  },
+  {
+    "name": "Frax",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FRAX",
+    "description": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e"
+  },
+  {
+    "name": "KEEP Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KEEP",
+    "description": "Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.",
+    "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+  },
+  {
+    "name": "Moss Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MOC",
+    "description": "Moss Coin (MOC) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
+  },
+  {
+    "name": "Benex",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BNX",
+    "description": "-",
+    "address": "0x86f2e94d5886f005fa47f7c804c75eb4427144b5"
   },
   {
     "name": "EOS",
@@ -768,12 +2952,68 @@
     "address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
   },
   {
+    "name": "AVA ADVISORY",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVA",
+    "description": "-",
+    "address": "0x8743df749cb06c91445267d1fef1cf1cbafb49f2"
+  },
+  {
     "name": "Reserve Rights",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "RSR",
     "description": "The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.",
     "address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+  },
+  {
+    "name": "Uquid Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UQC",
+    "description": "UQC is a decentralized virtual currency based on the ERC20 token - one of Ethereum Technological trends. The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cashing out their coins.",
+    "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
+  },
+  {
+    "name": "Gene Source Code Chain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "Gene",
+    "description": "The Gene Source Code Foundation is building the world's largest distributed genomic and healthcare data storage system based on blockchain technology.",
+    "address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
+  },
+  {
+    "name": "Alien Worlds Trilium",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "TLM",
+    "description": "Trilium (TLM) is the native utility token of the Alien Worlds metaverse",
+    "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72"
+  },
+  {
+    "name": "Tellor",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TRB",
+    "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
+    "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+  },
+  {
+    "name": "Dego Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEGO",
+    "description": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.",
+    "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02"
+  },
+  {
+    "name": "Mint Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MINT",
+    "description": "-",
+    "address": "0x898f198a0138a51a357de0694948ea8e4e808507"
   },
   {
     "name": "WCOIN",
@@ -784,12 +3024,76 @@
     "address": "0x899338b84d25ac505a332adce7402d697d947494"
   },
   {
+    "name": "pNetwork",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNT",
+    "description": "The heartbeat of cross-chain composability.",
+    "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed"
+  },
+  {
     "name": "Chroma",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "CHR",
     "description": "-",
     "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2"
+  },
+  {
+    "name": "Vbitcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VBTC",
+    "description": "-",
+    "address": "0x8a48dfb33b8d6140c59f0a454c1d055d392af66c"
+  },
+  {
+    "name": "GET",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GET",
+    "description": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.",
+    "address": "0x8a854288a5976036a725879164ca3e91d30c6a1b"
+  },
+  {
+    "name": "MultiVAC",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MTV",
+    "description": "-",
+    "address": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1"
+  },
+  {
+    "name": "Akropolis",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AKRO",
+    "description": "Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
+    "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+  },
+  {
+    "name": "Tomocoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TOMO",
+    "description": "-",
+    "address": "0x8b353021189375591723e7384262f45709a3c3dc"
+  },
+  {
+    "name": "PolkaFoundry",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PKF",
+    "description": "PolkaFoundry is a platform for creating borderless and frictionless DeFi apps. It is designed to unleash developers to explore new horizons of the DeFi landscape.",
+    "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+  },
+  {
+    "name": "Decentralized Finance Application",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DFA",
+    "description": "-",
+    "address": "0x8bedb57393f24fbddf36a76881e21ed5037d00a4"
   },
   {
     "name": "Function X",
@@ -816,6 +3120,14 @@
     "address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e"
   },
   {
+    "name": "StarLink $STARL",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STARL",
+    "description": "Starlink Metaverse is a 3D video game featuring NFT collectible virtual real-estate powered by blockchain technology. ",
+    "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"
+  },
+  {
     "name": "Pax Dollar",
     "type": "ERC20",
     "decimals": 18,
@@ -824,12 +3136,44 @@
     "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
   },
   {
+    "name": "StarChainToken",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "STC",
+    "description": "-",
+    "address": "0x8f136cc8bef1fea4a7b71aa2301ff1a52f084384"
+  },
+  {
+    "name": "Veritaseum",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VERI",
+    "description": "Veritaseum is a smart contracts-based, peer-to-peer wallet interface (in beta) that currently interacts with Bitcoin blockchain (to be ported to Ethereum).",
+    "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+  },
+  {
+    "name": "Streamr",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+    "address": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+  },
+  {
     "name": "Request Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "REQ",
     "description": "The Request Network itself is an Ethereum-based decentralized payment system where anyone can request a payment and receive money through secure means.",
     "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+  },
+  {
+    "name": "ICHI",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "ICHI",
+    "description": "ICHI is the ichi.farm governance token that enables (1) proposal submission, (2) voting, and (3) governance of ichi.farm's living agreement. The living agreement is between major cryptocurrencies to drive mass adoption of crypto through purchasing power protection, attractive passive income, and superior incentives.",
+    "address": "0x903bef1736cddf2a537176cf3c64579c3867a881"
   },
   {
     "name": "ProToken",
@@ -848,12 +3192,44 @@
     "address": "0x908c44d44334a9c70e28f3a15a737b550ca34abe"
   },
   {
+    "name": "LikeApp",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "LIKE",
+    "description": "popular global platform for creating and sharing original videos.",
+    "address": "0x92298fa0647b5dcff6eeabab97c9bd81b5c30d06"
+  },
+  {
     "name": "dYdX",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "DYDX",
     "description": "Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.",
     "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+  },
+  {
+    "name": "Spirit",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPIRIT",
+    "description": "-",
+    "address": "0x92d7a89405ea3cc605a467e834236e09df60bf16"
+  },
+  {
+    "name": "WHALE",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "WHALE",
+    "description": "WHALE claims to be the first social token backed by the best NFT collection around.",
+    "address": "0x9355372396e3f6daf13359b7b607a3374cc638e0"
+  },
+  {
+    "name": "Pinakion",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNK",
+    "description": "Kleros is a decentralized arbitration service for the disputes of the new economy.",
+    "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
   },
   {
     "name": "Dusk Network",
@@ -864,12 +3240,44 @@
     "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551"
   },
   {
+    "name": "Bitsrent",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTR",
+    "description": "-",
+    "address": "0x945192524c6605d20be6c529dd318666b74078bc"
+  },
+  {
     "name": "Mandala Exchange Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MDX",
     "description": "Mandala Exchange users can unlock platform enhancements and receive trading fee rebates by locking MDX on the platform.",
     "address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788"
+  },
+  {
+    "name": "StonieCoin BETA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STC",
+    "description": "-",
+    "address": "0x9484451e0d1c3364ac50ae77ec72300a3dd896b5"
+  },
+  {
+    "name": "Merit Circle",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MC",
+    "description": "Merit Circle is a game guild DAO focusing on maximizing yield across play to earn (p2e) games and the metaverse. The DAO will manage capital which will be allocated among managers and players in order to earn yield by playing games.",
+    "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6"
+  },
+  {
+    "name": "SURETY Token",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "SURE",
+    "description": "-",
+    "address": "0x95382ac82e886a367bac9e1e23beabe569bcfed8"
   },
   {
     "name": "Fei USD",
@@ -904,12 +3312,76 @@
     "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
   },
   {
+    "name": "Newscrypto",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NWC",
+    "description": "Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.",
+    "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+  },
+  {
+    "name": "Fuse Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FUSE",
+    "description": "Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.",
+    "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d"
+  },
+  {
+    "name": "DxChain Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DX",
+    "description": "DxChain is the world’s first decentralized big data and machine learning network powered by a computing-centric blockchain.",
+    "address": "0x973e52691176d36453868d9d86572788d27041a9"
+  },
+  {
+    "name": "AskToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ASK",
+    "description": "-",
+    "address": "0x98033a0be912b04842c8d4e1de8d794ef0253321"
+  },
+  {
+    "name": "BitMartToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BMX",
+    "description": "BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts. BMX is an ERC20 based token issued by BitMart Exchange.",
+    "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
+  },
+  {
+    "name": "Strong",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STRONG",
+    "description": "Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x990f341946a3fdb507ae7e52d17851b87168017c"
+  },
+  {
     "name": "Polymath",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "POLY",
     "description": "Polymath is creating a global platform for issuing and investing in securities tokens.",
     "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
+  },
+  {
+    "name": "Bax",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BAX",
+    "description": "A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.",
+    "address": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb"
+  },
+  {
+    "name": "HuntToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HUNT",
+    "description": "HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
   },
   {
     "name": "Hydro Protocol",
@@ -928,12 +3400,60 @@
     "address": "0x9d57aeeafb19f606a42d29fdbfed0fe3d61a0e69"
   },
   {
+    "name": "MetisDAO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "Metis",
+    "description": "Metis Token",
+    "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e"
+  },
+  {
+    "name": "Nectar",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NCT",
+    "description": "PolySwarm is a more effective way to detect, analyze and respond to the latest threats, the ones more likely to go undetected by existing solutions.",
+    "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+  },
+  {
+    "name": "Toilet Paper Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TPT",
+    "description": "-",
+    "address": "0x9ee4f2f8a4ee74a982d2ccb2bba962e572f39679"
+  },
+  {
+    "name": "Tapcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TTT",
+    "description": "Tapcoin (TTT) is a revolutionary token that decentralizes the gaming industry by providing gamers and developers with in-game virtual currencies.",
+    "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382"
+  },
+  {
     "name": "Maker",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MKR",
     "description": "Maker (MKR) is a utility token, governance token and recapitalization resource of the Maker system.",
     "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+  },
+  {
+    "name": "DeRace Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DERC",
+    "description": "DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome",
+    "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae"
+  },
+  {
+    "name": "Harvest Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FARM",
+    "description": "Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques.",
+    "address": "0xa0246c9032bc3a600820415ae600c6388619a14d"
   },
   {
     "name": "Crypto.com Coin",
@@ -960,12 +3480,68 @@
     "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
   },
   {
+    "name": "YFII",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "YFII",
+    "description": "YFII is a fork of Yearn.finance YFI with YIP 8 implemented.",
+    "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83"
+  },
+  {
+    "name": "DXD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DXD",
+    "description": "The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses. It develops, governs, and grows DeFi protocols and products. Owned and operated by the community, the DXdao has the potential to significantly scale its membership.",
+    "address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521"
+  },
+  {
+    "name": "RFOX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RFOX",
+    "description": "REDFOXLABS is a tech-forward digital venture builder delivering companies & platforms that are secure, scalable, and innovative, bringing the world into a new era of technology and prosperity.",
+    "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262"
+  },
+  {
     "name": "Alpha Finance Lab",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ALPHA",
     "description": "Alpha Finance Lab is an ecosystem of cross-chain DeFi products that will interoperate to bring optimal alpha returns to users. Alpha products focus on capturing unaddressed demand in DeFi in an innovative and user friendly way.",
     "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975"
+  },
+  {
+    "name": "Automata",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ATA",
+    "description": "Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.",
+    "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225"
+  },
+  {
+    "name": "Peak Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PEAK",
+    "description": "-",
+    "address": "0xa2a8dec9d963e2fe7a5ab8469586b07ef53bb505"
+  },
+  {
+    "name": "Lattice Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "LTX",
+    "description": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).",
+    "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
+  },
+  {
+    "name": "Metronome",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
   },
   {
     "name": "UST Token",
@@ -976,6 +3552,30 @@
     "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
   },
   {
+    "name": "Loom Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOOM",
+    "description": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
+    "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+  },
+  {
+    "name": "MASTER USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MUSD",
+    "description": "-",
+    "address": "0xa52383b665b91dce42dd4b6d1e0fb37d3effe489"
+  },
+  {
+    "name": "Mundicoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "MC",
+    "description": "-",
+    "address": "0xa53e261b20b6cd828082c735cb2eabbf74b96fa6"
+  },
+  {
     "name": "TimeMiner",
     "type": "ERC20",
     "decimals": 6,
@@ -984,12 +3584,84 @@
     "address": "0xa54c67bd320da4f9725a6f585b7635a0c09b122e"
   },
   {
+    "name": "CryptoBitGames",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CBG",
+    "description": "-",
+    "address": "0xa561addf39eb8b8d870ccb1cfb584d998209b8e8"
+  },
+  {
+    "name": "Merlin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MLN",
+    "description": "-",
+    "address": "0xa69925428299287d3724b4b9a31ea8ce191497de"
+  },
+  {
+    "name": "Internxt",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "INXT",
+    "description": "-",
+    "address": "0xa8006c4ca56f24d6836727d106349320db7fef82"
+  },
+  {
+    "name": "Sport AND Leisure",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "SnL",
+    "description": "SnL token describes itself as a stable, Ethereum-backed asset that aims to eliminate counterparty, market, or security risks.",
+    "address": "0xa806b3fed6891136940cf81c4085661500aa2709"
+  },
+  {
     "name": "Constellation",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "DAG",
     "description": "-",
     "address": "0xa8258abc8f2811dd48eccd209db68f25e3e34667"
+  },
+  {
+    "name": "Mass Vehicle Ledger Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MVL",
+    "description": "-",
+    "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71"
+  },
+  {
+    "name": "AntiscamToken (AST)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AST",
+    "description": "-",
+    "address": "0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e"
+  },
+  {
+    "name": "LUKSO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LYXe",
+    "description": "LUKSO is the Blockchain for the new digital lifestyle.",
+    "address": "0xa8b919680258d369114910511cc87595aec0be6d"
+  },
+  {
+    "name": "Syntropy",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NOIA",
+    "description": "Syntropy is transforming the public internet into a secure and user-centric internet through a unifying layer where encryption and optimized performance are built-in and automatically enabled for anything and everything connected to it.",
+    "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca"
+  },
+  {
+    "name": "Bella Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BEL",
+    "description": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking.",
+    "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14"
   },
   {
     "name": "BIGTIGER",
@@ -1032,12 +3704,84 @@
     "address": "0xaba2b920db501dbeb8651bcec8660cb871cecac1"
   },
   {
+    "name": "Offshift",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XFT",
+    "description": "Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.",
+    "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be"
+  },
+  {
     "name": "My Neighbor Alice",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "ALICE",
     "description": "A social simulation Blockchain game owned by players.",
     "address": "0xac51066d7bec65dc4589368da368b212745d63e8"
+  },
+  {
+    "name": "Scatter.cx",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STT",
+    "description": "An experimental ERC-20 token designed to reach as many wallets as possible. Spread Scatter Token to earn STT with every token transaction. The more ETH addresses you infect with STT the more you can earn. A novel method of minting and token distribution.",
+    "address": "0xac9bb427953ac7fddc562adca86cf42d988047fd"
+  },
+  {
+    "name": "TERASU",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TRU",
+    "description": "-",
+    "address": "0xad9355f782c6ec75f134b93304b8f9a691a4432a"
+  },
+  {
+    "name": "Ambire AdEx",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ADX",
+    "description": "The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy.",
+    "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+  },
+  {
+    "name": "Coin98",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "C98",
+    "description": "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
+    "address": "0xae12c5930881c53715b369cec7606b70d8eb229f"
+  },
+  {
+    "name": "Aergo",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AERGO",
+    "description": "Aergo describes itself as an open-source enterprise blockchain platform optimized for hybrid deployments, which consist of both permissioned and permissionless blockchain architectures.",
+    "address": "0xae31b85bfe62747d0836b82608b4830361a3d37a"
+  },
+  {
+    "name": "REBITCOIN",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "RBTC",
+    "description": "REBITCOIN token.",
+    "address": "0xae690cf07c85bfb2de29ab32080c0ea182ae82b5"
+  },
+  {
+    "name": "LGCY Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LGCY",
+    "description": "LGCY (Legacy) Network is a dApp based blockchain running on the Libertas Protocol to engage community participation.",
+    "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+  },
+  {
+    "name": "stETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "stETH",
+    "description": "stETH is a token that represents staked ether in Lido.",
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
   },
   {
     "name": "Fetch.ai",
@@ -1056,12 +3800,52 @@
     "address": "0xaeb1b41981f7aa5740c7cc0ef5822a40149ec230"
   },
   {
+    "name": "Invictus Hyperion",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "IHF",
+    "description": "The Hyperion Fund is a closed-end blockchain-based venture capital fund.",
+    "address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
+  },
+  {
+    "name": "HUMToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HUM",
+    "description": "-",
+    "address": "0xb0514a5b4aa58ac6e954f537598dd42a71916581"
+  },
+  {
     "name": "CEEK",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CEEK",
     "description": "CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1"
+  },
+  {
+    "name": "Lotto",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOTTO",
+    "description": "A massive lottery between everyone in the DeFi space where tokens are automatically removed from all wallets, pooled together, and given to one user at random!",
+    "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858"
+  },
+  {
+    "name": "NABS",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NBS",
+    "description": "-",
+    "address": "0xb14cc02f02528af4a192b7b502218c5eaf251cf9"
+  },
+  {
+    "name": "MaverickChain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MVC",
+    "description": "A BAAS platform serves for global blockchain financial market.",
+    "address": "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3"
   },
   {
     "name": "ZenFinance",
@@ -1080,12 +3864,52 @@
     "address": "0xb2b834900ee97e487d521fc09243f19a1a4a3099"
   },
   {
+    "name": "Global Messaging Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMT",
+    "description": "-",
+    "address": "0xb3bd49e28f8f832b8d1e246106991e546c323502"
+  },
+  {
+    "name": "Rocket Pool",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RPL",
+    "description": "Rocket Pool (RPL) is a cryptocurrency and operates on the Ethereum platform. Decentralised Proof of Stake Pool",
+    "address": "0xb4efd85c19999d84251304bda99e90b92300bd93"
+  },
+  {
+    "name": "Litentry",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LIT",
+    "description": "Decentralized identity authentication and user activity data management Infrastructure.",
+    "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723"
+  },
+  {
+    "name": "inSure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SURE",
+    "description": "inSure (SURE) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0xb5a4ac5b04e777230ba3381195eff6a60c3934f2"
+  },
+  {
     "name": "ICON",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ICX",
     "description": "-",
     "address": "0xb5a5f22694352c15b00323844ad545abb2b11028"
+  },
+  {
+    "name": "Alteryx Labs",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ALT",
+    "description": "-",
+    "address": "0xb5cc99f4ff0ecaa55d705e83106296e00e507f93"
   },
   {
     "name": "Nexo",
@@ -1104,12 +3928,76 @@
     "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
   },
   {
+    "name": "BTU Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTU",
+    "description": "BTU Protocol is a peer-to-peer booking protocol.",
+    "address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
+  },
+  {
+    "name": "CargoX Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CXO",
+    "description": "CargoX aims to disrupt the global logistics industry by replacing legacy paper Bill of Lading documents with Smart B/L Contract based on blockchain technology to able to state and transfer cargo ownership rights without the hassle of handling paper.",
+    "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143"
+  },
+  {
+    "name": "IDEX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "IDEX",
+    "description": "The IDEX token is the primary token of IDEX, enabling users to directly contribute to and benefit from the project.",
+    "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
+  },
+  {
+    "name": "Game.com Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GTC",
+    "description": "Game.com (GTC) is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0xb70835d7822ebb9426b56543e391846c107bd32c"
+  },
+  {
+    "name": "Atomic Ethereum",
+    "type": "ERC20",
+    "decimals": 1,
+    "symbol": "AETH",
+    "description": "-",
+    "address": "0xb7742216e874c7c33f608c41e625b01a6f323570"
+  },
+  {
+    "name": "VALOBIT",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VBIT",
+    "description": "Valobit Technology is described to be an advanced cybersecurity solution that will proactively identify hackers and distribute their profile information to the protected community over blockchain.",
+    "address": "0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4"
+  },
+  {
     "name": "GoldenRatio",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "GRT",
     "description": "GoldenRatio Token (GRT) project is an experiment which has no funding, to prove the importance of a quality community in a crypto related project.",
     "address": "0xb83cd8d39462b761bb0092437d38b37812dd80a2"
+  },
+  {
+    "name": "MovieBloc",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MBL",
+    "description": "-",
+    "address": "0xb879da8b24c9b8685de8526cf492e954f165d74b"
+  },
+  {
+    "name": "CityCashCoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "CITY",
+    "description": "-",
+    "address": "0xb89656b36f8bc6df78a1f38bf80a3d32bf706272"
   },
   {
     "name": "BNB",
@@ -1128,12 +4016,44 @@
     "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
   },
   {
+    "name": "Balancer",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BAL",
+    "description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor.",
+    "address": "0xba100000625a3754423978a60c9317c58a424e3d"
+  },
+  {
+    "name": "Band Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BAND",
+    "description": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
+    "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+  },
+  {
+    "name": "ARPA Chain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ARPA",
+    "description": "Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).",
+    "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a"
+  },
+  {
     "name": "SwissBorg",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "CHSB",
     "description": "SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.",
     "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
+  },
+  {
+    "name": "PNGold",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNG",
+    "description": "-",
+    "address": "0xbae1adc451fcafbb2e6850d163a8663f419cb420"
   },
   {
     "name": "Axie Infinity Shard",
@@ -1144,6 +4064,22 @@
     "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
   },
   {
+    "name": "CryptoSoul",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOUL",
+    "description": "We Build Popular Mobile Crypto Games With Utility Cryptocurrency.",
+    "address": "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29"
+  },
+  {
+    "name": "TheDAO",
+    "type": "ERC20",
+    "decimals": 16,
+    "symbol": "DAO",
+    "description": "TheDAO was launched in 2016. It was the first major DAO project on Ethereum. The tokens continue to be active today",
+    "address": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413"
+  },
+  {
     "name": "Loopring",
     "type": "ERC20",
     "decimals": 18,
@@ -1152,12 +4088,44 @@
     "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
   },
   {
+    "name": "Ethernity Chain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ERN",
+    "description": "What is Ethernity Chain? Ethernity is the groundbreaking authenticated NFT project which auctions verified artwork featuring the top artists and stars from music, film, sports and entertainment. Each of these digital artworks is represented as a non-fungible token (NFT). The pieces feature well-known public figures and a portion of all funds raised from the endeavor will be donated to charitable causes.",
+    "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+  },
+  {
     "name": "Perpetual",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "PERP",
     "description": "Decentralized Perpetual Contract for Every Assets",
     "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+  },
+  {
+    "name": "ZB Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ZB",
+    "description": "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange.",
+    "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927"
+  },
+  {
+    "name": "StormX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STMX",
+    "description": "Earn crypto when you shop online.",
+    "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803"
+  },
+  {
+    "name": "USDX",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "USDX",
+    "description": "A fast way to transfer money globally in secured digital transactions.",
+    "address": "0xbec4a69d6a5fbcb2303c13d24ea1a51a6f19bd12"
   },
   {
     "name": "aelf",
@@ -1174,6 +4142,14 @@
     "symbol": "WIN",
     "description": "-",
     "address": "0xbfaa8cf522136c6fafc1d53fe4b85b4603c765b8"
+  },
+  {
+    "name": "IMSMART",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "IMT",
+    "description": "Imsmart is a utility token designed to facilitate the advanced development and deployment of SME 360 solutions.",
+    "address": "0xbfe03707adb75b478add9a01978057803f480e44"
   },
   {
     "name": "Compound",
@@ -1200,12 +4176,92 @@
     "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
   },
   {
+    "name": "LINA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LINA",
+    "description": "-",
+    "address": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50"
+  },
+  {
     "name": "Ether Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ETH",
     "description": "-",
     "address": "0xc0829421c1d260bd3cb3e0f06cfe2d52db2ce315"
+  },
+  {
+    "name": "GYEN",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "GYEN",
+    "description": "GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments",
+    "address": "0xc08512927d12348f6620a698105e1baac6ecd911"
+  },
+  {
+    "name": "HUMToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HUM",
+    "description": "-",
+    "address": "0xc16bc517fe6b15903d6cbf02ffc447291477a43a"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ENS",
+    "description": "Decentralised naming for wallets, websites, & more.",
+    "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+  },
+  {
+    "name": "YGG",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "YGG",
+    "description": "-",
+    "address": "0xc254664c7408dde413969fbcd593328f6099e32f"
+  },
+  {
+    "name": "ERC20",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ERC20",
+    "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
+    "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea"
+  },
+  {
+    "name": "Shares",
+    "type": "ERC20",
+    "decimals": 10,
+    "symbol": "SHR",
+    "description": "-",
+    "address": "0xc434b0584355039392bba077b2b58ae614b6f18c"
+  },
+  {
+    "name": "BOSON Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BOSON",
+    "description": "The $BOSON token is the core economic unit of the Boson ecosystem.",
+    "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9"
+  },
+  {
+    "name": "Gifto",
+    "type": "ERC20",
+    "decimals": 5,
+    "symbol": "GTO",
+    "description": "-",
+    "address": "0xc5bbae50781be1669306b9e001eff57a2957b09d"
+  },
+  {
+    "name": "Locus Chain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOCUS",
+    "description": "Locus Chain believes that it has established the basis for anyone to freely participate in the network through nodes by implementing the technology called Verifiable Pruning, which allows for the validation of previous data with the least amount of hash values, and also dynamic sharding, which decreases the network load by dividing the network into shard units.",
+    "address": "0xc64500dd7b0f1794807e67802f8abbf5f8ffb054"
   },
   {
     "name": "MKR",
@@ -1224,6 +4280,54 @@
     "address": "0xc6e64729931f60d2c8bc70a27d66d9e0c28d1bf9"
   },
   {
+    "name": "Tribe",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TRIBE",
+    "description": "The governance token for Fei Protocol",
+    "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+  },
+  {
+    "name": "Billionaire Ambition",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BAR",
+    "description": "-",
+    "address": "0xc73f2474001ad1d6aed615af53631148cf98de6b"
+  },
+  {
+    "name": "Titanium BAR Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BAR",
+    "description": "-",
+    "address": "0xc7579bb99af590ec71c316e1ac4436c535039594"
+  },
+  {
+    "name": "FOX",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FOX",
+    "description": "FOX is ShapeShift’s official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). ",
+    "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
+  },
+  {
+    "name": "Banker Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BNK",
+    "description": "Bankera is an operational fork of SpectroCoin. As SpectroCoin to be competitive has developed bank-like infrastructure, but was not intended to become a proper bank, it is releasing Bankera to leverage its regulatory and IT infrastructure to develop a bank for the blockchain era. Bankera as a proper bank will offer payments, investments, and loan and deposit solutions. Later on, it is planing to develop new types of money, such as inflation linked baskets.",
+    "address": "0xc80c5e40220172b36adee2c951f26f2a577810c5"
+  },
+  {
+    "name": "SENTINEL PROTOCOL",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UPP",
+    "description": "Sentinel Protocol, operated and developed by Uppsala Security, is the world's first crowdsourced Threat Intelligence Platform powered by blockchain technology to protect the cyberspace.",
+    "address": "0xc86d054809623432210c107af2e3f619dcfbf652"
+  },
+  {
     "name": "USDP",
     "type": "ERC20",
     "decimals": 18,
@@ -1238,6 +4342,134 @@
     "symbol": "GRT",
     "description": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.",
     "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+  },
+  {
+    "name": "SODA Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SOC",
+    "description": "-",
+    "address": "0xcad49c39b72c37b32cee8b14f33f316d3a8bc335"
+  },
+  {
+    "name": "Wings",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WING",
+    "description": "Hyper deflationary token with unique rewards and burning protocol.",
+    "address": "0xcb3df3108635932d912632ef7132d03ecfc39080"
+  },
+  {
+    "name": "inSure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SURE",
+    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios.",
+    "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e"
+  },
+  {
+    "name": "Bytom",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BTM",
+    "description": "-",
+    "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750"
+  },
+  {
+    "name": "AstroTools",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ASTRO",
+    "description": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.",
+    "address": "0xcbd55d4ffc43467142761a764763652b48b969ff"
+  },
+  {
+    "name": "Game Magic",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "GAME",
+    "description": "-",
+    "address": "0xcbdfad49dad16a992978f2767506a0f3f11ae9c7"
+  },
+  {
+    "name": "Bither Platform Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTR",
+    "description": "-",
+    "address": "0xcbf15fb8246f679f9df0135881cb29a3746f734b"
+  },
+  {
+    "name": "TrustSwap Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SWAP",
+    "description": "A Full-Service Digital Asset Ecosystem.",
+    "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
+  },
+  {
+    "name": "Smooth Love Potion",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "SLP",
+    "description": "Smooth Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).",
+    "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25"
+  },
+  {
+    "name": "Aragon Network Juror",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ANJ",
+    "description": "Aragon Court handles subjective disputes that require the judgment of human jurors. These jurors stake a token called ANJ which allows them to be drafted into juries and earn fees for successfully adjudicating disputes.",
+    "address": "0xcd62b1c403fa761baadfc74c525ce2b51780b184"
+  },
+  {
+    "name": "BEPRO Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BEPRO",
+    "description": "A Code-as-a-Service protocol providing technology and support for blockchain-based applications",
+    "address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
+  },
+  {
+    "name": "LTO Network",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "LTO",
+    "description": "LTO Network is a layer-1 platform for decentralized identities, verifiable credentials and decentralized workflow applications, while maintaining data privacy and GDPR compliance.",
+    "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30"
+  },
+  {
+    "name": "Uquid Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UQC",
+    "description": "-",
+    "address": "0xd01db73e047855efb414e6202098c4be4cd2423b"
+  },
+  {
+    "name": "Fusion Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FSN",
+    "description": "-",
+    "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541"
+  },
+  {
+    "name": "Terra Virtua Kolect",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TVK",
+    "description": "TVK is the fuel of Terra Virtua, opening up a whole world of privileges, experiences and opportunities. Use TVK to get exclusive NFTs, drops, discounts, staking and other privileges.",
+    "address": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988"
+  },
+  {
+    "name": "Refereum",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "RFR",
+    "description": "Refereum uses the blockchain to directly connect developers and influencers, resulting in lower marketing costs and increased profits for everyone. In addition to more effective growth, Refereum strengthens engagement by offering cash prizes — enabling rewards for anything from an in-game high score to an eSports grand prize.",
+    "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
   },
   {
     "name": "Ultra Token",
@@ -1264,6 +4496,30 @@
     "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
   },
   {
+    "name": "Rari Governance Token (RGT)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RGT",
+    "description": "The Rari Governance Token is the native token behind Rari Capital.",
+    "address": "0xd291e7a03283640fdc51b121ac401383a46cc623"
+  },
+  {
+    "name": "Cubefinex",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CFX",
+    "description": "-",
+    "address": "0xd2beb403a9856f9ae83deab8dfcf286d7693010b"
+  },
+  {
+    "name": "Onyx USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OUSD",
+    "description": "-",
+    "address": "0xd2d01dd6aa7a2f5228c7c17298905a7c7e1dfe81"
+  },
+  {
     "name": "WinBlockChainNetwork",
     "type": "ERC20",
     "decimals": 18,
@@ -1272,12 +4528,52 @@
     "address": "0xd2f68556348a9d4d5b0b019b3c22f856d0c9ed9a"
   },
   {
+    "name": "Rocket Pool",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RPL",
+    "description": "Rocket Pool Protocol (RPL) - Decentralised Proof of Stake Pool",
+    "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+  },
+  {
     "name": "onG",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "ONG",
     "description": "SoMee.Social (ONG) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae"
+  },
+  {
+    "name": "WILD Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WILD",
+    "description": "-",
+    "address": "0xd3c00772b24d997a812249ca637a921e81357701"
+  },
+  {
+    "name": "Covalent",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CQT",
+    "description": "Covalent provides a unified API bringing visibility to billions of blockchain data points.",
+    "address": "0xd417144312dbf50465b1c641d016962017ef6240"
+  },
+  {
+    "name": "Bitrue Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTR",
+    "description": "Bitrue Coin (BTR) is the native asset on the Bitrue exchange. BTR is designed to support all Bitrue businesses such as trading fee deductions, cash deposits by projects, voting for listings, wealth management programs, and loan programs.",
+    "address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5"
+  },
+  {
+    "name": "Ampleforth",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "AMPL",
+    "description": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.",
+    "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
   },
   {
     "name": "Curve DAO Token",
@@ -1296,12 +4592,68 @@
     "address": "0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3"
   },
   {
+    "name": "Premium",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "PRE",
+    "description": "-",
+    "address": "0xd61eeacfe8035b5737c33cbc6f68bbf28a5db615"
+  },
+  {
     "name": "Velox",
     "type": "ERC20",
     "decimals": 2,
     "symbol": "VLX",
     "description": "-",
     "address": "0xd68f761ae71467996b65522711357e5cfc1045b3"
+  },
+  {
+    "name": "NXM",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "NXM",
+    "description": "Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.",
+    "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+  },
+  {
+    "name": "Proton",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "XPR",
+    "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and use crypto seamlessly.",
+    "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af"
+  },
+  {
+    "name": "ShareToken",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "SHR",
+    "description": "ShareRing is the first global sharing ecosystem that makes services and goods more accessible for everyone.",
+    "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964"
+  },
+  {
+    "name": "Kardiachain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KAI",
+    "description": "Kardiachain is a public blockchain platform focused on Interoperability and providing hybrid blockchain solutions for enterprises and governments in Vietnam and other countries in South & East Asia.",
+    "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093"
+  },
+  {
+    "name": "Swap",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SWAP",
+    "description": "-",
+    "address": "0xda32d3814b10aee35dcba4de4f6b2259916f9cbb"
+  },
+  {
+    "name": "Radium Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RAD",
+    "description": "-",
+    "address": "0xda4d69c10c03f9e07f69d091d525b70d8856e2b7"
   },
   {
     "name": "Tether",
@@ -1312,12 +4664,68 @@
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
   },
   {
+    "name": "Atari Token",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "ATRI",
+    "description": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry.",
+    "address": "0xdacd69347de42babfaecd09dc88958378780fb62"
+  },
+  {
+    "name": "Baby Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BABY",
+    "description": "-",
+    "address": "0xdb13fb60d3fddabc41743d9d603ce3f42c17d057"
+  },
+  {
+    "name": "STASIS EURO",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "EURS",
+    "description": "Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.",
+    "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
+  },
+  {
+    "name": "MissionBoss",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MOB",
+    "description": "-",
+    "address": "0xdc3c4f132fea66947cfdd57e287c1fbb94252677"
+  },
+  {
     "name": "Luna",
     "type": "ERC20",
     "decimals": 4,
     "symbol": "LUNA",
     "description": "-",
     "address": "0xdc5938384ae01489c5c8d071706e90dd42e33427"
+  },
+  {
+    "name": "Utrust",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UTK",
+    "description": "The Utrust platform allows merchants to accept digital currencies as a means of payment.",
+    "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c"
+  },
+  {
+    "name": "CryptoStrikers",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "STRK",
+    "description": "-",
+    "address": "0xdcaad9fd9a74144d226dbf94ce6162ca9f09ed7e"
+  },
+  {
+    "name": "Yield",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "YLD",
+    "description": "A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan",
+    "address": "0xdcb01cc464238396e213a6fdd933e36796eaff9f"
   },
   {
     "name": "Velox",
@@ -1336,12 +4744,100 @@
     "address": "0xddb3422497e61e13543bea06989c0789117555c5"
   },
   {
+    "name": "Gitcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GTC",
+    "description": "GTC is the governance token we’re using to decentralize Gitcoin into a DAO (GitcoinDAO) ecosystem, collectively working to fund the next generation of public goods.",
+    "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+  },
+  {
+    "name": "DEXE",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEXE",
+    "description": "Dexe.network or Dexe (Decentralized Social Trading Platform) – an online, decentralized and autonomous cryptocurrency assets portfolio environment which operates via autonomous smart contracts, that includes tools for virtual currency allocation, automatic rebalancing and eliminates the risks of transferring digital wallet details such as private keys and API or any virtual currency data to a third party.",
+    "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6"
+  },
+  {
+    "name": "Standard Tokenization Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "STPT",
+    "description": "Standard Tokenization Protocol describes itself as an open-source standard defining how tokenized assets are issued and transferred while complying with the necessary regulations.",
+    "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+  },
+  {
+    "name": "Kyber Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KNC",
+    "description": "Kyber Network’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem.",
+    "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+  },
+  {
+    "name": "VRA (old ERC-20)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VRA",
+    "description": "Verasity",
+    "address": "0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f"
+  },
+  {
+    "name": "Mainframe Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MFT",
+    "description": "Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more.",
+    "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428"
+  },
+  {
+    "name": "HUSD",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "HUSD",
+    "description": "The Safe and Secure Stablecoin.",
+    "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
+  },
+  {
+    "name": "Karma",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "KARMA",
+    "description": "-",
+    "address": "0xdfe691f37b6264a90ff507eb359c45d55037951c"
+  },
+  {
+    "name": "DigixDAO",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "DGD",
+    "description": "DigixDAO (DGD) is building a decentralized autonomous organization (DAO) that specializes in the tokenization of physical assets.",
+    "address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a"
+  },
+  {
+    "name": "GTIB",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "GTC",
+    "description": "-",
+    "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479"
+  },
+  {
     "name": "Injective",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "INJ",
     "description": "The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
     "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+  },
+  {
+    "name": "mStable USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "mUSD",
+    "description": "mStable unites stablecoins, lending and swapping into one standard.",
+    "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
   },
   {
     "name": "0x",
@@ -1358,6 +4854,30 @@
     "symbol": "REV",
     "description": "-",
     "address": "0xe4f7a608b0eedc93a97d1249c8bbda0e98077d29"
+  },
+  {
+    "name": "SuperFarm",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SUPER",
+    "description": "SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!",
+    "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
+  },
+  {
+    "name": "ZEON",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ZEON",
+    "description": "ZEON Network bills itself as a decentralized platform for financial services.",
+    "address": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532"
+  },
+  {
+    "name": "DockToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DOCK",
+    "description": "-",
+    "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c"
   },
   {
     "name": "Gatechain Token",
@@ -1384,12 +4904,164 @@
     "address": "0xe6be436df1ff96956dfe0b2b77fab84ede30236f"
   },
   {
+    "name": "ELA on Ethereum",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ELA",
+    "description": "Elastos is not an entity – it’s a global movement to build an internet that works for everyone. Starting with open source, decentralized web services, developers can build applications where all data is exchanged peer-to-peer, stored in a decentralized fashion, and secured by its owners via verifiable blockchain immutability and smart contract execution. This is an Internet of Value – with Values.",
+    "address": "0xe6fd75ff38adca4b97fbcd938c86b98772431867"
+  },
+  {
+    "name": "Balance token",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "BAL",
+    "description": "-",
+    "address": "0xe7049114562c759d5e9d1d25783773ccd61c0a65"
+  },
+  {
+    "name": "QuickCash",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QC",
+    "description": "QuickCash stable currency system.",
+    "address": "0xe74b35425fe7e33ea190b149805baf31139a8290"
+  },
+  {
+    "name": "Ultiledger",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ULT",
+    "description": "Ultiledger aims to build an economic and financial ecosystem based on token 'ULT' to help any organization that needs to build trust at a low cost and construct a distributed financial book and accounting system with bank-grade security.",
+    "address": "0xe884cc2795b9c45beeac0607da9539fd571ccf85"
+  },
+  {
+    "name": "Reputation",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "REP",
+    "description": "-",
+    "address": "0xe94327d07fc17907b4db788e5adf2ed424addff6"
+  },
+  {
+    "name": "Hyperion",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HYN",
+    "description": "Hyperion organically integrates innovations of three important dimensions, coined as the Hyperion Trinity, to eventually achieve a sustainable and self-governed map economy of the world. ",
+    "address": "0xe99a894a69d7c2e3c92e61b64c505a6a57d2bc07"
+  },
+  {
+    "name": "QuarkChain Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QKC",
+    "description": "QuarkChain is a flexible, scalable, and user-oriented blockchain infrastructure by applying blockchain sharding technology.",
+    "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"
+  },
+  {
+    "name": "\"\"",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "USDx",
+    "description": "-",
+    "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549"
+  },
+  {
     "name": "renBTC",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "renBTC",
     "description": "RenBTC is a token built by RenVM team to expose bitcoin-backed assets to the benefits of Ethereum's various decentralized finance (DeFi) platforms.",
     "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+  },
+  {
+    "name": "Everest",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ID",
+    "description": "Everest ID Token",
+    "address": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83"
+  },
+  {
+    "name": "Presearch",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PRE",
+    "description": "Presearch aims to build a next-generation search engine that is powered by its community.",
+    "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f"
+  },
+  {
+    "name": "Melon",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MLN",
+    "description": "Melon is an Ethereum-based protocol for decentralized on-chain asset management.",
+    "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+  },
+  {
+    "name": "IDIA Alliance",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "IDIA",
+    "description": "-",
+    "address": "0xec8a2d9944b521c8dc680c5678b1124b1b384604"
+  },
+  {
+    "name": "Perlin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PERL",
+    "description": "PerlinX — democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
+    "address": "0xeca82185adce47f39c684352b0439f030f860318"
+  },
+  {
+    "name": "Alchemy (ACH)",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "ACH",
+    "description": "Alchemy is a leading cryptocurrency payment solution and technology provider that powers online and offline merchants with fast, secure and convenient hybrid crypto-fiat payment systems and solutions.",
+    "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
+  },
+  {
+    "name": "e-Money NGM staking token",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "NGM",
+    "description": "ERC20 version of the e-Money NGM staking token",
+    "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
+  },
+  {
+    "name": "Exeedme",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XED",
+    "description": "New Revenue Streams for Gamers",
+    "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
+  },
+  {
+    "name": "Hermez Network Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HEZ",
+    "description": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
+    "address": "0xeef9f339514298c6a857efcfc1a762af84438dee"
+  },
+  {
+    "name": "Era Swap",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ES",
+    "description": "-",
+    "address": "0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
+  },
+  {
+    "name": "iEx.ec Network Token",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "RLC",
+    "description": "-",
+    "address": "0xf09209cc5eae846ee2cc4a493e7b962ca7bcfbbb"
   },
   {
     "name": "AXIS Token",
@@ -1400,6 +5072,46 @@
     "address": "0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28"
   },
   {
+    "name": "HedgeTrade",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HEDG",
+    "description": "HedgeTrade aims to become a platform where the world’s best traders share their knowledge.",
+    "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
+  },
+  {
+    "name": "Freeway Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FWT",
+    "description": "Freeway Tokens (FWT) are the native utility tokens for AuBit Freeway — a ground-breaking new asset management platform built for greater total returns on the world’s top investment products with no additional risk.",
+    "address": "0xf151980e7a781481709e8195744bf2399fb3cba4"
+  },
+  {
+    "name": "比特链",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BIT",
+    "description": "-",
+    "address": "0xf16843c8ab59ae17f9481ec756a1ded049192af4"
+  },
+  {
+    "name": "AVINOC Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVINOC",
+    "description": "AVINOC is a consistent, integrated and permissionless base data layer for decentralized, transparent and worldwide coordination of business flights within the general aviation, to achieve optimal utilization and reduce costs significantly.",
+    "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef"
+  },
+  {
+    "name": "Rally",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RLY",
+    "description": "Cryptocurrency for Creator Communities",
+    "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b"
+  },
+  {
     "name": "Tronix",
     "type": "ERC20",
     "decimals": 6,
@@ -1408,12 +5120,68 @@
     "address": "0xf230b790e05390fc8295f4d3f60332c93bed42e2"
   },
   {
+    "name": "BASIC Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BASIC",
+    "description": "Basic is a crypto finance platform where businesses and consumers can access finance services for crypto assets like bitcoin and ethereum.",
+    "address": "0xf25c91c87e0b1fd9b4064af0f427157aab0193a7"
+  },
+  {
+    "name": "Rai Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "Rai",
+    "description": "RAI Finance is a protocol designed to provide DeFi with a wider range of assets, a higher amount of liquidity, and a diverse set of financial use cases. When this feature set is combined with the cross-chain compatibility of the Polkadot ecosystem, it eliminates fragmentation across the existing DeFi ecosystem by bringing a complement of new assets and a higher amount of liquidity to decentralized finance.",
+    "address": "0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f"
+  },
+  {
     "name": "KuCoin Token",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "KCS",
     "description": "KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin’s decentralized financial services as well as the governance token of KuCoin Community.",
     "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
+  },
+  {
+    "name": "Deeper Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DPR",
+    "description": "The Decentralized Internet Infrastructure for Web3.0: A more secure, private and fairer internet for everyone",
+    "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
+  },
+  {
+    "name": "Verasity",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VRA",
+    "description": "Verasity",
+    "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+  },
+  {
+    "name": "PUSH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PUSH",
+    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
+    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
+  },
+  {
+    "name": "Metal",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "MTL",
+    "description": "Metal Pay makes it simple to keep track of where your money goes.",
+    "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+  },
+  {
+    "name": "Polkadex ERC-20 Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PDEX",
+    "description": "Utility token for Polkadex decentralized exchange",
+    "address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea"
   },
   {
     "name": "Lending Platform",
@@ -1456,12 +5224,36 @@
     "address": "0xf62baa1997f04f165edd100d78241e07617f6ce6"
   },
   {
+    "name": "Dicet",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CET",
+    "description": "-",
+    "address": "0xf660ca1e228e7be1fa8b4f5583145e31147fb577"
+  },
+  {
+    "name": "mVIXY Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "mVIXY",
+    "description": "Wrapped Mirror VIXY Token.",
+    "address": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86"
+  },
+  {
     "name": "DagX Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "DAG",
     "description": "-",
     "address": "0xf761f2dd63889885f4717056bdc32cc07c06dbbf"
+  },
+  {
+    "name": "BTMcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTM",
+    "description": "-",
+    "address": "0xf82d62d65f0c670ac4d88abdf1afefac11522a16"
   },
   {
     "name": "EFINITY Coin",
@@ -1472,6 +5264,38 @@
     "address": "0xf8a617d786dcb28f5d00f7e81b9f92b0cad617df"
   },
   {
+    "name": "Frontier",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FRONT",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+  },
+  {
+    "name": "TTism",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "TTT",
+    "description": "-",
+    "address": "0xf9366471f3c2f94608afa3e4951a5754c8606c32"
+  },
+  {
+    "name": "Yield",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "YLD",
+    "description": "YLD is a utility token that allows YIELD.app users to boost their APY",
+    "address": "0xf94b5c5651c888d928439ab6514b93944eee6f48"
+  },
+  {
+    "name": "SAITO Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SAITO",
+    "description": "Wrapped SAITO in ERC20 format for ETH ecosystem interoperability. Saito is a revolutionary blockchain that fixes major incentive problems in all proof-of-work and proof-of-stake networks.",
+    "address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b"
+  },
+  {
     "name": "blocktrade.com",
     "type": "ERC20",
     "decimals": 18,
@@ -1480,12 +5304,68 @@
     "address": "0xfa456cf55250a839088b27ee32a424d7dacb54ff"
   },
   {
+    "name": "Hoge Finance",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "HOGE",
+    "description": "We Meme Business.",
+    "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607"
+  },
+  {
+    "name": "Blockchain of Africa",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BOA",
+    "description": "-",
+    "address": "0xfb6becd99282d7ca14d0890f3e4f073d9dd522e9"
+  },
+  {
+    "name": "DEXTools",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DEXT",
+    "description": "Ultimate Hub and Defi App For Uniswap and DEX trading.",
+    "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+  },
+  {
+    "name": "AsmChain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ASM",
+    "description": "-",
+    "address": "0xfbb20e554d804c8c355be94d456921ea26ac2b37"
+  },
+  {
     "name": "WOO",
     "type": "ERC20",
     "decimals": 0,
     "symbol": "WOO",
     "description": "-",
     "address": "0xfbc418a8a911e6c294613154ed16e6f91c00f454"
+  },
+  {
+    "name": "WildLife",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "WILD",
+    "description": "-",
+    "address": "0xfbcfd010d007d10d49f516bb738f4aed12880225"
+  },
+  {
+    "name": "Token Prometeus Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PROM",
+    "description": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries.",
+    "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d"
+  },
+  {
+    "name": "Rarible",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RARI",
+    "description": "We think that the best way to align platform development with customers' interests is to empower the ones who actively interact with protocol: creators and collectors.",
+    "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
   },
   {
     "name": "Reef",
@@ -1504,12 +5384,28 @@
     "address": "0xfed347e43835da08f8a00654fb4b38bb1c46e071"
   },
   {
+    "name": "VIDT Datalink",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VIDT",
+    "description": "V-ID makes any digital file verifiable. The VIDT API enables organizations to protect their digital data against fraud and manipulation. A simple but strong formula, that adds and protects value at minimum expense and effort. Organizations like Airbus, AmSpec and IBM use VIDT Datalink to certify and secure digital documents like certificates, invoices, diplomas and sensor-data. VIDT Datalink products and services connect every cloud to every blockchain.",
+    "address": "0xfef4185594457050cc9c23980d301908fe057bb1"
+  },
+  {
     "name": "Amp",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "AMP",
     "description": "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility.",
     "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+  },
+  {
+    "name": "SOCIALMEDIACOIN",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LIKE",
+    "description": "-",
+    "address": "0xff21a0be6114cc4df52b6f39f68820c3b6ebfe45"
   },
   {
     "name": "Orbs",

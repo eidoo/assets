@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Avalanche C-Chain",
+    "type": "coin",
+    "decimals": 18,
+    "symbol": "AVAX",
+    "description": "Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. This is the C-Chain, the default smart contract blockchain on Avalanche that enables the creation of any Ethereum-compatible smart contracts.",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Pangolin",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "symbol": "PNG",
+    "description": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche",
+    "address": "0x60781c2586d68229fde47564546784ab3faca982"
+  }
+]
