@@ -52,6 +52,7 @@ For details, see the [Developers site](https://developer.trustwallet.com/add_new
 
 There are several scripts available for maintainers:
 
+- `npm run build` -- Example usage: `EIDOO_ASSETS_CMC_PRO_API_KEY="REPLACE_ME" npm run build`
 - `npm run check` -- Execute validation checks; also used in continuous integration.
 - `npm run check-sanity` -- Strict subset of checks
 - `npm run fix` -- Perform automatic fixes where possible

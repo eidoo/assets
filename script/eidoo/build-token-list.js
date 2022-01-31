@@ -11,7 +11,7 @@ const LIMIT = 800
     method: 'get',
     url: `https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?limit=${LIMIT}&sort=cmc_rank`,
     headers: {
-      'X-CMC_PRO_API_KEY': 'REPLACEME'
+      'X-CMC_PRO_API_KEY': process.env.EIDOO_ASSETS_CMC_PRO_API_KEY
     }
   })
 

@@ -4,6 +4,7 @@
   "description": "Assets consumed by Trust Wallet",
   "main": "index.js",
   "scripts": {
+    "build": "sh ./script/eidoo/build.sh",
     "test": "jest",
     "check": "ts-node ./script/entrypoint/check",
     "check-sanity": "ts-node ./script/entrypoint/check-sanity",
