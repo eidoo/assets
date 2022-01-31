@@ -48,6 +48,14 @@
     "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
   },
   {
+    "name": "PoaToken",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "POA",
+    "description": "-",
+    "address": "0x0110aa21dd3908837b8589ecc4bd5161b0235bb8"
+  },
+  {
     "name": "PlayChip",
     "type": "ERC20",
     "decimals": 18,
@@ -200,6 +208,14 @@
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
   },
   {
+    "name": "Crypterium",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRPT",
+    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
+    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+  },
+  {
     "name": "Edgeless",
     "type": "ERC20",
     "decimals": 0,
@@ -326,14 +342,6 @@
     "symbol": "RISE",
     "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
     "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
-  },
-  {
-    "name": "Public Mint",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MINT",
-    "description": "Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.",
-    "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059"
   },
   {
     "name": "Streamr DATAcoin",
@@ -800,6 +808,14 @@
     "address": "0x226f15cdbaa36814ce3cb287563069c32cc1a293"
   },
   {
+    "name": "Medanio",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "MEDA",
+    "description": "-",
+    "address": "0x2297685f1e219597b81e91d4ded22d5291d9eddd"
+  },
+  {
     "name": "DREP",
     "type": "ERC20",
     "decimals": 18,
@@ -846,6 +862,14 @@
     "symbol": "HNT",
     "description": "-",
     "address": "0x24fb4c36a83cbdbcd670856406f622e09a643d4d"
+  },
+  {
+    "name": "Yield Guild Games",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "YGG",
+    "description": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.",
+    "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
   },
   {
     "name": "Cellframe",
@@ -912,14 +936,6 @@
     "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
   },
   {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "-",
-    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
-  },
-  {
     "name": "FirstEnergy Token",
     "type": "ERC20",
     "decimals": 18,
@@ -966,14 +982,6 @@
     "symbol": "HEX",
     "description": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
     "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
-  },
-  {
-    "name": "Cream Finance",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CREAM",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "address": "0x2ba592f78db6436527729929aaf6c908497cb200"
   },
   {
     "name": "UST",
@@ -1102,14 +1110,6 @@
     "symbol": "MDT",
     "description": "-",
     "address": "0x32a087d5fdf8c84ec32554c56727a7c81124544e"
-  },
-  {
-    "name": "CRUST",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CRU",
-    "description": "CRUST provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer. Crust's technical stack is also capable of supporting a decentralized computing layer. It is designed to build a decentralized cloud ecosystem that values data privacy and ownership.",
-    "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
   },
   {
     "name": "HedgeTrade",
@@ -1576,6 +1576,14 @@
     "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
   },
   {
+    "name": "Gem Exchange and Trading",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GXT",
+    "description": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.",
+    "address": "0x4674672bcddda2ea5300f5207e1158185c944bc0"
+  },
+  {
     "name": "Telcoin",
     "type": "ERC20",
     "decimals": 2,
@@ -1910,6 +1918,14 @@
     "symbol": "BRD",
     "description": "BRD bills itself as 'the simple and secure onramp to bitcoin, ethereum, and other digital currencies'.",
     "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
+  },
+  {
+    "name": "ETH Player Key",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "EPK",
+    "description": "-",
+    "address": "0x56c438ee032224d93a5e9f182cbf4608cdfc928e"
   },
   {
     "name": "bZx Protocol Token",
@@ -2264,6 +2280,14 @@
     "address": "0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d"
   },
   {
+    "name": "Acash Coin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "ACA",
+    "description": "-",
+    "address": "0x63d958d765f5bd88efdbd8afd32445393b24907f"
+  },
+  {
     "name": "BigTorum Stake",
     "type": "ERC20",
     "decimals": 2,
@@ -2294,6 +2318,14 @@
     "symbol": "TIME",
     "description": "TIME is an utility token of Chronobank ecosystem",
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
+  },
+  {
+    "name": "CarTaxi",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CTX",
+    "description": "-",
+    "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
   },
   {
     "name": "BTSE Token",
@@ -2550,14 +2582,6 @@
     "symbol": "GF",
     "description": "-",
     "address": "0x727443713e3ff01411feaae52dae5d142a3c7b29"
-  },
-  {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
-    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
   },
   {
     "name": "JasmyCoin",
@@ -2936,6 +2960,14 @@
     "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
   },
   {
+    "name": "Oxycoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OXY",
+    "description": "-",
+    "address": "0x869b1f57380ae501d387b19262efd3c0eb7501b0"
+  },
+  {
     "name": "Benex",
     "type": "ERC20",
     "decimals": 8,
@@ -3006,14 +3038,6 @@
     "symbol": "DEGO",
     "description": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.",
     "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02"
-  },
-  {
-    "name": "Mint Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MINT",
-    "description": "-",
-    "address": "0x898f198a0138a51a357de0694948ea8e4e808507"
   },
   {
     "name": "WCOIN",
@@ -3368,12 +3392,12 @@
     "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
   },
   {
-    "name": "Bax",
+    "name": "Quantstamp Token",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "BAX",
-    "description": "A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.",
-    "address": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb"
+    "symbol": "QSP",
+    "description": "Quantstamp’s mission is to secure the decentralized internet, and has protected over $45B in digital asset risk from hackers.",
+    "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d"
   },
   {
     "name": "HuntToken",
@@ -3526,14 +3550,6 @@
     "symbol": "PEAK",
     "description": "-",
     "address": "0xa2a8dec9d963e2fe7a5ab8469586b07ef53bb505"
-  },
-  {
-    "name": "Lattice Token",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "LTX",
-    "description": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).",
-    "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
   },
   {
     "name": "Metronome",
@@ -3710,6 +3726,14 @@
     "symbol": "XFT",
     "description": "Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.",
     "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be"
+  },
+  {
+    "name": "DOVU",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DOV",
+    "description": "A unified Token, Wallet and HUB for Carbon Offsetting",
+    "address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1"
   },
   {
     "name": "My Neighbor Alice",
@@ -4008,6 +4032,14 @@
     "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
   },
   {
+    "name": "ArcBlock",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ABT",
+    "description": "ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.",
+    "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+  },
+  {
     "name": "digitalbits",
     "type": "ERC20",
     "decimals": 7,
@@ -4110,6 +4142,14 @@
     "symbol": "ZB",
     "description": "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange.",
     "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927"
+  },
+  {
+    "name": "Nextar Standard",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "NEX",
+    "description": "-",
+    "address": "0xbe8f047fc2eb324911e8ef9040f175984dc2dc18"
   },
   {
     "name": "StormX",
@@ -4262,6 +4302,14 @@
     "symbol": "LOCUS",
     "description": "Locus Chain believes that it has established the basis for anyone to freely participate in the network through nodes by implementing the technology called Verifiable Pruning, which allows for the validation of previous data with the least amount of hash values, and also dynamic sharding, which decreases the network load by dividing the network into shard units.",
     "address": "0xc64500dd7b0f1794807e67802f8abbf5f8ffb054"
+  },
+  {
+    "name": "BitTorrent",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTT",
+    "description": "BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.",
+    "address": "0xc669928185dbce49d2230cc9b0979be6dc797957"
   },
   {
     "name": "MKR",
@@ -4624,6 +4672,22 @@
     "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af"
   },
   {
+    "name": "OxyCoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "OXY",
+    "description": "OxyCoin (OXY) is an ERC20 Token that supplied 244,140,625,000,000,000,000 coins",
+    "address": "0xd83a162d4808c370a1445646e64cc4861eb60b92"
+  },
+  {
+    "name": "GAMEE Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMEE",
+    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+    "address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
+  },
+  {
     "name": "ShareToken",
     "type": "ERC20",
     "decimals": 2,
@@ -4670,6 +4734,14 @@
     "symbol": "ATRI",
     "description": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry.",
     "address": "0xdacd69347de42babfaecd09dc88958378780fb62"
+  },
+  {
+    "name": "EpiK Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "EPK",
+    "description": "EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.",
+    "address": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4"
   },
   {
     "name": "Baby Token",
@@ -4830,6 +4902,14 @@
     "symbol": "INJ",
     "description": "The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
     "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+  },
+  {
+    "name": "NEX",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "NEX",
+    "description": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the non-custodial Nash Exchange to receive a revenue share.",
+    "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
   },
   {
     "name": "mStable USD",
@@ -5024,22 +5104,6 @@
     "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
   },
   {
-    "name": "e-Money NGM staking token",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "NGM",
-    "description": "ERC20 version of the e-Money NGM staking token",
-    "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
-  },
-  {
-    "name": "Exeedme",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "XED",
-    "description": "New Revenue Streams for Gamers",
-    "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
-  },
-  {
     "name": "Hermez Network Token",
     "type": "ERC20",
     "decimals": 18,
@@ -5158,14 +5222,6 @@
     "symbol": "VRA",
     "description": "Verasity",
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
-  },
-  {
-    "name": "PUSH",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PUSH",
-    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
-    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
   },
   {
     "name": "Metal",
