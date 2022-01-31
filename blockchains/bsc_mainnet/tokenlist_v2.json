@@ -176,6 +176,14 @@
     "address": "0x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9"
   },
   {
+    "name": "Yield Guild Games",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "YGG",
+    "description": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.",
+    "address": "0x13ab6739368a4e4abf24695bf52959224367391f"
+  },
+  {
     "name": "Binance-Peg TrueUSD",
     "type": "BEP20",
     "decimals": 18,
@@ -238,14 +246,6 @@
     "symbol": "XRP",
     "description": "Binance-Peg XRP Token (XRP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to XRP (XRP) at a ratio of 1:1.",
     "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
-  },
-  {
-    "name": "Mint.club",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "MINT",
-    "description": "Mint Club is a smart token building platform that has no need to code and provides instant liquidity. Anyone can launch a smart token with just a few simple clicks.",
-    "address": "0x1f3af095cda17d63cad238358837321e95fc5915"
   },
   {
     "name": "Binance-Peg Celer Token",
@@ -360,6 +360,14 @@
     "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d"
   },
   {
+    "name": "BitTorrent",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BTT",
+    "description": "BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.",
+    "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b"
+  },
+  {
     "name": "DeRace Token",
     "type": "BEP20",
     "decimals": 18,
@@ -446,6 +454,14 @@
     "symbol": "SXP",
     "description": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card.",
     "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a"
+  },
+  {
+    "name": "FC Porto Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "PORTO",
+    "description": "BEP-20 Utility token for FC Porto",
+    "address": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6"
   },
   {
     "name": "Trust Wallet",
@@ -750,6 +766,14 @@
     "symbol": "TITAN",
     "description": "A Decentralized Gaming Play to Earn Token Based On Binance Smart Chain",
     "address": "0x76f34cd142ca4a5ea2e197ebffbf5234a1c29268"
+  },
+  {
+    "name": "S.S. Lazio Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "LAZIO",
+    "description": "BEP-20 utility token for S.S. Lazio",
+    "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d"
   },
   {
     "name": "StandardBTCHashrateToken",
@@ -1080,6 +1104,14 @@
     "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
   },
   {
+    "name": "RiseHero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "A legendary hero metaverse.",
+    "address": "0xa3d80275e300237a62d3431c26d52f185584cc1b"
+  },
+  {
     "name": "aelf",
     "type": "BEP20",
     "decimals": 18,
@@ -1374,14 +1406,6 @@
     "symbol": "SFP",
     "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.",
     "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
-  },
-  {
-    "name": "CREAM",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "CREAM",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888"
   },
   {
     "name": "Binance-Peg Firo Token",
