@@ -952,6 +952,14 @@
     "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a"
   },
   {
+    "name": "Medabots",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MEDA",
+    "description": "Medacoin (by Medabots) is a new cryptocurrency that gives users the ability to manage their virtual in-game goods.",
+    "address": "0x9130990dd16ed8be8be63e46cad305c2c339dac9"
+  },
+  {
     "name": "Frontier Token",
     "type": "BEP20",
     "decimals": 18,
