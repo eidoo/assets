@@ -80,6 +80,14 @@
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
   },
   {
+    "name": "Qi Dao",
+    "type": "POLYGON",
+    "decimals": 18,
+    "symbol": "QI",
+    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+  },
+  {
     "name": "Hoge Finance",
     "type": "POLYGON",
     "decimals": 9,

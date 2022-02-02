@@ -1,6 +1,10 @@
 {
   "symbols": [
+    "MEMO",
+    "TIME",
+    "daoPNT",
     "pBTC",
-    "pLTC"
+    "pLTC",
+    "wMEMO"
   ]
 }

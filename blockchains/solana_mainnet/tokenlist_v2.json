@@ -80,6 +80,14 @@
     "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8"
   },
   {
+    "name": "Maps.me",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "MAPS",
+    "description": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
+    "address": "maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb"
+  },
+  {
     "name": "Mango Markets",
     "type": "SPL",
     "decimals": 6,

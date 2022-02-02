@@ -696,14 +696,6 @@
     "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2"
   },
   {
-    "name": "Galaxy Heroes Coin",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "GHC",
-    "description": "Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!",
-    "address": "0x683fae4411249ca05243dfb919c20920f3f5bfe0"
-  },
-  {
     "name": "X World Games",
     "type": "BEP20",
     "decimals": 18,
@@ -950,14 +942,6 @@
     "symbol": "OOE",
     "description": "OpenOcean Token on Binance Smartchain",
     "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a"
-  },
-  {
-    "name": "Medabots",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "MEDA",
-    "description": "Medacoin (by Medabots) is a new cryptocurrency that gives users the ability to manage their virtual in-game goods.",
-    "address": "0x9130990dd16ed8be8be63e46cad305c2c339dac9"
   },
   {
     "name": "Frontier Token",
@@ -1414,6 +1398,14 @@
     "symbol": "SFP",
     "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.",
     "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+  },
+  {
+    "name": "CREAM",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CREAM",
+    "description": "Cream - Crypto Rules Everything Around Me",
+    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888"
   },
   {
     "name": "Binance-Peg Firo Token",

@@ -48,14 +48,6 @@
     "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
   },
   {
-    "name": "PoaToken",
-    "type": "ERC20",
-    "decimals": 0,
-    "symbol": "POA",
-    "description": "-",
-    "address": "0x0110aa21dd3908837b8589ecc4bd5161b0235bb8"
-  },
-  {
     "name": "PlayChip",
     "type": "ERC20",
     "decimals": 18,
@@ -366,14 +358,6 @@
     "symbol": "BAT",
     "description": "Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
-  },
-  {
-    "name": "Avt",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "AVT",
-    "description": "Aventus is a layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.",
-    "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
   },
   {
     "name": "ACATENA",
@@ -808,14 +792,6 @@
     "address": "0x226f15cdbaa36814ce3cb287563069c32cc1a293"
   },
   {
-    "name": "Medanio",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "MEDA",
-    "description": "-",
-    "address": "0x2297685f1e219597b81e91d4ded22d5291d9eddd"
-  },
-  {
     "name": "DREP",
     "type": "ERC20",
     "decimals": 18,
@@ -936,6 +912,14 @@
     "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
   },
   {
+    "name": "QQQ Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QQQ",
+    "description": "We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.",
+    "address": "0x2822f6d1b2f41f93f33d937bc7d84a8dfa4f4c21"
+  },
+  {
     "name": "FirstEnergy Token",
     "type": "ERC20",
     "decimals": 18,
@@ -982,6 +966,22 @@
     "symbol": "HEX",
     "description": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
     "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+  },
+  {
+    "name": "Maps.me",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "MAPS",
+    "description": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
+    "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d"
+  },
+  {
+    "name": "Cream Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CREAM",
+    "description": "Cream - Crypto Rules Everything Around Me",
+    "address": "0x2ba592f78db6436527729929aaf6c908497cb200"
   },
   {
     "name": "UST",
@@ -1286,14 +1286,6 @@
     "symbol": "DREP",
     "description": "-",
     "address": "0x3aca71c508e06dc6b2758dab6eb20f7654572fb7"
-  },
-  {
-    "name": "Advertising Token",
-    "type": "ERC20",
-    "decimals": 2,
-    "symbol": "AVT",
-    "description": "-",
-    "address": "0x3b16fb80ab6ac8562203f3913f58ee0c4dfc08b8"
   },
   {
     "name": "OpenDAO",
@@ -2296,14 +2288,6 @@
     "address": "0x63dcad9e5f2d784fc4f12abf61ec47236faba895"
   },
   {
-    "name": "GAME Credits",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GAME",
-    "description": "The next-generation blockchain platform for large-scale online games and social apps. GAME Credits is a platform eSports solution for true digital item ownership - Blockchain for every game and every gamer - empower your players and deliver what they want - true ownership, digital security and boundless possibilities for fun.",
-    "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
-  },
-  {
     "name": "E-RADIX",
     "type": "ERC20",
     "decimals": 18,
@@ -2320,12 +2304,12 @@
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
   },
   {
-    "name": "CarTaxi",
+    "name": "Robries",
     "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CTX",
+    "decimals": 8,
+    "symbol": "RBC",
     "description": "-",
-    "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
+    "address": "0x66446ab822206ce050bccec8fdcad37a584ebdf1"
   },
   {
     "name": "BTSE Token",
@@ -2846,6 +2830,14 @@
     "symbol": "CLV",
     "description": "Clover Finance is an infrastructure platform focused on cross-chain compatibility.",
     "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52"
+  },
+  {
+    "name": "AstrCoin",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "ASTR",
+    "description": "-",
+    "address": "0x80e7a4d750ade616da896c49049b7ede9e04c191"
   },
   {
     "name": "Measurable Data Token",
@@ -3576,6 +3568,14 @@
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
   },
   {
+    "name": "Rubic",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RBC",
+    "description": "Rubic is a multichain DeFi ecosystem, which features cross-chain, P2P, and instant swaps across multiple blockchains, aiming to deliver a complete ONE-STOP decentralized platform. For the moment, Rubic supports trades on Ethereum, Matic, and Binance Smart Chain networks.",
+    "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
+  },
+  {
     "name": "MASTER USD",
     "type": "ERC20",
     "decimals": 18,
@@ -4032,14 +4032,6 @@
     "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52"
   },
   {
-    "name": "ArcBlock",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "ABT",
-    "description": "ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.",
-    "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
-  },
-  {
     "name": "digitalbits",
     "type": "ERC20",
     "decimals": 7,
@@ -4360,14 +4352,6 @@
     "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
   },
   {
-    "name": "Banker Token",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "BNK",
-    "description": "Bankera is an operational fork of SpectroCoin. As SpectroCoin to be competitive has developed bank-like infrastructure, but was not intended to become a proper bank, it is releasing Bankera to leverage its regulatory and IT infrastructure to develop a bank for the blockchain era. Bankera as a proper bank will offer payments, investments, and loan and deposit solutions. Later on, it is planing to develop new types of money, such as inflation linked baskets.",
-    "address": "0xc80c5e40220172b36adee2c951f26f2a577810c5"
-  },
-  {
     "name": "SENTINEL PROTOCOL",
     "type": "ERC20",
     "decimals": 18,
@@ -4430,14 +4414,6 @@
     "symbol": "ASTRO",
     "description": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.",
     "address": "0xcbd55d4ffc43467142761a764763652b48b969ff"
-  },
-  {
-    "name": "Game Magic",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "GAME",
-    "description": "-",
-    "address": "0xcbdfad49dad16a992978f2767506a0f3f11ae9c7"
   },
   {
     "name": "Bither Platform Token",
@@ -4678,6 +4654,14 @@
     "symbol": "OXY",
     "description": "OxyCoin (OXY) is an ERC20 Token that supplied 244,140,625,000,000,000,000 coins",
     "address": "0xd83a162d4808c370a1445646e64cc4861eb60b92"
+  },
+  {
+    "name": "Pluton",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PLU",
+    "description": "Plutus is an incredibly secure crypto-friendly finance app.",
+    "address": "0xd8912c10681d8b21fd3742244f44658dba12264e"
   },
   {
     "name": "GAMEE Token",
@@ -4960,6 +4944,14 @@
     "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c"
   },
   {
+    "name": "Zynecoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ZYN",
+    "description": "-",
+    "address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01"
+  },
+  {
     "name": "Gatechain Token",
     "type": "ERC20",
     "decimals": 18,
@@ -5006,6 +4998,14 @@
     "symbol": "QC",
     "description": "QuickCash stable currency system.",
     "address": "0xe74b35425fe7e33ea190b149805baf31139a8290"
+  },
+  {
+    "name": "daoPNT",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "daoPNT",
+    "description": "The heartbeat of cross-chain composability.",
+    "address": "0xe824f81cd136bb7a28480baf8d7e5f0e8e4b693e"
   },
   {
     "name": "Ultiledger",
@@ -5230,6 +5230,14 @@
     "symbol": "MTL",
     "description": "Metal Pay makes it simple to keep track of where your money goes.",
     "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+  },
+  {
+    "name": "HOPR Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HOPR",
+    "description": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.",
+    "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
   },
   {
     "name": "Polkadex ERC-20 Token",
