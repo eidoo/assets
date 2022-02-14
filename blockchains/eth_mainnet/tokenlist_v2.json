@@ -48,6 +48,14 @@
     "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
   },
   {
+    "name": "PoaToken",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "POA",
+    "description": "-",
+    "address": "0x0110aa21dd3908837b8589ecc4bd5161b0235bb8"
+  },
+  {
     "name": "PlayChip",
     "type": "ERC20",
     "decimals": 18,
@@ -200,14 +208,6 @@
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
   },
   {
-    "name": "Crypterium",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CRPT",
-    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
-    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
-  },
-  {
     "name": "Edgeless",
     "type": "ERC20",
     "decimals": 0,
@@ -294,6 +294,14 @@
     "symbol": "TRB",
     "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
     "address": "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5"
+  },
+  {
+    "name": "SperaxToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPA",
+    "description": "-",
+    "address": "0x0bc48b77df84d4e3d26d9c05442cfcda39bbf457"
   },
   {
     "name": "yearn.finance",
@@ -462,14 +470,6 @@
     "symbol": "GRID",
     "description": "GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
     "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
-  },
-  {
-    "name": "MoneyToken",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "IMT",
-    "description": "The MoneyToken platform allows you to receive liquid funds right now, based on the current value of your cryptocurrency asset holdings.",
-    "address": "0x13119e34e140097a507b07a5564bde1bc375d9e6"
   },
   {
     "name": "mosExpensiveToken",
@@ -1288,6 +1288,14 @@
     "address": "0x3aca71c508e06dc6b2758dab6eb20f7654572fb7"
   },
   {
+    "name": "DSLA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DSLA",
+    "description": "DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators.",
+    "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe"
+  },
+  {
     "name": "OpenDAO",
     "type": "ERC20",
     "decimals": 18,
@@ -1656,6 +1664,14 @@
     "address": "0x4922a015c4407f87432b179bb209e125432e4a2a"
   },
   {
+    "name": "FOAM Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FOAM",
+    "description": "The FOAM Proof of Location protocol is a permissionless and autonomous network of radio beacons that can offer secure location services independent of external centralized sources such as GPS.",
+    "address": "0x4946fcea7c692606e8908002e55a582af44ac121"
+  },
+  {
     "name": "Bitether",
     "type": "ERC20",
     "decimals": 18,
@@ -1678,6 +1694,14 @@
     "symbol": "LRC",
     "description": "-",
     "address": "0x4a74df6113e3d38d8e184273341cb6bbb6885152"
+  },
+  {
+    "name": "Jupiter",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "JUP",
+    "description": "Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.",
+    "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8"
   },
   {
     "name": "SWAP",
@@ -1880,6 +1904,14 @@
     "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429"
   },
   {
+    "name": "SIDUS",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SIDUS",
+    "description": "The financial system of the Sidus Heroes game includes two tokens: the SIDUS (gaming) token and the SENATE (governance) token. The SIDUS token is used by players of SIDUS HEROES as in-game currency.",
+    "address": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102"
+  },
+  {
     "name": "XY Oracle",
     "type": "ERC20",
     "decimals": 18,
@@ -1910,14 +1942,6 @@
     "symbol": "BRD",
     "description": "BRD bills itself as 'the simple and secure onramp to bitcoin, ethereum, and other digital currencies'.",
     "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6"
-  },
-  {
-    "name": "ETH Player Key",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "EPK",
-    "description": "-",
-    "address": "0x56c438ee032224d93a5e9f182cbf4608cdfc928e"
   },
   {
     "name": "bZx Protocol Token",
@@ -2184,14 +2208,6 @@
     "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
   },
   {
-    "name": "Unit Payment International",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "UPI",
-    "description": "-",
-    "address": "0x61b21c6ee787bc1df5ef873e5f6809711c62ab92"
-  },
-  {
     "name": "Cybereits Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2288,6 +2304,14 @@
     "address": "0x63dcad9e5f2d784fc4f12abf61ec47236faba895"
   },
   {
+    "name": "GAME Credits",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GAME",
+    "description": "The next-generation blockchain platform for large-scale online games and social apps. GAME Credits is a platform eSports solution for true digital item ownership - Blockchain for every game and every gamer - empower your players and deliver what they want - true ownership, digital security and boundless possibilities for fun.",
+    "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
+  },
+  {
     "name": "E-RADIX",
     "type": "ERC20",
     "decimals": 18,
@@ -2302,6 +2326,14 @@
     "symbol": "TIME",
     "description": "TIME is an utility token of Chronobank ecosystem",
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
+  },
+  {
+    "name": "CarTaxi",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CTX",
+    "description": "-",
+    "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
   },
   {
     "name": "Robries",
@@ -2640,6 +2672,14 @@
     "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2"
   },
   {
+    "name": "XCAD Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XCAD",
+    "description": "XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators",
+    "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0"
+  },
+  {
     "name": "Illuvium",
     "type": "ERC20",
     "decimals": 18,
@@ -2718,14 +2758,6 @@
     "symbol": "AETH",
     "description": "-",
     "address": "0x7a2cf566ee773acced9f4ac48bc05c11b31900c2"
-  },
-  {
-    "name": "AstroTokens",
-    "type": "ERC20",
-    "decimals": 4,
-    "symbol": "ASTRO",
-    "description": "-",
-    "address": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88"
   },
   {
     "name": "EFILUM",
@@ -3054,14 +3086,6 @@
     "symbol": "CHR",
     "description": "-",
     "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2"
-  },
-  {
-    "name": "Vbitcoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VBTC",
-    "description": "-",
-    "address": "0x8a48dfb33b8d6140c59f0a454c1d055d392af66c"
   },
   {
     "name": "GET",
@@ -3544,6 +3568,14 @@
     "address": "0xa2a8dec9d963e2fe7a5ab8469586b07ef53bb505"
   },
   {
+    "name": "Lattice Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "LTX",
+    "description": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).",
+    "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
+  },
+  {
     "name": "Metronome",
     "type": "ERC20",
     "decimals": 18,
@@ -3614,14 +3646,6 @@
     "symbol": "MLN",
     "description": "-",
     "address": "0xa69925428299287d3724b4b9a31ea8ce191497de"
-  },
-  {
-    "name": "Internxt",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "INXT",
-    "description": "-",
-    "address": "0xa8006c4ca56f24d6836727d106349320db7fef82"
   },
   {
     "name": "Sport AND Leisure",
@@ -3846,14 +3870,6 @@
     "symbol": "CEEK",
     "description": "CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1"
-  },
-  {
-    "name": "Lotto",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "LOTTO",
-    "description": "A massive lottery between everyone in the DeFi space where tokens are automatically removed from all wallets, pooled together, and given to one user at random!",
-    "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858"
   },
   {
     "name": "NABS",
@@ -4176,14 +4192,6 @@
     "address": "0xbfaa8cf522136c6fafc1d53fe4b85b4603c765b8"
   },
   {
-    "name": "IMSMART",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "IMT",
-    "description": "Imsmart is a utility token designed to facilitate the advanced development and deployment of SME 360 solutions.",
-    "address": "0xbfe03707adb75b478add9a01978057803f480e44"
-  },
-  {
     "name": "Compound",
     "type": "ERC20",
     "decimals": 18,
@@ -4408,12 +4416,12 @@
     "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750"
   },
   {
-    "name": "AstroTools",
+    "name": "Game Magic",
     "type": "ERC20",
-    "decimals": 18,
-    "symbol": "ASTRO",
-    "description": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.",
-    "address": "0xcbd55d4ffc43467142761a764763652b48b969ff"
+    "decimals": 8,
+    "symbol": "GAME",
+    "description": "-",
+    "address": "0xcbdfad49dad16a992978f2767506a0f3f11ae9c7"
   },
   {
     "name": "Bither Platform Token",
@@ -4600,6 +4608,14 @@
     "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
   },
   {
+    "name": "Populous",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "PPT",
+    "description": "The idea behind Populous is to allow enterprise owners the opportunity for liquidity on invoices for durations up to 90 days using a peer-to-peer invoice financing platform.",
+    "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
+  },
+  {
     "name": "Curve DAO Token",
     "type": "ERC20",
     "decimals": 18,
@@ -4656,22 +4672,6 @@
     "address": "0xd83a162d4808c370a1445646e64cc4861eb60b92"
   },
   {
-    "name": "Pluton",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PLU",
-    "description": "Plutus is an incredibly secure crypto-friendly finance app.",
-    "address": "0xd8912c10681d8b21fd3742244f44658dba12264e"
-  },
-  {
-    "name": "GAMEE Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GMEE",
-    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
-    "address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
-  },
-  {
     "name": "ShareToken",
     "type": "ERC20",
     "decimals": 2,
@@ -4718,14 +4718,6 @@
     "symbol": "ATRI",
     "description": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry.",
     "address": "0xdacd69347de42babfaecd09dc88958378780fb62"
-  },
-  {
-    "name": "EpiK Protocol",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "EPK",
-    "description": "EpiK Protocol is a decentralized trusted knowledge graph collaboration platform of the People, by the People, for the People.",
-    "address": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4"
   },
   {
     "name": "Baby Token",
@@ -4942,14 +4934,6 @@
     "symbol": "DOCK",
     "description": "-",
     "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c"
-  },
-  {
-    "name": "Zynecoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "ZYN",
-    "description": "-",
-    "address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01"
   },
   {
     "name": "Gatechain Token",

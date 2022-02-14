@@ -416,6 +416,14 @@
     "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc"
   },
   {
+    "name": "XCAD Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XCAD",
+    "description": "XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators",
+    "address": "0x431e0cd023a32532bf3969cddfc002c00e98429d"
+  },
+  {
     "name": "Binance-Peg Litecoin Token",
     "type": "BEP20",
     "decimals": 18,
@@ -582,6 +590,14 @@
     "symbol": "BSCPAD",
     "description": "BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network. ",
     "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+  },
+  {
+    "name": "AETHERIUS TOKEN",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "AETH",
+    "description": "Aetherius is a new crypto-mining project looking to give investors all the experience, infrastructure, energy and a steady flow of passive income necessary to start each investor as a miner.",
+    "address": "0x5a3b6f18dc79d50ab208af2fcd61d10bf7e4896f"
   },
   {
     "name": "Position",
@@ -872,14 +888,6 @@
     "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b"
   },
   {
-    "name": "Venus BTC",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "vBTC",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
-    "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b"
-  },
-  {
     "name": "Binance-Peg yearn.finance",
     "type": "BEP20",
     "decimals": 18,
@@ -1136,14 +1144,6 @@
     "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929"
   },
   {
-    "name": "AstroPup",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "ASTRO",
-    "description": "AstroPup ($ASTRO) is a lighthearted deflationary meme token, with a 10% tax applied to every transaction.",
-    "address": "0xaaa304abe41870600274160df1fc9f0c136a13cc"
-  },
-  {
     "name": "CocosTokenV2",
     "type": "BEP20",
     "decimals": 18,
@@ -1286,6 +1286,14 @@
     "symbol": "WBNB",
     "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
     "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+  },
+  {
+    "name": "Alchemy",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ACH",
+    "description": "Alchemy is the pioneer of Hybrid Crypto-Fiat Gateway that is bridging the gap between the fiat and crypto economies - driving crypto adoption by making payments, blockchain solutions and DeFI services readily available to everyone.",
+    "address": "0xbc7d6b50616989655afd682fb42743507003056d"
   },
   {
     "name": "Binance-Peg Uniswap",

@@ -40,6 +40,22 @@
     "address": "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3"
   },
   {
+    "name": "Star Atlas",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ATLAS",
+    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
+    "address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx"
+  },
+  {
+    "name": "Aurory",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "AURY",
+    "description": "The Aurory team is composed of 30+ talents from the gaming and the cryptocurrency industry. ",
+    "address": "auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp"
+  },
+  {
     "name": "Wrapped USDT",
     "type": "SPL",
     "decimals": 6,
@@ -56,12 +72,28 @@
     "address": "bxxkv6z8ykpg1yuvudpgh732wzvhb69rnb9ygsyh3itw"
   },
   {
-    "name": "Wrapped USDC",
+    "name": "DeFi Land",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "DFL",
+    "description": "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance.",
+    "address": "dfl1znkagpwm1bqavqrjczvhmwtfreajtbzjwgseonjh"
+  },
+  {
+    "name": "USD Coin",
     "type": "SPL",
     "decimals": 6,
     "symbol": "USDC",
     "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
     "address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+  },
+  {
+    "name": "Bonfida",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "FIDA",
+    "description": "Bonfida is the full product suite that bridges the gap between Serum, Solana and the user",
+    "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp"
   },
   {
     "name": "USDT",
@@ -72,12 +104,28 @@
     "address": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb"
   },
   {
+    "name": "Genopets",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "GENE",
+    "description": "A Genopet is your NFT spirit animal encoded with your personality and fitness data. ",
+    "address": "geneth5amgsi8khatqoezp1xexwzj8vcuepynxdkrmyz"
+  },
+  {
     "name": "Wrapped XRP",
     "type": "SPL",
     "decimals": 6,
     "symbol": "XRP",
     "description": "XRP is a digital asset built for payments",
     "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8"
+  },
+  {
+    "name": "Trust Wallet",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "TWT",
+    "description": "Utility token to increase adoption of cryptocurrency.",
+    "address": "hznpql7rt9gxf9ewowswzc5dfjzq41xtqgea7p3vzaad"
   },
   {
     "name": "Maps.me",
@@ -104,6 +152,14 @@
     "address": "srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt"
   },
   {
+    "name": "Wrapped SOL",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "SOL",
+    "description": "Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.",
+    "address": "so11111111111111111111111111111111111111112"
+  },
+  {
     "name": "Kin",
     "type": "SPL",
     "decimals": 5,
@@ -112,11 +168,35 @@
     "address": "kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6"
   },
   {
+    "name": "Marinade staked",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "mSOL",
+    "description": "Marinade.finance is a liquid staking protocol built on Solana.",
+    "address": "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so"
+  },
+  {
+    "name": "Star Atlas DAO",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "POLIS",
+    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
+    "address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk"
+  },
+  {
     "name": "Solanium",
     "type": "SPL",
     "decimals": 6,
     "symbol": "SLIM",
     "description": "Decentralized fundraising and trading platform on the Solana blockchain.",
     "address": "xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw"
+  },
+  {
+    "name": "Oxygen Protocol",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "OXY",
+    "description": "The OXY token powers the Oxygen Protocol, governing it and 100% of its revenue",
+    "address": "z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m"
   }
 ]
