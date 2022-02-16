@@ -1,7 +1,7 @@
 {
     "name": "Ariadne",
     "symbol": "ARDN",
-    "type": "POLYGON",
+    "type": "ERC20",
     "decimals": 18,
     "description": "Ariadne is a cross-chain DeFi marketplace that is lowering the fees to enter/exit farms on multiple blockchains and saves swaps and bridges costs for both EVM and non-EVM chains.",
     "website": "https://ariadne.finance",

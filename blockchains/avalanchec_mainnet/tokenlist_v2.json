@@ -9,7 +9,7 @@
   },
   {
     "name": "Wrapped MEMO",
-    "type": "AVALANCHE",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "wMEMO",
     "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
@@ -17,7 +17,7 @@
   },
   {
     "name": "MEMOries",
-    "type": "AVALANCHE",
+    "type": "ERC20",
     "decimals": 9,
     "symbol": "MEMO",
     "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Pangolin",
-    "type": "AVALANCHE",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "PNG",
     "description": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Time",
-    "type": "AVALANCHE",
+    "type": "ERC20",
     "decimals": 9,
     "symbol": "TIME",
     "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",

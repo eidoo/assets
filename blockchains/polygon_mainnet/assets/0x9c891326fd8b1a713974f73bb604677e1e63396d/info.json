@@ -1,7 +1,7 @@
 {
     "name": "ISLAMICOIN",
     "symbol": "ISLAMI",
-    "type": "POLYGON",
+    "type": "ERC20",
     "decimals": 7,
     "description": "ISLAMICOIN A Cryptocurrency For The Global Muslim Community",
     "website": "https://islamicoin.finance",

@@ -3,7 +3,7 @@
     "website": "https://stacker.vc/polygon",
     "description": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
     "explorer": "https://polygonscan.com/token/0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "STACK",
     "decimals": 18,
     "status": "active",

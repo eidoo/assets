@@ -3,7 +3,7 @@
     "website": "https://deus.finance/",
     "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
     "explorer": "https://polygonscan.com/token/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "DEI",
     "decimals": 18,
     "status": "active",

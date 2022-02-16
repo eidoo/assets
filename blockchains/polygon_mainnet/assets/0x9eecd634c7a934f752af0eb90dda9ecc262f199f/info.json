@@ -3,7 +3,7 @@
     "website": "https://unicrypt.network",
     "description": "UNCX is the governance token of the UniCrypt platform.",
     "explorer": "https://polygonscan.com/token/0x9eecd634c7a934f752af0eb90dda9ecc262f199f",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "UNCX",
     "decimals": 18,
     "status": "active",

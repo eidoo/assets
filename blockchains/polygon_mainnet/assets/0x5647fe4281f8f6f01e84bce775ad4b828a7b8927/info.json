@@ -3,7 +3,7 @@
     "website": "https://milliontoken.org",
     "description": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
     "explorer": "https://polygonscan.com/token/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "MM",
     "decimals": 18,
     "status": "active",

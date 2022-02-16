@@ -3,7 +3,7 @@
     "website": "https://www.aavegotchi.com/",
     "description": "aTokens on Polygon are known as maTokens.",
     "explorer": "https://polygonscan.com/token/0x9719d867a500ef117cc201206b8ab51e794d3f82",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "maUSDC",
     "decimals": 6,
     "status": "active",

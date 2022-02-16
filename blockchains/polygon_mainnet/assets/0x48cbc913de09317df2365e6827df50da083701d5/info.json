@@ -3,7 +3,7 @@
     "website": "https://4thtech.io/",
     "description": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange.",
     "explorer": "https://polygonscan.com/token/0x48cBc913dE09317dF2365e6827Df50dA083701D5",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "FOUR",
     "decimals": 18,
     "status": "active",

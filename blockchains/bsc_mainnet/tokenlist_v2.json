@@ -736,6 +736,14 @@
     "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
   },
   {
+    "name": "Curate",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "XCUR",
+    "description": "The official token for Curate",
+    "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2"
+  },
+  {
     "name": "Binance-Peg BTCB Token",
     "type": "BEP20",
     "decimals": 18,

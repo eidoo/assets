@@ -1,7 +1,7 @@
 {
     "name": "Pegaxy",
     "symbol": "PGX",
-    "type": "POLYGON",
+    "type": "ERC20",
     "decimals": 18,
     "description": "Pegaxy Game Native Governance Token",
     "website": "https://pegaxy.io",

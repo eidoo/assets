@@ -1,6 +1,6 @@
 {
     "name": "GameStation",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "GAMER",
     "decimals": 18,
     "website": "https://www.gamestation.io/",

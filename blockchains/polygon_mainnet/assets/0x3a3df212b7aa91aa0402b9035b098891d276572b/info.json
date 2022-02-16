@@ -1,7 +1,7 @@
 {
     "name": "Fish",
     "symbol": "FISH",
-    "type": "POLYGON",
+    "type": "ERC20",
     "decimals": 18,
     "description": "Value-oriented, economically sustainable hybrid yield aggregator on Polygon.",
     "website": "https://polycat.finance",

@@ -2208,6 +2208,14 @@
     "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
   },
   {
+    "name": "Unit Payment International",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "UPI",
+    "description": "-",
+    "address": "0x61b21c6ee787bc1df5ef873e5f6809711c62ab92"
+  },
+  {
     "name": "Cybereits Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2288,6 +2296,14 @@
     "address": "0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d"
   },
   {
+    "name": "Morpher Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MPH",
+    "description": "Morpher rebuilds financial markets from the ground up on the Ethereum Blockchain. All in the pursuit of the perfect trading experience. With Zero Fees, Perfectly Liquid Markets, No Counterparties, Verifiable and Transparent Execution all Secured with Blockchain Technology",
+    "address": "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
+  },
+  {
     "name": "Acash Coin",
     "type": "ERC20",
     "decimals": 8,
@@ -2326,14 +2342,6 @@
     "symbol": "TIME",
     "description": "TIME is an utility token of Chronobank ecosystem",
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
-  },
-  {
-    "name": "CarTaxi",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CTX",
-    "description": "-",
-    "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
   },
   {
     "name": "Robries",
@@ -3040,6 +3048,14 @@
     "address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
   },
   {
+    "name": "88mph.app",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MPH",
+    "description": "MPH is a cryptocurrency and operates on the Ethereum platform.",
+    "address": "0x8888801af4d980682e47f1a9036e589479e835c5"
+  },
+  {
     "name": "Alien Worlds Trilium",
     "type": "ERC20",
     "decimals": 4,
@@ -3734,6 +3750,14 @@
     "symbol": "CEL",
     "description": "The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.",
     "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
+  },
+  {
+    "name": "Monolith TKN",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "TKN",
+    "description": "Monolith is an Ethereum-powered solution allowing users to spend ETH and ERC-20 in real-life, the way users are used to: with a debit card accepted anywhere.",
+    "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
   },
   {
     "name": "James McCall",
@@ -4872,6 +4896,14 @@
     "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479"
   },
   {
+    "name": "Curate",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "XCUR",
+    "description": "CURATE is a marketplace app centred around the theme of content discovery on clothing/fashion, gaming/tech, crypto assets and health/beauty and more. Curate utilises blockchain technology as a payment infrastructure and means of rewarding engagement i.e buying, selling or based on our rewards engagement algorithm. XCUR is the official token for the CURATE marketplace app and DeFi platform.",
+    "address": "0xe1c7e30c42c24582888c758984f6e382096786bd"
+  },
+  {
     "name": "Injective",
     "type": "ERC20",
     "decimals": 18,
@@ -5088,6 +5120,14 @@
     "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
   },
   {
+    "name": "Exeedme",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XED",
+    "description": "New Revenue Streams for Gamers",
+    "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
+  },
+  {
     "name": "Hermez Network Token",
     "type": "ERC20",
     "decimals": 18,
@@ -5102,6 +5142,14 @@
     "symbol": "ES",
     "description": "-",
     "address": "0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
+  },
+  {
+    "name": "StaFi",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FIS",
+    "description": "StaFi is a DeFi protocol unlocking liquidity of staked assets. Users can stake PoS tokens through StaFi and receive rTokens in return, which are available for trading, while still earning staking rewards.",
+    "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
   },
   {
     "name": "iEx.ec Network Token",

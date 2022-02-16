@@ -1,7 +1,7 @@
 {
     "name": "OVR",
     "symbol": "OVR",
-    "type": "POLYGON",
+    "type": "ERC20",
     "decimals": 18,
     "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
     "website": "https://www.ovr.ai/",

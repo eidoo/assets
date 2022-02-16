@@ -3,7 +3,7 @@
     "website": "https://app.pearzap.com/",
     "description": "High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features",
     "explorer": "https://polygonscan.com/token/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "PEAR",
     "decimals": 18,
     "status": "active",

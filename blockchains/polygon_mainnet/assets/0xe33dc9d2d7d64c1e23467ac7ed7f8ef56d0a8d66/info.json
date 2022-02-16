@@ -1,6 +1,6 @@
 {
     "name": "CherryPick",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "pCherry",
     "decimals": 18,
     "website": "https://www.fletaconnect.io",

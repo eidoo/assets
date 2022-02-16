@@ -1,6 +1,6 @@
 {
     "name": "Equalizer",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "EQZ",
     "decimals": 18,
     "website": "https://www.equalizer.finance/",

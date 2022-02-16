@@ -3,7 +3,7 @@
     "website": "https://fantom.foundation/defi/",
     "description": "fETH (ETH FETH) is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1.",
     "explorer": "https://ftmscan.com/token/0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
-    "type": "FANTOM",
+    "type": "ERC20",
     "symbol": "FETH",
     "decimals": 18,
     "status": "active",

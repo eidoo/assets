@@ -3,7 +3,7 @@
     "website": "https://murall.art",
     "description": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
     "explorer": "https://polygonscan.com/token/0x7c28f627ea3aec8b882b51eb1935f66e5b875714",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "PAINT",
     "decimals": 18,
     "status": "active",

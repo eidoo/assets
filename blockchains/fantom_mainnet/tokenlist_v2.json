@@ -9,7 +9,7 @@
   },
   {
     "name": "USD Coin",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 6,
     "symbol": "USDC",
     "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Curve DAO",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "CRV",
     "description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
@@ -25,7 +25,7 @@
   },
   {
     "name": "yearn.finance",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "YFI",
     "description": "YFI is the governance token for Yearn.Finance, a site that performs a variety of functions for DeFi users, moving their assets in and out of different liquidity pools in order to find the best yields.",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Wrapped Bitcoin",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 8,
     "symbol": "BTC",
     "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Spell Token",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "SPELL",
     "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Synthetix Network",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "SNX",
     "description": "The Synthetix Network Token (SNX) is the native token of Synthetix, a synthetic asset (Synth) issuance protocol built on Ethereum. The SNX token is used as collateral to issue Synths, ERC-20 tokens that track the price of assets like Gold, Silver, Oil and Bitcoin.",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Aave",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "AAVE",
     "description": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed.",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Frax Share",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "FXS",
     "description": "FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Dai Stablecoin",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "DAI",
     "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Sushi",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "SUSHI",
     "description": "The SushiSwap protocol realigns incentives for network participants by introducing revenue sharing and forum-driven network efforts to the popular AMM model.",
@@ -89,7 +89,7 @@
   },
   {
     "name": "ChainLink",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "LINK",
     "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Frax",
-    "type": "FANTOM",
+    "type": "ERC20",
     "decimals": 18,
     "symbol": "FRAX",
     "description": "Frax is a fractional-algorithmic stablecoin protocol. It aims to provide highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",

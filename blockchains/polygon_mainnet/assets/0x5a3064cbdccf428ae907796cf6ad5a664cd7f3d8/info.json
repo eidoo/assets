@@ -3,7 +3,7 @@
     "website": "https://app.polyquity.org/",
     "description": "PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.",
     "explorer": "https://polygonscan.com/token/0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
-    "type": "POLYGON",
+    "type": "ERC20",
     "symbol": "PYQ",
     "decimals": 18,
     "status": "active",
