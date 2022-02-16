@@ -64,7 +64,8 @@
   "dependencies": {
     "codecov": "^3.8.3",
     "json-beautify": "^1.1.1",
-    "jsondiffpatch": "^0.4.1"
+    "jsondiffpatch": "^0.4.1",
+    "replace-in-file": "^6.3.2"
   },
   "jest": {
     "setupFilesAfterEnv": [
