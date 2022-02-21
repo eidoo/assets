@@ -736,14 +736,6 @@
     "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
   },
   {
-    "name": "Curate",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "XCUR",
-    "description": "The official token for Curate",
-    "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2"
-  },
-  {
     "name": "Binance-Peg BTCB Token",
     "type": "BEP20",
     "decimals": 18,
@@ -950,14 +942,6 @@
     "symbol": "BCH",
     "description": "Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC).",
     "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
-  },
-  {
-    "name": "OpenOcean",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "OOE",
-    "description": "OpenOcean Token on Binance Smartchain",
-    "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a"
   },
   {
     "name": "Frontier Token",
@@ -1278,6 +1262,14 @@
     "symbol": "ZIL",
     "description": "Zilliqa (ZIL) is a public blockchain built on a sharded architecture. It has solved blockchain scalability and speed by implementing sharding.",
     "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+  },
+  {
+    "name": "MetaPlanet",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MPL",
+    "description": "MetaPlanet is an Ultimate Defi + Gamefi Ecosystem. Its mission is to develop a full suite of professional defi applications and gamefi sector play to reward crypto investors and help them profit from the industry's growth. Metaplanet's platform gives customers access to the same types of institutional crypto tools used by the world's leading financial services provider and dozens of other well-known worldwide businesses. The benefits of these tools include timeline accuracy and a significant depth of crypto market data.",
+    "address": "0xba007b6170c602c08545ff97395677408688d3a2"
   },
   {
     "name": "Binance-Peg Dogecoin",

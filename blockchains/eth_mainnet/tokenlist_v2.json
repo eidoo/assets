@@ -224,14 +224,6 @@
     "address": "0x08a2246dcb48db6a5a9e1f6bc082752fceddd106"
   },
   {
-    "name": "MATH Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MATH",
-    "description": "65+ Popular public chains supported",
-    "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
-  },
-  {
     "name": "Spell Token",
     "type": "ERC20",
     "decimals": 18,
@@ -494,6 +486,14 @@
     "symbol": "BNT",
     "description": "Binantex is a USD-pegged stablecoin, that provides its users with regular attestations of escrowed balances, full collateral and legal protection against the misappropriation of the underlying USD.",
     "address": "0x139838869d3e1ab94c798917840da1c079103c84"
+  },
+  {
+    "name": "BitKan",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KAN",
+    "description": "The KAN can be used and circulated in various scenarios to serve the community's value incentives and sharing economy, and ultimately construct the K Sites cryptocurrency ecological mechanism.",
+    "address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
   },
   {
     "name": "DeFi Pulse Index",
@@ -1112,6 +1112,14 @@
     "address": "0x32a087d5fdf8c84ec32554c56727a7c81124544e"
   },
   {
+    "name": "CRUST",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRU",
+    "description": "CRUST provides a decentralized storage network of Web3 ecosystem. It supports multiple storage layer protocols such as IPFS, and exposes storage interfaces to application layer. Crust's technical stack is also capable of supporting a decentralized computing layer. It is designed to build a decentralized cloud ecosystem that values data privacy and ownership.",
+    "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
+  },
+  {
     "name": "HedgeTrade",
     "type": "ERC20",
     "decimals": 18,
@@ -1142,14 +1150,6 @@
     "symbol": "ALICE",
     "description": "-",
     "address": "0x33dcd369d697132de252884336225de31fb474b2"
-  },
-  {
-    "name": "BLOCKv (VEE)",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VEE",
-    "description": "BLOCKv provides a platform enabling the creation of Vatoms, a digital asset class (NFT) that bridges the gap between physical & digital worlds, creating new levels of human engagement.",
-    "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
   },
   {
     "name": "Frax Share",
@@ -1286,14 +1286,6 @@
     "symbol": "DREP",
     "description": "-",
     "address": "0x3aca71c508e06dc6b2758dab6eb20f7654572fb7"
-  },
-  {
-    "name": "DSLA",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "DSLA",
-    "description": "DSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators.",
-    "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe"
   },
   {
     "name": "OpenDAO",
@@ -1576,14 +1568,6 @@
     "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
   },
   {
-    "name": "Gem Exchange and Trading",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GXT",
-    "description": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.",
-    "address": "0x4674672bcddda2ea5300f5207e1158185c944bc0"
-  },
-  {
     "name": "Telcoin",
     "type": "ERC20",
     "decimals": 2,
@@ -1598,6 +1582,14 @@
     "symbol": "WOO",
     "description": "Wootrade is a layer one trading infrastructure complete with deep liquidity, frontend trading GUI, and the ability to integrate into any exchange, trading desk, wallet, dApp, or other trading-related platform.",
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+  },
+  {
+    "name": "Flame Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XFL",
+    "description": "Flame Token is the native currency of Sharesome, the first social discovery network for adult content creators and brands.",
+    "address": "0x469861bdfd02e7ebce7cdeb281e8eec53069cf5f"
   },
   {
     "name": "FLUX",
@@ -2192,28 +2184,12 @@
     "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
   },
   {
-    "name": "GXToken",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GXT",
-    "description": "-",
-    "address": "0x60c87297a1feadc3c25993ffcadc54e99971e307"
-  },
-  {
     "name": "QASH",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "QASH",
     "description": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
     "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
-  },
-  {
-    "name": "Unit Payment International",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "UPI",
-    "description": "-",
-    "address": "0x61b21c6ee787bc1df5ef873e5f6809711c62ab92"
   },
   {
     "name": "Cybereits Token",
@@ -2296,14 +2272,6 @@
     "address": "0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d"
   },
   {
-    "name": "Morpher Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MPH",
-    "description": "Morpher rebuilds financial markets from the ground up on the Ethereum Blockchain. All in the pursuit of the perfect trading experience. With Zero Fees, Perfectly Liquid Markets, No Counterparties, Verifiable and Transparent Execution all Secured with Blockchain Technology",
-    "address": "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
-  },
-  {
     "name": "Acash Coin",
     "type": "ERC20",
     "decimals": 8,
@@ -2318,14 +2286,6 @@
     "symbol": "BTS",
     "description": "-",
     "address": "0x63dcad9e5f2d784fc4f12abf61ec47236faba895"
-  },
-  {
-    "name": "GAME Credits",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GAME",
-    "description": "The next-generation blockchain platform for large-scale online games and social apps. GAME Credits is a platform eSports solution for true digital item ownership - Blockchain for every game and every gamer - empower your players and deliver what they want - true ownership, digital security and boundless possibilities for fun.",
-    "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
   },
   {
     "name": "E-RADIX",
@@ -2406,6 +2366,14 @@
     "symbol": "BAR",
     "description": "-",
     "address": "0x69765c619f11bbcc5c382f9127383a2126f94138"
+  },
+  {
+    "name": "QRL",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "QRL",
+    "description": "-",
+    "address": "0x697beac28b09e122c4332d163985e8a73121b97f"
   },
   {
     "name": "Mask Network",
@@ -3048,14 +3016,6 @@
     "address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
   },
   {
-    "name": "88mph.app",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MPH",
-    "description": "MPH is a cryptocurrency and operates on the Ethereum platform.",
-    "address": "0x8888801af4d980682e47f1a9036e589479e835c5"
-  },
-  {
     "name": "Alien Worlds Trilium",
     "type": "ERC20",
     "decimals": 4,
@@ -3584,14 +3544,6 @@
     "address": "0xa2a8dec9d963e2fe7a5ab8469586b07ef53bb505"
   },
   {
-    "name": "Lattice Token",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "LTX",
-    "description": "Lattice is a decentralized finance (DeFi) application built with Ethereum and Constellation’s Hypergraph Transfer Protocol (HGTP).",
-    "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
-  },
-  {
     "name": "Metronome",
     "type": "ERC20",
     "decimals": 18,
@@ -3752,14 +3704,6 @@
     "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
   },
   {
-    "name": "Monolith TKN",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "TKN",
-    "description": "Monolith is an Ethereum-powered solution allowing users to spend ETH and ERC-20 in real-life, the way users are used to: with a debit card accepted anywhere.",
-    "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
-  },
-  {
     "name": "James McCall",
     "type": "ERC20",
     "decimals": 18,
@@ -3894,6 +3838,14 @@
     "symbol": "CEEK",
     "description": "CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1"
+  },
+  {
+    "name": "Lotto",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "LOTTO",
+    "description": "A massive lottery between everyone in the DeFi space where tokens are automatically removed from all wallets, pooled together, and given to one user at random!",
+    "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858"
   },
   {
     "name": "NABS",
@@ -4384,6 +4336,14 @@
     "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
   },
   {
+    "name": "Banker Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "BNK",
+    "description": "Bankera is an operational fork of SpectroCoin. As SpectroCoin to be competitive has developed bank-like infrastructure, but was not intended to become a proper bank, it is releasing Bankera to leverage its regulatory and IT infrastructure to develop a bank for the blockchain era. Bankera as a proper bank will offer payments, investments, and loan and deposit solutions. Later on, it is planing to develop new types of money, such as inflation linked baskets.",
+    "address": "0xc80c5e40220172b36adee2c951f26f2a577810c5"
+  },
+  {
     "name": "SENTINEL PROTOCOL",
     "type": "ERC20",
     "decimals": 18,
@@ -4438,14 +4398,6 @@
     "symbol": "BTM",
     "description": "-",
     "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750"
-  },
-  {
-    "name": "Game Magic",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "GAME",
-    "description": "-",
-    "address": "0xcbdfad49dad16a992978f2767506a0f3f11ae9c7"
   },
   {
     "name": "Bither Platform Token",
@@ -4632,14 +4584,6 @@
     "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
   },
   {
-    "name": "Populous",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "PPT",
-    "description": "The idea behind Populous is to allow enterprise owners the opportunity for liquidity on invoices for durations up to 90 days using a peer-to-peer invoice financing platform.",
-    "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
-  },
-  {
     "name": "Curve DAO Token",
     "type": "ERC20",
     "decimals": 18,
@@ -4694,6 +4638,14 @@
     "symbol": "OXY",
     "description": "OxyCoin (OXY) is an ERC20 Token that supplied 244,140,625,000,000,000,000 coins",
     "address": "0xd83a162d4808c370a1445646e64cc4861eb60b92"
+  },
+  {
+    "name": "GAMEE Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMEE",
+    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+    "address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
   },
   {
     "name": "ShareToken",
@@ -4894,14 +4846,6 @@
     "symbol": "GTC",
     "description": "-",
     "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479"
-  },
-  {
-    "name": "Curate",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "XCUR",
-    "description": "CURATE is a marketplace app centred around the theme of content discovery on clothing/fashion, gaming/tech, crypto assets and health/beauty and more. Curate utilises blockchain technology as a payment infrastructure and means of rewarding engagement i.e buying, selling or based on our rewards engagement algorithm. XCUR is the official token for the CURATE marketplace app and DeFi platform.",
-    "address": "0xe1c7e30c42c24582888c758984f6e382096786bd"
   },
   {
     "name": "Injective",
@@ -5120,12 +5064,12 @@
     "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
   },
   {
-    "name": "Exeedme",
+    "name": "e-Money NGM staking token",
     "type": "ERC20",
-    "decimals": 18,
-    "symbol": "XED",
-    "description": "New Revenue Streams for Gamers",
-    "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
+    "decimals": 6,
+    "symbol": "NGM",
+    "description": "ERC20 version of the e-Money NGM staking token",
+    "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
   },
   {
     "name": "Hermez Network Token",
@@ -5248,12 +5192,28 @@
     "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
   },
   {
+    "name": "Poker Chips",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CHP",
+    "description": "CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.",
+    "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e"
+  },
+  {
     "name": "Verasity",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VRA",
     "description": "Verasity",
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+  },
+  {
+    "name": "PUSH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PUSH",
+    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
+    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
   },
   {
     "name": "Metal",

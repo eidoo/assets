@@ -160,6 +160,14 @@
     "address": "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7"
   },
   {
+    "name": "GAMEE Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GMEE",
+    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+    "address": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7"
+  },
+  {
     "name": "Aave (PoS)",
     "type": "ERC20",
     "decimals": 18,
