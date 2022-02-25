@@ -1,3 +1,6 @@
 {
-  "amazon": ["amazon", "amzn"]
+  "amazon": ["amazon", "amzn"],
+  "autostrade": ["aspit", "autostrade"],
+  "ebay": ["e bay", "ebay"],
+  "tim": ["telecom italia", "tim"]
 }
