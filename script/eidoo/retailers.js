@@ -4,6 +4,7 @@ const beautify = require('json-beautify')
 const overrides = require('./retailers_overrides.json')
 
 const dir = "retailers"
+const newOutput = {}
 const output = {}
 const supportedExtensions = ["png"]
 
@@ -30,6 +31,13 @@ readdirSync(dir, { withFileTypes: true })
         .replace(new RegExp("&", "g"), "%26")
         .replace(new RegExp("\\+", "g"), "%2B")
     }
+
+    for (const key of Object.keys(output)) {
+      if (!newOutput[key.length]) {
+        newOutput[key.length] = {}
+      }
+      newOutput[key.length][key] = output[key]
+    }
   })
 
-writeFileSync("retailers/_export.json", beautify(output, null, 2, 100))
+writeFileSync("retailers/_export.json", beautify(newOutput, null, 2, 100))
