@@ -328,6 +328,14 @@
     "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
   },
   {
+    "name": "Alpine F1 Team Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ALPINE",
+    "description": "The Alpine F1® Team Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all BWT Alpine F1® Team supporters. The token empowers BWT Alpine F1® Team fans to participate in team voting polls, hunt digital collectibles, purchase NFTs, and enjoy gamification features that are tied with fan rewards or great experiences.",
+    "address": "0x287880ea252b52b63cc5f40a2d3e5a44aa665a76"
+  },
+  {
     "name": "Frax",
     "type": "BEP20",
     "decimals": 18,
@@ -342,6 +350,14 @@
     "symbol": "META",
     "description": "The metacash project is referred to the world of the metaverse and virtual reality, through creating a large community of more than 3000 members.",
     "address": "0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3"
+  },
+  {
+    "name": "Gem Exchange and Trading",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GXT",
+    "description": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.",
+    "address": "0x3107c0a1126268ca303f8d99c712392fa596e6d7"
   },
   {
     "name": "MOBOX",
@@ -430,6 +446,14 @@
     "symbol": "LTC",
     "description": "Binance-Peg Litecoin Token (LTC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Litecoin (LTC) at a ratio of 1:1.",
     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+  },
+  {
+    "name": "GoldCoin Reserve",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GCR",
+    "description": "GCR is a stable digital asset, that is both backed by and tethered to the price of gold",
+    "address": "0x451d0e4b04a16223bbaece67b2276223db0d19da"
   },
   {
     "name": "Wootrade Network",
@@ -672,28 +696,12 @@
     "address": "0x658a109c5900bc6d2357c87549b651670e5b0539"
   },
   {
-    "name": "ARIVA",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "ARV",
-    "description": "Ariva (ARV) is a cryptocurrency supported by Ariva Co., produced for active use in global and local tourism and travel networks in the near future.",
-    "address": "0x6679eb24f59dfe111864aec72b443d1da666b360"
-  },
-  {
     "name": "Bitcoin And Ethereum Standard Token",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BEST",
     "description": "Hashrate 2.0 ecosystem token. Link traditional crypto assets mining industry and cutting-edge Defi tech.",
     "address": "0x667bebff5cda3c4a460b514ab478da0a8cf80910"
-  },
-  {
-    "name": "HAMSTER",
-    "type": "BEP20",
-    "decimals": 7,
-    "symbol": "HAM",
-    "description": "Hamster is MemeToken",
-    "address": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e"
   },
   {
     "name": "APOyield SOULS",
@@ -1048,6 +1056,14 @@
     "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809"
   },
   {
+    "name": "Thetan Gem",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "THG",
+    "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn money with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork with various game modes: MOBA & Battle Royale, coming with monthly updates and attractive rewards. Gear your heroes up with a large selection of hundreds of weapons. Play for Free, Play to Earn!",
+    "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f"
+  },
+  {
     "name": "wBitcoin",
     "type": "BEP20",
     "decimals": 8,
@@ -1120,6 +1136,14 @@
     "address": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40"
   },
   {
+    "name": "Santos FC Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "SANTOS",
+    "description": "BEP-20 utility token for Santos FC football club",
+    "address": "0xa64455a4553c9034236734faddaddbb64ace4cc7"
+  },
+  {
     "name": "Ellipsis",
     "type": "BEP20",
     "decimals": 18,
@@ -1182,14 +1206,6 @@
     "symbol": "DORA",
     "description": "Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next–gen cryptocurrency that combines auto-liquidity, frictionless yield, token burn, especially $DORA is a community driven DeFi token.",
     "address": "0xadaf3be815cd4345229324e02e839de85ce95dc2"
-  },
-  {
-    "name": "DogeBonk",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "DOBO",
-    "description": "DogeBonk is a fluffy token on BSC with deflationary properties and automatic yield generation. 10% tax on each transaction. No presale. Anti-snipe protection.",
-    "address": "0xae2df9f730c54400934c06a17462c41c08a06ed8"
   },
   {
     "name": "Burger Swap Token",
@@ -1340,7 +1356,7 @@
     "type": "BEP20",
     "decimals": 18,
     "symbol": "BIFI",
-    "description": "Beefy is a Yield Optimizer on Binance Smart Chain",
+    "description": "The Multichain Yield Optimizer",
     "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a"
   },
   {
@@ -1542,6 +1558,14 @@
     "symbol": "vUSDC",
     "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
     "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
+  },
+  {
+    "name": "O3 Swap",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "O3",
+    "description": "O3 Swap Token (O3) is a governance token issued by O3 Swap. It is an important mediator to promote the development of the O3 Swap network. All participants and developers are encouraged to participate in the maintenance of the overall ecological network by staking, voting, etc. we are committed to providing a one-stop aggregation & exchange platform for users and offering developers access to an open, distributed, friendly, and secure trading environment.",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28"
   },
   {
     "name": "Scooby",

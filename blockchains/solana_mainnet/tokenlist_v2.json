@@ -72,14 +72,6 @@
     "address": "bxxkv6z8ykpg1yuvudpgh732wzvhb69rnb9ygsyh3itw"
   },
   {
-    "name": "DeFi Land",
-    "type": "SPL",
-    "decimals": 9,
-    "symbol": "DFL",
-    "description": "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance.",
-    "address": "dfl1znkagpwm1bqavqrjczvhmwtfreajtbzjwgseonjh"
-  },
-  {
     "name": "USD Coin",
     "type": "SPL",
     "decimals": 6,
@@ -190,13 +182,5 @@
     "symbol": "SLIM",
     "description": "Decentralized fundraising and trading platform on the Solana blockchain.",
     "address": "xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw"
-  },
-  {
-    "name": "Oxygen Protocol",
-    "type": "SPL",
-    "decimals": 6,
-    "symbol": "OXY",
-    "description": "The OXY token powers the Oxygen Protocol, governing it and 100% of its revenue",
-    "address": "z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m"
   }
 ]
