@@ -1,6 +1,34 @@
 {
-  "amazon": ["amazon", "amzn"],
-  "autostrade": ["aspit", "autostrade"],
-  "ebay": ["e bay", "ebay"],
-  "tim": ["telecom italia", "tim"]
+  "amazon": [
+    "amazon",
+    "amzn"
+  ],
+  "autostrade": [
+    "aspit",
+    "autostrade"
+  ],
+  "ebay": [
+    "e bay",
+    "ebay"
+  ],
+  "h&m": [
+    "hm",
+    "h&m"
+  ],
+  "kfc": [
+    "k.f.c.",
+    "kfc"
+  ],
+  "mcdonalds": [
+    "mcdonald s",
+    "mcdonalds"
+  ],
+  "tigota": [
+    "tigota",
+    "tigota'"
+  ],
+  "tim": [
+    "telecom italia",
+    "tim"
+  ]
 }
