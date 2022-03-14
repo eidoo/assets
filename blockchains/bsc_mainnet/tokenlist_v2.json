@@ -576,6 +576,14 @@
     "address": "0x5481a517028813956005d77bcd0f561c7276b1e3"
   },
   {
+    "name": "Alita Finance Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ALI",
+    "description": "Alita is the ultimate reward token for global trading platforms.",
+    "address": "0x557233e794d1a5fbcc6d26dca49147379ea5073c"
+  },
+  {
     "name": "Binance-Peg BSC-USD",
     "type": "BEP20",
     "decimals": 18,
@@ -590,6 +598,14 @@
     "symbol": "EOS",
     "description": "EOS is a cryptocurrency token and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations.",
     "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+  },
+  {
+    "name": "NFTY Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NFTY",
+    "description": "NFTY is a multi-chain NFT and Web3 authentication network.",
+    "address": "0x5774b2fc3e91af89f89141eacf76545e74265982"
   },
   {
     "name": "ERC20",
@@ -1208,6 +1224,14 @@
     "address": "0xadaf3be815cd4345229324e02e839de85ce95dc2"
   },
   {
+    "name": "DogeBonk",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "DOBO",
+    "description": "DogeBonk is a fluffy token on BSC with deflationary properties and automatic yield generation. 10% tax on each transaction. No presale. Anti-snipe protection.",
+    "address": "0xae2df9f730c54400934c06a17462c41c08a06ed8"
+  },
+  {
     "name": "Burger Swap Token",
     "type": "BEP20",
     "decimals": 18,
@@ -1624,6 +1648,14 @@
     "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
   },
   {
+    "name": "Goose Golden Egg",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "EGG",
+    "description": "2nd generation yield farming on binance smart chain",
+    "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6"
+  },
+  {
     "name": "NEFTiPEDiA",
     "type": "BEP20",
     "decimals": 16,
@@ -1638,6 +1670,14 @@
     "symbol": "FOX",
     "description": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops.",
     "address": "0xfad8e46123d7b4e77496491769c167ff894d2acb"
+  },
+  {
+    "name": "NOKU v2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NOKU",
+    "description": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.",
+    "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2"
   },
   {
     "name": "Binance-Peg Aave Token",

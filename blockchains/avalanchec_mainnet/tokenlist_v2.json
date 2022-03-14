@@ -24,14 +24,6 @@
     "address": "0x136acd46c134e8269052c62a67042d6bdedde3c9"
   },
   {
-    "name": "Pangolin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PNG",
-    "description": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche",
-    "address": "0x60781c2586d68229fde47564546784ab3faca982"
-  },
-  {
     "name": "Time",
     "type": "ERC20",
     "decimals": 9,
