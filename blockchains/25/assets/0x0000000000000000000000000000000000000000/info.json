@@ -1,0 +1,23 @@
+{
+    "name": "Cronos",
+    "website": "https://cronos.org/",
+    "description": "Cronos is the EVM compatible chain running in parallel to the Crypto.org Chain. It aims to massively scale the Chain DeFi ecosystem, by providing developers with the ability to rapidly port apps from Ethereum and EVM-compatible chains, with funding from Particle B’s $100m EVM fund and access to the 10M+ user base of the Crypto.com ecosystem.",
+    "explorer": "https://cronoscan.com/",
+    "symbol": "CRO",
+    "type": "coin",
+    "decimals": 8,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/crypto-org-chain/cronos"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cronos_chain"
+        }
+    ]
+}
