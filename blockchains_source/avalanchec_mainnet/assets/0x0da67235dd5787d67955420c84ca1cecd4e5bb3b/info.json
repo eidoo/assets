@@ -1,0 +1,28 @@
+{
+    "name": "Wrapped MEMO",
+    "website": "https://app.wonderland.money/#/",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "explorer": "https://snowtrace.io/address/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+    "type": "ERC20",
+    "symbol": "wMEMO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://mobile.twitter.com/wonderland_fi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wrapped-memory/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/coins/wonderful-memories"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MEMOries",
+    "website": "https://app.wonderland.money/#/",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "explorer": "https://snowtrace.io/address/0x136Acd46C134E8269052c62A67042D6bDeDde3C9",
+    "type": "ERC20",
+    "symbol": "MEMO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x136Acd46C134E8269052c62A67042D6bDeDde3C9",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://mobile.twitter.com/wonderland_fi"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}

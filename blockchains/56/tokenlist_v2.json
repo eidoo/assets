@@ -1,0 +1,1714 @@
+[
+  {
+    "name": "Binance Coin",
+    "type": "coin",
+    "decimals": 18,
+    "symbol": "BNB",
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Phala Network ",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PHA",
+    "description": "Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs.",
+    "address": "0x0112e557d400474717056c4e6d40edd846f38351"
+  },
+  {
+    "name": "One Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "ONE",
+    "description": "$ONE aims to become the most decentralized BSC token.Through the usage of cutting-edge technology mechanisms, 10% of $ONE total supply will be distributed among BSC active users.Our goal is to spread $ONE philosophy by gaining trustworthy holders through the fair distribution of the token.",
+    "address": "0x01eaedd1bc5f8198d174532aa13ba150653e0e11"
+  },
+  {
+    "name": "SCRT",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SCRT",
+    "description": "Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. The wrapped BSC version of SCRT can be exchanged 1:1 on the Secret Network Bridge for Native SCRT, secretSCRT or WSCRT (ERC20).",
+    "address": "0x02dd18e4981da3fc7363fe56f3b81d1860b44ea7"
+  },
+  {
+    "name": "YOOSHI Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "YOOSHI",
+    "description": "YooShi is a community-driven, fair launched MEME Token, which brings both fun and profits!",
+    "address": "0x02ff5065692783374947393723dba9599e59f591"
+  },
+  {
+    "name": "Harmony.One",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ONE",
+    "description": "Harmony aims to offer a fast and open blockchain for decentralized applications.",
+    "address": "0x03ff0ff224f904be3118461335064bb48df47938"
+  },
+  {
+    "name": "Radio Caca Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "RACA",
+    "description": "Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in the music, digital art and fashion area across the world. A deflation token with limited supply. A community-driven token for NFT payment sector. A DEFI token. With No Private Sale. Locked liquidity for 3 years.",
+    "address": "0x043b49749e0016e965600d502e2177ca2d95b3d9"
+  },
+  {
+    "name": "ONE Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ONE",
+    "description": "ONE is a token issued by the BigONE trading platform.",
+    "address": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0"
+  },
+  {
+    "name": "Binance-Peg Smooth Love Potion",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SLP",
+    "description": "Smooth Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).",
+    "address": "0x070a08beef8d36734dd67a491202ff35a6a16d97"
+  },
+  {
+    "name": "Streamr",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DATA",
+    "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+    "address": "0x0864c156b3c5f69824564dec60c629ae6401bf2a"
+  },
+  {
+    "name": "Impossible Finance IDIA",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "IDIA",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
+    "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89"
+  },
+  {
+    "name": "EverRise",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
+  },
+  {
+    "name": "Binance-Peg Filecoin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FIL",
+    "description": "Filecoin provides a blockchain-based marketplace that aims to revolutionize the global storage economy.",
+    "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153"
+  },
+  {
+    "name": "PancakeSwap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CAKE",
+    "description": "PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward.",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+  },
+  {
+    "name": "Rai Finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "Rai",
+    "description": "RAI Finance is a protocol designed to provide DeFi with a wider range of assets, a higher amount of liquidity, and a diverse set of financial use cases. When this feature set is combined with the cross-chain compatibility of the Polkadot ecosystem, it eliminates fragmentation across the existing DeFi ecosystem by bringing a complement of new assets and a higher amount of liquidity to decentralized finance.",
+    "address": "0x0e128fb9f266f0cfedeb3b789f6fd4af50d51b84"
+  },
+  {
+    "name": "Binance-Peg Cosmos Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ATOM",
+    "description": "Binance-Peg Cosmos Token (ATOM BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cosmos (ATOM) at a ratio of 1:1.",
+    "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+  },
+  {
+    "name": "Binance-Peg Basic Attention Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BAT",
+    "description": "Binance-Peg Basic Attention Token (BAT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Basic Attention (BAT ERC20) at a ratio of 1:1.",
+    "address": "0x101d82428437127bf1608f699cd651e6abf9766e"
+  },
+  {
+    "name": "Best",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BEST",
+    "description": "-",
+    "address": "0x10747e2045a0ef884a0586ac81558f43285ea3c7"
+  },
+  {
+    "name": "1INCH Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "1INCH",
+    "description": "The 1INCH token on Binance Smart Chain will be used for a bridge between the Binance and Ethereum networks.",
+    "address": "0x111111111117dc0aa78b770fa6a738034120c302"
+  },
+  {
+    "name": "USDX",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "USDX",
+    "description": "USDX is a decentralized and crypto-backed stablecoin issued by the Kava DeFi platform.",
+    "address": "0x1203355742e76875154c0d13eb81dcd7711dc7d9"
+  },
+  {
+    "name": "Radio Caca V2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "RACA",
+    "description": "Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in the music, digital art and fashion area across the world. A deflation token with limited supply. A community-driven token for NFT payment sector.",
+    "address": "0x12bb890508c125661e03b09ec06e404bc9289040"
+  },
+  {
+    "name": "Travala.com",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AVA",
+    "description": "Travala.com claims to be the leading blockchain-based travel booking platform.",
+    "address": "0x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9"
+  },
+  {
+    "name": "Yield Guild Games",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "YGG",
+    "description": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organization’s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.",
+    "address": "0x13ab6739368a4e4abf24695bf52959224367391f"
+  },
+  {
+    "name": "Binance-Peg TrueUSD",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TUSD",
+    "description": "Binance-Peg TrueUSD (TUSDP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to TrueUSD (TUSD ERC20) at a ratio of 1:1.",
+    "address": "0x14016e85a25aeb13065688cafb43044c2ef86784"
+  },
+  {
+    "name": "Venus XVS",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vXVS",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d"
+  },
+  {
+    "name": "Binance-Peg Tezos Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XTZ",
+    "description": "Binance-Peg Tezos Token (XTZ BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Tezos (XTZ) at a ratio of 1:1.",
+    "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a"
+  },
+  {
+    "name": "Annex ETH",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "aETH",
+    "description": "Money Markets. A Decentralized Marketplace for Lenders and Borrowers",
+    "address": "0x1aa4bdb03f27b08ad203aa083e88eb425cedd330"
+  },
+  {
+    "name": "Binance-Peg Dai Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DAI",
+    "description": "Binance-Peg Dai Token (DAI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to DAI (DAI ERC20) at a ratio of 1:1.",
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
+  },
+  {
+    "name": "Binance-Peg Zcash Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ZEC",
+    "description": "Binance-Peg Zcash Token (ZEC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Zcash (ZEC) at a ratio of 1:1.",
+    "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
+  },
+  {
+    "name": "Binance-Peg TornadoCash Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TORN",
+    "description": "Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.",
+    "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
+  },
+  {
+    "name": "Binance-Peg XRP Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XRP",
+    "description": "Binance-Peg XRP Token (XRP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to XRP (XRP) at a ratio of 1:1.",
+    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+  },
+  {
+    "name": "Binance-Peg Celer Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CELR",
+    "description": "Binance-Peg Celer Token (CELR BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Celer (CELR ERC20) at a ratio of 1:1.",
+    "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163"
+  },
+  {
+    "name": "Binance-Peg NEAR Protocol",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NEAR",
+    "description": "Binance-Peg NEAR Protocol (NEAR BEP20) is a token issued by Binance on Smart Chain; its price is pegged to NEAR Protocol (NEAR) at a ratio of 1:1.",
+    "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63"
+  },
+  {
+    "name": "Binance-Peg APENFT Token",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "NFT",
+    "description": "APENFT was born with the mission to register world-class artworks as NFTs on blockchain. It aims to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists.",
+    "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d"
+  },
+  {
+    "name": "Chess",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CHESS",
+    "description": "Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset.",
+    "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6"
+  },
+  {
+    "name": "BUX Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BUX",
+    "description": "BUX is a platform that makes crypto trading simple and accessible.",
+    "address": "0x211ffbe424b90e25a15531ca322adf1559779e45"
+  },
+  {
+    "name": "Binance-Peg Ethereum",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ETH",
+    "description": "Binance-Peg Ethereum (ETH BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1.",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+  },
+  {
+    "name": "Alien Worlds Trilium",
+    "type": "BEP20",
+    "decimals": 4,
+    "symbol": "TLM",
+    "description": "Trilium (TLM) is the native utility token of the Alien Worlds metaverse",
+    "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95"
+  },
+  {
+    "name": "Wrapped UST Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "UST",
+    "description": "TerraUSD is the first decentralized stablecoin that is scalable, yield bearing and interchain.",
+    "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc"
+  },
+  {
+    "name": "VITE Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "VITE",
+    "description": "VITE(Vite) is a lightning-fast blockchain where transactions incur zero fees.",
+    "address": "0x2794dad4077602ed25a88d03781528d1637898b4"
+  },
+  {
+    "name": "Binance-Peg SHIBA INU",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SHIB",
+    "description": "Binance-Peg SHIBA INU (SHIB BEP20) is a token issued by Binance on Smart Chain; its price is pegged to SHIBA INU (SHIB ERC20) at a ratio of 1:1.",
+    "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d"
+  },
+  {
+    "name": "Alpine F1 Team Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ALPINE",
+    "description": "The Alpine F1® Team Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all BWT Alpine F1® Team supporters. The token empowers BWT Alpine F1® Team fans to participate in team voting polls, hunt digital collectibles, purchase NFTs, and enjoy gamification features that are tied with fan rewards or great experiences.",
+    "address": "0x287880ea252b52b63cc5f40a2d3e5a44aa665a76"
+  },
+  {
+    "name": "Frax",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FRAX",
+    "description": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+    "address": "0x29ced01c447166958605519f10dcf8b0255fb379"
+  },
+  {
+    "name": "MetaCash",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "META",
+    "description": "The metacash project is referred to the world of the metaverse and virtual reality, through creating a large community of more than 3000 members.",
+    "address": "0x2e42c9eac96833c6e16dc71c743cecc114ccd7e3"
+  },
+  {
+    "name": "Gem Exchange and Trading",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GXT",
+    "description": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.",
+    "address": "0x3107c0a1126268ca303f8d99c712392fa596e6d7"
+  },
+  {
+    "name": "MOBOX",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MBOX",
+    "description": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain",
+    "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
+  },
+  {
+    "name": "AIOZ Network Coin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AIOZ",
+    "description": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
+    "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d"
+  },
+  {
+    "name": "BitTorrent",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BTT",
+    "description": "BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.",
+    "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b"
+  },
+  {
+    "name": "DeRace Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DERC",
+    "description": "DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome",
+    "address": "0x373e768f79c820aa441540d254dca6d045c6d25b"
+  },
+  {
+    "name": "MixMarvel Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MIX",
+    "description": "MIX is a platform token, representing the platform's growth of value. The total amount of MIX is constant at 10 billion and will never be over-issued. A substantial amount of MIX is generated through community PoA (Proof of Action). The actions that are counted as ecosystem-friendly, such as marketing, contributing applications, creating content, providing services, are rewarded with MIX.",
+    "address": "0x398f7827dccbefe6990478876bbf3612d93baf05"
+  },
+  {
+    "name": "Binance-Peg Ethereum Classic",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ETC",
+    "description": "Binance-Peg Ethereum Classic (ETC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Ethereum Classic (ETC) at a ratio of 1:1.",
+    "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e"
+  },
+  {
+    "name": "Binance-Peg Cardano Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ADA",
+    "description": "Binance-Peg Cardano Token (ADA BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cardano (ADA) at a ratio of 1:1.",
+    "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+  },
+  {
+    "name": "VIDT Datalink BEP20",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "VIDT",
+    "description": "V-ID makes any digital file verifiable. The VIDT API enables organizations to protect their digital data against fraud and manipulation. A simple but strong formula, that adds and protects value at minimum expense and effort. Organizations like Airbus, AmSpec and IBM use VIDT Datalink to certify and secure digital documents like certificates, invoices, diplomas and sensor-data. VIDT Datalink products and services connect every cloud to every blockchain.",
+    "address": "0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110"
+  },
+  {
+    "name": "Dego Finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DEGO",
+    "description": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.",
+    "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc"
+  },
+  {
+    "name": "XCAD Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XCAD",
+    "description": "XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators",
+    "address": "0x431e0cd023a32532bf3969cddfc002c00e98429d"
+  },
+  {
+    "name": "Binance-Peg Litecoin Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LTC",
+    "description": "Binance-Peg Litecoin Token (LTC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Litecoin (LTC) at a ratio of 1:1.",
+    "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+  },
+  {
+    "name": "GoldCoin Reserve",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GCR",
+    "description": "GCR is a stable digital asset, that is both backed by and tethered to the price of gold",
+    "address": "0x451d0e4b04a16223bbaece67b2276223db0d19da"
+  },
+  {
+    "name": "Wootrade Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "WOO",
+    "description": "Wootrade aims to provide deep liquidity and superior order execution at the lowest cost for traders, exchanges, institutions, and DeFi platforms. Its flagship, WOO X, is a professional trading platform featuring customizable modules, and zero-fees with deep liquidity across spot and margin. Wootrade was founded by Kronos Research, a quantitative trading firm generating $10-15B in daily volume, with the goal of democratizing access to deep liquidity and yield strategies through various products.",
+    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+  },
+  {
+    "name": "SeedifyFund",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SFUND",
+    "description": "A Blockchain Innovation Ecosystem, with a Seed Stage Fund, Decentralized Incubator, and Launchpad",
+    "address": "0x477bc8d23c634c154061869478bce96be6045d12"
+  },
+  {
+    "name": "FOX Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FOX",
+    "description": "FoxNFT is an ecological platform focusing on NFT to promote the concept of digital brand assets, it is based on the BSC smart chain and through encryption technology to solve brand assets’ issues in casting, trading, storaging, distributing and other issues.FoxNFT can empower NFT and brands in financial, game, collecting, social and other scenarios, opening barriers to the real and encrypted world.",
+    "address": "0x4796ab7f44e0561ae353119b3e59a3f724e5f49e"
+  },
+  {
+    "name": "Swipe",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SXP",
+    "description": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card.",
+    "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a"
+  },
+  {
+    "name": "FC Porto Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "PORTO",
+    "description": "BEP-20 Utility token for FC Porto",
+    "address": "0x49f2145d6366099e13b10fbf80646c0f377ee7f6"
+  },
+  {
+    "name": "Trust Wallet",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TWT",
+    "description": "Utility token to increase adoption of cryptocurrency.",
+    "address": "0x4b0f1812e5df2a09796481ff14017e6005508003"
+  },
+  {
+    "name": "Harvest Reward Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FARM",
+    "description": "Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques.",
+    "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743"
+  },
+  {
+    "name": "VAI Stablecoin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "VAI",
+    "description": "VAI is the world’s first decentralized stablecoin, enabled by Venus, built on Binance Smart Chain.",
+    "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7"
+  },
+  {
+    "name": "Apollo Space Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "AST",
+    "description": "AST is a deflationary incentive token that will be used in the ecosystem of products offered by AST.",
+    "address": "0x4cae95d03c85ae462daec44d5426f547a26faf47"
+  },
+  {
+    "name": "Wild Ride Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "WILD",
+    "description": "Wild Ride is a Binance Smart Chain community-driven meme token with a utility purpose.",
+    "address": "0x4f0e7a273c7ff13062fa581bee4ffabdae94328f"
+  },
+  {
+    "name": "Hot Cross Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HOTCROSS",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. We are a cohort of builders who aggressively seek out opportunities to meet the demands of the now for both B2B and B2C.",
+    "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+  },
+  {
+    "name": "SuperFarm",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SUPER",
+    "description": "SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!",
+    "address": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d"
+  },
+  {
+    "name": "Binance-Peg Compound",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "COMP",
+    "description": "Binance-Peg Compound (COMP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Compound (COMP ERC20) at a ratio of 1:1.",
+    "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+  },
+  {
+    "name": "BabySwap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BABY",
+    "description": "BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain.",
+    "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
+  },
+  {
+    "name": "BOOBAM Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BOBA",
+    "description": "BOOBAM is a deflationaty token with RFI system and anti-whale protection.",
+    "address": "0x5481a517028813956005d77bcd0f561c7276b1e3"
+  },
+  {
+    "name": "Alita Finance Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ALI",
+    "description": "Alita is the ultimate reward token for global trading platforms.",
+    "address": "0x557233e794d1a5fbcc6d26dca49147379ea5073c"
+  },
+  {
+    "name": "Binance-Peg BSC-USD",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "USDT",
+    "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+    "address": "0x55d398326f99059ff775485246999027b3197955"
+  },
+  {
+    "name": "Binance-Peg EOS Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "EOS",
+    "description": "EOS is a cryptocurrency token and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations.",
+    "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+  },
+  {
+    "name": "NFTY Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NFTY",
+    "description": "NFTY is a multi-chain NFT and Web3 authentication network.",
+    "address": "0x5774b2fc3e91af89f89141eacf76545e74265982"
+  },
+  {
+    "name": "ERC20",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ERC20",
+    "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi. With a built-in smart-contract introduced the future needs and desires of holders ERC20 Token is open-ended by design, it is extremely well-suited to serving as a foundational layer for a very large number of both financial, non-financial and farming with Non-fungible token (NFT) world in the years to come.",
+    "address": "0x58730ae0faa10d73b0cddb5e7b87c3594f7a20cb"
+  },
+  {
+    "name": "WhaleFall",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "WHALE",
+    "description": "WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class.",
+    "address": "0x587c16b84c64751760f6e3e7e32f896634704352"
+  },
+  {
+    "name": "BSCPAD",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BSCPAD",
+    "description": "BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network. ",
+    "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+  },
+  {
+    "name": "AETHERIUS TOKEN",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "AETH",
+    "description": "Aetherius is a new crypto-mining project looking to give investors all the experience, infrastructure, energy and a steady flow of passive income necessary to start each investor as a miner.",
+    "address": "0x5a3b6f18dc79d50ab208af2fcd61d10bf7e4896f"
+  },
+  {
+    "name": "Position",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "POSI",
+    "description": "Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees.",
+    "address": "0x5ca42204cdaa70d5c773946e69de942b85ca6706"
+  },
+  {
+    "name": "Hero Floki",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "HERO pays CAKE and BUSD his long-term holders! Every Hours Hero holders can claim BUSD & CAKE from the Hero Vault!",
+    "address": "0x5d96991648d22935bdf6c7064b65c3c93f82aa61"
+  },
+  {
+    "name": "Proton",
+    "type": "BEP20",
+    "decimals": 4,
+    "symbol": "XPR",
+    "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and buy crypto, and use crypto seamlessly.",
+    "address": "0x5de3939b2f811a61d830e6f52d13b066881412ab"
+  },
+  {
+    "name": "Binance-Peg Maker",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MKR",
+    "description": "Maker (MKR) is a utility token, governance token and recapitalization resource of the Maker system.",
+    "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350"
+  },
+  {
+    "name": "Highstreet Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HIGH",
+    "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.",
+    "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63"
+  },
+  {
+    "name": "Kava",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "KAVA",
+    "description": "Kava is a cross-chain DeFi Lending platform enabling stablecoin loans for users of major cryptocurrencies.",
+    "address": "0x5f88ab06e8dfe89df127b2430bba4af600866035"
+  },
+  {
+    "name": "Ape Swap Finance Banana",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BANANA",
+    "description": "ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain. ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.",
+    "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+  },
+  {
+    "name": "PEAK",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "PEAK",
+    "description": "PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth.",
+    "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+  },
+  {
+    "name": "The Force Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FOR",
+    "description": "FOR is the ecological token of ForTube. ForTube transfers the power of community autonomy to FOR holders as much as possible through FOR to promote the realization of decentralized governance.",
+    "address": "0x658a109c5900bc6d2357c87549b651670e5b0539"
+  },
+  {
+    "name": "Bitcoin And Ethereum Standard Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BEST",
+    "description": "Hashrate 2.0 ecosystem token. Link traditional crypto assets mining industry and cutting-edge Defi tech.",
+    "address": "0x667bebff5cda3c4a460b514ab478da0a8cf80910"
+  },
+  {
+    "name": "APOyield SOULS",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "SOUL",
+    "description": "APOyield is a deflationary friction less yield product with it's own token called SOUL. Initially the number of SOUL tokens is equal to the number of citizens of earth. With every transaction 2% of the SOULS gets condemned forever and lost in hell. Yet another 8% gets another chance of survival in a shattered form in wallets of all remaining holders.",
+    "address": "0x67d012f731c23f0313cea1186d0121779c77fcfe"
+  },
+  {
+    "name": "DODO",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DODO",
+    "description": "DODO is a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm and built for capital efficiency.",
+    "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2"
+  },
+  {
+    "name": "X World Games",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XWG",
+    "description": "X World Games is the next-generation decentralized blockchain game ecosystem. \"X World\" represents an unknown universe to be explored, and \"Games\" represents more games that will be added to this ecosystem. The vision of X World Games is to build a diversified gaming ecosystem that connects traditional game players and the blockchain world and help more game developers who want to enter the crypto space to create the underlying blockchain framework.",
+    "address": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc"
+  },
+  {
+    "name": "AdEx",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ADX",
+    "description": "The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy.",
+    "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819"
+  },
+  {
+    "name": "Binance-Peg Polkadot Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DOT",
+    "description": "Polkadot is a blockchain project that aims to connect blockchains, to enable the transfer of value and logic across chains.",
+    "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+  },
+  {
+    "name": "Binance-Peg BTCB Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BTCB",
+    "description": "Bitcoin BEP2 (BTCB) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 BTCB = 1 BTC.",
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+  },
+  {
+    "name": "Binance-Pegged Axie Infinity Shard",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AXS",
+    "description": "Binance-Peg Axie Infinity Shard (AXS BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Axie Infinity Shard (AXS ERC20) at a ratio of 1:1.",
+    "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0"
+  },
+  {
+    "name": "UNFI",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "UNFI",
+    "description": "Unifi Protocol DAO is a group of non-custodial, interoperable, decentralized, multi-chain smart contracts providing the building blocks for DeFi development. ",
+    "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b"
+  },
+  {
+    "name": "LINA",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LINA",
+    "description": "Linear Finance is a cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity",
+    "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878"
+  },
+  {
+    "name": "Titan War",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "TITAN",
+    "description": "A Decentralized Gaming Play to Earn Token Based On Binance Smart Chain",
+    "address": "0x76f34cd142ca4a5ea2e197ebffbf5234a1c29268"
+  },
+  {
+    "name": "S.S. Lazio Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "LAZIO",
+    "description": "BEP-20 utility token for S.S. Lazio",
+    "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d"
+  },
+  {
+    "name": "StandardBTCHashrateToken",
+    "type": "BEP20",
+    "decimals": 17,
+    "symbol": "BTCST",
+    "description": "Bitcoin Standard Hashrate Token (BTCST) is a token collateralized by 0.1 TH/s of actual Bitcoin mining power standardized to an efficiency of 60 W/TH.",
+    "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9"
+  },
+  {
+    "name": "BinaHero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "BinaHero is a decentralized NFT game that integrates collection, mining, market trading, and PVE. Players can play to earn in the game.",
+    "address": "0x78c3ade403438b37638304f9fbbfb1b76608c1bd"
+  },
+  {
+    "name": "GMT Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GMT",
+    "description": "A token backed by real assets that brings in constantly growing daily BTC income to its owner.",
+    "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
+  },
+  {
+    "name": "pTokens GALA",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GALA",
+    "description": "Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items.",
+    "address": "0x7ddee176f665cd201f93eede625770e2fd911990"
+  },
+  {
+    "name": "Binance-Peg YFII.finance Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "YFII",
+    "description": "DFI.Money (YFII) is a DeFi platform which aims to build products on aggregated liquidity provision, leveraged trading, automated marketing making.",
+    "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5"
+  },
+  {
+    "name": "1Million",
+    "type": "BEP20",
+    "decimals": 4,
+    "symbol": "MLN",
+    "description": "At one million dollar coin you are more than just an investor. You’re an owner.",
+    "address": "0x8034aa1ebb42a4e2110e91666497198e977c8d81"
+  },
+  {
+    "name": "Old SafeMoon",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "SAFEMOON",
+    "description": "Self generating liquidity token - Reflection paid back to holders.",
+    "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3"
+  },
+  {
+    "name": "Multiverse Capital (MVC.finance)",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MVC",
+    "description": "Multiverse Capital is a multichain farming deflation token. 10% of each buy goes to existing holders. 10% of each sell goes into treasury fund to be used for multi-chain farming & big marketing. Investors buy $MVC on BSC, MVC farm on multiple chains and return the profits to $MVC holders. $MVC is deflationary & has price floor supported by Buyback & Burn to Liquidity Fund.",
+    "address": "0x80d04e44955aa9c3f24041b2a824a20a88e735a8"
+  },
+  {
+    "name": "aleph.im BEP-20 v2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ALEPH",
+    "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
+    "address": "0x82d2f8e02afb160dd5a480a617692e62de9038c4"
+  },
+  {
+    "name": "Bella Protocol",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BEL",
+    "description": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking.",
+    "address": "0x8443f091997f06a61670b735ed92734f5628692f"
+  },
+  {
+    "name": "RAMP DEFI",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "RAMP",
+    "description": "Unlocking Liquid Capital From Staked Assets",
+    "address": "0x8519ea49c997f50ceffa444d240fb655e89248aa"
+  },
+  {
+    "name": "Binance-Peg BitTorrent",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BTT",
+    "description": "Binance-Peg BitTorrent (BTT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to BitTorrent (BTT) at a ratio of 1:1.",
+    "address": "0x8595f9da7b868b1822194faed312235e43007b49"
+  },
+  {
+    "name": "TRON",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TRX",
+    "description": "TRON is a dedicated to build the infrastructure for a truly decentralized Internet.",
+    "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b"
+  },
+  {
+    "name": "Binance-Peg yearn.finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "YFI",
+    "description": "Binance-Peg yearn.finance (YFI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to yearn.finance (YFI ERC20) at a ratio of 1:1.",
+    "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e"
+  },
+  {
+    "name": "MultiVAC",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MTV",
+    "description": "MultiVAC is the innovative sharding protocol and pioneering flexible computing framework. MultiVAC is also called 'Multi-core Ethereum'. As a high-throughput and flexible public blockchain platform, MultiVAC proposed an all-dimensional sharding solution to increase TPS of blockchain, and MultiVAC is the first one that proposed a flexible computing framework, so the developers can trade-off freely about the blockchain trilemma on this framework.",
+    "address": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1"
+  },
+  {
+    "name": "Binance-Peg USD Coin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "USDC",
+    "description": "Binance-Peg USD Coin (USD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.",
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+  },
+  {
+    "name": "BinaryX",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BNX",
+    "description": "BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model.",
+    "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97"
+  },
+  {
+    "name": "Cartesi Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CTSI",
+    "description": "Cartesi Takes Smart Contracts to the Next Level.",
+    "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2"
+  },
+  {
+    "name": "ALPACA",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ALPACA",
+    "description": "ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.",
+    "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+  },
+  {
+    "name": "Binance-Peg Bitcoin Cash Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BCH",
+    "description": "Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC).",
+    "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+  },
+  {
+    "name": "Frontier Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FRONT",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b"
+  },
+  {
+    "name": "Sushi",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SUSHI",
+    "description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+    "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4"
+  },
+  {
+    "name": "Venus BUSD",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vBUSD",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+  },
+  {
+    "name": "Biswap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BSW",
+    "description": "The First DEX on BSC network with a three-type referral system",
+    "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1"
+  },
+  {
+    "name": "Binance-Peg IoTeX Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "IOTX",
+    "description": "Binance-Peg IoTeX Network (IOTX BEP20) is a token issued by Binance on Smart Chain; its price is pegged to IoTeX Network (IOTX ERC20) at a ratio of 1:1.",
+    "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5"
+  },
+  {
+    "name": "Newscrypto",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NWC",
+    "description": "Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.",
+    "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+  },
+  {
+    "name": "Contentos",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "COS",
+    "description": "COS is the native asset in the Contentos blockchain: it is used for voting, paying gas fee for smart-contract execution, and simple transaction fee.",
+    "address": "0x96dd399f9c3afda1f194182f71600f1b65946501"
+  },
+  {
+    "name": "BSC-Peg Thunder Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TT",
+    "description": "BSC-Peg Thunder Token (TT) on Binance Smart Chain. The Bridge allows users to transfer assets between Binance Smart Chain and ThunderCore network. This is a customized version of POA network Bridge",
+    "address": "0x990e7154bb999faa9b2fa5ed29e822703311ea85"
+  },
+  {
+    "name": "Taboo",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "TABOO",
+    "description": "Taboo is an adult NFT & Streaming media project. Specializing in highly, exclusive content. With models, who are not strictly porn stars. Their marketplace is cutting-edge, built by the Enjin Coin Marketplace Developers. Features include Cross-Chain, DeFi protocols, upcoming VR, and a fiat on-ramp, to allow users unfamiliar with crypto, easy access to the platform's features.",
+    "address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0"
+  },
+  {
+    "name": "Binance-Peg Synthetix",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SNX",
+    "description": "Binance-Peg Synthetix (SNX BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Synthetix (SNX ERC20) at a ratio of 1:1.",
+    "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404"
+  },
+  {
+    "name": "inSure",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SURE",
+    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios.",
+    "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806"
+  },
+  {
+    "name": "MDX Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MDX",
+    "description": "MDEX integrates the advantages of multiple chains to create a high-performance composite DEX ecosystem, to maximize the rewards of participants with the 'dual mining incentives' of liquid mining and transaction mining.",
+    "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
+  },
+  {
+    "name": "Tokocrypto Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TKO",
+    "description": "The first local Indonesian Crypto Asset Project to offer a unique hybrid token model.",
+    "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809"
+  },
+  {
+    "name": "Thetan Gem",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "THG",
+    "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn money with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork with various game modes: MOBA & Battle Royale, coming with monthly updates and attractive rewards. Gear your heroes up with a large selection of hundreds of weapons. Play for Free, Play to Earn!",
+    "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f"
+  },
+  {
+    "name": "wBitcoin",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "wBTC",
+    "description": "Yield farm Bitcoin on Binance Smart Chain",
+    "address": "0xa01b9cafe2230093fbf0000b43701e03717f77ce"
+  },
+  {
+    "name": "Venus BNB",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vBNB",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0xa07c5b74c9b40447a954e1466938b865b6bbea36"
+  },
+  {
+    "name": "AUTOv2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AUTO",
+    "description": "Autofarm is a suite of products in Decentralized Finance (DeFi) that provides DEX aggregation and, yield farming aggregation on the various blockchains.",
+    "address": "0xa184088a740c695e156f91f5cc086a06bb78b827"
+  },
+  {
+    "name": "Alpha Finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ALPHA",
+    "description": "Alpha Finance Lab is a cross-chain DeFi platform, focusing on building an ecosystem of products that will interoperate and bring alpha to users across different blockchains starting with Binance Smart Chain (BSC) and Ethereum.",
+    "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975"
+  },
+  {
+    "name": "Automata",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ATA",
+    "description": "Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains.",
+    "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225"
+  },
+  {
+    "name": "Injective Protocol",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "INJ",
+    "description": "The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
+    "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
+  },
+  {
+    "name": "RiseHero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "A legendary hero metaverse.",
+    "address": "0xa3d80275e300237a62d3431c26d52f185584cc1b"
+  },
+  {
+    "name": "aelf",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ELF",
+    "description": "Aelf (ELF) is an enterprise-focused blockchain platform powered by cloud computing. Leveraging cloud nodes and parallel processing, Aelf is reportedly able to achieve secure transactions at scale for commercial use cases.",
+    "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9"
+  },
+  {
+    "name": "Hoge Finance",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "HOGE",
+    "description": "We Meme Business.",
+    "address": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40"
+  },
+  {
+    "name": "Santos FC Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "SANTOS",
+    "description": "BEP-20 utility token for Santos FC football club",
+    "address": "0xa64455a4553c9034236734faddaddbb64ace4cc7"
+  },
+  {
+    "name": "Ellipsis",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "EPS",
+    "description": "Ellipsis Finance aims to offer secure low-slippage stable swapping.",
+    "address": "0xa7f552078dcc247c2684336020c03648500c6d9f"
+  },
+  {
+    "name": "CertiK Token",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "CTK",
+    "description": "A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains.",
+    "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929"
+  },
+  {
+    "name": "CocosTokenV2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "COCOS",
+    "description": "https://research.binance.com/en/projects/cocos-bcx",
+    "address": "0xab301dae71f5b386c566f484e636aee60318f12f"
+  },
+  {
+    "name": "My Neighbor Alice",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "ALICE",
+    "description": "A social simulation Blockchain game owned by players.",
+    "address": "0xac51066d7bec65dc4589368da368b212745d63e8"
+  },
+  {
+    "name": "OxSwapToken",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "OXT",
+    "description": "OxSwap is new and fastest swap exchange and Staking Farm on Binance Smart Chain. Much lower fees other than swap exchange almost free of fee.",
+    "address": "0xad6172123e1bd3b4ce0b01ef92fdd63e83590b99"
+  },
+  {
+    "name": "Binance-Peg Band Protocol Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BAND",
+    "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
+    "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18"
+  },
+  {
+    "name": "PAID Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PAID",
+    "description": "PAID Network is a comprehensive business toolkit for business transaction needs.",
+    "address": "0xad86d0e9764ba90ddd68747d64bffbd79879a238"
+  },
+  {
+    "name": "Doraemoon",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DORA",
+    "description": "Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next–gen cryptocurrency that combines auto-liquidity, frictionless yield, token burn, especially $DORA is a community driven DeFi token.",
+    "address": "0xadaf3be815cd4345229324e02e839de85ce95dc2"
+  },
+  {
+    "name": "DogeBonk",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "DOBO",
+    "description": "DogeBonk is a fluffy token on BSC with deflationary properties and automatic yield generation. 10% tax on each transaction. No presale. Anti-snipe protection.",
+    "address": "0xae2df9f730c54400934c06a17462c41c08a06ed8"
+  },
+  {
+    "name": "Burger Swap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BURGER",
+    "description": "A democratized AMM on Binance Smart Chain.",
+    "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f"
+  },
+  {
+    "name": "Coin98",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "C98",
+    "description": "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
+    "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6"
+  },
+  {
+    "name": "WINk",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "WIN",
+    "description": "WINK describes itself as betting DApp.",
+    "address": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99"
+  },
+  {
+    "name": "Prometeus",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PROM",
+    "description": "Prometeus Network describes itself as a secure and decentralized ecosystem designed to solve real-world problems in data brokerage.",
+    "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5"
+  },
+  {
+    "name": "Flux",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "FLUX",
+    "description": "The Flux Ecosystem is a suite of decentralized computing services and blockchain-as-a-service solutions together to offer an interoperable, decentralized AWS-like environment.Flux utilizes a POW to power the ecosystem, providing incentive for hardware, governance on-chain, enterprise-grade compute power and utilizes the blockchain to ensure transparency.Flux node operators can choose from three tiers to stand up nodes, rewarding anyone for providing hardware to the network anywhere in the world.",
+    "address": "0xaff9084f2374585879e8b434c399e29e80cce635"
+  },
+  {
+    "name": "DEXTools",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DEXT",
+    "description": "Ultimate Hub and Defi App For Decentralized exchanges like Uniswap, Pancakeswap, Sushiswap, etc.",
+    "address": "0xb1280589dbac3e7ce111bf4a7fb9c71a30213f7e"
+  },
+  {
+    "name": "Dusk Network",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DUSK",
+    "description": "Dusk Network is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.",
+    "address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c"
+  },
+  {
+    "name": "Litentry",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LIT",
+    "description": "Decentralized identity authentication and user activity data management Infrastructure.",
+    "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723"
+  },
+  {
+    "name": "Zilliqa",
+    "type": "BEP20",
+    "decimals": 12,
+    "symbol": "ZIL",
+    "description": "Zilliqa (ZIL) is a public blockchain built on a sharded architecture. It has solved blockchain scalability and speed by implementing sharding.",
+    "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+  },
+  {
+    "name": "MetaPlanet",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MPL",
+    "description": "MetaPlanet is an Ultimate Defi + Gamefi Ecosystem. Its mission is to develop a full suite of professional defi applications and gamefi sector play to reward crypto investors and help them profit from the industry's growth. Metaplanet's platform gives customers access to the same types of institutional crypto tools used by the world's leading financial services provider and dozens of other well-known worldwide businesses. The benefits of these tools include timeline accuracy and a significant depth of crypto market data.",
+    "address": "0xba007b6170c602c08545ff97395677408688d3a2"
+  },
+  {
+    "name": "Binance-Peg Dogecoin",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "DOGE",
+    "description": "Binance-Peg Dogecoin (DOGE BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Dogecoin (DOGE) at a ratio of 1:1.",
+    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+  },
+  {
+    "name": "Wrapped BNB",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "WBNB",
+    "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+  },
+  {
+    "name": "Alchemy",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ACH",
+    "description": "Alchemy is the pioneer of Hybrid Crypto-Fiat Gateway that is bridging the gap between the fiat and crypto economies - driving crypto adoption by making payments, blockchain solutions and DeFI services readily available to everyone.",
+    "address": "0xbc7d6b50616989655afd682fb42743507003056d"
+  },
+  {
+    "name": "Binance-Peg Uniswap",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "UNI",
+    "description": "Binance-Peg Uniswap (UNI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Uniswap (UNI ERC20) at a ratio of 1:1.",
+    "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+  },
+  {
+    "name": "Binance-Peg Elrond",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "EGLD",
+    "description": "Binance-Peg Elrond (EGLD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Elrond (EGLD) at a ratio of 1:1.",
+    "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe"
+  },
+  {
+    "name": "Bolt Dollar Share",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BTS",
+    "description": "Bolt Dollar - previously Bat True Dollar - is a community owned and driven algorithmic stable coin project established on BSC",
+    "address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259"
+  },
+  {
+    "name": "EverRise",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "RISE",
+    "description": "EverRise token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool.",
+    "address": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a"
+  },
+  {
+    "name": "Biconomy Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BIT",
+    "description": "Biconomy is a Canadian digital currency exchange.",
+    "address": "0xc864019047b864b6ab609a968ae2725dfaee808a"
+  },
+  {
+    "name": "beefy.finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BIFI",
+    "description": "The Multichain Yield Optimizer",
+    "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a"
+  },
+  {
+    "name": "BOSAGORA",
+    "type": "BEP20",
+    "decimals": 7,
+    "symbol": "BOA",
+    "description": "Contribute to making a better world with blockchain technology as a project enabler.",
+    "address": "0xcbc919d845f393aa0ced76085fd082c8adce00be"
+  },
+  {
+    "name": "Matic Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MATIC",
+    "description": "Matic Network is a layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using Plasma framework and a decentralized network of Proof-of-Stake (PoS) vailidators.",
+    "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+  },
+  {
+    "name": "Addax",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "ADX",
+    "description": "Addax is a crypto currency with a purpose to tackle real world problems such as climate change, famine, public healthcare, poverty, children in need, education, gender inequality, marine conservation and wildlife conservation through every transaction.",
+    "address": "0xce666d0e507c5f2afe0671ee29a99cfa97954c48"
+  },
+  {
+    "name": "Venus",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "XVS",
+    "description": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol.",
+    "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+  },
+  {
+    "name": "PORNROCKET",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "PORNROCKET",
+    "description": "$PORNROCKET is revolutionizing the way adult entertainers share their saucy content with their fans and monetize their influence through a subscription based offering.",
+    "address": "0xcf9f991b14620f5ad144eec11f9bc7bf08987622"
+  },
+  {
+    "name": "Dogelon Moon",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ELON",
+    "description": "The Memes Token",
+    "address": "0xd29eace1fcff9e9252b4a54f5cbe858ceefe959c"
+  },
+  {
+    "name": "Metahero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "Next-Gen Deflationary Real Utility Token Coupled with Ultra-HD Metascanning Technology",
+    "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13"
+  },
+  {
+    "name": "SafePal Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SFP",
+    "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.",
+    "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+  },
+  {
+    "name": "CREAM",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CREAM",
+    "description": "Cream - Crypto Rules Everything Around Me",
+    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888"
+  },
+  {
+    "name": "Binance-Peg Firo Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "FIRO",
+    "description": "Firo, a decentralized and open source currency that provides financial privacy enabled by the Lelantus protocol. Proven cryptography and auditability.",
+    "address": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed"
+  },
+  {
+    "name": "RichQuack",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "QUACK",
+    "description": "RichQUACK is a stealth fair launched token that has passsed Security Audit by TechRate, LP Locked, RUG-Proof & 100% community-driven project. Deflationary token with built in 10% transaction fee: 5% Safe Auto-Farm Redistributed to Holders including BlackHole, 5% for Auto LP",
+    "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c"
+  },
+  {
+    "name": "pNetwork",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PNT",
+    "description": "The heartbeat of cross-chain composability.",
+    "address": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
+  },
+  {
+    "name": "Frax Share",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "FXS",
+    "description": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+    "address": "0xde2f075f6f14eb9d96755b24e416a53e736ca363"
+  },
+  {
+    "name": "Bakery Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BAKE",
+    "description": "BakerySwap, an AMM Dex on Binance Smart Chain.",
+    "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5"
+  },
+  {
+    "name": "Coin of Nature",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "CON",
+    "description": "The major aim of the project is not only to promote sports and a healthy lifestyle but also to develop a sustainable ecosystem based on innovative solutions. ",
+    "address": "0xe0e0fbc7e8d881953d39cf899409410b50b8c924"
+  },
+  {
+    "name": "CEEK",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "CEEK",
+    "description": "CEEK VR",
+    "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66"
+  },
+  {
+    "name": "Orion Protocol",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "ORN",
+    "description": "Built on the most advanced liquidity aggregator ever developed, Orion Protocol solves some of the largest issues in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform. This underpins each solution built on the protocol, including revolutionary trading solution Orion Terminal - aggregating the liquidity of the entire crypto market on one decentralized platform. The roadmap also includes a price oracle and a high-margin DEX.",
+    "address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e"
+  },
+  {
+    "name": "Safeswap TOKEN",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SWAP",
+    "description": "Safeswap.finance (SWAP) is a DeFi (DEX) based decentralized trading protocol that allows different types of cryptocurrencies to be swapped & exchanged, SWAP token issued by safeswap.online protocol.",
+    "address": "0xe56a473043eaab7947c0a2408cea623074500ee3"
+  },
+  {
+    "name": "Bat Finance",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BAT",
+    "description": "BAT is a decentralized, community driven, fair launched Meme Token in BSC",
+    "address": "0xe76804b43f17fc41f226d63fd2a676df409d4678"
+  },
+  {
+    "name": "VoltBit",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "VBit",
+    "description": "A deflationary cryptocurrency that has a locked liquidity and is community backed. Our aim is to help those without electricity receive it in a way that helps our planet.",
+    "address": "0xe78a58acb18811e840dd828d4f0116389e953592"
+  },
+  {
+    "name": "Step Hero",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "HERO",
+    "description": "The lucrative NFT fantasy-themed RPG Game on BSC and Polygon",
+    "address": "0xe8176d414560cfe1bf82fd73b986823b89e4f545"
+  },
+  {
+    "name": "Binance-Peg BUSD",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BUSD",
+    "description": "Binance-Peg BUSD (BUSD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to BUSD (BUSD ERC20) at a ratio of 1:1.",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+  },
+  {
+    "name": "Orbs",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ORBS",
+    "description": "The Orbs Network is a public blockchain infrastructure designed for businesses looking at trust as a competitive strategy",
+    "address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80"
+  },
+  {
+    "name": "TokenPocket Token",
+    "type": "BEP20",
+    "decimals": 4,
+    "symbol": "TPT",
+    "description": "TokenPocket is the world's largest decentralized multi-chain digital asset wallet, covering over 10 million users (including over 3 million monthly active users) in more than 200 countries and regions. As the only token in the TokenPocket ecology, TPT has ecological governance rights. At the same time, TPT circulates in a variety of scenarios as a means of payment and proves the benefits and rights of membership, which opens up a channel in the entire TokenPocket product line.",
+    "address": "0xeca41281c24451168a37211f0bc2b8645af45092"
+  },
+  {
+    "name": "Venus USDC",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vUSDC",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
+  },
+  {
+    "name": "O3 Swap",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "O3",
+    "description": "O3 Swap Token (O3) is a governance token issued by O3 Swap. It is an important mediator to promote the development of the O3 Swap network. All participants and developers are encouraged to participate in the maintenance of the overall ecological network by staking, voting, etc. we are committed to providing a one-stop aggregation & exchange platform for users and offering developers access to an open, distributed, friendly, and secure trading environment.",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28"
+  },
+  {
+    "name": "Scooby",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SBD",
+    "description": "SBD is a community based token that aims to be a plaftorm that gives smaller holders a chance by taking away some of the leverage whales can have.",
+    "address": "0xf0ab4b8daa51f6abf6b4c9fef0cca5d127029aa9"
+  },
+  {
+    "name": "Reef.finance",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "REEF",
+    "description": "Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.",
+    "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e"
+  },
+  {
+    "name": "Ankr Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ANKR",
+    "description": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.",
+    "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
+  },
+  {
+    "name": "Venus ETH",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vETH",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8"
+  },
+  {
+    "name": "Anyswap-BEP20",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ANY",
+    "description": "Anyswap aims to create a multi-platform cross-chain DEX using Fusion’s DCRM technology.",
+    "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa"
+  },
+  {
+    "name": "Hard Protocol",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "HARD",
+    "description": "Harvest is the world’s first cross-chain money market that enables you to earn more with your digital assets.",
+    "address": "0xf79037f6f6be66832de4e7516be52826bc3cbcc4"
+  },
+  {
+    "name": "Binance-Peg ChainLink",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "LINK",
+    "description": "Binance-Peg ChainLink (LINK BEP20) is a token issued by Binance on Smart Chain; its price is pegged to ChainLink (LINK ERC20) at a ratio of 1:1.",
+    "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+  },
+  {
+    "name": "Goose Golden Egg",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "EGG",
+    "description": "2nd generation yield farming on binance smart chain",
+    "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6"
+  },
+  {
+    "name": "NEFTiPEDiA",
+    "type": "BEP20",
+    "decimals": 16,
+    "symbol": "NFT",
+    "description": "NEFTiPEDiA is NEFTiPEDiA is a marketplace that will fulfil the niche of much required decentralized venue for selling not only the pieces of art or other intangible valuables but also will allow trading is jewelry, fashion and even vehicles and property",
+    "address": "0xfaab744db9def8e13194600ed02bc5d5bed3b85c"
+  },
+  {
+    "name": "Fox Finance",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "FOX",
+    "description": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops.",
+    "address": "0xfad8e46123d7b4e77496491769c167ff894d2acb"
+  },
+  {
+    "name": "NOKU v2",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "NOKU",
+    "description": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications.",
+    "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2"
+  },
+  {
+    "name": "Binance-Peg Aave Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "AAVE",
+    "description": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
+    "address": "0xfb6115445bff7b52feb98650c87f44907e58f802"
+  },
+  {
+    "name": "DeHub",
+    "type": "BEP20",
+    "decimals": 5,
+    "symbol": "DeHub",
+    "description": "Blockchain's first gaming and streaming aggregator platform. ",
+    "address": "0xfc206f429d55c71cb7294eff40c6adb20dc21508"
+  },
+  {
+    "name": "Venus USDT",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vUSDT",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
+  },
+  {
+    "name": "Binance-Peg Ontology Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "ONT",
+    "description": "Binance-Peg Ontology Token (ONT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Ontology Token (ONT) at a ratio of 1:1.",
+    "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
+  }
+]

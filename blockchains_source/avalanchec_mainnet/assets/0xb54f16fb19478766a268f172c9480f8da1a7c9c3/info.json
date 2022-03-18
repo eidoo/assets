@@ -1,0 +1,28 @@
+{
+    "name": "Time",
+    "website": "https://app.wonderland.money/#/",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "explorer": "https://snowtrace.io/address/0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+    "type": "ERC20",
+    "symbol": "TIME",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://mobile.twitter.com/wonderland_fi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wonderland/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/coins/wonderland"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Solana",
+    "type": "coin",
+    "decimals": 9,
+    "symbol": "SOL",
+    "description": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Wrapped ETH",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "ETH",
+    "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
+    "address": "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk"
+  },
+  {
+    "name": "Raydium",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "RAY",
+    "description": "Raydium is an on-chain order book automated market maker (AMM) that enables lightning-fast trades, shared liquidity and new features for earning yield.",
+    "address": "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r"
+  },
+  {
+    "name": "Wrapped BTC",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "BTC",
+    "description": "Bitcoin is an innovative payment network and a new kind of money.",
+    "address": "9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e"
+  },
+  {
+    "name": "Wrapped FTX",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "FTT",
+    "description": "FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.",
+    "address": "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3"
+  },
+  {
+    "name": "Star Atlas",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ATLAS",
+    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
+    "address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx"
+  },
+  {
+    "name": "Aurory",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "AURY",
+    "description": "The Aurory team is composed of 30+ talents from the gaming and the cryptocurrency industry. ",
+    "address": "auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp"
+  },
+  {
+    "name": "Wrapped USDT",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "USDT",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "address": "bqcdhdaqw1hczdbbi9hiegxar7a98q9jx3x3ibbbdiq4"
+  },
+  {
+    "name": "Wrapped USDC",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "USDC",
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "address": "bxxkv6z8ykpg1yuvudpgh732wzvhb69rnb9ygsyh3itw"
+  },
+  {
+    "name": "USD Coin",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "USDC",
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+  },
+  {
+    "name": "Bonfida",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "FIDA",
+    "description": "Bonfida is the full product suite that bridges the gap between Serum, Solana and the user",
+    "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp"
+  },
+  {
+    "name": "USDT",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "USDT",
+    "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+    "address": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb"
+  },
+  {
+    "name": "Genopets",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "GENE",
+    "description": "A Genopet is your NFT spirit animal encoded with your personality and fitness data. ",
+    "address": "geneth5amgsi8khatqoezp1xexwzj8vcuepynxdkrmyz"
+  },
+  {
+    "name": "Wrapped XRP",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "XRP",
+    "description": "XRP is a digital asset built for payments",
+    "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8"
+  },
+  {
+    "name": "Trust Wallet",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "TWT",
+    "description": "Utility token to increase adoption of cryptocurrency.",
+    "address": "hznpql7rt9gxf9ewowswzc5dfjzq41xtqgea7p3vzaad"
+  },
+  {
+    "name": "Maps.me",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "MAPS",
+    "description": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
+    "address": "maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb"
+  },
+  {
+    "name": "Mango Markets",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "MNGO",
+    "description": "Mango v3 is designed to make life easier for market participants",
+    "address": "mangoczj36ajzykwvj3vnyu4gtonjfvenjmvvwaxlac"
+  },
+  {
+    "name": "Serum",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "SRM",
+    "description": "Serum is a decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.",
+    "address": "srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt"
+  },
+  {
+    "name": "Wrapped SOL",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "SOL",
+    "description": "Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.",
+    "address": "so11111111111111111111111111111111111111112"
+  },
+  {
+    "name": "Kin",
+    "type": "SPL",
+    "decimals": 5,
+    "symbol": "KIN",
+    "description": "Kin is money for the digital world. It is used to generate value through a shared, decentralized cryptocurrency in a digital ecosystem of apps and their users.",
+    "address": "kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6"
+  },
+  {
+    "name": "Marinade staked",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "mSOL",
+    "description": "Marinade.finance is a liquid staking protocol built on Solana.",
+    "address": "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so"
+  },
+  {
+    "name": "Star Atlas DAO",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "POLIS",
+    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
+    "address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk"
+  },
+  {
+    "name": "Solanium",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "SLIM",
+    "description": "Decentralized fundraising and trading platform on the Solana blockchain.",
+    "address": "xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw"
+  }
+]

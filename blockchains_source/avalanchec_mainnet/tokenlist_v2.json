@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Avalanche C-Chain",
+    "type": "coin",
+    "decimals": 18,
+    "symbol": "AVAX",
+    "description": "Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. This is the C-Chain, the default smart contract blockchain on Avalanche that enables the creation of any Ethereum-compatible smart contracts.",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "name": "Wrapped MEMO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "wMEMO",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b"
+  },
+  {
+    "name": "MEMOries",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "MEMO",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "address": "0x136acd46c134e8269052c62a67042d6bdedde3c9"
+  },
+  {
+    "name": "Time",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "TIME",
+    "description": "Wonderland is one of the most popular and most successful Olympus DAO forks. It was the first decentralized reserve currency protocol available on Avalanche.",
+    "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3"
+  }
+]

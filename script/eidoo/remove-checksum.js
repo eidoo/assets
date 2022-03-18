@@ -1,24 +1,11 @@
-const path = require('path')
-const { copyFileSync, existsSync, readdirSync, renameSync, mkdirSync, rmdirSync } = require('fs')
+const { existsSync, readdirSync, renameSync, mkdirSync, rmdirSync } = require('fs')
 
-const copyDirSync = (src, dest) => {
-  mkdirSync(dest, { recursive: true })
-  const entries = readdirSync(src, { withFileTypes: true })
-  for (let entry of entries) {
-    const srcPath = path.join(src, entry.name)
-    const destPath = path.join(dest, entry.name)
-    if (entry.isDirectory()) {
-      copyDirSync(srcPath, destPath)
-    } else {
-      copyFileSync(srcPath, destPath)
-    }
-  }
-}
+const { copyDirSync } = require('./utils.js')
 
 const copyCustomAssets = (_source, _temp) =>
   readdirSync(_source, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .forEach(dirent => {
+    .filter((dirent) => dirent.isDirectory())
+    .forEach((dirent) => {
       const from = `${_source}/${dirent.name}`
       const to = `${_temp}/${dirent.name.toLowerCase()}`
       if (existsSync(to)) {
@@ -29,8 +16,8 @@ const copyCustomAssets = (_source, _temp) =>
 
 const removeChecksumAndMove = (_source, _temp) =>
   readdirSync(_source, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .forEach(dirent => {
+    .filter((dirent) => dirent.isDirectory())
+    .forEach((dirent) => {
       renameSync(`${_source}/${dirent.name}`, `${_temp}/${dirent.name.toLowerCase()}`)
     })
 

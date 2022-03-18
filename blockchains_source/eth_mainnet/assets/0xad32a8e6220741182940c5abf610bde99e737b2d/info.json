@@ -1,0 +1,25 @@
+{
+    "name": "PieDAO DOUGH v2",
+    "type": "ERC20",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "website": "https://pools.piedao.org/",
+    "description": "The asset allocation DAO. Pie DAO makes diversified asset allocation and rebalancing a piece of cake. Universal access to anyone on the Ethereum network, with no minimum.",
+    "explorer": "https://etherscan.io/token/0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+    "status": "active",
+    "id": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/pie-dao"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PieDAO_DeFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/piedao"
+        }
+    ]
+}

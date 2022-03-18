@@ -1,0 +1,15 @@
+{
+    "name": "daoPNT",
+    "website": "https://p.network",
+    "description": "The heartbeat of cross-chain composability.",
+    "explorer": "https://etherscan.io/token/0xe824f81cd136bb7a28480baf8d7e5f0e8e4b693e",
+    "research": "https://research.binance.com/en/projects/pnetwork",
+    "type": "ERC20",
+    "symbol": "daoPNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe824F81cD136BB7a28480baF8d7E5f0E8E4B693E",
+    "tags": [
+        "governance"
+    ]
+}

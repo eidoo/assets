@@ -1,27 +1,30 @@
 #!/usr/bin/env bash
 
-echo "Removing checksum..."
-node script/eidoo/remove-checksum.js blockchains/avalanchec_mainnet
-node script/eidoo/remove-checksum.js blockchains/bsc_mainnet
-node script/eidoo/remove-checksum.js blockchains/eth_mainnet
-node script/eidoo/remove-checksum.js blockchains/fantom_mainnet
-node script/eidoo/remove-checksum.js blockchains/polygon_mainnet
+echo "Removing checksums..."
+node script/eidoo/remove-checksum.js blockchains_source/avalanchec_mainnet
+node script/eidoo/remove-checksum.js blockchains_source/bsc_mainnet
+node script/eidoo/remove-checksum.js blockchains_source/eth_mainnet
+node script/eidoo/remove-checksum.js blockchains_source/fantom_mainnet
+node script/eidoo/remove-checksum.js blockchains_source/polygon_mainnet
 # Please notice: No Solana here! Its assets need to keep the checksum.
 
-echo "Replace assets type..."
-node script/eidoo/replace-assets-type.js blockchains/avalanchec_mainnet
-node script/eidoo/replace-assets-type.js blockchains/bsc_mainnet
-node script/eidoo/replace-assets-type.js blockchains/eth_mainnet
-node script/eidoo/replace-assets-type.js blockchains/fantom_mainnet
-node script/eidoo/replace-assets-type.js blockchains/polygon_mainnet
-node script/eidoo/replace-assets-type.js blockchains/solana_mainnet
+echo "Replacing assets type..."
+node script/eidoo/replace-assets-type.js blockchains_source/avalanchec_mainnet
+node script/eidoo/replace-assets-type.js blockchains_source/bsc_mainnet
+node script/eidoo/replace-assets-type.js blockchains_source/eth_mainnet
+node script/eidoo/replace-assets-type.js blockchains_source/fantom_mainnet
+node script/eidoo/replace-assets-type.js blockchains_source/polygon_mainnet
+node script/eidoo/replace-assets-type.js blockchains_source/solana_mainnet
 
 echo "Building token lists..."
-node script/eidoo/build-token-list.js blockchains/avalanchec_mainnet
-node script/eidoo/build-token-list.js blockchains/bsc_mainnet
-node script/eidoo/build-token-list.js blockchains/eth_mainnet
-node script/eidoo/build-token-list.js blockchains/fantom_mainnet
-node script/eidoo/build-token-list.js blockchains/polygon_mainnet
-node script/eidoo/build-token-list.js blockchains/solana_mainnet
+node script/eidoo/build-token-list.js blockchains_source/avalanchec_mainnet
+node script/eidoo/build-token-list.js blockchains_source/bsc_mainnet
+node script/eidoo/build-token-list.js blockchains_source/eth_mainnet
+node script/eidoo/build-token-list.js blockchains_source/fantom_mainnet
+node script/eidoo/build-token-list.js blockchains_source/polygon_mainnet
+node script/eidoo/build-token-list.js blockchains_source/solana_mainnet
+
+echo "Copying everything in 'blockchains' folder..."
+node script/eidoo/copy-to-blockchains.js
 
 echo "Done!"
