@@ -1,0 +1,57 @@
+{
+  "sections": ["fixes", "features"],
+  "changelog": {
+    "fixes": {
+      "en": {
+        "title": "New fixes etc etc",
+        "changes": [
+          "en fix fix 1",
+          "en fix fix 2",
+          "en fix fix 3"
+        ]
+      },
+      "it": {
+        "title": "New fixes etc etc",
+        "changes": [
+          "en fix fix 1",
+          "en fix fix 2",
+          "en fix fix 3"
+        ]
+      },
+      "fr": {
+        "title": "New fixes etc etc",
+        "changes": [
+          "fr fix fix 1",
+          "en fix fix 2",
+          "en fix fix 3"
+        ]
+      }
+    },
+    "features": {
+      "en": {
+        "title": " Features etc etc",
+        "changes": [
+          "en Features 1",
+          "en Features 2",
+          "en Features 3"
+        ]
+      },
+      "it": {
+        "title": " Features etc etc",
+        "changes": [
+          "en Features 1",
+          "en Features 2",
+          "en Features 3"
+        ]
+      },
+      "fr": {
+        "title": " Features etc etc",
+        "changes": [
+          "fr Features 1",
+          "en Features 2",
+          "en Features 3"
+        ]
+      }
+    }
+  }
+}
