@@ -36,12 +36,11 @@
   <script>
     document.addEventListener("DOMContentLoaded", async function() {
       const urlParams = new URLSearchParams(window.location.search)
-      const useDarkModeString = urlParams.get('useDarkMode')
+      const style = urlParams.get('style')
       const locale = urlParams.get('locale')
       const version = urlParams.get('version')
 
-      const useDarkMode = useDarkModeString === "1" || useDarkModeString === "true"
-      if (useDarkMode) {
+      if (style === 'dark') {
         const $body = document.getElementsByTagName("body")[0]
         if ($body) {
           $body.setAttribute("class", "dark-mode")
