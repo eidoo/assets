@@ -1,0 +1,36 @@
+{
+  "fixes": {
+    "en": [
+      "en fix 0.0.4",
+      "en fix 0.0.4 2",
+      "en fix 0.0.4 3"
+    ],
+    "it": [
+      "it fix 0.0.4",
+      "it fix 0.0.4 2",
+      "it fix 0.0.4 3"
+    ],
+    "fr": [
+      "fr fix 0.0.4",
+      "fr fix 0.0.4 2",
+      "fr fix 0.0.4 3"
+    ]
+  },
+  "features": {
+    "en": [
+      "en features 0.0.4",
+      "en features 0.0.4 2",
+      "en features 0.0.4 3"
+    ],
+    "it": [
+      "it features 0.0.4",
+      "it features 0.0.4 2",
+      "it features 0.0.4 3"
+    ],
+    "fr": [
+      "fr features 0.0.4",
+      "fr features 0.0.4 2",
+      "fr features 0.0.4 3"
+    ]
+  }
+}

@@ -48,36 +48,63 @@
         }
       }
 
-      document.getElementById('version').innerHTML = version
-
       const content = document.getElementById('content')
-      const changelogFile = await loadChangeLog(version)
-      
-      try {
-        for (const section of changelogFile['sections']) {
+      const versionsList = await loadVersionsList()
+      const changelogFile = await loadChangeLog(version, locale, versionsList)
 
-          const title = document.createElement('p')
-          title.innerHTML = changelogFile.changelog[section][locale].title
-          content.appendChild(title)
+      document.getElementById('version').innerHTML = versionsList.pop()
 
-          const list = document.createElement('ul')
-          
-          for (const change of changelogFile.changelog[section][locale].changes) {
-            const listItem = document.createElement('li')
-            listItem.innerHTML = change
-            list.appendChild(listItem)
-          }
+      const featureList = document.createElement('ul')
 
-          content.appendChild(list)
+      for (const feature of changelogFile.features) {
+        const listItem = document.createElement('li')
+        listItem.innerHTML = feature
+        featureList.appendChild(listItem)
+      }
 
-        }
-      } catch(_err) {}
+      const featuresTitle = document.createElement('p')
+      featuresTitle.innerHTML = 'New Features'
+      content.appendChild(featuresTitle)
+      content.appendChild(featureList)
+
+      const fixesList = document.createElement('ul')
+      for (const change of changelogFile.fixes) {
+        const listItem = document.createElement('li')
+        listItem.innerHTML = change
+        fixesList.appendChild(listItem)
+      }
+
+      const fixesTitle = document.createElement('p')
+      fixesTitle.innerHTML = 'Bug fixes'
+      content.appendChild(fixesTitle)
+      content.appendChild(fixesList)
     })
 
-    async function loadChangeLog(_version) {
-      const changeLog = await fetch(`https://assets.eidoo.io/pages/changelogs/${_version}.json`)
-      return changeLog.json()
+    async function loadChangeLog(_currentVersion, _locale, _versionsList) {
+
+      const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
+
+      let changeLog = {
+        fixes: [],
+        features: []
+      }
+
+      for (const nextVersion of versionsToLoad) {
+        const file = await fetch(`https://assets.eidoo.io/pages/changelogs/${nextVersion}.json`)
+        const jsonLog = await file.json()
+        changeLog.fixes.push(...jsonLog.fixes[_locale])
+        changeLog.features.push(...jsonLog.features[_locale]) 
+      }
+
+      return changeLog
     }
+
+    async function loadVersionsList() {
+      const versions = await fetch(`https://assets.eidoo.io/pages/changelogs/versions.json`)
+      return versions.json() 
+    }
+
+   
   </script>
 </body>
 
