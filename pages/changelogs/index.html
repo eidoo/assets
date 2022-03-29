@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Eidoo App Changelog</title>
+  <style>
+    html {
+      font-size: 16px;
+    }
+
+    body {
+      margin: 0 1rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      background-color: white;
+      color: #121212;
+    }
+
+    body.dark-mode {
+      background-color: #121212;
+      color: rgba(256, 256, 256, 0.87);
+    }
+  </style>
+</head>
+
+<body>
+  <h3>v<span id="version"></span></h3>
+  <div id="content">
+
+  </div>
+  <script>
+    document.addEventListener("DOMContentLoaded", async function() {
+      const urlParams = new URLSearchParams(window.location.search)
+      const useDarkModeString = urlParams.get('useDarkMode')
+      const locale = urlParams.get('locale')
+      const version = urlParams.get('version')
+
+      const useDarkMode = useDarkModeString === "1" || useDarkModeString === "true"
+      if (useDarkMode) {
+        const $body = document.getElementsByTagName("body")[0]
+        if ($body) {
+          $body.setAttribute("class", "dark-mode")
+        }
+      }
+
+      document.getElementById('version').innerHTML = version
+
+      const content = document.getElementById('content')
+      const changelogFile = await loadChangeLog(version)
+      
+      try {
+        for (const section of changelogFile['sections']) {
+
+          const title = document.createElement('p')
+          title.innerHTML = changelogFile.changelog[section][locale].title
+          content.appendChild(title)
+
+          const list = document.createElement('ul')
+          
+          for (const change of changelogFile.changelog[section][locale].changes) {
+            const listItem = document.createElement('li')
+            listItem.innerHTML = change
+            list.appendChild(listItem)
+          }
+
+          content.appendChild(list)
+
+        }
+      } catch(_err) {}
+    })
+
+    async function loadChangeLog(_version) {
+      const changeLog = await fetch(`https://assets.eidoo.io/pages/changelogs/${_version}.json`)
+      return changeLog.json()
+    }
+  </script>
+</body>
+
+</html>
