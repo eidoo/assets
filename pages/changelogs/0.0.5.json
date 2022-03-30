@@ -5,6 +5,16 @@
       "Added hard reset.",
       "Fixed adding custom widgets.",
       "Enabled haptic feedback when long pressing on Widgets on iOS.",
+      "Changed Home header: shows only the name of the active page.",
+      "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+      "Added hard reset.",
+      "Fixed adding custom widgets.",
+      "Enabled haptic feedback when long pressing on Widgets on iOS.",
+      "Changed Home header: shows only the name of the active page.",
+      "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+      "Added hard reset.",
+      "Fixed adding custom widgets.",
+      "Enabled haptic feedback when long pressing on Widgets on iOS.",
       "Changed Home header: shows only the name of the active page."
     ],
     "it": [
@@ -20,6 +30,16 @@
   },
   "features": {
     "en": [
+      "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+      "Added hard reset.",
+      "Fixed adding custom widgets.",
+      "Enabled haptic feedback when long pressing on Widgets on iOS.",
+      "Changed Home header: shows only the name of the active page.",
+      "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+      "Added hard reset.",
+      "Fixed adding custom widgets.",
+      "Enabled haptic feedback when long pressing on Widgets on iOS.",
+      "Changed Home header: shows only the name of the active page.",
       "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
       "Added hard reset.",
       "Fixed adding custom widgets.",
