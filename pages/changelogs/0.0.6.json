@@ -1,0 +1,65 @@
+[
+  {
+    "text": {
+        "en" : "Widgets links on iOS open within the webview and not on the external browser",
+        "it" : "I link dei widget su iOS si aprono all'interno della webview e non sul browser esterno",
+        "fr" : "Les liens des widgets sur iOS s'ouvrent dans la vue web et non dans le navigateur externe"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Edit button for widgets section",
+      "it" : "Pulsante di modifica per la sezione widget",
+      "fr" : "Bouton d'édition pour la section des widgets"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Hard reset",
+      "it" : "Hard reset",
+      "fr" : "Réinitialisation complète"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Grouping of tokens by blockchain in Auto detect section",
+      "it" : "Raggruppamento dei token per blockchain nella sezione Auto Detect",
+      "fr" : "Regroupement des tokens par blockchain dans la section Auto-détection"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Prices widget",
+      "it" : "Widget prezzi",
+      "fr" : "Widget des prix"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Cointelegraph widget",
+      "it" : "Widget Cointelegraph",
+      "fr" : "Widget Cointelegraph"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Updated top menu switching",
+      "it" : "Aggiornamento del menu superiore (switching)",
+      "fr" : "Mise à jour de la commutation du menu supérieur"
+    },
+    "important": true,
+    "type": "feature"
+  }
+]
