@@ -5,7 +5,7 @@
         "it" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
         "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
       },
-    "important": false,
+    "important": true,
     "type": "fix" 
   },
   {
@@ -15,6 +15,24 @@
       "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
     }, 
     "important": true,
+    "type": "feature"
+  },
+  {
+    "text": { 
+        "en" : "normal feat",
+        "it" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+        "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
+      },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": { 
+        "en" : "normal feat",
+        "it" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+        "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
+      },
+    "important": false,
     "type": "feature"
   }
 ]

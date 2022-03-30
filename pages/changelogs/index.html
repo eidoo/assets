@@ -70,7 +70,7 @@
 
     #full_list_title {
       margin-top: 25px;
-      font-size: 14px;
+      font-size: 11px;
       cursor: pointer;
     }
   </style>
@@ -78,8 +78,8 @@
 
 <body>
   <div id="content" class="hidden">
-    <h3 id="title">🔭 what's new 🔭</h3>
-    <div id="features_list">
+    <h3 id="title">🔭 What's new 🔭</h3>
+    <div id="important_list">
     </div>
 
     <p id="full_list_title" onclick="showList('full_list')"><b><u>Full Changelog</u></b></p>
@@ -106,21 +106,21 @@
       const changelogFile = await loadChangeLog(version, locale, versionsList)
 
       document.getElementById('content').className = ''
-      const mainFeatures = changelogFile.features.map(_e => _e.text[locale] || _e.text['en'])
-      createList(mainFeatures, features_list)
-
       
-      const newFeatures = changelogFile.all.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
+      const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
       if(newFeatures && newFeatures.length) { 
-        addTitle('New features 🔥', full_list, "secondary_p")
-        createList(newFeatures, full_list)
+        addTitle('New features 🔥', important_list, "secondary_p")
+        createList(newFeatures, important_list)
       }
 
-      const newFixes = changelogFile.all.filter(_e => _e.type == 'fix').map(_e => _e.text[locale] || _e.text['en'])
+      const newFixes = changelogFile.important.filter(_e => _e.type == 'fix').map(_e => _e.text[locale] || _e.text['en'])
       if(newFixes && newFixes.length) {
-        addTitle('Bug fixes ⚒️', full_list, "secondary_p")
-        createList(newFixes, full_list)
+        addTitle('Bug fixes ⚒️', important_list, "secondary_p")
+        createList(newFixes, important_list)
       }
+
+      const mainFeatures = changelogFile.all.map(_e => _e.text[locale] || _e.text['en'])
+      createList(mainFeatures, full_list)
     })
 
     function addTitle(_text, _parentElement, _customClasses) {
@@ -154,15 +154,15 @@
 
       const changeLog = {
         all: [],
-        features: []
+        important: []
       }
 
       for (const nextVersion of versionsToLoad) {
         try { 
-          const file = await fetch(`https://assets.eidoo.io/pages/changelogs/${nextVersion}.json`)
+          const file = await fetch(`/${nextVersion}.json`)
           const jsonLog = await file.json()
           
-          changeLog.features.push(...jsonLog.filter(_e => _e.important))
+          changeLog.important.push(...jsonLog.filter(_e => _e.important))
           changeLog.all.push(...jsonLog)
         } catch(_err) {
           console.log(_err)
@@ -172,7 +172,7 @@
     }
 
     async function loadVersionsList() {
-      const versions = await fetch(`https://assets.eidoo.io/pages/changelogs/versions.json`)
+      const versions = await fetch(`/versions.json`)
       return versions.json() 
     }
 
