@@ -61,16 +61,19 @@
       margin-bottom: 5px;
     }
 
+
+
   </style>
 </head>
 
 <body>
   <h3 id="title" class="hidden"><span id="version"></span></h3>
   <div id="content">
-
   </div>
   <script>
+
     document.addEventListener("DOMContentLoaded", async function() {
+
       const urlParams = new URLSearchParams(window.location.search)
       const style = urlParams.get('style')
       const locale = urlParams.get('locale')
@@ -98,11 +101,15 @@
       }
 
       const featuresTitle = document.createElement('p')
+
       featuresTitle.innerHTML = "<b>What's New 🔥</b>"
+
       content.appendChild(featuresTitle)
+
       content.appendChild(featureList)
 
       const fixesList = document.createElement('ul')
+
       for (const change of changelogFile.fixes) {
         const listItem = document.createElement('li')
         listItem.innerHTML = change
@@ -110,7 +117,9 @@
       }
 
       const fixesTitle = document.createElement('p')
+
       document.getElementById('title').className = ''
+
       fixesTitle.innerHTML = '<b>Bug fixes ⚒️</b>'
       content.appendChild(fixesTitle)
       content.appendChild(fixesList)
@@ -141,6 +150,8 @@
     }
 
    
+
+    
   </script>
 </body>
 
