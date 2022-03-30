@@ -1,36 +1,20 @@
-{
-  "fixes": {
-    "en": [
-      "en fix 0.0.2",
-      "en fix 0.0.2 2",
-      "en fix 0.0.2 3"
-    ],
-    "it": [
-      "it fix 0.0.2",
-      "it fix 0.0.2 2",
-      "it fix 0.0.2 3"
-    ],
-    "fr": [
-      "fr fix 0.0.2",
-      "fr fix 0.0.2 2",
-      "fr fix 0.0.2 3"
-    ]
+[
+  {
+    "text": { 
+        "en" : "bug fix",
+        "it" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+        "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
+      },
+    "important": false,
+    "type": "fix" 
   },
-  "features": {
-    "en": [
-      "en features 0.0.2",
-      "en features 0.0.2 2",
-      "en features 0.0.2 3"
-    ],
-    "it": [
-      "it features 0.0.2",
-      "it features 0.0.2 2",
-      "it features 0.0.2 3"
-    ],
-    "fr": [
-      "fr features 0.0.2",
-      "fr features 0.0.2 2",
-      "fr features 0.0.2 3"
-    ]
+  {
+    "text": { 
+      "en" : "Important feat",
+      "it" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal.",
+      "fr" : "Added `ActionSheetIOS` and `Alert` to confirm an account removal."
+    }, 
+    "important": true,
+    "type": "feature"
   }
-}
+]

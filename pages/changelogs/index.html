@@ -39,6 +39,7 @@
       letter-spacing: 0em;
       text-align: left;
       font-size: 24px;
+      margin: 20px 0;
     }
 
     ul {
@@ -62,14 +63,28 @@
       margin-bottom: 5px;
     }
 
+    .secondary_p {
+      font-size: 14px !important;
+      margin-top: 15px !important;
+    }
 
-
+    #full_list_title {
+      margin-top: 25px;
+      font-size: 14px;
+      cursor: pointer;
+    }
   </style>
 </head>
 
 <body>
-  <h3 id="title" class="hidden"><span id="version"></span></h3>
-  <div id="content">
+  <div id="content" class="hidden">
+    <h3 id="title">🔭 what's new 🔭</h3>
+    <div id="features_list">
+    </div>
+
+    <p id="full_list_title" onclick="showList('full_list')"><b><u>Full Changelog</u></b></p>
+    <div id="full_list" class="hidden">
+    </div>
   </div>
   <script>
 
@@ -87,71 +102,83 @@
         }
       }
 
-      const content = document.getElementById('content')
       const versionsList = await loadVersionsList()
       const changelogFile = await loadChangeLog(version, locale, versionsList)
 
-      document.getElementById('version').innerHTML = `Eidoo v${versionsList.pop()}`
+      document.getElementById('content').className = ''
+      const mainFeatures = changelogFile.features.map(_e => _e.text[locale] || _e.text['en'])
+      createList(mainFeatures, features_list)
 
-      const featureList = document.createElement('ul')
-
-      for (const feature of changelogFile.features) {
-        const listItem = document.createElement('li')
-        listItem.innerHTML = feature
-        featureList.appendChild(listItem)
+      
+      const newFeatures = changelogFile.all.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
+      if(newFeatures && newFeatures.length) { 
+        addTitle('New features 🔥', full_list, "secondary_p")
+        createList(newFeatures, full_list)
       }
 
-      const featuresTitle = document.createElement('p')
-
-      featuresTitle.innerHTML = "<b>What's New 🔥</b>"
-
-      content.appendChild(featuresTitle)
-
-      content.appendChild(featureList)
-
-      const fixesList = document.createElement('ul')
-
-      for (const change of changelogFile.fixes) {
-        const listItem = document.createElement('li')
-        listItem.innerHTML = change
-        fixesList.appendChild(listItem)
+      const newFixes = changelogFile.all.filter(_e => _e.type == 'fix').map(_e => _e.text[locale] || _e.text['en'])
+      if(newFixes && newFixes.length) {
+        addTitle('Bug fixes ⚒️', full_list, "secondary_p")
+        createList(newFixes, full_list)
       }
-
-      const fixesTitle = document.createElement('p')
-
-      document.getElementById('title').className = ''
-
-      fixesTitle.innerHTML = '<b>Bug fixes ⚒️</b>'
-      content.appendChild(fixesTitle)
-      content.appendChild(fixesList)
     })
+
+    function addTitle(_text, _parentElement, _customClasses) {
+      try { 
+        const title = document.createElement('p')
+        title.innerHTML = `<b>${_text}<b>`
+        title.classList = _customClasses
+        _parentElement.appendChild(title)
+      } catch(_err) {
+        console.error(_err)
+      }
+    } 
+
+    function createList(_elements, _parentElement) {
+      try { 
+        const list = document.createElement('ul')
+        for (const text of _elements) {
+          const listItem = document.createElement('li')
+          listItem.innerHTML = text
+          list.appendChild(listItem)
+        }
+        _parentElement.appendChild(list)
+      } catch(_err) {
+        console.error(_err)
+      }
+    } 
 
     async function loadChangeLog(_currentVersion, _locale, _versionsList) {
 
       const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
 
-      let changeLog = {
-        fixes: [],
+      const changeLog = {
+        all: [],
         features: []
       }
 
       for (const nextVersion of versionsToLoad) {
-        const file = await fetch(`https://assets.eidoo.io/pages/changelogs/${nextVersion}.json`)
-        const jsonLog = await file.json()
-        changeLog.fixes.push(...jsonLog.fixes[_locale])
-        changeLog.features.push(...jsonLog.features[_locale]) 
+        try { 
+          const file = await fetch(`/${nextVersion}.json`)
+          const jsonLog = await file.json()
+          
+          changeLog.features.push(...jsonLog.filter(_e => _e.important))
+          changeLog.all.push(...jsonLog)
+        } catch(_err) {
+          console.log(_err)
+        } 
       }
-
       return changeLog
     }
 
     async function loadVersionsList() {
-      const versions = await fetch(`https://assets.eidoo.io/pages/changelogs/versions.json`)
+      const versions = await fetch(`/versions.json`)
       return versions.json() 
     }
 
-   
-
+    function showList(_list) {
+      document.getElementById([_list]).style.display = 'block'
+    }
     
   </script>
 </body>
