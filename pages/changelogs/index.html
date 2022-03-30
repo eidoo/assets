@@ -136,7 +136,7 @@
     }
 
     async function loadVersionsList() {
-      const versions = await fetch(`/versions.json`)
+      const versions = await fetch(`https://assets.eidoo.io/pages/changelogs/versions.json`)
       return versions.json() 
     }
 
