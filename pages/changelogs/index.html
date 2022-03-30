@@ -78,7 +78,7 @@
 
 <body>
   <div id="content" class="hidden">
-    <h3 id="title">🔭 What's new 🔭</h3>
+    <h3 id="title"></h3>
     <div id="important_list">
     </div>
 
@@ -87,13 +87,29 @@
     </div>
   </div>
   <script>
-
     document.addEventListener("DOMContentLoaded", async function() {
 
       const urlParams = new URLSearchParams(window.location.search)
       const style = urlParams.get('style')
       const locale = urlParams.get('locale')
       const version = urlParams.get('version')
+      const titles = {
+        "fixes": {
+          "en": "Bug fixes ⚒️",
+          "fr": "Corrections de bogues ⚒️",
+          "it": "Correzioni di bug ⚒️"
+        },
+        "features": {
+          "en": "New features 🔥",
+          "fr": "Nouvelles fonctionnalités 🔥",
+          "it": "Nuove features 🔥"
+        },
+        "heading": {
+          "en": "🔭 What's new 🔭",
+          "fr": "🔭 Annonces 🔭",
+          "it": "🔭 Novità 🔭"
+        }
+      }
 
       if (style === 'dark') {
         const $body = document.getElementsByTagName("body")[0]
@@ -105,22 +121,24 @@
       const versionsList = await loadVersionsList()
       const changelogFile = await loadChangeLog(version, locale, versionsList)
 
-      document.getElementById('content').className = ''
       
       const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
       if(newFeatures && newFeatures.length) { 
-        addTitle('New features 🔥', important_list, "secondary_p")
+        addTitle(titles.features[locale] || titles.features['en'], important_list, "secondary_p")
         createList(newFeatures, important_list)
       }
 
       const newFixes = changelogFile.important.filter(_e => _e.type == 'fix').map(_e => _e.text[locale] || _e.text['en'])
       if(newFixes && newFixes.length) {
-        addTitle('Bug fixes ⚒️', important_list, "secondary_p")
+        addTitle(titles.fixes[locale] || titles.fixes['en'], important_list, "secondary_p")
         createList(newFixes, important_list)
       }
 
       const mainFeatures = changelogFile.all.map(_e => _e.text[locale] || _e.text['en'])
       createList(mainFeatures, full_list)
+
+      document.getElementById('content').className = ''
+      document.getElementById('title').innerHTML = titles.heading[locale] || titles.heading['en']
     })
 
     function addTitle(_text, _parentElement, _customClasses) {

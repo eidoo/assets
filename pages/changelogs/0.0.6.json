@@ -1,15 +1,6 @@
 [
   {
     "text": {
-        "en" : "Widgets links on iOS open within the webview and not on the external browser",
-        "it" : "I link dei widget su iOS si aprono all'interno della webview e non sul browser esterno",
-        "fr" : "Les liens des widgets sur iOS s'ouvrent dans la vue web et non dans le navigateur externe"
-      },
-    "important": false,
-    "type": "fix"
-  },
-  {
-    "text": {
       "en" : "Edit button for widgets section",
       "it" : "Pulsante di modifica per la sezione widget",
       "fr" : "Bouton d'édition pour la section des widgets"
@@ -19,9 +10,9 @@
   },
   {
     "text": {
-      "en" : "Hard reset",
-      "it" : "Hard reset",
-      "fr" : "Réinitialisation complète"
+      "en" : "Hard reset of the application",
+      "it" : "Hard reset dell'applicazione",
+      "fr" : "Remise à zéro de l'application"
     },
     "important": true,
     "type": "feature"
@@ -29,8 +20,8 @@
   {
     "text": {
       "en" : "Grouping of tokens by blockchain in Auto detect section",
-      "it" : "Raggruppamento dei token per blockchain nella sezione Auto Detect",
-      "fr" : "Regroupement des tokens par blockchain dans la section Auto-détection"
+      "it" : "Raggruppamento dei token per blockchain nella sezione Auto detect",
+      "fr" : "Regroupement des tokens par blockchain dans la section Auto detect"
     },
     "important": true,
     "type": "feature"
@@ -38,7 +29,7 @@
   {
     "text": {
       "en" : "Prices widget",
-      "it" : "Widget prezzi",
+      "it" : "Widget dei prezzi",
       "fr" : "Widget des prix"
     },
     "important": true,
@@ -55,11 +46,20 @@
   },
   {
     "text": {
-      "en" : "Updated top menu switching",
-      "it" : "Aggiornamento del menu superiore (switching)",
-      "fr" : "Mise à jour de la commutation du menu supérieur"
+      "en" : "Updated header menu",
+      "it" : "Menu d'intestazione aggiornato",
+      "fr" : "Mise à jour du menu d'entête"
     },
     "important": true,
     "type": "feature"
+  },
+  {
+    "text": {
+        "en" : "Widgets links on iOS open within the external browser and not on the webview",
+        "it" : "I link dei widget su iOS si aprono all'interno del browser esterno e non nella webview",
+        "fr" : "Les liens des widgets sur iOS s'ouvrent dans le browser et non dans la webview"
+      },
+    "important": false,
+    "type": "fix"
   }
 ]
