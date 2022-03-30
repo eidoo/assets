@@ -159,11 +159,11 @@
 
       for (const nextVersion of versionsToLoad) {
         try { 
-          const file = await fetch(`https://assets.eidoo.io/pages/changelogs/${nextVersion}.json`)
+          const file = await fetch(`/${nextVersion}.json`)
           const jsonLog = await file.json()
           
           changeLog.important.push(...jsonLog.filter(_e => _e.important))
-          changeLog.all.push(...jsonLog)
+          changeLog.all.push(...jsonLog.filter(_e => !_e.important))
         } catch(_err) {
           console.log(_err)
         } 
@@ -172,7 +172,7 @@
     }
 
     async function loadVersionsList() {
-      const versions = await fetch(`https://assets.eidoo.io/pages/changelogs/versions.json`)
+      const versions = await fetch(`/versions.json`)
       return versions.json() 
     }
 
