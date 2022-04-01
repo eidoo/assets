@@ -25,7 +25,7 @@
     }
 
     body.dark-mode {
-      background-color: #121212;
+      background-color: rgba(0, 0, 0, 1);
       color: #BDBDBD;
     }
 
@@ -81,10 +81,9 @@
       left: 112px;
       top: 550px;
       border-radius: 20px;
-      margin: auto;
       cursor: pointer;
       border: none;
-      margin-bottom: 10px;
+      margin: 22px auto;
     }
 
     #frame {
@@ -95,6 +94,11 @@
       border-radius: 25px;
       position: relative;
     }
+
+    #frame.dark-mode {
+      background-image: url('/pages/changelogs/assets/frame-dark-mode.png');
+    }
+    
     .list {
       padding: 0 17px;
     }
@@ -111,7 +115,7 @@
       font-size: 15px;
     }
 
-    .light {
+    .primary {
       color: white;
       background-color: rgba(75, 174, 175, 1) ;
     }
@@ -122,10 +126,10 @@
   </style>
 </head>
 
-<body>
-  <div id="frame">
-    <img class="logo" src="/pages/changelogs/assets/logo.png" alt="">
-    <div id="version_pill" class="light text-bold"></div>
+<body class="dark-mode">
+  <div id="frame" class="dark-mode">
+    <img class="logo" src="/assets/logo.png" alt="">
+    <div id="version_pill" class="primary text-bold"></div>
   </div>
   <div id="content" class="hidden">
     <!-- <h3 id="title"></h3> -->
@@ -135,7 +139,7 @@
     <button 
       id="full_list_title" 
       onclick="toggleList('full_list')"
-      class="light text-bold">Read more</button>
+      class="primary text-bold">Read more</button>
     <div id="full_list" class="hidden list" class="hidden">
     </div>
   </div>
@@ -169,6 +173,8 @@
         if ($body) {
           $body.setAttribute("class", "dark-mode")
         }
+        const frame = document.getElementById('frame')
+        frame.setAttribute("class", "dark-mode")
       }
 
       const versionsList = await loadVersionsList()
