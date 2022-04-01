@@ -82,7 +82,7 @@
     <div id="important_list">
     </div>
 
-    <p id="full_list_title" onclick="showList('full_list')"><b><u>Full Changelog</u></b></p>
+    <p id="full_list_title" onclick="toggleList('full_list')"><b><u>Full Changelog</u></b></p>
     <div id="full_list" class="hidden">
     </div>
   </div>
@@ -194,8 +194,9 @@
       return versions.json() 
     }
 
-    function showList(_list) {
-      document.getElementById([_list]).style.display = 'block'
+    function toggleList(_list) {
+      const list = document.getElementById([_list])
+      list.style.display = list.style.display == 'none' ? 'block' : 'none'
     }
     
   </script>
