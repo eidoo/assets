@@ -123,6 +123,19 @@
     .logo {
       margin: 20px;
     }
+
+    .block {
+      display: block;
+    }
+
+    #full_list_close {
+      background-image: url('/pages/changelogs/assets/close-btn.png');
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      margin: 20px auto;
+    }
+
   </style>
 </head>
 
@@ -132,16 +145,18 @@
     <div id="version_pill" class="primary text-bold"></div>
   </div>
   <div id="content" class="hidden">
-    <!-- <h3 id="title"></h3> -->
     <div id="important_list" class="list">
     </div>
-
     <button 
       id="full_list_title" 
-      onclick="toggleList('full_list')"
+      onclick="showChangelog()"
       class="primary text-bold">Read more</button>
-    <div id="full_list" class="hidden list" class="hidden">
+    <div id="full_list" class="list hidden">
     </div>
+    <div
+      id="full_list_close" 
+      class="hidden"
+      onclick="hideChangelog()"></div>
   </div>
   <script>
     document.addEventListener("DOMContentLoaded", async function() {
@@ -253,11 +268,27 @@
       return versions.json() 
     }
 
-    function toggleList(_list) {
-      const list = document.getElementById([_list])
-      list.style.display = list.style.display != 'block' ? 'block' : 'none'
+    function hideElement(_element) {
+      const element = document.getElementById([_element])
+      element.classList.add('hidden')
+    }
+
+    function showElement(_element) {
+      const element = document.getElementById([_element])
+      element.classList.remove('hidden')
     }
     
+    function showChangelog() {
+      showElement('full_list')
+      showElement('full_list_close')
+      hideElement('full_list_title')
+    }
+
+    function hideChangelog() {
+      hideElement('full_list')
+      hideElement('full_list_close')
+      showElement('full_list_title')
+    }
   </script>
 </body>
 
