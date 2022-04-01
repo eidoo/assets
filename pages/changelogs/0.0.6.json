@@ -1,45 +1,36 @@
 [
   {
     "text": {
-      "en" : "Edit button for widgets section",
-      "it" : "Pulsante di modifica per la sezione widget",
-      "fr" : "Bouton d'édition pour la section des widgets"
+      "en" : "Improved UX for editing Widgets",
+      "it" : "UX migliorata per la modifica dei widget",
+      "fr" : "UX améliorée pour l'édition des Widgets"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "Hard reset of the application",
-      "it" : "Hard reset dell'applicazione",
-      "fr" : "Remise à zéro de l'application"
+      "en" : "New Widgets for crypto prices & Cointelegraph news",
+      "it" : "Nuovi widget per i prezzi delle cripto e le notizie di Cointelegraph",
+      "fr" : "Nouveaux widgets pour les prix des crypto et les nouvelles de Cointelegraph"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "Grouping of tokens by blockchain in Auto detect section",
-      "it" : "Raggruppamento dei token per blockchain nella sezione Auto detect",
-      "fr" : "Regroupement des tokens par blockchain dans la section Auto detect"
+      "en" : "The Auto detect tokens are now grouped by blockchain",
+      "it" : "I token rilevati automaticamente sono raggruppati per blockchain",
+      "fr" : "Les tokens auto-detect sont maintenant regroupés par blockchain."
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "Prices widget",
-      "it" : "Widget dei prezzi",
-      "fr" : "Widget des prix"
-    },
-    "important": true,
-    "type": "feature"
-  },
-  {
-    "text": {
-      "en" : "Cointelegraph widget",
-      "it" : "Widget Cointelegraph",
-      "fr" : "Widget Cointelegraph"
+      "en" : "Restore to factory in now supported (hard reset)",
+      "it" : "Reset alle impostazioni di fabbrica ora supportato (hard reset)",
+      "fr" : "La réinitialisation d'usine est maintenant supportée (hard reset)"
     },
     "important": true,
     "type": "feature"
@@ -50,7 +41,7 @@
       "it" : "Menu d'intestazione aggiornato",
       "fr" : "Mise à jour du menu d'entête"
     },
-    "important": true,
+    "important": false,
     "type": "feature"
   },
   {
