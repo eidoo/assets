@@ -80,14 +80,6 @@
     "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
   },
   {
-    "name": "LikeCoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "LIKE",
-    "description": "LikeCoin is a protocol for content attribution, monetization and distribution. LikeCoin chain is a Bonded Proof of Stake blockchain developed on top of Cosmos SDK. As a permissionless protocol, 800+ media chose to adopt LikeCoin with her WordPress plugin.",
-    "address": "0x02f61fd266da6e8b102d4121f5ce7b992640cf98"
-  },
-  {
     "name": "Huobi BTC",
     "type": "ERC20",
     "decimals": 18,
@@ -134,6 +126,14 @@
     "symbol": "CAPS",
     "description": "TERNOA is a blockchain designed to provide secured, decentralized, and long-term data transmission. TERNOA relies upon the use of NFTs as vehicles to store encrypted data across long periods of time, and built-in oracles to trigger data releases to third parties.",
     "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2"
+  },
+  {
+    "name": "ApeCash",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "APE",
+    "description": "-",
+    "address": "0x04162aee1c40cf63747e6bc3a7e84acec1ba2a78"
   },
   {
     "name": "SIX",
@@ -206,6 +206,14 @@
     "symbol": "CET",
     "description": "-",
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
+  },
+  {
+    "name": "Crypterium",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRPT",
+    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
+    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
   },
   {
     "name": "Edgeless",
@@ -368,14 +376,6 @@
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
   },
   {
-    "name": "iQeon",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "IQN",
-    "description": "IQeon is a European startup company developing the cutting-edge technological products in the sphere of Gaming and Blockchain.",
-    "address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31"
-  },
-  {
     "name": "ACATENA",
     "type": "ERC20",
     "decimals": 18,
@@ -512,14 +512,6 @@
     "address": "0x139838869d3e1ab94c798917840da1c079103c84"
   },
   {
-    "name": "BitKan",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "KAN",
-    "description": "The KAN can be used and circulated in various scenarios to serve the community's value incentives and sharing economy, and ultimately construct the K Sites cryptocurrency ecological mechanism.",
-    "address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
-  },
-  {
     "name": "DeFi Pulse Index",
     "type": "ERC20",
     "decimals": 18,
@@ -542,14 +534,6 @@
     "symbol": "GALA",
     "description": "GALA is the utility token powering the Gala Games ecosystem.",
     "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
-  },
-  {
-    "name": "PAID Network",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PAID",
-    "description": "PAID Network is a comprehensive business toolkit for all business transaction needs.",
-    "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787"
   },
   {
     "name": "Chernobyl",
@@ -720,14 +704,6 @@
     "address": "0x1dcac83e90775b5f4bc2ffac5a5749e25acc610d"
   },
   {
-    "name": "Shiryo-Inu",
-    "type": "ERC20",
-    "decimals": 9,
-    "symbol": "Shiryo-Inu",
-    "description": "Shiryo-Inu is a P2E card game built on the Ethereum network",
-    "address": "0x1e2f15302b90edde696593607b6bd444b64e8f02"
-  },
-  {
     "name": "Sola Token",
     "type": "ERC20",
     "decimals": 6,
@@ -776,6 +752,14 @@
     "address": "0x2001f2a0cf801ecfda622f6c28fb6e10d803d969"
   },
   {
+    "name": "APEcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "APE",
+    "description": "APEcoin is a new token that is known as a Meme Coin. APEcoin is meant to be fun and not taken seriously while navigating the possibilities of blockchain technology.",
+    "address": "0x209c1808febf6c1ab7c65764bb61ad67d3923fcc"
+  },
+  {
     "name": "Clover",
     "type": "ERC20",
     "decimals": 6,
@@ -808,6 +792,14 @@
     "address": "0x226f15cdbaa36814ce3cb287563069c32cc1a293"
   },
   {
+    "name": "FRUITS",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "FRTS",
+    "description": "-",
+    "address": "0x229b239b7d00aa2a41c8b74b1db50a821f58d31a"
+  },
+  {
     "name": "DREP",
     "type": "ERC20",
     "decimals": 18,
@@ -830,14 +822,6 @@
     "symbol": "SOCKS",
     "description": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.",
     "address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5"
-  },
-  {
-    "name": "GNY",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GNY",
-    "description": "-",
-    "address": "0x247551f2eb3362e222c742e9c788b8957d9bc87e"
   },
   {
     "name": "The Truth",
@@ -864,6 +848,22 @@
     "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
   },
   {
+    "name": "Playkey Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PKT",
+    "description": "Playkey - Decentralized Cloud Gaming Platform ",
+    "address": "0x2604fa406be957e542beb89e6754fcde6815e83f"
+  },
+  {
+    "name": "ROSE (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ROSE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7"
+  },
+  {
     "name": "Cellframe",
     "type": "ERC20",
     "decimals": 18,
@@ -878,14 +878,6 @@
     "symbol": "DEXT",
     "description": "Ultimate Hub and Defi App For Uniswap and DEX trading.",
     "address": "0x26ce25148832c04f3d7f26f32478a9fe55197166"
-  },
-  {
-    "name": "Crypto20",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "C20",
-    "description": "Crypto20 is the world's first tokenized crypto index fund.",
-    "address": "0x26e75307fc0c021472feb8f727839531f112f317"
   },
   {
     "name": "BORA",
@@ -926,14 +918,6 @@
     "symbol": "EL",
     "description": "Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.",
     "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
-  },
-  {
-    "name": "QQQ Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "QQQ",
-    "description": "We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.",
-    "address": "0x2822f6d1b2f41f93f33d937bc7d84a8dfa4f4c21"
   },
   {
     "name": "FirstEnergy Token",
@@ -1336,6 +1320,14 @@
     "address": "0x3cd7047117dbfd0dcb470514172ace9f394c31e8"
   },
   {
+    "name": "Vidya",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VIDYA",
+    "description": "Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain.",
+    "address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+  },
+  {
     "name": "CircuitsOfValue",
     "type": "ERC20",
     "decimals": 8,
@@ -1422,6 +1414,14 @@
     "symbol": "TPT",
     "description": "-",
     "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1"
+  },
+  {
+    "name": "Binance Coin (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BNB",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605"
   },
   {
     "name": "Dragon",
@@ -1608,14 +1608,6 @@
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
   },
   {
-    "name": "Flame Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "XFL",
-    "description": "Flame Token is the native currency of Sharesome, the first social discovery network for adult content creators and brands.",
-    "address": "0x469861bdfd02e7ebce7cdeb281e8eec53069cf5f"
-  },
-  {
     "name": "FLUX",
     "type": "ERC20",
     "decimals": 18,
@@ -1638,6 +1630,14 @@
     "symbol": "BIT",
     "description": "-",
     "address": "0x47da42696a866cdc61a4c809a515500a242909c1"
+  },
+  {
+    "name": "TokenClub",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TCT",
+    "description": "TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community.",
+    "address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
   },
   {
     "name": "ChronoTech TIME",
@@ -1720,14 +1720,6 @@
     "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
   },
   {
-    "name": "Vether",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VETH",
-    "description": "Vether is designed to be a store-of-value with properties of strict scarcity, unforgeable costliness and a fixed emission schedule.",
-    "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279"
-  },
-  {
     "name": "Hxro Token",
     "type": "ERC20",
     "decimals": 18,
@@ -1774,6 +1766,14 @@
     "symbol": "AION",
     "description": "-",
     "address": "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466"
+  },
+  {
+    "name": "ApeCoin (APE)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "APE",
+    "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.",
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
   },
   {
     "name": "Menlo One",
@@ -1902,14 +1902,6 @@
     "symbol": "INSUR",
     "description": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
     "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429"
-  },
-  {
-    "name": "SIDUS",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SIDUS",
-    "description": "The financial system of the Sidus Heroes game includes two tokens: the SIDUS (gaming) token and the SENATE (governance) token. The SIDUS token is used by players of SIDUS HEROES as in-game currency.",
-    "address": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102"
   },
   {
     "name": "XY Oracle",
@@ -2086,14 +2078,6 @@
     "symbol": "DAD",
     "description": "-",
     "address": "0x5b322514ff727253292637d9054301600c2c81e8"
-  },
-  {
-    "name": "BitForex Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BF",
-    "description": "Bitforex Token (BF) is token issued by BitForex Exchange, it is the proof of platform ownership. BF are issued mainly through trade mining, community and ecosystem mutual construction, and being released gradually.",
-    "address": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5"
   },
   {
     "name": "BANANA TOKEN",
@@ -2312,12 +2296,28 @@
     "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
   },
   {
+    "name": "Oneledger Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OLT",
+    "description": "OneLedger is A Universal Blockchain Protocol Enabling Cross-ledger Access through Business Modularization.",
+    "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0"
+  },
+  {
     "name": "Chronobank TIME (EOL)",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "TIME",
     "description": "TIME is an utility token of Chronobank ecosystem",
     "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53"
+  },
+  {
+    "name": "Molecular Future",
+    "type": "ERC20",
+    "decimals": 16,
+    "symbol": "MOF",
+    "description": "Molecular Future is an innovative financial investment service company. The platform includes but not limited to digital currency management, hedge funds, crowd funding, ETF index funds, and mortgage transaction products.",
+    "address": "0x653430560be843c4a3d143d0110e896c2ab8ac0d"
   },
   {
     "name": "Nestree",
@@ -2334,6 +2334,14 @@
     "symbol": "CTX",
     "description": "-",
     "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
+  },
+  {
+    "name": "Robries",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "RBC",
+    "description": "-",
+    "address": "0x66446ab822206ce050bccec8fdcad37a584ebdf1"
   },
   {
     "name": "BTSE Token",
@@ -2358,6 +2366,14 @@
     "symbol": "STC",
     "description": "-",
     "address": "0x6752787d5a119dad443e97cc6cc4449c655ed5d2"
+  },
+  {
+    "name": "Kylin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KYL",
+    "description": "Kylin Network aims to Build a Cross-chain Platform Powering the Data Economy on Polkadot. It will be the Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot.",
+    "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c"
   },
   {
     "name": "Gnosis",
@@ -2640,6 +2656,14 @@
     "address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
   },
   {
+    "name": "Marinade staked SOL (Portal)",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "mSOL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b"
+  },
+  {
     "name": "Pyrrhos",
     "type": "ERC20",
     "decimals": 18,
@@ -2678,14 +2702,6 @@
     "symbol": "ILV",
     "description": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
     "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
-  },
-  {
-    "name": "Value ETH",
-    "type": "ERC20",
-    "decimals": 9,
-    "symbol": "vETH",
-    "description": "Value DeFi: Bringing True Value to DeFi.",
-    "address": "0x76a034e76aa835363056dd418611e4f81870f16e"
   },
   {
     "name": "MonsterEnergyToken",
@@ -2776,6 +2792,14 @@
     "address": "0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e"
   },
   {
+    "name": "PancakeSwap Token (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CAKE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x7c8161545717a334f3196e765d9713f8042ef338"
+  },
+  {
     "name": "Shping Coin",
     "type": "ERC20",
     "decimals": 18,
@@ -2838,6 +2862,14 @@
     "symbol": "BTR",
     "description": "-",
     "address": "0x8040d35ed6c82f75b1078cf5eb93a2cfd34b2bd8"
+  },
+  {
+    "name": "Pendle",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PENDLE",
+    "description": "Pendle is a protocol for people to trade and hedge yield. Users can tokenize yield and trade them on Pendle's AMM",
+    "address": "0x808507121b80c02388fad14726482e061b8da827"
   },
   {
     "name": "Clover Finance",
@@ -2966,6 +2998,14 @@
     "symbol": "KEEP",
     "description": "Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.",
     "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+  },
+  {
+    "name": "AVAX (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVAX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3"
   },
   {
     "name": "Moss Coin",
@@ -3104,14 +3144,6 @@
     "address": "0x8b353021189375591723e7384262f45709a3c3dc"
   },
   {
-    "name": "PolkaFoundry",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PKF",
-    "description": "PolkaFoundry is a platform for creating borderless and frictionless DeFi apps. It is designed to unleash developers to explore new horizons of the DeFi landscape.",
-    "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
-  },
-  {
     "name": "Decentralized Finance Application",
     "type": "ERC20",
     "decimals": 18,
@@ -3214,14 +3246,6 @@
     "symbol": "BCH",
     "description": "-",
     "address": "0x908c44d44334a9c70e28f3a15a737b550ca34abe"
-  },
-  {
-    "name": "LikeApp",
-    "type": "ERC20",
-    "decimals": 0,
-    "symbol": "LIKE",
-    "description": "popular global platform for creating and sharing original videos.",
-    "address": "0x92298fa0647b5dcff6eeabab97c9bd81b5c30d06"
   },
   {
     "name": "dYdX",
@@ -3382,14 +3406,6 @@
     "symbol": "BMX",
     "description": "BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts. BMX is an ERC20 based token issued by BitMart Exchange.",
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
-  },
-  {
-    "name": "Strong",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "STRONG",
-    "description": "Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.",
-    "address": "0x990f341946a3fdb507ae7e52d17851b87168017c"
   },
   {
     "name": "Polymath",
@@ -3600,6 +3616,14 @@
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
   },
   {
+    "name": "Rubic",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RBC",
+    "description": "Rubic is a multichain DeFi ecosystem, which features cross-chain, P2P, and instant swaps across multiple blockchains, aiming to deliver a complete ONE-STOP decentralized platform. For the moment, Rubic supports trades on Ethereum, Matic, and Binance Smart Chain networks.",
+    "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
+  },
+  {
     "name": "MASTER USD",
     "type": "ERC20",
     "decimals": 18,
@@ -3630,6 +3654,14 @@
     "symbol": "CBG",
     "description": "-",
     "address": "0xa561addf39eb8b8d870ccb1cfb584d998209b8e8"
+  },
+  {
+    "name": "UST (Portal)",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "UST",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5"
   },
   {
     "name": "Merlin",
@@ -4048,6 +4080,22 @@
     "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
   },
   {
+    "name": "0chain",
+    "type": "ERC20",
+    "decimals": 10,
+    "symbol": "ZCN",
+    "description": "0Chain is pronounced as zero chain, and it is a decentralized storage platform that aims to makes data breaches impossible and as such can reduce legal discovery and compliance costs.",
+    "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+  },
+  {
+    "name": "Star Atlas (Portal)",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "ATLAS",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7"
+  },
+  {
     "name": "Balancer",
     "type": "ERC20",
     "decimals": 18,
@@ -4078,6 +4126,14 @@
     "symbol": "CHSB",
     "description": "SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.",
     "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
+  },
+  {
+    "name": "PNGold",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNG",
+    "description": "-",
+    "address": "0xbae1adc451fcafbb2e6850d163a8663f419cb420"
   },
   {
     "name": "Axie Infinity Shard",
@@ -4136,12 +4192,12 @@
     "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927"
   },
   {
-    "name": "Nextar Standard",
+    "name": "LUNA (Portal)",
     "type": "ERC20",
-    "decimals": 0,
-    "symbol": "NEX",
-    "description": "-",
-    "address": "0xbe8f047fc2eb324911e8ef9040f175984dc2dc18"
+    "decimals": 6,
+    "symbol": "LUNA",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d"
   },
   {
     "name": "StormX",
@@ -4254,14 +4310,6 @@
     "symbol": "ERC20",
     "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
     "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea"
-  },
-  {
-    "name": "Shares",
-    "type": "ERC20",
-    "decimals": 10,
-    "symbol": "SHR",
-    "description": "-",
-    "address": "0xc434b0584355039392bba077b2b58ae614b6f18c"
   },
   {
     "name": "BOSON Token",
@@ -4472,6 +4520,14 @@
     "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541"
   },
   {
+    "name": "TokenChain",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "TCT",
+    "description": "-",
+    "address": "0xd06d21aa6f3fa754cee7f9c720a8a826e8322328"
+  },
+  {
     "name": "Terra Virtua Kolect",
     "type": "ERC20",
     "decimals": 18,
@@ -4552,6 +4608,14 @@
     "address": "0xd2f68556348a9d4d5b0b019b3c22f856d0c9ed9a"
   },
   {
+    "name": "SOL (Portal)",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "SOL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c"
+  },
+  {
     "name": "Rocket Pool",
     "type": "ERC20",
     "decimals": 18,
@@ -4598,6 +4662,14 @@
     "symbol": "AMPL",
     "description": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.",
     "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+  },
+  {
+    "name": "Polkamarkets",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "POLK",
+    "description": "Polkamarkets is a DeFi-Powered Prediction Market built for cross-chain information exchange and trading, where users take positions on outcomes of real world events–in a decentralized and interoperable platform on Polkadot.",
+    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf"
   },
   {
     "name": "Populous",
@@ -4654,14 +4726,6 @@
     "symbol": "XPR",
     "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and use crypto seamlessly.",
     "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af"
-  },
-  {
-    "name": "ShareToken",
-    "type": "ERC20",
-    "decimals": 2,
-    "symbol": "SHR",
-    "description": "ShareRing is the first global sharing ecosystem that makes services and goods more accessible for everyone.",
-    "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964"
   },
   {
     "name": "Kardiachain",
@@ -4864,14 +4928,6 @@
     "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
   },
   {
-    "name": "NEX",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "NEX",
-    "description": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the non-custodial Nash Exchange to receive a revenue share.",
-    "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
-  },
-  {
     "name": "mStable USD",
     "type": "ERC20",
     "decimals": 18,
@@ -4920,6 +4976,14 @@
     "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c"
   },
   {
+    "name": "Raydium (Portal)",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "RAY",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xe617dd80c621a5072bd8cba65e9d76c07327004d"
+  },
+  {
     "name": "Gatechain Token",
     "type": "ERC20",
     "decimals": 18,
@@ -4966,6 +5030,14 @@
     "symbol": "QC",
     "description": "QuickCash stable currency system.",
     "address": "0xe74b35425fe7e33ea190b149805baf31139a8290"
+  },
+  {
+    "name": "Triatics",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TRA",
+    "description": "-",
+    "address": "0xe74d6339890d6640ef12e6fbcaf7116f331d6d5d"
   },
   {
     "name": "daoPNT",
@@ -5088,20 +5160,20 @@
     "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
   },
   {
+    "name": "The Crypto Tech",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TCT",
+    "description": "-",
+    "address": "0xed82730312babb41367e060911f798002ffa445f"
+  },
+  {
     "name": "Hermez Network Token",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "HEZ",
     "description": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
     "address": "0xeef9f339514298c6a857efcfc1a762af84438dee"
-  },
-  {
-    "name": "Era Swap",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "ES",
-    "description": "-",
-    "address": "0xef1344bdf80bef3ff4428d8becec3eea4a2cf574"
   },
   {
     "name": "StaFi",
@@ -5208,28 +5280,12 @@
     "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
   },
   {
-    "name": "Poker Chips",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CHP",
-    "description": "CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.",
-    "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e"
-  },
-  {
     "name": "Verasity",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VRA",
     "description": "Verasity",
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
-  },
-  {
-    "name": "PUSH",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PUSH",
-    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
-    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
   },
   {
     "name": "Metal",
@@ -5440,6 +5496,14 @@
     "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
   },
   {
+    "name": "Contracoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CTCN",
+    "description": "-",
+    "address": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+  },
+  {
     "name": "Reef",
     "type": "ERC20",
     "decimals": 18,
@@ -5470,14 +5534,6 @@
     "symbol": "AMP",
     "description": "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility.",
     "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
-  },
-  {
-    "name": "SOCIALMEDIACOIN",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "LIKE",
-    "description": "-",
-    "address": "0xff21a0be6114cc4df52b6f39f68820c3b6ebfe45"
   },
   {
     "name": "Orbs",

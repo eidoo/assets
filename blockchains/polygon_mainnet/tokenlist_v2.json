@@ -32,6 +32,22 @@
     "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
   },
   {
+    "name": "Ether (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ETH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x11cd37bb86f65419713f30673a480ea33c826872"
+  },
+  {
+    "name": "Route",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ROUTE",
+    "description": "Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.",
+    "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+  },
+  {
     "name": "CRV (PoS)",
     "type": "ERC20",
     "decimals": 18,
@@ -72,6 +88,14 @@
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
   },
   {
+    "name": "Qi Dao",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QI",
+    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+  },
+  {
     "name": "Hoge Finance",
     "type": "ERC20",
     "decimals": 9,
@@ -88,6 +112,22 @@
     "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
   },
   {
+    "name": "Wrapped BTC (Portal)",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "WBTC",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x5d49c278340655b56609fdf8976eb0612af3a0c3"
+  },
+  {
+    "name": "AVAX (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVAX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a"
+  },
+  {
     "name": "QuickSwap",
     "type": "ERC20",
     "decimals": 18,
@@ -102,6 +142,14 @@
     "symbol": "DAI",
     "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
     "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
+  },
+  {
+    "name": "LUNA (Portal)",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "LUNA",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0x9cd6746665d9557e1b9a775819625711d0693439"
   },
   {
     "name": "IRON Titanium Token",
@@ -152,12 +200,36 @@
     "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
   },
   {
+    "name": "SOL (Portal)",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "SOL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
+  },
+  {
     "name": "Telcoin",
     "type": "ERC20",
     "decimals": 2,
     "symbol": "TEL",
     "description": "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
     "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
+  },
+  {
+    "name": "UST (Portal)",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "UST",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59"
+  },
+  {
+    "name": "Binance Coin (Portal)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BNB",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
   },
   {
     "name": "Decentral Games",

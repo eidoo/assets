@@ -8,12 +8,100 @@
     "address": "0x0000000000000000000000000000000000000000"
   },
   {
+    "name": "Akropolis (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AKRO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "12uhjozdvgygwelqq8dmcrbig8amw5vmvzu3fdmmdcag"
+  },
+  {
     "name": "Wrapped ETH",
     "type": "SPL",
     "decimals": 6,
     "symbol": "ETH",
     "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
     "address": "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk"
+  },
+  {
+    "name": "Chainlink (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "LINK",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "2wptofq8skacrkzwrzdjxpitya8awwgx8afxdebrrvlx"
+  },
+  {
+    "name": "Swipe (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SXP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3cyiedrehagufzkpxjitcp5tvh7cnhrqd9rpbxzrgk5z"
+  },
+  {
+    "name": "Wrapped BTC (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "WBTC",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh"
+  },
+  {
+    "name": "Aleph.im (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ALEPH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3ucmisnkcnkpe1pgq5ggpcbv6dxgvuy16tmmue1wpg9x"
+  },
+  {
+    "name": "Keep3rV1 (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "KP3R",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3a2vw9t5n6p4bamw3m6ylh1uj9immt7vsyuk6ouxpvlq"
+  },
+  {
+    "name": "Aave Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AAVE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3vas4d1we6na4tcgt4bapgffenbm8wy7q4cspd1ym4cg"
+  },
+  {
+    "name": "USDK (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "USDK",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "43m2ewfv5ndepiefjt9emaqnc1hrtaf247rbplgfem5f"
+  },
+  {
+    "name": "The Sandbox (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SAND",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "49c7wuczkqgc3m4qh8wueunxfgwupzf1xqwkdq7gjrgt"
+  },
+  {
+    "name": "dYdX (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "DYDX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "4hx6bj56egyw8ejrrhem6lbqavvyrikycwsaletrwyru"
+  },
+  {
+    "name": "Smooth Love Potion (Portal)",
+    "type": "SPL",
+    "decimals": 0,
+    "symbol": "SLP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "4hpngep1v3cxpekb81gw4sv7yvwuvrkvy3sgag9nd8q4"
   },
   {
     "name": "Raydium",
@@ -24,6 +112,158 @@
     "address": "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r"
   },
   {
+    "name": "Chiliz (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CHZ",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "5ttskaamfq88grn1qgreaz1ajjyciqncya1aimhagfvg"
+  },
+  {
+    "name": "Quickswap (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "QUICK",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "5njtmk53ss5jkihhzvzabvzzj6ztu6wywpapygbvnbjs"
+  },
+  {
+    "name": "Keep Network (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "KEEP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "64l6o4g2h7ln1vn7ahzsumw4pbfcihyuwn4wudsbcfxh"
+  },
+  {
+    "name": "Frax Share (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "FXS",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct"
+  },
+  {
+    "name": "OpenDAO (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SOS",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "6q5fvsj6kgafmisgdqqyafd9furyzhf8mcubpauagzne"
+  },
+  {
+    "name": "Dogelon Mars (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ELON",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "6nkuu36urhkewhg5gggagxs6szke4vtiogut5txqqjfu"
+  },
+  {
+    "name": "HUSD Stablecoin (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "HUSD",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "7vqo3hflnh5qqgtm8ec3xqbpkjuu7ns9legwjerrh5sw"
+  },
+  {
+    "name": "Huobi BTC (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "HBTC",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8"
+  },
+  {
+    "name": "Decentraland (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "MANA",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "7dghon8wbzcc5wbnq2c47tdnbmaxg4q5l3kjp67z8kni"
+  },
+  {
+    "name": "Curve DAO Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CRV",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "7gjnipun3azeaztzofejzgcbmeuaxdpjhq2raztmtrfs"
+  },
+  {
+    "name": "GMT",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "GMT",
+    "description": "GMT is the governance token of STEPN with a limited supply of 6 billion tokens.",
+    "address": "7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx"
+  },
+  {
+    "name": "Ether (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ETH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs"
+  },
+  {
+    "name": "Uniswap (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "UNI",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36"
+  },
+  {
+    "name": "Illuvium (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ILV",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "8ujbtpseubdvky53rk7d61hnykkvouicczb2xmuwig4g"
+  },
+  {
+    "name": "Synthetix Network Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SNX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "8ctnutcv2uec3royj642urnvtxorjawlzc58gxao7y56"
+  },
+  {
+    "name": "My Neighbor Alice (Portal)",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "ALICE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "9arqsbfan65q522ceqsjuse3clha31jgwdbgqheiq7mg"
+  },
+  {
+    "name": "Perpetual Protocol (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "PERP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "9bsnswdpfbussezfnxyz3un14cypmzyvskjwy3y8gbqn"
+  },
+  {
+    "name": "Audius (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AUDIO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "9lzcmqdgtkyz9drzqnpgee3sga89up3a247ypmj2xrqm"
+  },
+  {
+    "name": "Binance Coin (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "BNB",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "9gp2kcy3wa1ctvywqk75guqxuhfreomqydhltctcqila"
+  },
+  {
     "name": "Wrapped BTC",
     "type": "SPL",
     "decimals": 6,
@@ -32,12 +272,44 @@
     "address": "9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e"
   },
   {
+    "name": "UST (Portal)",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "UST",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i"
+  },
+  {
+    "name": "Frontier (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "FRONT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "a9ik2nrpkrrg2snytjofzqctuav9yh3mnvhlslidqmyt"
+  },
+  {
+    "name": "GateToken (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "GT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "abaq2r9gspddgguqxbk4u13s4zyw6zbwkvbx15mcmg8"
+  },
+  {
     "name": "Wrapped FTX",
     "type": "SPL",
     "decimals": 6,
     "symbol": "FTT",
     "description": "FTX’s leveraged tokens aim to provide a clean, automated way for users to get leverage. FTT is the FTX ecosystem utility token.",
     "address": "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3"
+  },
+  {
+    "name": "Rari Governance Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "RGT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ask8bss7poxffvjfxnsjepj9kuptx15qarnhdjs6ddye"
   },
   {
     "name": "Star Atlas",
@@ -56,6 +328,54 @@
     "address": "auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp"
   },
   {
+    "name": "1INCH Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "1INCH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ajkpkq3nsyde1ykcbyzt7n4ak4evv9om9tzhqd3wsrc"
+  },
+  {
+    "name": "Nexus Mutual (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "NXM",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "aqs5ydqkxek2cjotdxxhmk8n9pknqq5q4zed4ymy1eeh"
+  },
+  {
+    "name": "Gala (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "GALA",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "augz22ormknxqhtvgwau7e3djiktjkgcjfwmndikekmf"
+  },
+  {
+    "name": "Compound (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "COMP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "aweauvatmqrb71wednwf1dwsbxamkjepuxylr1uixfom"
+  },
+  {
+    "name": "Spell Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SPELL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "bcsfxym81iqxyymrlkgap3aepcglhnirb8fjts6sjm7u"
+  },
+  {
+    "name": "Convex Finance (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CVX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "blvmrccp4g1b6spivvmqrludya1nz4b2d1nm9jzkf7sz"
+  },
+  {
     "name": "Wrapped USDT",
     "type": "SPL",
     "decimals": 6,
@@ -72,12 +392,148 @@
     "address": "bxxkv6z8ykpg1yuvudpgh732wzvhb69rnb9ygsyh3itw"
   },
   {
+    "name": "yearn.finance (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "YFI",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "bxzx2jrjfjvkazm1ibedfxgangkexb74mrxzxkvgikxx"
+  },
+  {
+    "name": "Paxos Gold (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "PAXG",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "c6ofse8nxrdthzrmeq5sxanfgkoyyfwddvpw37jkvpte"
+  },
+  {
+    "name": "Ethereum Name Service (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ENS",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "clqsdgogibdnpnvcfp8basn2unvyvb41jd5usywanzag"
+  },
+  {
+    "name": "MATH Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "MATH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "caga7pddfxs65gznqwp42kbhkjqdceofvt7aqyo8jr8q"
+  },
+  {
+    "name": "SushiToken (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SUSHI",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "chvzxwrmrtesgwd3ui3uumcn8kx7vk3wad4kgeskpypj"
+  },
+  {
+    "name": "Shiba Inu (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "SHIB",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ciku4ehsvrc1euevqehn7qhxtcvu95gsqmbpx4utjl9z"
+  },
+  {
+    "name": "ConstitutionDAO (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "PEOPLE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "cobcsurt3p91fwvulykorqejgsm5hoqdv5t8ruz6pnla"
+  },
+  {
+    "name": "JoeToken (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "JOE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "crixdfs9iraybgeqitcuqbwwg9rbmyt5b6lwtnoj61sm"
+  },
+  {
+    "name": "Amp (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AMP",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "d559hwgjygdysxpmfukxhftewutvs9sya1kxiycvogcv"
+  },
+  {
+    "name": "DeFi Land",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "DFL",
+    "description": "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance.",
+    "address": "dfl1znkagpwm1bqavqrjczvhmwtfreajtbzjwgseonjh"
+  },
+  {
+    "name": "Tribe (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "TRIBE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "dpgnkzjag2w1s6vfyhdbt62r4qrwwh5f45cnxtbqduze"
+  },
+  {
+    "name": "Reserve Rights (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "RSR",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "dkbe8u4gsrughcvma1lwyzpyujybfebjw8dmr3isxbzr"
+  },
+  {
+    "name": "Crypto.com Coin (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CRO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "dvjmymvexgkxaixgkpzqthlog98nc7hsu7eanzsdcboa"
+  },
+  {
+    "name": "Bancor Network Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "BNT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "edvveyw4fpj6vkw5lzxrguspzxohrv6ewvtqhcr8oshs"
+  },
+  {
+    "name": "Ampleforth (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AMPL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ehkqvjgu48ydka4d3rivrknytjtksdos32uafxsx1yak"
+  },
+  {
+    "name": "Basic Attention Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "BAT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "epeufdghrxs9xxepval6kfgqvcon7jmawkvuhuux1tpz"
+  },
+  {
     "name": "USD Coin",
     "type": "SPL",
     "decimals": 6,
     "symbol": "USDC",
     "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
     "address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v"
+  },
+  {
+    "name": "EnjinCoin (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ENJ",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "exexwvt6vyyxejfzf5bruxt5gzmpvznd48y3iwrrefmq"
   },
   {
     "name": "Bonfida",
@@ -88,12 +544,52 @@
     "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp"
   },
   {
+    "name": "DAI (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "DAI",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ejmyn6qec1tf1jxig1ae7utjhuxswk1tcwnwqxwv4j6o"
+  },
+  {
     "name": "USDT",
     "type": "SPL",
     "decimals": 6,
     "symbol": "USDT",
     "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
     "address": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb"
+  },
+  {
+    "name": "Yield Guild Games (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "YGG",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ezzp7lrn1xwu3qsb2rjrrwwegjjgsuwzumceqdb3nspk"
+  },
+  {
+    "name": "FTX Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "FTT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "ezfgjvkswthhghacer3lnkxuorkp6nuhfghdahaj1tuv"
+  },
+  {
+    "name": "LUNA (Portal)",
+    "type": "SPL",
+    "decimals": 6,
+    "symbol": "LUNA",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w"
+  },
+  {
+    "name": "Frax (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "FRAX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp"
   },
   {
     "name": "Genopets",
@@ -104,6 +600,22 @@
     "address": "geneth5amgsi8khatqoezp1xexwzj8vcuepynxdkrmyz"
   },
   {
+    "name": "0x (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ZRX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "gja1veeyltrohbaeqcxfzhmjgcgtzgf3cuqxv9znzzay"
+  },
+  {
+    "name": "UFO Gaming (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "UFO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "gwdkyfnxnsjascbvmsqflippe2tpvxynzcjdxf11fu3u"
+  },
+  {
     "name": "Wrapped XRP",
     "type": "SPL",
     "decimals": 6,
@@ -112,12 +624,92 @@
     "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8"
   },
   {
+    "name": "Ankr (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ANKR",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "gq2norj1kbembp3mpfkgaumhmmmnfmy4zeyi26trcxfb"
+  },
+  {
+    "name": "Lido Staked Ether (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "stETH",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "h2mf9qndu2niq6qr7367ua2trbsvsclyx5bz7r3pw5se"
+  },
+  {
+    "name": "Loopring (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "LRC",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hctvftzhl21a1dpzkxauewwqbe8qmuyvgchfdl4xyoi1"
+  },
+  {
+    "name": "Graph Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "GRT",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hgslg4pnz28l8a4r5npqkgzd86zuudmfnktrnufj5dax"
+  },
+  {
+    "name": "Rocket Pool (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "RPL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hucyuyqeseuv4ywtkfvvb4jiqlqoovsctbprxfgzw4wx"
+  },
+  {
     "name": "Trust Wallet",
     "type": "SPL",
     "decimals": 8,
     "symbol": "TWT",
     "description": "Utility token to increase adoption of cryptocurrency.",
     "address": "hznpql7rt9gxf9ewowswzc5dfjzq41xtqgea7p3vzaad"
+  },
+  {
+    "name": "Lido DAO (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "LDO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hzrcwxp2vq9pcppxooayhj2bxtpo5xfpqrwb1svh332p"
+  },
+  {
+    "name": "Cream (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CREAM",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh"
+  },
+  {
+    "name": "Hxro (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "HXRO",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "hxhwkvpk5ns4ltg5nij2g671ckxfrkpk8vy271ub4uek"
+  },
+  {
+    "name": "PancakeSwap Token (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "CAKE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "j8lkx7pr9zxh9nmhht7x3ebmj5rzuhfrhkyjae2f2i9s"
+  },
+  {
+    "name": "AVAX (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "AVAX",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "kgv1gvrhqmrby8shqqeukwtm2r2h8t4c8qt12cw1hve"
   },
   {
     "name": "Maps.me",
@@ -134,6 +726,14 @@
     "symbol": "MNGO",
     "description": "Mango v3 is designed to make life easier for market participants",
     "address": "mangoczj36ajzykwvj3vnyu4gtonjfvenjmvvwaxlac"
+  },
+  {
+    "name": "ROSE (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "ROSE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "s3sqfd6rhemxq3eeyn1z5sjsbtwfxdt7tsavxpqftyo"
   },
   {
     "name": "Serum",
@@ -166,6 +766,14 @@
     "symbol": "mSOL",
     "description": "Marinade.finance is a liquid staking protocol built on Solana.",
     "address": "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so"
+  },
+  {
+    "name": "Celsius (Portal)",
+    "type": "SPL",
+    "decimals": 4,
+    "symbol": "CEL",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69"
   },
   {
     "name": "Star Atlas DAO",
