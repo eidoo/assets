@@ -1,0 +1,65 @@
+[
+  {
+    "text": {
+      "en" : "New onboarding flow",
+      "it" : "Nuovo flusso di onboarding",
+      "fr" : "Nouveau flux d'intégration"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where you couldn't connect wallet to dapps at first try",
+      "it" : "Risolto un bug per cui non si poteva connettere il portafoglio a dapps al primo tentativo",
+      "fr" : "Correction d'un bug où vous ne pouviez pas connecter le portefeuille aux dapps au premier essai"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where the amount of BTC was not shown correctly after a v1 wallet Restore",
+      "it" : "Risolto un bug per cui la quantità di BTC non veniva mostrata correttamente dopo il ripristino di un portafoglio v1",
+      "fr" : "Correction d'un bug où la quantité de BTC n'était pas affichée correctement après une restauration de portefeuille v1"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where the app would crash after trying to add a new widget",
+      "it" : "Risolto un bug per cui l'app si arrestava in modo anomalo dopo aver tentato di aggiungere un nuovo widget",
+      "fr" : "Correction d'un bug où l'application plantait après avoir essayé d'ajouter un nouveau widget"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where it was impossible to Restore the same wallet after a wallet Reset",
+      "it" : "Risolto un bug per il quale era impossibile ripristinare lo stesso portafoglio dopo un Reset",
+      "fr" : "Correction d'un bug où il était impossible de restaurer le même portefeuille après une réinitialisation"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug where radio buttons on the import account list were not clickable",
+        "it" : "Risolto un bug per cui i pulsanti di opzione nell'elenco degli account importati non erano selezionabili",
+        "fr" : "Correction d'un bug où les boutons radio sur la liste des comptes d'importation n'étaient pas cliquables"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a few graphical, logo, translation-related issues",
+        "it" : "Risolti alcuni bug grafici relativi al logo e alle traduzioni",
+        "fr" : "Correction de quelques bugs graphiques, de logo et de traduction"
+      },
+    "important": false,
+    "type": "fix"
+  }
+]
