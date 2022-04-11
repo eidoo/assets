@@ -193,9 +193,9 @@
       }
 
       const versionsList = await loadVersionsList()
-      const changelogFile = await loadChangeLog(version, locale, versionsList)
-      const latest = versionsList.pop()
+      const latest = versionsList[versionsList.length - 1]
       document.getElementById('version_pill').innerHTML = `v ${latest}`
+      const changelogFile = await loadChangeLog(version, locale, versionsList)
       
       const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
       if(newFeatures && newFeatures.length) { 
@@ -241,6 +241,11 @@
     } 
 
     async function loadChangeLog(_currentVersion, _locale, _versionsList) {
+
+      // if the app sent the latest version, get the previous version and show latest changelog
+      if(_currentVersion == _versionsList[_versionsList.length - 1]) {
+        _currentVersion = _versionsList[_versionsList.length - 2] || _versionsList
+      }
 
       const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
 
