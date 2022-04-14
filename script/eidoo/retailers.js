@@ -41,7 +41,11 @@ readdirSync(dir, { withFileTypes: true })
     if (!supportedExtensions.includes(fileExt.toLowerCase())) {
       return
     }
-    
+
+    if (fileName.includes("no_brand")) {
+      return
+    }
+
     const fileOverrides = overrides[fileName]
     if (fileOverrides) {
       if (Array.isArray(fileOverrides)) {

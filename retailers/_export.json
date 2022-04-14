@@ -90,6 +90,7 @@
     "k.f.c.": "kfc",
     "migros": "migros",
     "oxybul": "oxybul",
+    "pagopa": "pagopa",
     "paypal": "paypal",
     "pimkie": "pimkie",
     "reebok": "reebok",
@@ -144,6 +145,7 @@
     "luftansa": "luftansa",
     "onlyfans": "onlyfans",
     "panorama": "panorama",
+    "postepay": "postepay",
     "rossmann": "rossmann",
     "s oliver": "s_oliver",
     "screwfix": "screwfix",
@@ -220,10 +222,12 @@
     "rossopomodoro": "rossopomodoro"
   },
   "14": {
+    "acqua & sapone": "acqua%26sapone",
     "anthony morato": "anthony_morato",
     "giorgio armani": "giorgio_armani",
     "mark & spencer": "mark_%26_spencer",
     "poste italiane": "poste_italiane",
+    "risparmio casa": "risparmio_casa",
     "the north face": "the_north_face",
     "telecom italia": "tim"
   },
@@ -234,6 +238,6 @@
   },
   "16": { "america graffiti": "america_graffiti", "turkish airlines": "turkish_airlines" },
   "17": { "holland & barrett": "holland_%26_barrett" },
-  "18": { "amazon prime video": "amazon_prime_video" },
+  "18": { "amazon prime video": "amazon_prime_video", "curve subscription": "curve" },
   "21": { "john lewis & partners": "john_lewis_%26_partners" }
 }
