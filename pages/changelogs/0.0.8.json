@@ -1,0 +1,74 @@
+[
+  {
+    "text": {
+      "en" : "Disabled download on Android 9 or lower",
+      "it" : "Disabilitato il download su Android 9 o inferiori",
+      "fr" : "Téléchargement désactivé sur Android 9 ou inférieur"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Added chat for customer service",
+      "it" : "Aggiunta la chat per il servizio clienti",
+      "fr" : "Ajout du chat pour le service clientèle"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Added logos for card expenses",
+      "it" : "Aggiunti loghi per le spese con carta",
+      "fr" : "Ajout de logos pour les dépenses des cartes"
+    },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Made changelog appear when double-tapping on the app version",
+      "it" : "Fatto apparire il changelog dopo un doppio tap sulla versione dell'app",
+      "fr" : "Le changelog s'affiche lorsque l'on double-clique sur la version de l'application."
+    },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Card rebates enabled",
+      "it" : "Abiitati i rebates della carta",
+      "fr" : "Remises de carte activées"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that made BNB Chain tokens appear as ERC-20",
+        "it" : "Risolto un bug per cui i token BNB Chain apparivano come ERC-20",
+        "fr" : "Correction d'un bug qui faisait apparaître les jetons de la chaîne BNB comme des ERC-20."
+      },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug where if a seed is stolen, the user won't be able to order a new card with a new seed",
+        "it" : "Risolto un bug per cui se il seed di un token veniva rubato, l'utente non poteva ordinare una nuova carta con un nuovo seed",
+        "fr" : "Correction d'un bug où si une graine est volée, l'utilisateur ne pourra pas commander une nouvelle carte avec une nouvelle graine."
+      },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Renamed FIO domain into FIO Crypto Handle",
+        "it" : "Rinominato FIO domain in FIO Crypto Handle",
+        "fr" : "Renommé FIO domain en FIO Crypto Handle"
+      },
+    "important": false,
+    "type": "fix"
+  }
+]
