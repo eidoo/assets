@@ -1,36 +1,36 @@
 [
   {
     "text": {
-      "en" : "New Onboarding flow;",
-      "it" : "Nuovo flusso di onboarding;",
-      "fr" : "Nouveau flux d'intégration;"
+      "en" : "New simplified UI/UX flow for user onboarding :grin:",
+      "it" : "Nuovo flusso UI/UX semplificato per l'onboarding :grin:",
+      "fr" : "Nouveau flux UI/UX simplifié pour l'onboarding :grin:"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "The option to add custom networks manually;",
-      "it" : "L'opzione per aggiungere manualmente le reti personalizzate;",
-      "fr" : "La possibilité d'ajouter manuellement des réseaux personnalisés;"
+      "en" : "User can now add a custom network manually :muscle:",
+      "it" : "L'utente può ora aggiungere manualmente un network personalizzato :muscle:",
+      "fr" : "L'utilisateur peut désormais ajouter manuellement un réseau personnalisé :muscle:"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "Added more reference currencies;",
-      "it" : "Aggiunte più valute di riferimento;",
-      "fr" : "Ajout de plus de devises de référence;"
+      "en" : "More Currencies Added!: JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble :fire:",
+      "it" : "Altre valute aggiunte! JPY, CAD, AUD, NZD, CHF, CNY, Rublo russo :fire:",
+      "fr" : "Plus de monnaies ajoutées! JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble :fire:"
     },
-    "important": false,
+    "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "Fixed a bug where the seed was generated twice when creating a new wallet.",
-      "it" : "Risolto un bug per cui il seed veniva generato due volte durante la creazione di un nuovo portafoglio.",
-      "fr" : "Correction d'un bug où la graine était générée deux fois lors de la création d'un nouveau portefeuille."
+      "en" : "Resolve the double seed generated when creating a new wallet",
+      "it" : "Risolvere il doppio seme generato quando si crea un nuovo portafoglio",
+      "fr" : "Résoudre le double seed généré lors de la création d'un nouveau wallet"
     },
     "important": true,
     "type": "fix"
@@ -38,35 +38,35 @@
   {
     "text": {
       "en" : "Fixed a bug where autolock did not work as intended when app was in background",
-      "it" : "Risolto un bug per cui il blocco automatico non funzionava come previsto quando l'app era in background.",
-      "fr" : "Correction d'un bug où le verrouillage automatique ne fonctionnait pas comme prévu lorsque l'application était en arrière-plan."
+      "it" : "Risolto un bug per cui l'autolock non funzionava come previsto quando l'app era in background",
+      "fr" : "Correction d'un bug pour lequel le verrouillage automatique ne fonctionnait pas comme prévu lorsque l'application était en arrière-plan"
     },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Replaced Binance Smart Chain to BNB Smart Chain",
+        "it" : "Sostituito Binance Smart Chain a BNB Smart Chain",
+        "fr" : "Remplacement de Binance Smart Chain par BNB Smart Chain"
+      },
     "important": true,
     "type": "fix"
   },
   {
     "text": {
-        "en" : "Replaced the Binance Smart Chain naming with BNB Smart Chain.",
-        "it" : "Sostituita la denominazione Binance Smart Chain con BNB Smart Chain.",
-        "fr" : "Remplacement du nom Binance Smart Chain par BNB Smart Chain."
+        "en" : "Resolve the unable to take a screenshot or video recording function while using the App",
+        "it" : "Risolta l'impossibilità di fare uno screenshot o la registrazione video mentre si usa l'App",
+        "fr" : "Résoudre l'impossibilité de prendre une capture d'écran ou l'enregistrement vidéo lors de l'utilisation de l'application"
       },
     "important": false,
     "type": "fix"
   },
   {
     "text": {
-        "en" : "Fixed a bug where the app was giving an error when trying to take a screenshot.",
-        "it" : "Risolto un bug per cui l'app dava un errore durante il tentativo di acquisire uno screenshot.",
-        "fr" : "Correction d'un bug où l'application donnait une erreur en essayant de prendre une capture d'écran."
-      },
-    "important": false,
-    "type": "fix"
-  },
-  {
-    "text": {
-        "en" : "Fixed other graphical issues.",
-        "it" : "Risolti altri problemi grafici.",
-        "fr" : "Correction d'autres problèmes graphiques."
+        "en" : "Fixed some minor graphical issues",
+        "it" : "Risolti problemi grafici minori",
+        "fr" : "Correction de problèmes graphiques mineurs"
       },
     "important": false,
     "type": "fix"
