@@ -1,0 +1,74 @@
+[
+  {
+    "text": {
+      "en" : "New Onboarding flow;",
+      "it" : "Nuovo flusso di onboarding;",
+      "fr" : "Nouveau flux d'intégration;"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "The option to add custom networks manually;",
+      "it" : "L'opzione per aggiungere manualmente le reti personalizzate;",
+      "fr" : "La possibilité d'ajouter manuellement des réseaux personnalisés;"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Added more reference currencies;",
+      "it" : "Aggiunte più valute di riferimento;",
+      "fr" : "Ajout de plus de devises de référence;"
+    },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where the seed was generated twice when creating a new wallet.",
+      "it" : "Risolto un bug per cui il seed veniva generato due volte durante la creazione di un nuovo portafoglio.",
+      "fr" : "Correction d'un bug où la graine était générée deux fois lors de la création d'un nouveau portefeuille."
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug where autolock did not work as intended when app was in background",
+      "it" : "Risolto un bug per cui il blocco automatico non funzionava come previsto quando l'app era in background.",
+      "fr" : "Correction d'un bug où le verrouillage automatique ne fonctionnait pas comme prévu lorsque l'application était en arrière-plan."
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Replaced the Binance Smart Chain naming with BNB Smart Chain.",
+        "it" : "Sostituita la denominazione Binance Smart Chain con BNB Smart Chain.",
+        "fr" : "Remplacement du nom Binance Smart Chain par BNB Smart Chain."
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug where the app was giving an error when trying to take a screenshot.",
+        "it" : "Risolto un bug per cui l'app dava un errore durante il tentativo di acquisire uno screenshot.",
+        "fr" : "Correction d'un bug où l'application donnait une erreur en essayant de prendre une capture d'écran."
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed other graphical issues.",
+        "it" : "Risolti altri problemi grafici.",
+        "fr" : "Correction d'autres problèmes graphiques."
+      },
+    "important": false,
+    "type": "fix"
+  }
+]
