@@ -1,27 +1,27 @@
 [
   {
     "text": {
-      "en" : "New simplified UI/UX flow for user onboarding :grin:",
-      "it" : "Nuovo flusso UI/UX semplificato per l'onboarding :grin:",
-      "fr" : "Nouveau flux UI/UX simplifié pour l'onboarding :grin:"
+      "en" : "New simplified UI/UX flow for user onboarding 😁",
+      "it" : "Nuovo flusso UI/UX semplificato per l'onboarding 😁",
+      "fr" : "Nouveau flux UI/UX simplifié pour l'onboarding 😁"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "User can now add a custom network manually :muscle:",
-      "it" : "L'utente può ora aggiungere manualmente un network personalizzato :muscle:",
-      "fr" : "L'utilisateur peut désormais ajouter manuellement un réseau personnalisé :muscle:"
+      "en" : "User can now add a custom network manually 💪",
+      "it" : "L'utente può ora aggiungere manualmente un network personalizzato 💪",
+      "fr" : "L'utilisateur peut désormais ajouter manuellement un réseau personnalisé 💪"
     },
     "important": true,
     "type": "feature"
   },
   {
     "text": {
-      "en" : "More Currencies Added!: JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble :fire:",
-      "it" : "Altre valute aggiunte! JPY, CAD, AUD, NZD, CHF, CNY, Rublo russo :fire:",
-      "fr" : "Plus de monnaies ajoutées! JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble :fire:"
+      "en" : "More Currencies Added!: JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble 🔥",
+      "it" : "Altre valute aggiunte! JPY, CAD, AUD, NZD, CHF, CNY, Rublo russo 🔥",
+      "fr" : "Plus de monnaies ajoutées! JPY, CAD, AUD, NZD, CHF, CNY, Russian Ruble 🔥"
     },
     "important": true,
     "type": "feature"
