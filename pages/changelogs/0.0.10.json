@@ -1,0 +1,83 @@
+[
+  {
+    "text": {
+      "en" : "Implemented seed autocomplete feature",
+      "it" : "Completamento automatico del seed",
+      "fr" : "Achèvement automatique du seed"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Improved some dialog-pages style",
+      "it" : "Migliorato lo stile di alcune pagine di dialogo",
+      "fr" : "Amélioration du style de certaines pages de dialogue"
+    },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Keyboard's incognito mode activated when seed and private keys are inserted",
+      "it" : "Modalità incognito della tastiera attiva quando si digitano seed e chiavi private",
+      "fr" : "Mode incognito du clavier actif lors de la saisie de graines et de clés privées"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug that made impossible to reload a page in the dapp browser",
+      "it" : "Risolto un bug per cui era impossibile ricaricare una pagina nel browser dapp",
+      "fr" : "Correction d'un bug à cause duquel l'application fermait le browser au lieu de supprimer le texte dans la barre de recherche."
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug that caused the user to leave the browser rather than deleting the text in the search bar",
+      "it" : "Risolto un bug per cui l'app chiudeva il browser invece che cancellare il testo nella barra di ricerca",
+      "fr" : "Correction d'un bug où l'application fermait le navigateur au lieu d'effacer le texte dans la barre de recherche"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that caused some issues in the process of loading pages in the browser",
+        "it" : "Risolto un bug che si verificava al caricamento delle pagine nel browser",
+        "fr" : "Correction d'un bug qui survenait lors du chargement des pages dans le browser"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that made the search bar not focused as soon as the search view appeared",
+        "it" : "Risolto un bug che rendeva la barra di ricerca fuori fuoco quando compariva la pagina di ricerca",
+        "fr" : "Correction d'un bug qui faisait que la barre de recherche n'était pas visible lorsque la page de recherche s'affichait."
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that did not make the delete button in the search account page work as expected",
+        "it" : "Risolto un bug che non faceva funzionare il tasto elimina nella pagina di ricerca degli account correttamente",
+        "fr" : "Correction d'un bug qui empêchait le bouton de suppression sur la page de recherche de compte de fonctionner correctement"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that made impossible to claim PNT on Astrodrop",
+        "it" : "Risolto un bug che non permetteva di fare claim dei PNT da Astrodrop",
+        "fr" : "Correction d'un bug qui ne permettait pas de réclamer des PNTs à partir d'Astrodrop."
+      },
+    "important": true,
+    "type": "fix"
+  }
+]
