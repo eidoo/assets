@@ -55,9 +55,9 @@
   },
   {
     "text": {
-        "en" : "Fixed a bug that made the search bar not focused as soon as the search view appeared",
-        "it" : "Risolto un bug che rendeva la barra di ricerca fuori fuoco quando compariva la pagina di ricerca",
-        "fr" : "Correction d'un bug qui faisait que la barre de recherche n'était pas visible lorsque la page de recherche s'affichait."
+        "en" : "Now the research bar is automatically selected when the research page is loaded",
+        "it" : "Adesso la barra di ricerca viene automaticamente selezionata quando viene caricata la pagina di ricerca",
+        "fr" : "La barre de recherche est maintenant automatiquement sélectionnée lorsque la page de recherche est chargée"
       },
     "important": false,
     "type": "fix"
@@ -73,9 +73,9 @@
   },
   {
     "text": {
-        "en" : "Fixed a bug that made impossible to claim PNT on Astrodrop",
-        "it" : "Risolto un bug che non permetteva di fare claim dei PNT da Astrodrop",
-        "fr" : "Correction d'un bug qui ne permettait pas de réclamer des PNTs à partir d'Astrodrop."
+        "en" : "Fixed a bug that made impossible to claim PNT on Astrodrop throough browser extension",
+        "it" : "Risolto un bug che non permetteva di fare claim dei PNT da Astrodrop tramite browser extension",
+        "fr" : "Correction d'un bug qui ne permettait pas de réclamer les PNTs d'Astrodrop via l'extension du navigateur"
       },
     "important": true,
     "type": "fix"
