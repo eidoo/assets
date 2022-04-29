@@ -73,7 +73,7 @@
   },
   {
     "text": {
-        "en" : "Fixed a bug that made impossible to claim PNT on Astrodrop throough browser extension",
+        "en" : "Fixed a bug that made impossible to claim PNT on Astrodrop through browser extension",
         "it" : "Risolto un bug che non permetteva di fare claim dei PNT da Astrodrop tramite browser extension",
         "fr" : "Correction d'un bug qui ne permettait pas de réclamer les PNTs d'Astrodrop via l'extension du navigateur"
       },
