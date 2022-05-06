@@ -1,0 +1,74 @@
+[
+  {
+    "text": {
+      "en" : "Fixed a bug that prevented Chainlist from working correctly",
+      "it" : "Risolto un bug che impediva il corretto funzionamento di Chainlist",
+      "fr" : "Correction d'un bug qui empêchait le bon fonctionnement de Chainlist"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug that caused the app to crash after switching networks in the dapp browser",
+      "it" : "Risolto un bug che faceva crashare l'app dopo aver cambiato rete nel dapp browser",
+      "fr" : "Correction d'un bug qui faisait planter l'application après avoir changé de réseau dans le navigateur dapp"
+    },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed a bug that prevented buttons from being shown on the transaction confirmation page",
+      "it" : "Risolto un bug che impediva di mostrare i pulsanti nella pagina di conferma di una transazione",
+      "fr" : "Correction d'un bug qui empêchait l'affichage des boutons sur une page de confirmation de transaction"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed the bug that prevented the claim of PNT rewards on Astrodrop with Android devices",
+        "it" : "Risolto il bug che impediva il claim dei rewards PNT su Astrodrop con dispositivi Android",
+        "fr" : "Correction du bug qui empêchait la réclamation des récompenses PNT sur Astrodrop avec les appareils Android"
+      },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that prevented the add custom network menu from having the dark theme, when the latter was enabled by default",
+        "it" : "Risolto un bug che impediva al menu aggiungi rete custom di avere il tema scuro, quando quest'ultimo era abilitato di default",
+        "fr" : "Correction d'un bug qui empêchait le menu d'ajout de réseau personnalisé d'avoir le thème sombre, lorsque ce dernier était activé par défaut"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that prevented the Deposit page from displaying correctly on iPhone 7",
+        "it" : "Risolto un bug che impediva la corretta visualizzazione della pagina Deposita su iPhone 7",
+        "fr" : "Correction d'un bug qui empêchait la page de dépôt de s'afficher correctement sur iPhone 7"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that prevented some dapps from opening correctly in the dapp browser",
+        "it" : "Risolto un bug che impediva ad alcune dapp di aprirsi correttamente nel dapp browser",
+        "fr" : "Correction d'un bug qui empêchait certaines dapps de s'ouvrir correctement dans le navigateur dapp"
+      },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that showed double transactions and cashbacks within the card transaction list",
+        "it" : "Risolto un bug che mostrava transazioni e cashback doppi all'interno dell'elenco transazioni della carta",
+        "fr" : "Correction d'un bug qui affichait des doubles transactions et le cashback dans la liste des transactions par carte"
+      },
+    "important": false,
+    "type": "fix"
+  }
+]
