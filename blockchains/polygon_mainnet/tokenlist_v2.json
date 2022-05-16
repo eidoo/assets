@@ -24,14 +24,6 @@
     "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
   },
   {
-    "name": "EverRise",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "RISE",
-    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
-    "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579"
-  },
-  {
     "name": "Ether (Portal)",
     "type": "ERC20",
     "decimals": 18,
@@ -86,14 +78,6 @@
     "symbol": "LINK",
     "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
-  },
-  {
-    "name": "Qi Dao",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "QI",
-    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
-    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
   },
   {
     "name": "Hoge Finance",
@@ -152,6 +136,14 @@
     "address": "0x9cd6746665d9557e1b9a775819625711d0693439"
   },
   {
+    "name": "UniCrypt",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UNCX",
+    "description": "UNCX is the governance token of the UniCrypt platform.",
+    "address": "0x9eecd634c7a934f752af0eb90dda9ecc262f199f"
+  },
+  {
     "name": "IRON Titanium Token",
     "type": "ERC20",
     "decimals": 18,
@@ -174,6 +166,14 @@
     "symbol": "UNI",
     "description": "The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.",
     "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+  },
+  {
+    "name": "EverRise",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3"
   },
   {
     "name": "(PoS) Tether USD",
@@ -216,7 +216,7 @@
     "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
   },
   {
-    "name": "UST (Portal)",
+    "name": "UST (Wormhole)",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "UST",

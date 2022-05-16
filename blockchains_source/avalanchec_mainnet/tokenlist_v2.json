@@ -40,14 +40,6 @@
     "address": "0x442f7f22b1ee2c842beaff52880d4573e9201158"
   },
   {
-    "name": "Pangolin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PNG",
-    "description": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche",
-    "address": "0x60781c2586d68229fde47564546784ab3faca982"
-  },
-  {
     "name": "LUNA (Portal)",
     "type": "ERC20",
     "decimals": 6,
@@ -86,6 +78,14 @@
     "symbol": "UST",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1"
+  },
+  {
+    "name": "EverRise",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3"
   },
   {
     "name": "SOL (Portal)",

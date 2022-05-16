@@ -96,6 +96,14 @@
     "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8"
   },
   {
+    "name": "EverRise",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RISE",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3"
+  },
+  {
     "name": "Frax",
     "type": "ERC20",
     "decimals": 18,

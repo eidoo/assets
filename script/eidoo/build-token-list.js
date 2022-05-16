@@ -15,6 +15,7 @@ const LIMIT = 800
     }
   })
 
+  const blacklist = overrides.blacklist[process.argv[2].split('/')[1]] || []
   const overrideSymbols = overrides.symbols.map((x) => x.toLowerCase())
   const topSymbols = resBody.data.map((x) => x.symbol.toLowerCase())
 
@@ -23,6 +24,10 @@ const LIMIT = 800
   readdirSync(dir, { withFileTypes: true })
     .filter(_dirent => _dirent.isDirectory())
     .forEach(_dirent => {
+      const address = _dirent.name.toLowerCase()
+      if (blacklist.includes(address)) {
+        return
+      }
       const file = readFileSync(`${dir}/${_dirent.name}/info.json`, 'utf-8')
       const { name, type, decimals, symbol, description}  = JSON.parse(file)
       if (overrideSymbols.includes(symbol.toLowerCase()) || topSymbols.includes(symbol.toLowerCase())) {
@@ -32,7 +37,7 @@ const LIMIT = 800
           decimals,
           symbol,
           description,
-          address: _dirent.name.toLowerCase()
+          address,
         })
       }
     })

@@ -192,11 +192,11 @@
     "address": "7gjnipun3azeaztzofejzgcbmeuaxdpjhq2raztmtrfs"
   },
   {
-    "name": "GMT",
+    "name": "Green Metaverse Token",
     "type": "SPL",
     "decimals": 9,
     "symbol": "GMT",
-    "description": "GMT is the governance token of STEPN with a limited supply of 6 billion tokens.",
+    "description": "GMT is the governance token of STEPN, which is a Web3 lifestyle app with fun social elements and gamification design.",
     "address": "7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx"
   },
   {
@@ -294,6 +294,14 @@
     "symbol": "GT",
     "description": "Cross Chain Portal Bridged Token",
     "address": "abaq2r9gspddgguqxbk4u13s4zyw6zbwkvbx15mcmg8"
+  },
+  {
+    "name": "Green Satoshi Token",
+    "type": "SPL",
+    "decimals": 9,
+    "symbol": "GST",
+    "description": "GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers – walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers.",
+    "address": "afbx8ogjgpmvfywbvouvhqsrmiw2ar1mohfahi4y2adb"
   },
   {
     "name": "Wrapped FTX",

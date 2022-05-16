@@ -1,4 +1,9 @@
 {
+  "blacklist": {
+    "eth_mainnet": [
+      "0x861d899e74ec0e84fa8a15ba58088bb3baccb6fa"
+    ]
+  },
   "symbols": [
     "MEMO",
     "NOKU",
