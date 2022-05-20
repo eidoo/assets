@@ -1,0 +1,164 @@
+[
+  {
+    "text": {
+      "en" : "The Review transaction page now features the Security Center",
+      "it" : "Aggiunto il Security Center nella pagina di revisione delle operazioni.",
+      "fr" : "Ajout du Security Center dans la page de révision des transactions"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "When sending a token you can now search for recipient addresses",
+      "it" : "Reso il campo di testo nella schermata di trasferimento anche uno strumento di ricerca",
+      "fr" : "La zone de texte de l'écran de transfert devient également un outil de recherche."
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Fixed an issue with the Bitcoin wallet migration from V1",
+      "it" : "Corretto un problema con la migrazione del wallet Bitcoin dalla V1.",
+      "fr" : "Correction d'un problème de migration du wallet Bitcoin depuis la V1"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Edited some text in the card section",
+      "it" : "Modificato il testo in una sezione della carta",
+      "fr" : "Modification de certains textes dans la section carte"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Increased the expiration time of the card statement",
+      "it" : "Aumentato il tempo di scadenza dell'estratto conto della carta",
+      "fr" : "Augmentation du délai d'expiration du relevé de carte"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Added an information screen to alert of Loopring fees when withdrawing funds",
+        "it" : "Aggiunta una schermata informativa per avvisare delle spese di Loopring al momento del prelievo dei fondi",
+        "fr" : "Ajout d'un écran d'information pour signaler les frais de Loopring lors d'un retrait de fonds"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "T&C push button bug fixed for iPhone 8",
+        "it" : "Risolto un bug specifico riscontrato dagli utenti su iPhone 8 Plus durante la lettura dei T&C",
+        "fr" : "Correction d'un bug spécifique dont les utilisateurs ont été témoins sur iPhone 8 Plus lors de la lecture des CGU"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Added a confirmation button when setting the Custom path",
+        "it" : "Aggiunto un pulsante di conferma per quando si imposta un percorso personalizzato",
+        "fr" : "Ajout d'un bouton de confirmation lors de la définition du chemin d'accès personnalisé"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed the colors of a confirmation prompt",
+        "it" : "Corretti i colori di un prompt di conferma",
+        "fr" : "Correction des couleurs d'un texte de confirmation"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that made some words not detected when importing a seed",
+        "it" : "Corretto un bug che faceva sì che alcune parole non venissero rilevate durante l'importazione di un seed.",
+        "fr" : "Correction d'un bug qui faisait que certains mots n'étaient pas détectés lors de l'importation d'une seed"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Improved NFT fields user experience",
+        "it" : "Migliorata l'esperienza d'uso delle voci degli NFT",
+        "fr" : "Amélioration de l'expérience des utilisateurs de NFT"
+      },
+    "important": true,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed the share button in the deposit page",
+        "it" : "Corretto il pulsante condividi nella pagina di deposito",
+        "fr" : "Correction du bouton de partage dans la page de dépôt"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Changed the icon of the paste button in the send page",
+        "it" : "Modificata l'icona del pulsante incolla nella pagina di invio",
+        "fr" : "Modification de l'icône du bouton coller dans la page d'envoi"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that mixed the order of the transactions in the card statement",
+        "it" : "Risolto un bug che mischiava l'ordine delle transazioni nell'estratto conto della carta",
+        "fr" : "Correction d'un bug qui mélangeait l'ordre des transactions dans le relevé de la carte"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that made certain URLs be searched as text strings",
+        "it" : "Corretto un bug che faceva sì che alcuni URL venissero cercati come stringhe di testo",
+        "fr" : "Correction d'un bug qui faisait que certaines URLs étaient recherchées comme des suites de texte"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "Fixed a bug that did not allow to select the last address when sending a token",
+        "it" : "Corretto un bug che non permetteva di selezionare l'ultimo indirizzo quando si inviava un token",
+        "fr" : "Correction d'un bug qui ne permettait pas de sélectionner la dernière adresse lors de l'envoi d'un token"
+      },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+        "en" : "In the custom networks page, renamed xDAI in Gnosis Chain",
+        "it" : "Nella pagina delle reti personalizzate, rinominata xDAI in Gnosis Chain",
+        "fr" : "Dans la page des réseaux personnalisés, xDAI renommé en Gnosis Chain"
+      },
+    "important": false,
+    "type": "fix"
+  }
+  {
+    "text": {
+        "en" : "Signing dapp messages with Ledger is now fully supported",
+        "it" : "Migliorato il supporto alla firma dei messaggi con Ledger",
+        "fr" : "La signature des messages dapp avec Ledger fonctionne maintenant"
+      },
+    "important": false,
+    "type": "fix"
+  }
+]
