@@ -151,7 +151,7 @@
       },
     "important": false,
     "type": "fix"
-  }
+  },
   {
     "text": {
         "en" : "Signing dapp messages with Ledger is now fully supported",
