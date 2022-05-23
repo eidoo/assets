@@ -224,6 +224,14 @@
     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a"
   },
   {
+    "name": "MetaAxis",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MTA",
+    "description": "MetaAxis is a revolutionary token with an innovative Buy Back and Play to Earn scheme built on Binance Smart Chain",
+    "address": "0x19d3a7c26a1271eebb6f04bdb4565b7f2b7efc30"
+  },
+  {
     "name": "Binance-Peg Dai Token",
     "type": "BEP20",
     "decimals": 18,
@@ -688,6 +696,14 @@
     "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
   },
   {
+    "name": "Solana",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SOL",
+    "description": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
+    "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df"
+  },
+  {
     "name": "Gallant",
     "type": "BEP20",
     "decimals": 9,
@@ -888,6 +904,14 @@
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0"
   },
   {
+    "name": "UNFI",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "UNFI",
+    "description": "Unifi Protocol DAO is a group of non-custodial, interoperable, decentralized, multi-chain smart contracts providing the building blocks for DeFi development. ",
+    "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b"
+  },
+  {
     "name": "Chain",
     "type": "BEP20",
     "decimals": 18,
@@ -942,6 +966,14 @@
     "symbol": "HERO",
     "description": "BinaHero is a decentralized NFT game that integrates collection, mining, market trading, and PVE. Players can play to earn in the game.",
     "address": "0x78c3ade403438b37638304f9fbbfb1b76608c1bd"
+  },
+  {
+    "name": "ApolloX Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "APX",
+    "description": "APX is the native token of the ApolloX ecosystem, and ApolloX is a world class leading decentralized derivatives exchange.",
+    "address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3"
   },
   {
     "name": "GMT Token",
@@ -1296,6 +1328,14 @@
     "address": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40"
   },
   {
+    "name": "Santos FC Fan Token",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "SANTOS",
+    "description": "BEP-20 utility token for Santos FC football club",
+    "address": "0xa64455a4553c9034236734faddaddbb64ace4cc7"
+  },
+  {
     "name": "Ellipsis",
     "type": "BEP20",
     "decimals": 18,
@@ -1366,6 +1406,14 @@
     "symbol": "APE",
     "description": "The purpose of our coin is to build a vast community world wide for all apes to call home, our very own planet of the apes.",
     "address": "0xae0d2cc54e4821d8aec9add89125b70d34ac906e"
+  },
+  {
+    "name": "Burger Swap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BURGER",
+    "description": "A democratized AMM on Binance Smart Chain.",
+    "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f"
   },
   {
     "name": "Coin98",
@@ -1718,6 +1766,14 @@
     "symbol": "vUSDC",
     "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
     "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
+  },
+  {
+    "name": "O3 Swap",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "O3",
+    "description": "O3 Swap Token (O3) is a governance token issued by O3 Swap. It is an important mediator to promote the development of the O3 Swap network. All participants and developers are encouraged to participate in the maintenance of the overall ecological network by staking, voting, etc. we are committed to providing a one-stop aggregation & exchange platform for users and offering developers access to an open, distributed, friendly, and secure trading environment.",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28"
   },
   {
     "name": "Scooby",

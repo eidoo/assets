@@ -472,14 +472,6 @@
     "address": "d559hwgjygdysxpmfukxhftewutvs9sya1kxiycvogcv"
   },
   {
-    "name": "DeFi Land",
-    "type": "SPL",
-    "decimals": 9,
-    "symbol": "DFL",
-    "description": "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance.",
-    "address": "dfl1znkagpwm1bqavqrjczvhmwtfreajtbzjwgseonjh"
-  },
-  {
     "name": "Tribe (Portal)",
     "type": "SPL",
     "decimals": 8,

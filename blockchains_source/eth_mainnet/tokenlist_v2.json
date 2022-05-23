@@ -56,6 +56,22 @@
     "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
   },
   {
+    "name": "PoaToken",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "POA",
+    "description": "-",
+    "address": "0x0110aa21dd3908837b8589ecc4bd5161b0235bb8"
+  },
+  {
+    "name": "Town",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TOWN",
+    "description": "-",
+    "address": "0x0172bf2eded9d1ce712e52fd27e8f18a502b1172"
+  },
+  {
     "name": "PlayChip",
     "type": "ERC20",
     "decimals": 18,
@@ -632,6 +648,14 @@
     "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
   },
   {
+    "name": "Vesper",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VSP",
+    "description": "Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives.",
+    "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+  },
+  {
     "name": "DataBroker DAO Token",
     "type": "ERC20",
     "decimals": 18,
@@ -910,14 +934,6 @@
     "symbol": "QQQ",
     "description": "We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.",
     "address": "0x2822f6d1b2f41f93f33d937bc7d84a8dfa4f4c21"
-  },
-  {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "-",
-    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
   },
   {
     "name": "FirstEnergy Token",
@@ -1390,6 +1406,14 @@
     "symbol": "REN",
     "description": "Ren is an open protocol meant to enable the permissionless and private transfer of value between any blockchain.",
     "address": "0x408e41876cccdc0f92210600ef50372656052a38"
+  },
+  {
+    "name": "SORA",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "XOR",
+    "description": "Sora is a decentralized autonomous economic system, where users vote on how to mint new units of the XOR token through a democratic referendum process. The goal is to create a decentralized, yet rational world economic system.",
+    "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
   },
   {
     "name": "Qredo",
@@ -1910,14 +1934,6 @@
     "symbol": "BLZ",
     "description": "-",
     "address": "0x5732046a883704404f284ce41ffadd5b007fd668"
-  },
-  {
-    "name": "KredX Token",
-    "type": "ERC20",
-    "decimals": 4,
-    "symbol": "KRT",
-    "description": "-",
-    "address": "0x5783862cef49094be4de1fe31280b2e33cf87416"
   },
   {
     "name": "Synth sUSD",
@@ -2488,6 +2504,14 @@
     "address": "0x6eab9c5e768c8c37e94dc236c6cde7dba4d0f3b3"
   },
   {
+    "name": "Gods Unchained",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "GODS",
+    "description": "-",
+    "address": "0x6ebeaf8e8e946f0716e6533a6f2cefc83f60e8ab"
+  },
+  {
     "name": "Huobi Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2558,14 +2582,6 @@
     "symbol": "XDEFI",
     "description": "XDEFI Wallet is a multi-chain web browser extension currently available on Chrome & Brave (soon on Firefox) built for DeFi users and NFT lovers. It is a wallet with native integrations on THORChain, Ethereum + several EVM networks and Terra.",
     "address": "0x72b886d09c117654ab7da13a14d603001de0b777"
-  },
-  {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
-    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
   },
   {
     "name": "JasmyCoin",
@@ -2822,14 +2838,6 @@
     "symbol": "BTR",
     "description": "-",
     "address": "0x8040d35ed6c82f75b1078cf5eb93a2cfd34b2bd8"
-  },
-  {
-    "name": "Pendle",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PENDLE",
-    "description": "Pendle is a protocol for people to trade and hedge yield. Users can tokenize yield and trade them on Pendle's AMM",
-    "address": "0x808507121b80c02388fad14726482e061b8da827"
   },
   {
     "name": "Clover Finance",
@@ -3560,6 +3568,14 @@
     "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
   },
   {
+    "name": "Meta",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MTA",
+    "description": "mStable unites stablecoins, lending and swapping into one standard.",
+    "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2"
+  },
+  {
     "name": "Metronome",
     "type": "ERC20",
     "decimals": 18,
@@ -3790,14 +3806,6 @@
     "symbol": "RBTC",
     "description": "REBITCOIN token.",
     "address": "0xae690cf07c85bfb2de29ab32080c0ea182ae82b5"
-  },
-  {
-    "name": "LGCY Network",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "LGCY",
-    "description": "LGCY (Legacy) Network is a dApp based blockchain running on the Libertas Protocol to engage community participation.",
-    "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
   },
   {
     "name": "stETH",
@@ -4032,14 +4040,6 @@
     "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
   },
   {
-    "name": "0chain",
-    "type": "ERC20",
-    "decimals": 10,
-    "symbol": "ZCN",
-    "description": "0Chain is pronounced as zero chain, and it is a decentralized storage platform that aims to makes data breaches impossible and as such can reduce legal discovery and compliance costs.",
-    "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
-  },
-  {
     "name": "Star Atlas (Portal)",
     "type": "ERC20",
     "decimals": 8,
@@ -4126,14 +4126,6 @@
     "symbol": "PERP",
     "description": "Decentralized Perpetual Contract for Every Assets",
     "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
-  },
-  {
-    "name": "TechEsportsCoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TOC",
-    "description": "-",
-    "address": "0xbc4a124fab7d1f7f3f02ba7167df9186a71f3b26"
   },
   {
     "name": "ZB Token",
@@ -4838,14 +4830,6 @@
     "symbol": "HUSD",
     "description": "The Safe and Secure Stablecoin.",
     "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
-  },
-  {
-    "name": "TouchCon",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TOC",
-    "description": "TouchCon describes itself as an advertising reward platform that scans Smart QR Codes (SQC) for advertisements and connects users with advertisers.",
-    "address": "0xe02784175c3be0dea7cc0f284041b64503639e66"
   },
   {
     "name": "DigixDAO",

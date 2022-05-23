@@ -120,6 +120,14 @@
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
   },
   {
+    "name": "Gravity Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GFI",
+    "description": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
+    "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
+  },
+  {
     "name": "(PoS) Dai Stablecoin",
     "type": "ERC20",
     "decimals": 18,
