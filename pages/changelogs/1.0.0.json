@@ -1,0 +1,74 @@
+[
+  {
+    "text": {
+      "en" : "Improved display of transactions history",
+      "it" : "Migliorata la visualizzazione dello storico delle transazioni",
+      "fr" : "Amélioration de l'affichage de l'historique des transactions"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Fixed the browser background for dark mode",
+      "it" : "Sistemato lo sfondo del browser per il tema scuro",
+      "fr" : "Correction de l'arrière-plan du browser pour le thème noir"
+    },
+    "important": false,
+    "type": "fix"
+  },
+  {
+    "text": {
+      "en" : "Added list of transactions taken by some EVM explorers",
+      "it" : "Aggiunto l'elenco delle transazioni preso da alcuni explorers EVM",
+      "fr" : "Ajout d'une liste de transactions effectuées par certains explorateurs EVM"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Added analytics",
+      "it" : "Aggiunte le analytics",
+      "fr" : "Ajout de l'analytique"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en" : "Disabled the card section",
+      "it" : "Disabilitata la sezione della carta",
+      "fr" : "Désactivation de la section carte"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+        "en" : "Changed pkg name on IOS",
+        "it" : "Cambiato il nome del pkg su IOS",
+        "fr" : "Changement du nom du pkg sur IOS"
+      },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+        "en" : "Added Terms and Conditions",
+        "it" : "Aggiunti i Termini e Condizioni",
+        "fr" : "Ajouté les Termes et Conditions"
+      },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+        "en" : "Changed colour logo",
+        "it" : "Cambiato il colore del logo",
+        "fr" : "Changement de couleur du logo"
+      },
+    "important": false,
+    "type": "feature"
+  }
+]
