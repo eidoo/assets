@@ -19,15 +19,6 @@
     },
     {
       "text": {
-        "en" : "Added refresh and home buttons to dapp browser",
-        "it" : "Aggiunti i pulsanti home e aggiorna nel dapp browser",
-        "fr" : "Ajout des boutons d'actualisation et d'accueil au navigateur dapp"
-      },
-      "important": true,
-      "type": "feature"
-    },
-    {
-      "text": {
         "en" : "Polygon transactions list is now visible",
         "it" : "L'elenco delle transazioni Polygon è ora visibile",
         "fr" : "La liste des transactions Polygon est désormais visible"
@@ -37,9 +28,9 @@
     },
     {
       "text": {
-        "en" : "Improved Ledger UX",
-        "it" : "UX Ledger migliorata",
-        "fr" : "UX Ledger améliorée"
+        "en" : "Improved Ledger support UX",
+        "it" : "UX del supporto al Ledger migliorata",
+        "fr" : "Amélioration de l'interface utilisateur du support au Ledger"
       },
       "important": false,
       "type": "feature"
