@@ -192,9 +192,12 @@
         frame.setAttribute("class", "dark-mode")
       }
 
-      const versionsList = await loadVersionsList()
+      let versionsList = await loadVersionsList()
+      if (version === '0.0.12') {
+        versionsList = versionsList.slice(0, -1) // remove 1.0.0
+      }
       const latest = versionsList[versionsList.length - 1]
-      document.getElementById('version_pill').innerHTML = `v ${version === '0.0.12' ? '0.0.13' : latest}` // TODO: remove it
+      document.getElementById('version_pill').innerHTML = `v ${latest}`
       const changelogFile = await loadChangeLog(version, locale, versionsList)
       
       const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
@@ -247,10 +250,7 @@
         _currentVersion = _versionsList[_versionsList.length - 2] || _versionsList
       }
 
-      let versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
-      if (_currentVersion === '0.0.12') {
-        versionsToLoad = versionsToLoad.filter(_version => _version !== '1.0.0')
-      }
+      const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
 
       const changeLog = {
         all: [],
