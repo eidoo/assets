@@ -1,0 +1,174 @@
+[
+    {
+      "text": {
+        "en" : "Added quick view mode for transaction details",
+        "it" : "Aggiunta modalità vista rapida per i dettagli delle transazioni",
+        "fr" : "Ajout d'un mode d'affichage rapide pour les détails de la transaction"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Added function details within the transactions list",
+        "it" : "Aggiunti i dettagli funzione all'interno della lista transazioni",
+        "fr" : "Détails de la fonction ajoutés dans la liste des transactions"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Added refresh and home buttons to dapp browser",
+        "it" : "Aggiunti i pulsanti home e aggiorna nel dapp browser",
+        "fr" : "Ajout des boutons d'actualisation et d'accueil au navigateur dapp"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Polygon transactions list is now visible",
+        "it" : "L'elenco delle transazioni Polygon è ora visibile",
+        "fr" : "La liste des transactions Polygon est désormais visible"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Improved Ledger UX",
+        "it" : "UX Ledger migliorata",
+        "fr" : "UX Ledger améliorée"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Generic widget improvements",
+          "it" : "Miglioramenti generici dei widget",
+          "fr" : "Améliorations génériques du widget"
+        },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "After using the swipe down refresh feature, now the token balances will be updated too",
+          "it" : "Dopo aver usato la funzione swipe down, ora anche i bilanci dei token verranno aggiornati",
+          "fr" : "Après avoir utilisé la fonction d'actualisation swipe down, les soldes de token seront également mis à jour"
+        },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Opensea widget bug has been fixed",
+          "it" : "Sistemati bug del widget Opensea",
+          "fr" : "Corrections de bugs du widget Opensea"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Issues in the card top-up function has been solved",
+          "it" : "I problemi della funzione top-up della carta sono stati risolti",
+          "fr" : "Les problèmes de la fonction de recharge de la carte ont été résolus"
+        },
+      "important": true,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug that prevented the correct visualization/activation of the card",
+          "it" : "Risolto un bug che impediva la corretta visualizzazione/attivazione della carta",
+          "fr" : "Résolution d'un bug qui empêchait la visualisation/activation correcte de la carte"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug where app ignored custom fees choices",
+          "it" : "Risolto un bug per cui l'app ignorava le scelte delle fee personalizzate",
+          "fr" : "Résolution d'un bug où l'application ignorait les choix de frais personnalisés"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug regarding FIO Crypto handle",
+          "it" : "Risolto un bug riguardante FIO Crypto handle",
+          "fr" : "Résolution d'un bug concernant FIO Crypto handle"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Improved cashback information on card transaction details page",
+          "it" : "Migliorate le informazioni sui cashback nella pagina dei dettagli delle transazioni con carta",
+          "fr" : "Amélioration des informations de cashback sur la page des détails de la transaction par carte"
+        },
+      "important": true,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug where the card activation button was hidden on iPhone 8",
+          "it" : "Risolto un bug per cui il pulsante di attivazione carta era nascosto su iPhone 8",
+          "fr" : "Résolution d'un bug où le bouton d'activation de la carte était masqué sur l'iPhone 8"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Replaced pTokens BTC V1 with V2, added logo",
+          "it" : "Sostituito pTokens BTC V1 con V2, logo aggiunto",
+          "fr" : "Remplacement des pTokens BTC V1 par V2, ajout du logo"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug where NFTs sent to other wallets were still visible in the app",
+          "it" : "Risolto un bug per cui gli NFT inviati ad altri wallet risultavano ancora visibili nell'app",
+          "fr" : "A résolu un bug où les NFT envoyés à d'autres portefeuilles étaient toujours visibles dans l'application"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug where the app crashed after selecting the Security Center",
+          "it" : "Risolto un bug per cui l'app crashava dopo aver selezionato il Security Center",
+          "fr" : "Résolution d'un bug où l'application plantait après avoir cliqué sur Security Center"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug where the app would show a white screen after opening the widget section",
+          "it" : "Risolto un bug per cui l'app mostrava una schermata bianca dopo l'apertura della sezione widget",
+          "fr" : "Correction d'un bug où l'application affichait un écran blanc après l'ouverture de la section widget"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Other minor bug fixes and graphical improvements",
+          "it" : "Risoluzione di altri bug minori e miglioramenti grafici",
+          "fr" : "Autres corrections de bugs mineurs et améliorations graphiques"
+        },
+      "important": false,
+      "type": "bug"
+    }
+  ]
+  
