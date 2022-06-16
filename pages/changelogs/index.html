@@ -193,7 +193,7 @@
       }
 
       let versionsList = await loadVersionsList()
-      if (version === '0.0.12') {
+      if (version === '0.0.12' || version === '0.0.13') {
         versionsList = versionsList.slice(0, -1) // remove 1.0.0
       }
       const latest = versionsList[versionsList.length - 1]
