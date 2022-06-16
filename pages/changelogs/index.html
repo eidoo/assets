@@ -194,7 +194,7 @@
 
       const versionsList = await loadVersionsList()
       const latest = versionsList[versionsList.length - 1]
-      document.getElementById('version_pill').innerHTML = `v ${latest}`
+      document.getElementById('version_pill').innerHTML = `v ${version}`
       const changelogFile = await loadChangeLog(version, locale, versionsList)
       
       const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
@@ -247,7 +247,10 @@
         _currentVersion = _versionsList[_versionsList.length - 2] || _versionsList
       }
 
-      const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
+      let versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
+      if (_currentVersion === '0.0.13') {
+        versionsToLoad = versionsToLoad.filter(_version => _version !== '1.0.0')
+      }
 
       const changeLog = {
         all: [],
