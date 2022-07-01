@@ -1,0 +1,65 @@
+[
+    {
+      "text": {
+        "en" : "The Lens protocol integration is now live, don’t forget to give it a try!",
+        "it" : "L'integrazione di Lens protocol è live, non dimenticare di darci uno sguardo!",
+        "fr" : "L'intégration Lens Protocol est en ligne, pensez à l'essayer!"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Added the Page Manager, to fully control which sections to display and in what order",
+        "it" : "Aggiunto il Page Manager, per poter controllare pienamente quale sezione mostrare ed in che ordine",
+        "fr" : "Ajout du gestionnaire de pages, pour pouvoir contrôler entièrement quelle section afficher et dans quel ordre"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "When holding multiple ERC-1155 tokens of the same type, a badge counter is now shown",
+          "it" : "Quando si detengono più token ERC-1155 dello stesso tipo, viene mostrato un badge con la quantità relativa",
+          "fr" : "Lorsque vous détenez plusieurs tokens ERC-1155 du même type, un badge avec la quantité s'affiche"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Restored sharing options in the tx confirmation screen",
+          "it" : "Ripristinate le opzioni di condivisione delle transazioni nella schermata di conferma",
+          "fr" : "Options de partage restaurées dans l'écran de confirmation de transaction"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Adding Moonbeam as a custom network is now working",
+          "it" : "L'aggiunta di Moonbeam come custom network è ora funzionante",
+          "fr" : "L'ajout de Moonbeam en tant que réseau personnalisé est désormais fonctionnel"
+        },
+      "important": false,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Implemented the autocomplete feature for seed words in French",
+          "it" : "Implementato la funzione di autocompletamento per i seed in Francese",
+          "fr" : "Implémentation de la fonction d'auto-complétion pour les seeds en français"
+        },
+      "important": true,
+      "type": "bug"
+    },
+    {
+      "text": {
+          "en" : "Fixed an issue preventing some French words to work correctly within seed phrases",
+          "it" : "È stato risolto un problema che impediva il corretto restore di alcuni seed con parole con caratteri speciali",
+          "fr" : "Correction d'un problème qui empêchait certaines seeds d'être restaurées correctement avec des mots contenant des caractères spéciaux"
+        },
+      "important": false,
+      "type": "bug"
+    }
+  ]
