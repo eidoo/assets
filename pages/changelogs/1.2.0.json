@@ -1,0 +1,110 @@
+[
+    {
+      "text": {
+        "en" : "EidooID is now integrated in the App!",
+        "it" : "EidooID è ora integrato nell'App!",
+        "fr" : "EidooID est maintenant intégré dans l'application!"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Haptic feedback has been added when dragging pages in Page Manager",
+        "it" : "È stato aggiunto un haptic feedback quando si trascinano le pagine nel Page Manager",
+        "fr" : "Ajout d'un feedback tactile lors du déplacement de pages dans le gestionnaire de pages"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Implemented search by address in the Account menu",
+        "it" : "Implementata la ricerca per address nel menu Account",
+        "fr" : "Implémentation de la recherche par adresse dans le menu Compte"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Fixed the drag-drop feature and solved a minor bug in the Page Manager",
+        "it" : "Corretta la funzione di trascinamento e risolto un bug minore nel Page Manager",
+        "fr" : "Correction de la fonction de glisser-déposer et résolution d'un bug mineur dans le Gestionnaire de pages"
+      },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+        "en" : "Going back from an expanded account selection page is easier after the fix",
+        "it" : "Tornare indietro da una pagina di selezione dell'account estesa è ora più facile",
+        "fr" : "Il est plus facile de revenir en arrière à partir d'une page de sélection de compte étendue."
+      },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+        "en" : "Solved an issue that made some users not able to see the card page",
+        "it" : "Risolto un problema che impediva ad alcuni utenti di visualizzare la pagina della carta",
+        "fr" : "Résolution d'un problème qui faisait que certains utilisateurs ne pouvaient pas voir la page de la carte"
+      },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug that caused pages with long lists of elements to automatically scroll down",
+          "it" : "Corretto un bug che causava lo scorrimento automatico verso il basso nelle pagine con lunghe serie di elementi",
+          "fr" : "Correction d'un bug à cause duquel les pages contenant de longues listes d'éléments défilaient automatiquement vers le bas"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "App icons in settings have been updated",
+          "it" : "Le icone dell'app nelle impostazioni sono state aggiornate",
+          "fr" : "Les icônes des applications dans les paramètres ont été mises à jour"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Solved the issue that occurred when viewing Lens Protocol's posts details",
+          "it" : "Risolto il problema che si verificava visualizzando i dettagli dei post di Lens Protocol",
+          "fr" : "Correction d'un problème qui survenait lors de l'affichage des détails des messages du Lens Protocol"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed and improve the comment section for posts on Lens Protocol",
+          "it" : "Corretta e migliorata la sezione dei commenti per i post su Lens Protocol",
+          "fr" : "Correction et amélioration de la section commentaires pour les messages sur Lens Protocol"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Improved the positioning of the input when posting on Lens Protocol",
+          "it" : "Migliorato il posizionamento dell'input quando si posta su Lens Protocol",
+          "fr" : "Amélioration du positionnement lors de l'affichage sur Lens Protocol"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug that showed a different countervalue between card balance and card assets",
+          "it" : "Corretto un bug che mostrava un controvalore diverso tra bilancio carta e assets carta",
+          "fr" : "Correction d'un bug qui affichait une contre-valeur différente entre le solde de la carte et les actifs de la carte"
+        },
+      "important": true,
+      "type": "fix"
+    }
+  ]
