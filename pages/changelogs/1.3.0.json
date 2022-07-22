@@ -1,0 +1,65 @@
+[
+  {
+    "text": {
+      "en": "Now it is possible to cancel or speed up pending transactions!",
+      "it": "Ora è possibile annullare o velocizzare le transazioni in sospeso!",
+      "fr": "Il est désormais possible d'annuler ou d'accélérer les transactions en attente!"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en": "Now the Security Center shows a warning for the 'set approval for all' of ERC721 tokens",
+      "it": "Ora il Security Center mostra un avviso per la funzionalità 'set approval for all' dei token ERC721",
+      "fr": "Maintenant, le Security Center affiche un avertissement pour 'l'approbation définie pour tous' des jetons ERC721"
+    },
+    "important": true,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en": "Added the ability to restore a seed via QR scan",
+      "it": "Aggiunta la possibilità di ripristinare un seed tramite scansione QR",
+      "fr": "Ajout de la possibilité de restaurer une seed via un scan QR"
+    },
+    "important": false,
+    "type": "feature"
+  },
+  {
+    "text": {
+      "en": "Transaction review page improvements",
+      "it": "Miglioramenti della pagina di revisione delle transazioni",
+      "fr": "Améliorations de la page d'examen des transactions"
+    },
+    "important": false,
+    "type": "bug"
+  },
+  {
+    "text": {
+      "en": "Solved a minor bug regarding Lens Protocol",
+      "it": "Risolto un bug minore riguardante Lens Protocol",
+      "fr": "Correction d'un bug mineur concernant Lens Protocol"
+    },
+    "important": false,
+    "type": "bug"
+  },
+  {
+    "text": {
+      "en": "Fixed card transactions not being updated automatically",
+      "it": "Risolto il problema delle transazioni carta non aggiornate automaticamente",
+      "fr": "Les transactions par carte fixes ne sont pas mises à jour automatiquement"
+    },
+    "important": true,
+    "type": "bug"
+  },
+  {
+    "text": {
+      "en": "Strong Security Authentication (SCA) is now working",
+      "it": "Strong Security Authentication (SCA) è ora funzionante",
+      "fr": "L'authentification de sécurité renforcée (SCA) est désormais fonctionnelle"
+    },
+    "important": false,
+    "type": "bug"
+  }
+]
