@@ -1,0 +1,11 @@
+[
+  {
+    "text": {
+      "en": "Assets are now displayed grouped by type",
+      "it": "Gli assets da ora sono raggruppati per tipo",
+      "fr": "Les actifs sont maintenant affichés regroupés par type"
+    },
+    "important": true,
+    "type": "feature"
+  }
+]
