@@ -165,6 +165,7 @@
       const style = urlParams.get('style')
       const locale = urlParams.get('locale')
       const version = urlParams.get('version')
+      const lastVersion = urlParams.get('lastVersion')
       const titles = {
         "fixes": {
           "en": "Bug fixes ⚒️",
@@ -194,8 +195,8 @@
 
       let versionsList = await loadVersionsList()
       const latest = versionsList[versionsList.length - 1]
-      document.getElementById('version_pill').innerHTML = `v ${latest}`
-      const changelogFile = await loadChangeLog(version, locale, versionsList)
+      document.getElementById('version_pill').innerHTML = `v ${lastVersion ? lastVersion : latest}`
+      const changelogFile = await loadChangeLog(version, lastVersion, locale, versionsList)
       
       const newFeatures = changelogFile.important.filter(_e => _e.type == 'feature').map(_e => _e.text[locale] || _e.text['en'])
       if(newFeatures && newFeatures.length) { 
@@ -240,14 +241,16 @@
       }
     } 
 
-    async function loadChangeLog(_currentVersion, _locale, _versionsList) {
+    async function loadChangeLog(_currentVersion, _lastVersion, _locale, _versionsList) {
 
       // if the app sent the latest version, get the previous version and show latest changelog
       if(_currentVersion == _versionsList[_versionsList.length - 1]) {
         _currentVersion = _versionsList[_versionsList.length - 2] || _versionsList
       }
 
-      const versionsToLoad = _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
+      const versionsToLoad = _lastVersion ? 
+        _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1, _versionsList.indexOf(_lastVersion) + 1) 
+        : _versionsList.slice(_versionsList.indexOf(_currentVersion) + 1)
 
       const changeLog = {
         all: [],
