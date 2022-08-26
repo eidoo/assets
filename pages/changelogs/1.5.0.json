@@ -1,119 +1,128 @@
 [
     {
-      "text": {
-        "en" : "Enabled in-app notifications",
-        "it" : "Abilitate le notifiche in-app",
-        "fr" : "Activation des notifications dans l'app"
-      },
-      "important": true,
-      "type": "feature"
-    },
-    {
-      "text": {
-        "en" : "Improved wallet import experience via seed",
-        "it" : "Migliorata l'esperienza di importazione dei wallet via seed",
-        "fr" : "Amélioration de l'expérience d'importation de portefeuilles via les seeds"
-      },
-      "important": false,
-      "type": "feature"
-    },
-    {
-      "text": {
-        "en" : "Improved cash-in flow",
-        "it" : "Migliorato il flow del cash-in",
-        "fr" : "Amélioration des méthodes de cash-in"
-      },
-      "important": false,
-      "type": "feature"
-    },
-    {
-      "text": {
-        "en" : "Added pNetwork widget!",
-        "it" : "Aggiunto il widget di pNetwork!",
-        "fr" : "Ajout du widget pNetwork!"
-      },
-      "important": true,
-      "type": "feature"
-    },
-    {
-      "text": {
-        "en" : "Access with biometrics is now also available in the browser",
-        "it" : "L'accesso con biometria è ora disponibile anche sul browser",
-        "fr" : "L'accès avec la biométrie est maintenant aussi disponible dans le browser"
-      },
-      "important": false,
-      "type": "feature"
-    },
-    {
-      "text": {
-        "en" : "It is now possible to deselect tokens from the auto detect",
-        "it" : "Ora è possibile deselezionare i token dall'auto detect",
-        "fr" : "Il est désormais possible de désélectionner les tokens de l'auto-detect"
-      },
-      "important": true,
-      "type": "feature"
-    },
-    {
-      "text": {
-          "en" : "Now the colour of the status bar respects the chosen theme",
-          "it" : "Ora il colore della barra di stato rispetta il tema scelto",
-          "fr" : "Maintenant, la couleur de la barre d'état respecte le thème choisi"
+        "text": {
+            "en": "Enabled in-app notifications",
+            "it": "Abilitate le notifiche in-app",
+            "fr": "Activation des notifications dans l'app"
         },
-      "important": false,
-      "type": "fix"
+        "important": true,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "The calculation of the number of NFTs one owns has been improved",
-          "it" : "Il calcolo del numero di NFT in possesso è stato migliorato",
-          "fr" : "Le calcul du nombre de NFT en possession a été amélioré"
+        "text": {
+            "en": "Implemented a button to add tokens with one click!",
+            "it": "Inserito un tasto per aggiungere i token con un click!",
+            "fr": "Intégration d'un bouton permettant d'ajouter des jetons en un seul clic!"
         },
-      "important": false,
-      "type": "fix"
+        "important": true,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "Live Chat is now available on the app!",
-          "it" : "La Live Chat è ora disponibile nell'app!",
-          "fr" : "Le Live Chat est maintenant disponible dans l'application!"
+        "text": {
+            "en": "Improved wallet import experience via seed",
+            "it": "Migliorata l'esperienza di importazione dei wallet via seed",
+            "fr": "Amélioration de l'expérience d'importation de portefeuilles via les seeds"
         },
-      "important": true,
-      "type": "fix"
+        "important": false,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "Corrected changelog display",
-          "it" : "Corretta la visualizzazione del changelog",
-          "fr" : "Correction de l'affichage du changelog"
+        "text": {
+            "en": "Improved cash-in flow",
+            "it": "Migliorato il flow del cash-in",
+            "fr": "Amélioration des méthodes de cash-in"
         },
-      "important": false,
-      "type": "fix"
+        "important": false,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "Added a message in the Search function in the token management",
-          "it" : "Aggiunto un messaggio nella funzione Cerca nella gestione dei token",
-          "fr" : "Ajout d'un message dans la fonction de Recherche dans la gestion des tokens"
+        "text": {
+            "en": "Added pNetwork widget!",
+            "it": "Aggiunto il widget di pNetwork!",
+            "fr": "Ajout du widget pNetwork!"
         },
-      "important": false,
-      "type": "fix"
+        "important": true,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "Fixed a bug on the card homepage concerning KYC",
-          "it" : "Sistemato un bug nella homepage della carta riguardo il KYC",
-          "fr" : "Correction d'un bug sur la page d'accueil de la carte concernant le KYC"
+        "text": {
+            "en": "Access with biometrics is now also available in the browser",
+            "it": "L'accesso con biometria è ora disponibile anche sul browser",
+            "fr": "L'accès avec la biométrie est maintenant aussi disponible dans le browser"
         },
-      "important": false,
-      "type": "fix"
+        "important": false,
+        "type": "feature"
     },
     {
-      "text": {
-          "en" : "Fixed some minor issues in the card top-up process",
-          "it" : "Corretti alcuni problemi minori nel processo di top-up della carta",
-          "fr" : "Correction de quelques problèmes mineurs dans le processus de top-up de la carte"
+        "text": {
+            "en": "It is now possible to deselect tokens from the auto detect",
+            "it": "Ora è possibile deselezionare i token dall'auto detect",
+            "fr": "Il est désormais possible de désélectionner les tokens de l'auto-detect"
         },
-      "important": false,
-      "type": "fix"
+        "important": true,
+        "type": "feature"
+    },
+    {
+        "text": {
+            "en": "Now the colour of the status bar respects the chosen theme",
+            "it": "Ora il colore della barra di stato rispetta il tema scelto",
+            "fr": "Maintenant, la couleur de la barre d'état respecte le thème choisi"
+        },
+        "important": false,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "The calculation of the number of NFTs one owns has been improved",
+            "it": "Il calcolo del numero di NFT in possesso è stato migliorato",
+            "fr": "Le calcul du nombre de NFT en possession a été amélioré"
+        },
+        "important": false,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Live Chat is now available on the app!",
+            "it": "La Live Chat è ora disponibile nell'app!",
+            "fr": "Le Live Chat est maintenant disponible dans l'application!"
+        },
+        "important": true,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Corrected changelog display",
+            "it": "Corretta la visualizzazione del changelog",
+            "fr": "Correction de l'affichage du changelog"
+        },
+        "important": false,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Added a message in the Search function in the token management",
+            "it": "Aggiunto un messaggio nella funzione Cerca nella gestione dei token",
+            "fr": "Ajout d'un message dans la fonction de Recherche dans la gestion des tokens"
+        },
+        "important": false,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Fixed a bug on the card homepage concerning KYC",
+            "it": "Sistemato un bug nella homepage della carta riguardo il KYC",
+            "fr": "Correction d'un bug sur la page d'accueil de la carte concernant le KYC"
+        },
+        "important": false,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Fixed some minor issues in the card top-up process",
+            "it": "Corretti alcuni problemi minori nel processo di top-up della carta",
+            "fr": "Correction de quelques problèmes mineurs dans le processus de top-up de la carte"
+        },
+        "important": false,
+        "type": "fix"
     }
-  ]
+]
