@@ -104,6 +104,14 @@
     "address": "0xc17c30e98541188614df99239cabd40280810ca3"
   },
   {
+    "name": "beefy.finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BIFI",
+    "description": "The Multichain Yield Optimizer",
+    "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960"
+  },
+  {
     "name": "Frax",
     "type": "ERC20",
     "decimals": 18,

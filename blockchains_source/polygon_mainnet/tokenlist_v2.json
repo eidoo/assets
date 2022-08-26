@@ -8,14 +8,6 @@
     "address": "0x0000000000000000000000000000000000000000"
   },
   {
-    "name": "Impossible Finance IDIA",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "IDIA",
-    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
-    "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89"
-  },
-  {
     "name": "SushiToken (PoS)",
     "type": "ERC20",
     "decimals": 18,
@@ -80,6 +72,14 @@
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
   },
   {
+    "name": "Qi Dao",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "QI",
+    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+  },
+  {
     "name": "Hoge Finance",
     "type": "ERC20",
     "decimals": 9,
@@ -120,14 +120,6 @@
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
   },
   {
-    "name": "Gravity Finance",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "GFI",
-    "description": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
-    "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
-  },
-  {
     "name": "(PoS) Dai Stablecoin",
     "type": "ERC20",
     "decimals": 18,
@@ -142,14 +134,6 @@
     "symbol": "LUNA",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0x9cd6746665d9557e1b9a775819625711d0693439"
-  },
-  {
-    "name": "UniCrypt",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "UNCX",
-    "description": "UNCX is the governance token of the UniCrypt platform.",
-    "address": "0x9eecd634c7a934f752af0eb90dda9ecc262f199f"
   },
   {
     "name": "IRON Titanium Token",
@@ -192,14 +176,6 @@
     "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
   },
   {
-    "name": " Stacker Ventures Token (PoS)",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "STACK",
-    "description": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
-    "address": "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7"
-  },
-  {
     "name": "Aave (PoS)",
     "type": "ERC20",
     "decimals": 18,
@@ -224,14 +200,6 @@
     "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
   },
   {
-    "name": "UST (Wormhole)",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "UST",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59"
-  },
-  {
     "name": "Binance Coin (Portal)",
     "type": "ERC20",
     "decimals": 18,
@@ -246,5 +214,13 @@
     "symbol": "DG",
     "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
     "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4"
+  },
+  {
+    "name": "beefy.finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BIFI",
+    "description": "The Multichain Yield Optimizer",
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8"
   }
 ]
