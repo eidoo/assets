@@ -1,0 +1,92 @@
+[
+    {
+      "text": {
+        "en" : "Enabled card notifications",
+        "it" : "Abilitate le notifiche della card",
+        "fr" : "Notifications de cartes activées"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Improved the security centre. Added a list of addresses flagged as scam/phishing in the cache to verify recipients.",
+        "it" : "Migliorato il centro di sicurezza. Aggiunto un elenco degli indirizzi segnalati come scam/phishing nella cache per verificare i destinatari.",
+        "fr" : "Amélioration du centre de sécurité. Ajout d'une liste d'adresses signalées comme fraudes/phishing dans le cache pour vérifier les destinataires."
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Added the ability to hide particular NFT collections",
+        "it" : "Aggiunta la possibilità di nascondere collezioni di NFT particolari ",
+        "fr" : "Ajout de la possibilité de masquer des collections NFT particulières"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Fixed a small visual bug in top-up screen",
+          "it" : "Risolto un piccolo bug visivo nella schermata top-up",
+          "fr" : "Correction d'un petit bug visuel dans l'écran de recharge"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug that permitted to make the first card top-up with any asset",
+          "it" : "Risolto un bug che permetteva di fare il primo top-up carta con qualsiasi asset",
+          "fr" : "Correction d'un bug qui permettait de recharger la première carte avec n'importe quel atout"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed text in completed KYC page (IT only)",
+          "it" : "Corretto il testo nella pagina di conferma del KYC (solo IT)",
+          "fr" : "Texte fixe dans la page KYC complétée (IT uniquement)"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Improved the reliability of the DApp browser",
+          "it" : "Migliorata l'affidabilità del DApp browser",
+          "fr" : "Amélioration de la fiabilité du navigateur DApp"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug regarding the Smart Token detection",
+          "it" : "Risolto un bug riguardante il Rilevamento intelligente dei token",
+          "fr" : "Correction d'un bug concernant la détection intelligente des tokens"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug regarding Grid Lattice",
+          "it" : "Risolto un bug riguardante Grid Lattice",
+          "fr" : "Correction d'un bug concernant Grid Lattice"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed bug concerning online payments with SCA (Strong Customer Authentication) system",
+          "it" : "Sistemato un bug riguardante i pagamenti online con sistema SCA (Strong Customer Authentication)",
+          "fr" : "Correction d'un bug concernant les paiements en ligne avec le système SCA (Strong Customer Authentication)"
+        },
+      "important": true,
+      "type": "fix"
+    }
+  ]
