@@ -32,12 +32,52 @@
     "address": "0x136acd46c134e8269052c62a67042d6bdedde3c9"
   },
   {
+    "name": "TrueUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TUSD",
+    "description": "A regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.",
+    "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
+  },
+  {
+    "name": "Frax Share",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FXS",
+    "description": "FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",
+    "address": "0x214db107654ff987ad859f34125307783fc8e387"
+  },
+  {
+    "name": "Orbs",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ORBS",
+    "description": "Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.",
+    "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a"
+  },
+  {
+    "name": "Kyber Network Crystal v2",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "KNC",
+    "description": "Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.",
+    "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f"
+  },
+  {
     "name": "Binance Coin (Portal)",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BNB",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0x442f7f22b1ee2c842beaff52880d4573e9201158"
+  },
+  {
+    "name": "inSure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SURE",
+    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+    "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9"
   },
   {
     "name": "LUNA (Portal)",
@@ -56,12 +96,28 @@
     "address": "0x8b82a291f83ca07af22120aba21632088fc92931"
   },
   {
+    "name": "TetherToken",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "USDt",
+    "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7"
+  },
+  {
     "name": "PancakeSwap Token (Portal)",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CAKE",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0x98a4d09036cc5337810096b1d004109686e56afc"
+  },
+  {
+    "name": "Anyswap",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "ANY",
+    "description": "Anyswap is a mpc decentralized cross-chain swap protocol.",
+    "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
   },
   {
     "name": "Time",
@@ -72,12 +128,12 @@
     "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3"
   },
   {
-    "name": "UST (Portal)",
+    "name": "USD Coin",
     "type": "ERC20",
     "decimals": 6,
-    "symbol": "UST",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1"
+    "symbol": "USDC",
+    "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
   },
   {
     "name": "EverRise",
@@ -86,6 +142,38 @@
     "symbol": "RISE",
     "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
     "address": "0xc17c30e98541188614df99239cabd40280810ca3"
+  },
+  {
+    "name": "Spell Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SPELL",
+    "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
+    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814"
+  },
+  {
+    "name": "Decentralized USD",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "USDD",
+    "description": "USDD is a fully decentralized over-collateralization stablecoin.",
+    "address": "0xcf799767d366d789e8b446981c2d578e241fa25c"
+  },
+  {
+    "name": "Frax",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "FRAX",
+    "description": "Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC. Additionally, FXS is the value accrual and governance token of the entire Frax ecosystem.",
+    "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64"
+  },
+  {
+    "name": "beefy.finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BIFI",
+    "description": "The MultiChain Yield Optimizer",
+    "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960"
   },
   {
     "name": "SOL (Portal)",

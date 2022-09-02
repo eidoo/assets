@@ -40,6 +40,14 @@
     "address": "3cyiedrehagufzkpxjitcp5tvh7cnhrqd9rpbxzrgk5z"
   },
   {
+    "name": "Tokemak (Portal)",
+    "type": "SPL",
+    "decimals": 8,
+    "symbol": "TOKE",
+    "description": "Cross Chain Portal Bridged Token",
+    "address": "3eq6lqlkifcoxtegeshmfpslwnvpe9yt7xpx2hysfyxx"
+  },
+  {
     "name": "Wrapped BTC (Portal)",
     "type": "SPL",
     "decimals": 8,
@@ -270,14 +278,6 @@
     "symbol": "BTC",
     "description": "Bitcoin is an innovative payment network and a new kind of money.",
     "address": "9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e"
-  },
-  {
-    "name": "UST (Portal)",
-    "type": "SPL",
-    "decimals": 6,
-    "symbol": "UST",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i"
   },
   {
     "name": "Frontier (Portal)",
@@ -712,14 +712,6 @@
     "address": "kgv1gvrhqmrby8shqqeukwtm2r2h8t4c8qt12cw1hve"
   },
   {
-    "name": "Maps.me",
-    "type": "SPL",
-    "decimals": 6,
-    "symbol": "MAPS",
-    "description": "Maps.me 2.0 is the ultimate travel companion and your passport to the new financial system.",
-    "address": "maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb"
-  },
-  {
     "name": "Mango Markets",
     "type": "SPL",
     "decimals": 6,
@@ -774,14 +766,6 @@
     "symbol": "CEL",
     "description": "Cross Chain Portal Bridged Token",
     "address": "nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69"
-  },
-  {
-    "name": "Star Atlas DAO",
-    "type": "SPL",
-    "decimals": 8,
-    "symbol": "POLIS",
-    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
-    "address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk"
   },
   {
     "name": "Solanium",
