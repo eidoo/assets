@@ -1,0 +1,12 @@
+[
+    ​
+      {
+        "text": {
+            "en" : "Fixed a page sorting problem. By default the first page is now the Crypto page.",
+            "it" : "Corretto un problema di ordinamento delle pagine. Di default la prima pagina è ora la pagina Cripto.",
+            "fr" : "Correction d'un problème de positionnement des pages. Par défaut, la première page est maintenant la page Crypto."
+          },
+        "important": true,
+        "type": "fix"
+      }
+    ]
