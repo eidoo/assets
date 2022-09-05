@@ -1,0 +1,11 @@
+[
+    {
+      "text": {
+          "en" : "Minor bug fixes and UI optimization",
+          "it" : "Risoluzione di bug minori e ottimizzazione UI",
+          "fr" : "Correction de bugs mineurs et optimisation de l'interface utilisateur"
+        },
+      "important": true,
+      "type": "fix"
+    }
+  ]
