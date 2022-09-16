@@ -80,6 +80,14 @@
     "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9"
   },
   {
+    "name": "Pangolin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNG",
+    "description": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche",
+    "address": "0x60781c2586d68229fde47564546784ab3faca982"
+  },
+  {
     "name": "LUNA (Portal)",
     "type": "ERC20",
     "decimals": 6,

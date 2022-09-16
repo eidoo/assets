@@ -448,6 +448,14 @@
     "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
   },
   {
+    "name": "mosExpensiveToken",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0x133834219045ed0cf692619d63abcd251e6b1ca1"
+  },
+  {
     "name": "HighBank",
     "type": "ERC20",
     "decimals": 18,
@@ -720,6 +728,14 @@
     "address": "0x209c1808febf6c1ab7c65764bb61ad67d3923fcc"
   },
   {
+    "name": "OVR",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OVR",
+    "description": "OVR is the decentralized infrastructure for the spatial web, merging physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.",
+    "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697"
+  },
+  {
     "name": "Clover",
     "type": "ERC20",
     "decimals": 6,
@@ -808,14 +824,6 @@
     "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7"
   },
   {
-    "name": "Cellframe",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CELL",
-    "description": "CELL is a token of the Cellframe Network.",
-    "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
-  },
-  {
     "name": "DEXTools",
     "type": "ERC20",
     "decimals": 18,
@@ -864,12 +872,12 @@
     "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
   },
   {
-    "name": "BitBall Treasure",
+    "name": "Tael",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "BTRS",
-    "description": "-",
-    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
+    "symbol": "WaBi",
+    "description": "WABI enables fair value transfer between consumers and brands",
+    "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe"
   },
   {
     "name": "FirstEnergy Token",
@@ -950,6 +958,14 @@
     "symbol": "VID",
     "description": "-",
     "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5"
+  },
+  {
+    "name": "Viberate",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VIB",
+    "description": "Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace where we're matching musicians with event organizers.",
+    "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
   },
   {
     "name": "All Sports Coin",
@@ -1640,22 +1656,6 @@
     "address": "0x4a74df6113e3d38d8e184273341cb6bbb6885152"
   },
   {
-    "name": "Jupiter",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "JUP",
-    "description": "Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.",
-    "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8"
-  },
-  {
-    "name": "SWAP",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SWP",
-    "description": "-",
-    "address": "0x4b35e0ab998ebe8414871c13cf778f9d0bbdf609"
-  },
-  {
     "name": "Decentral Games",
     "type": "ERC20",
     "decimals": 18,
@@ -1838,6 +1838,14 @@
     "symbol": "PNT",
     "description": "-",
     "address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"
+  },
+  {
+    "name": "PitisCoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "PTS",
+    "description": "-",
+    "address": "0x540e5fff293f523acd26291b5bc7ac5713991feb"
   },
   {
     "name": "XY Oracle",
@@ -2104,14 +2112,6 @@
     "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
   },
   {
-    "name": "QASH",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "QASH",
-    "description": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
-    "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
-  },
-  {
     "name": "Cybereits Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2238,14 +2238,6 @@
     "symbol": "CTX",
     "description": "-",
     "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
-  },
-  {
-    "name": "Robries",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "RBC",
-    "description": "-",
-    "address": "0x66446ab822206ce050bccec8fdcad37a584ebdf1"
   },
   {
     "name": "BTSE Token",
@@ -2432,14 +2424,6 @@
     "address": "0x6e5a43db10b04701385a34afb670e404bc7ea597"
   },
   {
-    "name": "Swapscan",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SWP",
-    "description": "-",
-    "address": "0x6eab9c5e768c8c37e94dc236c6cde7dba4d0f3b3"
-  },
-  {
     "name": "Gods Unchained",
     "type": "ERC20",
     "decimals": 0,
@@ -2464,6 +2448,14 @@
     "address": "0x6f5e77cea0abdda40013a8ef53639c96972fb745"
   },
   {
+    "name": "openANX Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OAX",
+    "description": "Developing and promoting a sustainable digital asset ecosystem for the future.",
+    "address": "0x701c244b988a513c945973defa05de933b23fe1d"
+  },
+  {
     "name": "Unica Coin",
     "type": "ERC20",
     "decimals": 18,
@@ -2486,14 +2478,6 @@
     "symbol": "HIGH",
     "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.",
     "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282"
-  },
-  {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
-    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
   },
   {
     "name": "JasmyCoin",
@@ -2590,6 +2574,14 @@
     "symbol": "ILV",
     "description": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
     "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+  },
+  {
+    "name": "MonsterEnergyToken",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0x76cb396be0f76dbc58a8eb0569b7163bf02d5555"
   },
   {
     "name": "Tornado Cash",
@@ -2992,14 +2984,6 @@
     "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed"
   },
   {
-    "name": "Astro",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "ASR",
-    "description": "-",
-    "address": "0x89c98f4529a41c7ee25d730d29bc39170ed11c60"
-  },
-  {
     "name": "Chroma",
     "type": "ERC20",
     "decimals": 6,
@@ -3022,6 +3006,14 @@
     "symbol": "AKRO",
     "description": "Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
     "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+  },
+  {
+    "name": "Saitama Inu",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "SAITAMA",
+    "description": "Community Owned Decentralised Token",
+    "address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f"
   },
   {
     "name": "Tomocoin",
@@ -3272,14 +3264,6 @@
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
   },
   {
-    "name": "Rupiah Token",
-    "type": "ERC20",
-    "decimals": 2,
-    "symbol": "IDRT",
-    "description": "-",
-    "address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a"
-  },
-  {
     "name": "Polymath",
     "type": "ERC20",
     "decimals": 18,
@@ -3472,6 +3456,14 @@
     "address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
   },
   {
+    "name": "Metronome",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MET",
+    "description": "-",
+    "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e"
+  },
+  {
     "name": "PITSTOP",
     "type": "ERC20",
     "decimals": 18,
@@ -3486,14 +3478,6 @@
     "symbol": "LOOM",
     "description": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
-  },
-  {
-    "name": "Rubic",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "RBC",
-    "description": "Rubic is a multichain DeFi ecosystem, which features cross-chain, P2P, and instant swaps across multiple blockchains, aiming to deliver a complete ONE-STOP decentralized platform. For the moment, Rubic supports trades on Ethereum, Matic, and Binance Smart Chain networks.",
-    "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
   },
   {
     "name": "MASTER USD",
@@ -3526,14 +3510,6 @@
     "symbol": "CBG",
     "description": "-",
     "address": "0xa561addf39eb8b8d870ccb1cfb584d998209b8e8"
-  },
-  {
-    "name": "Huobi Pool Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "HPT",
-    "description": "Huobi Pool Token (HPT) is an ecological sub-token based on Huobi Token (HT).",
-    "address": "0xa66daa57432024023db65477ba87d4e7f5f95213"
   },
   {
     "name": "Merlin",
@@ -3728,6 +3704,14 @@
     "address": "0xaeb1b41981f7aa5740c7cc0ef5822a40149ec230"
   },
   {
+    "name": "Invictus Hyperion",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "IHF",
+    "description": "The Hyperion Fund is a closed-end blockchain-based venture capital fund.",
+    "address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
+  },
+  {
     "name": "StargateToken",
     "type": "ERC20",
     "decimals": 18,
@@ -3848,6 +3832,14 @@
     "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
   },
   {
+    "name": "BTU Protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTU",
+    "description": "BTU Protocol is a peer-to-peer booking protocol.",
+    "address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
+  },
+  {
     "name": "Catholic Coin",
     "type": "ERC20",
     "decimals": 18,
@@ -3928,14 +3920,6 @@
     "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
   },
   {
-    "name": "digitalbits",
-    "type": "ERC20",
-    "decimals": 7,
-    "symbol": "XDB",
-    "description": "DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.",
-    "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
-  },
-  {
     "name": "Star Atlas (Portal)",
     "type": "ERC20",
     "decimals": 8,
@@ -3974,6 +3958,14 @@
     "symbol": "CHSB",
     "description": "SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.",
     "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
+  },
+  {
+    "name": "PNGold",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PNG",
+    "description": "-",
+    "address": "0xbae1adc451fcafbb2e6850d163a8663f419cb420"
   },
   {
     "name": "Axie Infinity Shard",
@@ -4030,14 +4022,6 @@
     "symbol": "LUNA",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d"
-  },
-  {
-    "name": "Nextar Standard",
-    "type": "ERC20",
-    "decimals": 0,
-    "symbol": "NEX",
-    "description": "-",
-    "address": "0xbe8f047fc2eb324911e8ef9040f175984dc2dc18"
   },
   {
     "name": "StormX",
@@ -4118,14 +4102,6 @@
     "symbol": "GYEN",
     "description": "GYEN anchors its value to the price of the Japanese Yen. Redeemable and pegged 1-to-1 with fiat currency to virtually eliminate volatility, while still benefiting from the advantages of cryptocurrency, such as high-speed transaction and low costs, especially for cross-border payments",
     "address": "0xc08512927d12348f6620a698105e1baac6ecd911"
-  },
-  {
-    "name": "Bit Ether",
-    "type": "ERC20",
-    "decimals": 3,
-    "symbol": "BIR",
-    "description": "-",
-    "address": "0xc0984810873c9d1546afb0286ae996a370e05f16"
   },
   {
     "name": "HUMToken",
@@ -4222,6 +4198,14 @@
     "symbol": "TRIBE",
     "description": "The governance token for Fei Protocol",
     "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+  },
+  {
+    "name": "Insights Network",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "INSTAR",
+    "description": "-",
+    "address": "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d"
   },
   {
     "name": "Billionaire Ambition",
@@ -4334,6 +4318,14 @@
     "symbol": "SLP",
     "description": "Smooth Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).",
     "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25"
+  },
+  {
+    "name": "SAITAMA",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "SAITAMA",
+    "description": "Community Owned Decentralised Token",
+    "address": "0xce3f08e664693ca792cace4af1364d5e220827b2"
   },
   {
     "name": "LTO Network",
@@ -4752,14 +4744,6 @@
     "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
   },
   {
-    "name": "NEX",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "NEX",
-    "description": "NEX is Europe's first regulated Security Token. Holders can stake NEX on the non-custodial Nash Exchange to receive a revenue share.",
-    "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
-  },
-  {
     "name": "mStable USD",
     "type": "ERC20",
     "decimals": 18,
@@ -4992,12 +4976,12 @@
     "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
   },
   {
-    "name": "EncrypGen",
+    "name": "Dacxi Coin",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "DNA",
-    "description": "DNA is the currency of EncrypGen's genomic marketplace, which allows individuals to share, control, and monetize their DNA data while contributing to scientific research and advancing public health.",
-    "address": "0xef6344de1fcfc5f48c30234c16c1389e8cdc572c"
+    "symbol": "DACXI",
+    "description": "Trade, learn, and build crypto wealth with Dacxi.",
+    "address": "0xefab7248d36585e2340e5d25f8a8d243e6e3193f"
   },
   {
     "name": "iEx.ec Network Token",
@@ -5134,14 +5118,6 @@
     "symbol": "LOOKS",
     "description": "LooksRare is the community-first NFT marketplace with rewards for participating. ",
     "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e"
-  },
-  {
-    "name": "CACHE Gold",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "CGT",
-    "description": "CACHE Gold tokens are fully regulated, public, transparent, redeemable tokens backed by gold stored in vaults around the world.",
-    "address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
   },
   {
     "name": "HOPR Token",

@@ -200,6 +200,14 @@
     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a"
   },
   {
+    "name": "TiFi Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TIFI",
+    "description": "TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem.",
+    "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0"
+  },
+  {
     "name": "Binance-Peg Dai Token",
     "type": "BEP20",
     "decimals": 18,
@@ -712,14 +720,6 @@
     "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
   },
   {
-    "name": "Gamium",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "GMM",
-    "description": "GMM is the governance and medium of exchange token of Gamium",
-    "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3"
-  },
-  {
     "name": "Position",
     "type": "BEP20",
     "decimals": 18,
@@ -792,6 +792,14 @@
     "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
   },
   {
+    "name": "CalltoCombat",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "CTC",
+    "description": "Call to Combat is the world's first multiplayer online role-playing game universe that exists inside the MetaVerse world where real players connect and earn.",
+    "address": "0x63221d19c4b512a6f4792f2da0a2083ea28c38c1"
+  },
+  {
     "name": "The Force Token",
     "type": "BEP20",
     "decimals": 18,
@@ -838,6 +846,14 @@
     "symbol": "ROSE",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0x6c6d604d3f07abe287c1a3df0281e999a83495c0"
+  },
+  {
+    "name": "Kunci Coin",
+    "type": "BEP20",
+    "decimals": 6,
+    "symbol": "KUNCI",
+    "description": "Kunci Coin is building the next generation blockchain for mass adoption, born to support NFT Marketplace, Metaverse, Decentralize Finance, and retail penetration.",
+    "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125"
   },
   {
     "name": "Bridge Token",
@@ -974,6 +990,14 @@
     "symbol": "GALA",
     "description": "Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items.",
     "address": "0x7ddee176f665cd201f93eede625770e2fd911990"
+  },
+  {
+    "name": "OVR",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "OVR",
+    "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+    "address": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe"
   },
   {
     "name": "Binance-Peg YFII.finance Token",
@@ -1118,6 +1142,14 @@
     "symbol": "BCH",
     "description": "Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC).",
     "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+  },
+  {
+    "name": "Bitrise Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "BRISE",
+    "description": "Bitrise Token - a Hyper Deflationary & BNB reward token",
+    "address": "0x8fff93e810a2edaafc326edee51071da9d398e83"
   },
   {
     "name": "Portuma",

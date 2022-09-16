@@ -24,6 +24,14 @@
     "address": "0x11cd37bb86f65419713f30673a480ea33c826872"
   },
   {
+    "name": "OVR",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "OVR",
+    "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+    "address": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30"
+  },
+  {
     "name": "Route",
     "type": "ERC20",
     "decimals": 18,
@@ -118,6 +126,14 @@
     "symbol": "QUICK",
     "description": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13"
+  },
+  {
+    "name": "Gravity Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GFI",
+    "description": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
+    "address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
   },
   {
     "name": "(PoS) Dai Stablecoin",
