@@ -28,15 +28,6 @@
     },
     {
       "text": {
-          "en" : "Fixed a bug regarding app's random resets",
-          "it" : "Risolto un bug riguardante il reset casuale dell'applicazione",
-          "fr" : "Correction d'un bug concernant les réinitialisations aléatoires de l'application"
-        },
-      "important": true,
-      "type": "fix"
-    },
-    {
-      "text": {
           "en" : "Smart Token Detection has been optimized",
           "it" : "Lo Smart Token Detection è stato ottimizzato",
           "fr" : "Détection Intelligent des Tokens a été optimisée"
