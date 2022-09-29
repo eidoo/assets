@@ -1,0 +1,92 @@
+[
+    {
+      "text": {
+        "en" : "Eidoo Search is now implemented in DApp browser",
+        "it" : "Eidoo Search è ora implementato nel DApp browser",
+        "fr" : "Eidoo Search est maintenant implémenté dans le navigateur DApp"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Added network icons to deposit QRCodes",
+        "it" : "Aggiunte le icone di rete ai QRCode dei depositi",
+        "fr" : "Ajout d'icônes réseau pour déposer des QRCodes"
+      },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Added the ability to customize the nonce for EVM transactions",
+          "it" : "Aggiunta la possibilità di editare il nonce per le transazioni EVM",
+          "fr" : "Ajout de la possibilité de personnaliser le nonce pour les transactions EVM"
+        },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug regarding app's random resets",
+          "it" : "Risolto un bug riguardante il reset casuale dell'applicazione",
+          "fr" : "Correction d'un bug concernant les réinitialisations aléatoires de l'application"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Smart Token Detection has been optimized",
+          "it" : "Lo Smart Token Detection è stato ottimizzato",
+          "fr" : "Détection Intelligent des Tokens a été optimisée"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Solved a bug that silently froze the app after adding a network manually",
+          "it" : "Risolto un bug che bloccava silenziosamente l'app dopo aver aggiunto manualmente una rete",
+          "fr" : "Résolution d'un bug qui bloquait silencieusement l'application après l'ajout manuel d'un réseau"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Added the ability to scroll the manual Add custom network page",
+          "it" : "Aggiunta la possibilità di scorrere la pagina Aggiungi rete custom manuale",
+          "fr" : "Ajout de la possibilité de faire défiler la page manuelle Ajouter un réseau personnalisé"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Improved the scan of QRCodes containing BTC addresses",
+          "it" : "Migliorata la scansione dei QRCode contenenti indirizzi BTC",
+          "fr" : "Amélioration du scan des QRCodes contenant des adresses BTC"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed some broken social links",
+          "it" : "Sistemati alcuni link social non funzionanti",
+          "fr" : "Correction de quelques liens sociaux brisés"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Other bug fixes and improvements",
+          "it" : "Risoluzione di altri bug e miglioramenti",
+          "fr" : "Autres corrections de bugs et améliorations"
+        },
+      "important": false,
+      "type": "fix"
+    }
+  ]
