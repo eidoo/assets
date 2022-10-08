@@ -1,0 +1,20 @@
+[
+    {
+      "text": {
+          "en" : "Fixed a bug that caused the app to crash when encountering a YouTube video on Lens",
+          "it" : "Corretto un bug che causava l'arresto anomalo dell'applicazione quando si incontrava un video di YouTube su Lens",
+          "fr" : "Correction d'un bogue qui entraînait le déroutement de l'application lorsqu'une vidéo YouTube était rencontrée sur l'objectif"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Edit icon reinserted in the Account management section",
+          "it" : "Icona di modifica reinserita nella sezione Gestione account",
+          "fr" : "Icône d'édition réinsérée dans la section Gestion du compte"
+        },
+      "important": false,
+      "type": "fix"
+    }
+  ]
