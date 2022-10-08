@@ -1,6 +1,15 @@
 [
     {
       "text": {
+          "en" : "Fixed EidooCard bug",
+          "it" : "Corretto il bug sulla EidooCard",
+          "fr" : "Correction du bug sur l'EidooCard"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
           "en" : "Fixed a bug that caused the app to crash when encountering a YouTube video on Lens",
           "it" : "Corretto un bug che causava l'arresto anomalo dell'applicazione quando si incontrava un video di YouTube su Lens",
           "fr" : "Correction d'un bogue qui entraînait le déroutement de l'application lorsqu'une vidéo YouTube était rencontrée sur l'objectif"
