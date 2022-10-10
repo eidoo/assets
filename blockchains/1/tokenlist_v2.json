@@ -64,6 +64,14 @@
     "address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5"
   },
   {
+    "name": "UniLend",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UFT",
+    "description": "UniLend is a permission-less decentralized protocol that combines spot trading services and money markets with lending and borrowing services through smart contracts. Existing DeFi platforms act as a gatekeeper, thereby barring the majority of assets from participation. Multi-asset pools also expose lenders to risk associated with all of the included assets.",
+    "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1"
+  },
+  {
     "name": "Hero Origen Token",
     "type": "ERC20",
     "decimals": 18,
@@ -352,6 +360,14 @@
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
   },
   {
+    "name": "Avt",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AVT",
+    "description": "Aventus is a layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.",
+    "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+  },
+  {
     "name": "ACATENA",
     "type": "ERC20",
     "decimals": 18,
@@ -534,14 +550,6 @@
     "symbol": "NMR",
     "description": "Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting.",
     "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
-  },
-  {
-    "name": "Revolution Populi",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "RVP",
-    "description": "The Blockchain Database for the Internet.",
-    "address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
   },
   {
     "name": "CRYPTOCOIN",
@@ -864,14 +872,6 @@
     "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
   },
   {
-    "name": "ELYSIA",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "EL",
-    "description": "Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.",
-    "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16"
-  },
-  {
     "name": "Tael",
     "type": "ERC20",
     "decimals": 18,
@@ -902,14 +902,6 @@
     "symbol": "OUSD",
     "description": "The first stablecoin that earns a yield while it’s still in your wallet",
     "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
-  },
-  {
-    "name": "TE-FOOD/TustChain",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TONE",
-    "description": "TE-FOOD aims to enable customers to improve consumer trust and brand exposure, gain deeper supply chain insight to improve their operational efficiency, comply with export regulations, protect their brands against counterfeiting, and perform quicker product recalls. As an end-to-end solution, TE-FOOD offers many components for the complete supply chain to identify tracked items and batches, capture the data, store it on blockchain, process the data, and present it to the consumers.",
-    "address": "0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4"
   },
   {
     "name": "FarmaTrust Token",
@@ -950,14 +942,6 @@
     "symbol": "CREAM",
     "description": "Cream - Crypto Rules Everything Around Me",
     "address": "0x2ba592f78db6436527729929aaf6c908497cb200"
-  },
-  {
-    "name": "VideoCoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VID",
-    "description": "-",
-    "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5"
   },
   {
     "name": "Viberate",
@@ -1038,14 +1022,6 @@
     "symbol": "PLA",
     "description": "PLANET is used as a currency for transactions in the crypto industry. PLANET tokens are used as prize money and participation tickets for e-sports related businesses in Japan.",
     "address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
-  },
-  {
-    "name": "1irst",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "FST",
-    "description": "1irstcoin describes itself as 'google for traders', The project claims that its bots are able to execute market orders with high performance and low fees.",
-    "address": "0x310c93dfc1c5e34cdf51678103f63c41762089cd"
   },
   {
     "name": "THORChain ETH.RUNE",
@@ -1176,14 +1152,6 @@
     "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
   },
   {
-    "name": "Civilization",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CIV",
-    "description": "The World's First 100% Decentralized Investment Fund (DIF)",
-    "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
-  },
-  {
     "name": "The Sandbox",
     "type": "ERC20",
     "decimals": 18,
@@ -1256,6 +1224,14 @@
     "address": "0x3afa1902b1f8a802abc18e5ad982d1bcd34afe22"
   },
   {
+    "name": "Advertising Token",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "AVT",
+    "description": "-",
+    "address": "0x3b16fb80ab6ac8562203f3913f58ee0c4dfc08b8"
+  },
+  {
     "name": "ALUCHAIN",
     "type": "ERC20",
     "decimals": 8,
@@ -1286,22 +1262,6 @@
     "symbol": "JST",
     "description": "-",
     "address": "0x3c55b99c58a1dc7001dd96b902212d11c8ec7e15"
-  },
-  {
-    "name": "Cajutel",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CAJ",
-    "description": "Solar powered high speed internet for West Africa.",
-    "address": "0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e"
-  },
-  {
-    "name": "BoringDAO",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BOR",
-    "description": "BoringDAO is a decentralized asset bridge that uses tunnel mechanism to move tokens cross different chains.",
-    "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9"
   },
   {
     "name": "DEX Token",
@@ -1368,6 +1328,14 @@
     "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
   },
   {
+    "name": "Volt Inu",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "VOLT",
+    "description": "Volt Inu ($VOLT) is a highly deflationary token that keeps growing through the use of true deflationary techniques and additional revenue generation.",
+    "address": "0x3f7aff0ef20aa2e646290dfa4e67611b2220c597"
+  },
+  {
     "name": "Ren",
     "type": "ERC20",
     "decimals": 18,
@@ -1430,6 +1398,14 @@
     "symbol": "XNC",
     "description": "-",
     "address": "0x4238c2e2e9e387b6feb23acbb81b3b6dea648b8d"
+  },
+  {
+    "name": "Fundament RE 1",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "FUND",
+    "description": "-",
+    "address": "0x423d8321be3dd7ebff5b6c7da2ef6614b8547acf"
   },
   {
     "name": "Loom Token",
@@ -1536,14 +1512,6 @@
     "address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
   },
   {
-    "name": "FEST",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "FST",
-    "description": "-",
-    "address": "0x45d180d2f5825bf6d2dcf383af83b5d217c96924"
-  },
-  {
     "name": "Kryll.io Token",
     "type": "ERC20",
     "decimals": 18,
@@ -1592,28 +1560,12 @@
     "address": "0x47da42696a866cdc61a4c809a515500a242909c1"
   },
   {
-    "name": "TokenClub",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TCT",
-    "description": "TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community.",
-    "address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
-  },
-  {
     "name": "ChronoTech TIME",
     "type": "ERC20",
     "decimals": 8,
     "symbol": "TIME",
     "description": "TIME is an utility and governance token of ChronoTech ecosystem",
     "address": "0x485d17a6f1b8780392d53d64751824253011a260"
-  },
-  {
-    "name": "GoMoney2",
-    "type": "ERC20",
-    "decimals": 0,
-    "symbol": "GOM2",
-    "description": "GOM2 restructures the DeFi narrative to reward token holders. In addition, GOM2 tokens can be used to swap with other ERC-20 tokens.",
-    "address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7"
   },
   {
     "name": "0x52657075746174696f6e00000000000000000000000000000000000000000000",
@@ -1662,6 +1614,14 @@
     "symbol": "DG",
     "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
     "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
+  },
+  {
+    "name": "Vether",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VETH",
+    "description": "Vether is designed to be a store-of-value with properties of strict scarcity, unforgeable costliness and a fixed emission schedule.",
+    "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279"
   },
   {
     "name": "Hxro Token",
@@ -1758,14 +1718,6 @@
     "symbol": "FTM",
     "description": "Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.",
     "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
-  },
-  {
-    "name": "MCDEX Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "MCB",
-    "description": "Monte Carlo Decentralized Exchange is a crypto trading platform. MCDEX is powered by the Mai Protocol smart contracts deployed on the Ethereum blockchain. The Mai Protocol smart contracts are fully audited by Open Zeppelin, Consensys and Chain Security.",
-    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
   },
   {
     "name": "Convex Token",
@@ -2440,14 +2392,6 @@
     "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
-    "name": "New York Exchange Coin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "NYE",
-    "description": "It utilizes the blockchain technology to create a financial integration between old classic stock and commodities market with the new trend of Crypto Trading platforms. Transaction Transparency: Records and manages price, contracts, and transaction history. Re-evaluation of Corporate Values: In order to safeguard ITO participants, our crypto holders and their assets, NYE controls potential risks by depending on objective metrics analysis and multi-variable assessment.",
-    "address": "0x6f5e77cea0abdda40013a8ef53639c96972fb745"
-  },
-  {
     "name": "openANX Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2576,20 +2520,20 @@
     "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
   },
   {
+    "name": "Value ETH",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "vETH",
+    "description": "Value DeFi: Bringing True Value to DeFi.",
+    "address": "0x76a034e76aa835363056dd418611e4f81870f16e"
+  },
+  {
     "name": "MonsterEnergyToken",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MET",
     "description": "-",
     "address": "0x76cb396be0f76dbc58a8eb0569b7163bf02d5555"
-  },
-  {
-    "name": "Tornado Cash",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TORN",
-    "description": "A fully decentralized protocol for private transactions on Ethereum.",
-    "address": "0x77777feddddffc19ff86db637967013e6c6a116c"
   },
   {
     "name": "Fleta Token",
@@ -2694,6 +2638,14 @@
     "symbol": "COS",
     "description": "One-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more.",
     "address": "0x7d3cb11f8c13730c24d01826d8f2005f0e1b348f"
+  },
+  {
+    "name": "Volt Inu",
+    "type": "ERC20",
+    "decimals": 9,
+    "symbol": "VOLT",
+    "description": "Volt Inu ($VOLT) is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins. This investment diversity allows to mitigate the risk while taking advantage of the possible non-correlated growth of the trending assets.",
+    "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac"
   },
   {
     "name": "GMT Token",
@@ -3120,6 +3072,14 @@
     "address": "0x908c44d44334a9c70e28f3a15a737b550ca34abe"
   },
   {
+    "name": "Union Finance",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UFT",
+    "description": "-",
+    "address": "0x90f10470a7e90d9cb74ceb57cc7af22a8c4994ff"
+  },
+  {
     "name": "dYdX",
     "type": "ERC20",
     "decimals": 18,
@@ -3336,6 +3296,14 @@
     "address": "0x9ee4f2f8a4ee74a982d2ccb2bba962e572f39679"
   },
   {
+    "name": "Tapcoin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TTT",
+    "description": "Tapcoin (TTT) is a revolutionary token that decentralizes the gaming industry by providing gamers and developers with in-game virtual currencies.",
+    "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382"
+  },
+  {
     "name": "Maker",
     "type": "ERC20",
     "decimals": 18,
@@ -3382,14 +3350,6 @@
     "symbol": "ANT",
     "description": "Aragon (ANT) is a decentralized platform built on the Ethereum network that offers a modularized way to create and manage dApps, cryptoprotocols, and decentralized autonomous organizations (DAO).",
     "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
-  },
-  {
-    "name": "1irst",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "FST",
-    "description": "-",
-    "address": "0xa1a6f16d26aa53aec17e4001fd8cb6e6d5b17ff7"
   },
   {
     "name": "YFII",
@@ -3512,6 +3472,30 @@
     "address": "0xa561addf39eb8b8d870ccb1cfb584d998209b8e8"
   },
   {
+    "name": "Apiary Fund Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "AFC",
+    "description": "-",
+    "address": "0xa59ca48e4799cd1f8e9d251769bf226f4caa48ed"
+  },
+  {
+    "name": "Huobi Pool Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HPT",
+    "description": "Huobi Pool Token (HPT) is an ecological sub-token based on Huobi Token (HT).",
+    "address": "0xa66daa57432024023db65477ba87d4e7f5f95213"
+  },
+  {
+    "name": "Gemx",
+    "type": "ERC20",
+    "decimals": 4,
+    "symbol": "GMX",
+    "description": "-",
+    "address": "0xa67c912303b5227d6d4dc7d16088342718a05bdf"
+  },
+  {
     "name": "Merlin",
     "type": "ERC20",
     "decimals": 18,
@@ -3606,14 +3590,6 @@
     "symbol": "CEL",
     "description": "The Celsius Network will be the next generation of lending and borrowing for the cryptocurrency community.",
     "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
-  },
-  {
-    "name": "1irst",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "FST",
-    "description": "-",
-    "address": "0xaacc1c5af6d46a374428beaecf90948ec5322ea3"
   },
   {
     "name": "James McCall",
@@ -3774,6 +3750,14 @@
     "symbol": "GMT",
     "description": "-",
     "address": "0xb3bd49e28f8f832b8d1e246106991e546c323502"
+  },
+  {
+    "name": "SWEAT",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "SWEAT",
+    "description": "Welcome to Sweat Economy. An ecosystem designed to bring value to your movement, and inspire a healthier, wealthier planet.",
+    "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35"
   },
   {
     "name": "Rocket Pool",
@@ -4224,6 +4208,14 @@
     "address": "0xc7579bb99af590ec71c316e1ac4436c535039594"
   },
   {
+    "name": "Unit protocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "COL",
+    "description": "Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral.",
+    "address": "0xc76fb75950536d98fa62ea968e1d6b45ffea2a55"
+  },
+  {
     "name": "FOX",
     "type": "ERC20",
     "decimals": 18,
@@ -4350,14 +4342,6 @@
     "symbol": "FSN",
     "description": "-",
     "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541"
-  },
-  {
-    "name": "TokenChain",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "TCT",
-    "description": "-",
-    "address": "0xd06d21aa6f3fa754cee7f9c720a8a826e8322328"
   },
   {
     "name": "Terra Virtua Kolect",
@@ -4576,20 +4560,20 @@
     "address": "0xda4d69c10c03f9e07f69d091d525b70d8856e2b7"
   },
   {
+    "name": "Goldfinch",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "GFI",
+    "description": "Connect the world’s capital with the world’s growth.",
+    "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b"
+  },
+  {
     "name": "Tether",
     "type": "ERC20",
     "decimals": 6,
     "symbol": "USDT",
     "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
-  },
-  {
-    "name": "Baby Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BABY",
-    "description": "-",
-    "address": "0xdb13fb60d3fddabc41743d9d603ce3f42c17d057"
   },
   {
     "name": "STASIS EURO",
@@ -4718,14 +4702,6 @@
     "symbol": "HUSD",
     "description": "The Safe and Secure Stablecoin.",
     "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
-  },
-  {
-    "name": "DigixDAO",
-    "type": "ERC20",
-    "decimals": 9,
-    "symbol": "DGD",
-    "description": "DigixDAO (DGD) is building a decentralized autonomous organization (DAO) that specializes in the tokenization of physical assets.",
-    "address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a"
   },
   {
     "name": "GTIB",
@@ -4952,14 +4928,6 @@
     "address": "0xed04915c23f00a313a544955524eb7dbd823143d"
   },
   {
-    "name": "The Crypto Tech",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TCT",
-    "description": "-",
-    "address": "0xed82730312babb41367e060911f798002ffa445f"
-  },
-  {
     "name": "Hermez Network Token",
     "type": "ERC20",
     "decimals": 18,
@@ -4976,14 +4944,6 @@
     "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
   },
   {
-    "name": "Dacxi Coin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "DACXI",
-    "description": "Trade, learn, and build crypto wealth with Dacxi.",
-    "address": "0xefab7248d36585e2340e5d25f8a8d243e6e3193f"
-  },
-  {
     "name": "iEx.ec Network Token",
     "type": "ERC20",
     "decimals": 9,
@@ -4998,6 +4958,14 @@
     "symbol": "AXS",
     "description": "AxisToken will be the world's first Transportation blockchain platform",
     "address": "0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28"
+  },
+  {
+    "name": "Cult DAO (CULT)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CULT",
+    "description": "CULT is the tradable and liquid token of CULT DAO, transacting CULT will contribute to protocol by filling the DAO treasury slowly, to fund investments into decentralised technologies to fast forward the revolution against centralization. This is achieved due to a 0.4% collection on transactions.",
+    "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13"
   },
   {
     "name": "HedgeTrade",
@@ -5104,6 +5072,14 @@
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
   },
   {
+    "name": "PUSH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PUSH",
+    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
+    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
+  },
+  {
     "name": "Metal",
     "type": "ERC20",
     "decimals": 8,
@@ -5184,14 +5160,6 @@
     "address": "0xf761f2dd63889885f4717056bdc32cc07c06dbbf"
   },
   {
-    "name": "Time New Bank",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TNB",
-    "description": "TNB is token represent to Miao'A International Timechain (M.I.T). That is dedicated to building a precision time-valuebased transmission network.",
-    "address": "0xf7920b0768ecb20a123fac32311d07d193381d6f"
-  },
-  {
     "name": "BTMcoin",
     "type": "ERC20",
     "decimals": 18,
@@ -5214,6 +5182,14 @@
     "symbol": "FRONT",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
     "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+  },
+  {
+    "name": "TTism",
+    "type": "ERC20",
+    "decimals": 0,
+    "symbol": "TTT",
+    "description": "-",
+    "address": "0xf9366471f3c2f94608afa3e4951a5754c8606c32"
   },
   {
     "name": "Yield",

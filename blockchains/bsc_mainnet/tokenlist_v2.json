@@ -72,6 +72,14 @@
     "address": "0x070a08beef8d36734dd67a491202ff35a6a16d97"
   },
   {
+    "name": "Volt Inu",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "VOLT",
+    "description": "Volt Inu ($VOLT) is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins.",
+    "address": "0x07ec61ae90860641972e9b41a706325a1e928bf8"
+  },
+  {
     "name": "Streamr",
     "type": "BEP20",
     "decimals": 18,
@@ -200,14 +208,6 @@
     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a"
   },
   {
-    "name": "TiFi Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TIFI",
-    "description": "TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem.",
-    "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0"
-  },
-  {
     "name": "Binance-Peg Dai Token",
     "type": "BEP20",
     "decimals": 18,
@@ -222,14 +222,6 @@
     "symbol": "ZEC",
     "description": "Binance-Peg Zcash Token (ZEC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Zcash (ZEC) at a ratio of 1:1.",
     "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
-  },
-  {
-    "name": "Binance-Peg TornadoCash Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TORN",
-    "description": "Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.",
-    "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
   },
   {
     "name": "Binance-Peg Avalanche Token",
@@ -270,14 +262,6 @@
     "symbol": "NFT",
     "description": "APENFT was born with the mission to register world-class artworks as NFTs on blockchain. It aims to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists.",
     "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d"
-  },
-  {
-    "name": "TACOCAT Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TCT",
-    "description": "TacoCat Token is a utility token on the Binance Smart Chain intended to be the backbone of a lifestyle brand and ecosystem governed and operated by a corporate entity named The TacoCat Company Inc.",
-    "address": "0x2095d2346e47ed497d4f39fcfa59918b4346cd65"
   },
   {
     "name": "Chess",
@@ -454,6 +438,14 @@
     "symbol": "MIX",
     "description": "MIX is a platform token, representing the platform's growth of value. The total amount of MIX is constant at 10 billion and will never be over-issued. A substantial amount of MIX is generated through community PoA (Proof of Action). The actions that are counted as ecosystem-friendly, such as marketing, contributing applications, creating content, providing services, are rewarded with MIX.",
     "address": "0x398f7827dccbefe6990478876bbf3612d93baf05"
+  },
+  {
+    "name": "Saito",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SAITO",
+    "description": "Saito is a massively scaling layer one blockchain for application developers.",
+    "address": "0x3c6dad0475d3a1696b359dc04c99fd401be134da"
   },
   {
     "name": "Binance-Peg Ethereum Classic",
@@ -640,14 +632,6 @@
     "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
   },
   {
-    "name": "BabySwap Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "BABY",
-    "description": "BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain.",
-    "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
-  },
-  {
     "name": "BOOBAM Token",
     "type": "BEP20",
     "decimals": 9,
@@ -720,12 +704,12 @@
     "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
   },
   {
-    "name": "Position",
+    "name": "Gamium",
     "type": "BEP20",
     "decimals": 18,
-    "symbol": "POSI",
-    "description": "Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees.",
-    "address": "0x5ca42204cdaa70d5c773946e69de942b85ca6706"
+    "symbol": "GMM",
+    "description": "GMM is the governance and medium of exchange token of Gamium",
+    "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3"
   },
   {
     "name": "Hero Floki",
@@ -766,14 +750,6 @@
     "symbol": "KAVA",
     "description": "Kava is a cross-chain DeFi Lending platform enabling stablecoin loans for users of major cryptocurrencies.",
     "address": "0x5f88ab06e8dfe89df127b2430bba4af600866035"
-  },
-  {
-    "name": "MCB",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "MCB",
-    "description": "MCDEX is the first fully-permissionless DEX for trading perpetual contracts, powered by MCDEX's revolutionary AMM technology",
-    "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b"
   },
   {
     "name": "Ape Swap Finance Banana",
@@ -854,14 +830,6 @@
     "symbol": "KUNCI",
     "description": "Kunci Coin is building the next generation blockchain for mass adoption, born to support NFT Marketplace, Metaverse, Decentralize Finance, and retail penetration.",
     "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125"
-  },
-  {
-    "name": "Bridge Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "BRG",
-    "description": "Bridge Oracle System is a technology through which external data can be injected.",
-    "address": "0x6e4a971b81ca58045a2aa982eaa3d50c4ac38f42"
   },
   {
     "name": "VeChain",
@@ -976,6 +944,14 @@
     "address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3"
   },
   {
+    "name": "Volt Inu",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "VOLT",
+    "description": "Volt Inu is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins. This investment diversity allows to mitigate the risk while taking advantage of the possible non-correlated growth of the trending assets.",
+    "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac"
+  },
+  {
     "name": "GMT Token",
     "type": "BEP20",
     "decimals": 18,
@@ -1014,14 +990,6 @@
     "symbol": "MLN",
     "description": "At one million dollar coin you are more than just an investor. You’re an owner.",
     "address": "0x8034aa1ebb42a4e2110e91666497198e977c8d81"
-  },
-  {
-    "name": "Old SafeMoon",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "SAFEMOON",
-    "description": "Self generating liquidity token - Reflection paid back to holders.",
-    "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3"
   },
   {
     "name": "Multiverse Capital (MVC.finance)",
@@ -1480,14 +1448,6 @@
     "address": "0xaff9084f2374585879e8b434c399e29e80cce635"
   },
   {
-    "name": "TACOCAT Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TCT",
-    "description": "TacoCat Token is a utility token on the Binance Smart Chain intended to be the backbone of a lifestyle brand and ecosystem governed and operated by a corporate entity named The TacoCat Company Inc.",
-    "address": "0xb036f689bd98b4bd3bd648fa09a23e54d839a859"
-  },
-  {
     "name": "DEXTools",
     "type": "BEP20",
     "decimals": 18,
@@ -1560,14 +1520,6 @@
     "address": "0xbc7d6b50616989655afd682fb42743507003056d"
   },
   {
-    "name": "NFTTONE",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "TONE",
-    "description": "TONE is a decentralized and social NFT marketplace (driven by the community) where you can turn your songs, music, performance or TONE'S into unique NFTs and win prizes, sell them or place it on an auction.",
-    "address": "0xbcdfd50ead6b6da1970464985fab894fb83d17c0"
-  },
-  {
     "name": "Binance-Peg Uniswap",
     "type": "BEP20",
     "decimals": 18,
@@ -1600,6 +1552,22 @@
     "address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259"
   },
   {
+    "name": "Stream",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "STRM",
+    "description": "LiveView is to provide an all-in-one platform for viewers to be able to watch and choose whichever videos they want around the world.",
+    "address": "0xc598275452fa319d75ee5f176fd3b8384925b425"
+  },
+  {
+    "name": "GAMEX",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "GMX",
+    "description": "GAMEX is a project with goal of creating a gaming ecosystem revolving around the benefits of the players.",
+    "address": "0xc62ef0d8e137499833abb05dee47007d2b334ba6"
+  },
+  {
     "name": "Baby Doge Coin",
     "type": "BEP20",
     "decimals": 9,
@@ -1614,14 +1582,6 @@
     "symbol": "BIT",
     "description": "Biconomy is a Canadian digital currency exchange.",
     "address": "0xc864019047b864b6ab609a968ae2725dfaee808a"
-  },
-  {
-    "name": "TokenClub",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TCT",
-    "description": "TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community.",
-    "address": "0xca0a9df6a8cad800046c1ddc5755810718b65c44"
   },
   {
     "name": "beefy.finance",
@@ -1862,6 +1822,14 @@
     "symbol": "ANKR",
     "description": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.",
     "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
+  },
+  {
+    "name": "Venus ETH",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "vETH",
+    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8"
   },
   {
     "name": "Aurory (Portal)",
