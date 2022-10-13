@@ -1,0 +1,29 @@
+[
+    {
+      "text": {
+        "en" : "Eidoo is now also optimized for tablet devices!",
+        "it" : "Eidoo ora è ottimizzato anche per dispositivi tablet!",
+        "fr" : "Eidoo est désormais optimisé pour les dispositifs tablette!"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+        "en" : "Now you can simulate the outcome of a transaction with the Transaction Simulator",
+        "it" : "Ora è possibile simulare il risultato di una transazione con il Transaction Simulator",
+        "fr" : "Vous pouvez désormais simuler le résultat d'une transaction avec le Transaction Simulator"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Added the possibility to generate referral links to invite friends to join Eidoo!",
+          "it" : "Aggiunta la possibilità di generare link referral per invitare i propri amici ad usare Eidoo!",
+          "fr" : "Ajout de la possibilité de générer des liens de parrainage pour inviter des amis à utiliser Eidoo!"
+        },
+      "important": true,
+      "type": "feature"
+    }
+  ]
