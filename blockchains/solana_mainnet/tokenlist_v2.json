@@ -766,13 +766,5 @@
     "symbol": "CEL",
     "description": "Cross Chain Portal Bridged Token",
     "address": "nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69"
-  },
-  {
-    "name": "Solanium",
-    "type": "SPL",
-    "decimals": 6,
-    "symbol": "SLIM",
-    "description": "Decentralized fundraising and trading platform on the Solana blockchain.",
-    "address": "xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw"
   }
 ]
