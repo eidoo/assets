@@ -80,6 +80,14 @@
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
   },
   {
+    "name": "Pax Gold",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PAXG",
+    "description": "A digital token, backed by physical gold",
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5"
+  },
+  {
     "name": "Qi Dao",
     "type": "ERC20",
     "decimals": 18,

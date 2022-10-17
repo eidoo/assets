@@ -224,6 +224,14 @@
     "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
   },
   {
+    "name": "Binance-Peg TornadoCash Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "TORN",
+    "description": "Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.",
+    "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
+  },
+  {
     "name": "Binance-Peg Avalanche Token",
     "type": "BEP20",
     "decimals": 18,
@@ -630,6 +638,14 @@
     "symbol": "COMP",
     "description": "Binance-Peg Compound (COMP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Compound (COMP ERC20) at a ratio of 1:1.",
     "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+  },
+  {
+    "name": "BabySwap Token",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "BABY",
+    "description": "BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain.",
+    "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
   },
   {
     "name": "BOOBAM Token",
@@ -1288,7 +1304,7 @@
     "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225"
   },
   {
-    "name": "Injective Protocol",
+    "name": "Injective",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "INJ",
@@ -1520,6 +1536,14 @@
     "address": "0xbc7d6b50616989655afd682fb42743507003056d"
   },
   {
+    "name": "NFTTONE",
+    "type": "BEP20",
+    "decimals": 8,
+    "symbol": "TONE",
+    "description": "TONE is a decentralized and social NFT marketplace (driven by the community) where you can turn your songs, music, performance or TONE'S into unique NFTs and win prizes, sell them or place it on an auction.",
+    "address": "0xbcdfd50ead6b6da1970464985fab894fb83d17c0"
+  },
+  {
     "name": "Binance-Peg Uniswap",
     "type": "BEP20",
     "decimals": 18,
@@ -1654,14 +1678,6 @@
     "symbol": "SFP",
     "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform.",
     "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
-  },
-  {
-    "name": "CREAM",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "CREAM",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888"
   },
   {
     "name": "Binance-Peg Firo Token",
@@ -1822,14 +1838,6 @@
     "symbol": "ANKR",
     "description": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.",
     "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
-  },
-  {
-    "name": "Venus ETH",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "vETH",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
-    "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8"
   },
   {
     "name": "Aurory (Portal)",

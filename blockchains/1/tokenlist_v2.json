@@ -904,6 +904,14 @@
     "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
   },
   {
+    "name": "TE-FOOD/TustChain",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TONE",
+    "description": "TE-FOOD aims to enable customers to improve consumer trust and brand exposure, gain deeper supply chain insight to improve their operational efficiency, comply with export regulations, protect their brands against counterfeiting, and perform quicker product recalls. As an end-to-end solution, TE-FOOD offers many components for the complete supply chain to identify tracked items and batches, capture the data, store it on blockchain, process the data, and present it to the consumers.",
+    "address": "0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4"
+  },
+  {
     "name": "FarmaTrust Token",
     "type": "ERC20",
     "decimals": 18,
@@ -934,14 +942,6 @@
     "symbol": "HEX",
     "description": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
     "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
-  },
-  {
-    "name": "Cream Finance",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CREAM",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "address": "0x2ba592f78db6436527729929aaf6c908497cb200"
   },
   {
     "name": "Viberate",
@@ -1616,14 +1616,6 @@
     "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
   },
   {
-    "name": "Vether",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VETH",
-    "description": "Vether is designed to be a store-of-value with properties of strict scarcity, unforgeable costliness and a fixed emission schedule.",
-    "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279"
-  },
-  {
     "name": "Hxro Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2064,6 +2056,14 @@
     "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
   },
   {
+    "name": "QASH",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "QASH",
+    "description": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
+    "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
+  },
+  {
     "name": "Cybereits Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2344,14 +2344,6 @@
     "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
   },
   {
-    "name": "GENE TOKEN (PARKGENE)",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "GENE",
-    "description": "Parkgene (GENE) is a cryptocurrency and operates on the Ethereum platform.",
-    "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d"
-  },
-  {
     "name": "Render Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2520,20 +2512,20 @@
     "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
   },
   {
-    "name": "Value ETH",
-    "type": "ERC20",
-    "decimals": 9,
-    "symbol": "vETH",
-    "description": "Value DeFi: Bringing True Value to DeFi.",
-    "address": "0x76a034e76aa835363056dd418611e4f81870f16e"
-  },
-  {
     "name": "MonsterEnergyToken",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MET",
     "description": "-",
     "address": "0x76cb396be0f76dbc58a8eb0569b7163bf02d5555"
+  },
+  {
+    "name": "Tornado Cash",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TORN",
+    "description": "A fully decentralized protocol for private transactions on Ethereum.",
+    "address": "0x77777feddddffc19ff86db637967013e6c6a116c"
   },
   {
     "name": "Fleta Token",
@@ -2886,14 +2878,6 @@
     "symbol": "UQC",
     "description": "UQC is a decentralized virtual currency based on the ERC20 token - one of Ethereum Technological trends. The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cashing out their coins.",
     "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
-  },
-  {
-    "name": "Gene Source Code Chain",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "Gene",
-    "description": "The Gene Source Code Foundation is building the world's largest distributed genomic and healthcare data storage system based on blockchain technology.",
-    "address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
   },
   {
     "name": "Alien Worlds Trilium",
@@ -3712,14 +3696,6 @@
     "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1"
   },
   {
-    "name": "NABS",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "NBS",
-    "description": "-",
-    "address": "0xb14cc02f02528af4a192b7b502218c5eaf251cf9"
-  },
-  {
     "name": "MaverickChain",
     "type": "ERC20",
     "decimals": 18,
@@ -3902,6 +3878,22 @@
     "symbol": "ABT",
     "description": "ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.",
     "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+  },
+  {
+    "name": "digitalbits",
+    "type": "ERC20",
+    "decimals": 7,
+    "symbol": "XDB",
+    "description": "DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.",
+    "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
+  },
+  {
+    "name": "0chain",
+    "type": "ERC20",
+    "decimals": 10,
+    "symbol": "ZCN",
+    "description": "0Chain is pronounced as zero chain, and it is a decentralized storage platform that aims to makes data breaches impossible and as such can reduce legal discovery and compliance costs.",
+    "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
   },
   {
     "name": "Star Atlas (Portal)",
@@ -4574,6 +4566,14 @@
     "symbol": "USDT",
     "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+  },
+  {
+    "name": "Baby Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BABY",
+    "description": "-",
+    "address": "0xdb13fb60d3fddabc41743d9d603ce3f42c17d057"
   },
   {
     "name": "STASIS EURO",
@@ -5270,6 +5270,14 @@
     "symbol": "WILD",
     "description": "-",
     "address": "0xfbcfd010d007d10d49f516bb738f4aed12880225"
+  },
+  {
+    "name": "Ethereum wizard",
+    "type": "ERC20",
+    "decimals": 12,
+    "symbol": "ETHW",
+    "description": "-",
+    "address": "0xfbd86312f156b0cc976e558b62da068bbafcaf9c"
   },
   {
     "name": "Prom",
