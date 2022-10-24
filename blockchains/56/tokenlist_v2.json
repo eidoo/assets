@@ -88,6 +88,14 @@
     "address": "0x0864c156b3c5f69824564dec60c629ae6401bf2a"
   },
   {
+    "name": "UniCrypt",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "UNCX",
+    "description": "UNCX is the governance token of the UniCrypt platform.",
+    "address": "0x09a6c44c3947b69e2b45f4d51b67e6a39acfb506"
+  },
+  {
     "name": "Binance-Peg Filecoin",
     "type": "BEP20",
     "decimals": 18,
@@ -222,14 +230,6 @@
     "symbol": "ZEC",
     "description": "Binance-Peg Zcash Token (ZEC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Zcash (ZEC) at a ratio of 1:1.",
     "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
-  },
-  {
-    "name": "Binance-Peg TornadoCash Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "TORN",
-    "description": "Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.",
-    "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
   },
   {
     "name": "Binance-Peg Avalanche Token",
@@ -606,6 +606,14 @@
     "symbol": "AST",
     "description": "AST is a deflationary incentive token that will be used in the ecosystem of products offered by AST.",
     "address": "0x4cae95d03c85ae462daec44d5426f547a26faf47"
+  },
+  {
+    "name": "DAO Maker",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "DAO",
+    "description": "DAO Maker is the leading incubation, fundraising and acceleration platform with a vast network of successful projects launched.",
+    "address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45"
   },
   {
     "name": "Ether (Portal)",
@@ -1118,6 +1126,14 @@
     "symbol": "ALPACA",
     "description": "ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.",
     "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+  },
+  {
+    "name": "Pallapay",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PALLA",
+    "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
+    "address": "0x8f49733210700d38098d7375c221c7d02f700cc8"
   },
   {
     "name": "Binance-Peg Bitcoin Cash Token",

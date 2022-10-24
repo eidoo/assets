@@ -160,6 +160,14 @@
     "address": "0x9cd6746665d9557e1b9a775819625711d0693439"
   },
   {
+    "name": "UniCrypt",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "UNCX",
+    "description": "UNCX is the governance token of the UniCrypt platform.",
+    "address": "0x9eecd634c7a934f752af0eb90dda9ecc262f199f"
+  },
+  {
     "name": "IRON Titanium Token",
     "type": "ERC20",
     "decimals": 18,
@@ -214,6 +222,14 @@
     "symbol": "SOL",
     "description": "Cross Chain Portal Bridged Token",
     "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
+  },
+  {
+    "name": "XSGD",
+    "type": "ERC20",
+    "decimals": 6,
+    "symbol": "XSGD",
+    "description": "XSGD is the fully collateralized Singapore Dollar stablecoin, powered by open-source blockchain protocols.",
+    "address": "0xdc3326e71d45186f113a2f448984ca0e8d201995"
   },
   {
     "name": "Telcoin",
