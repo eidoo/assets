@@ -1,0 +1,65 @@
+[
+    {
+      "text": {
+        "en" : "Added the possibility to edit the transaction payload",
+        "it" : "Aggiunta la possibilità di modificare il payload di una transazione",
+        "fr" : "Ajout de la possibilité de modifier la payload d'une transaction"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Users whose residency is outside EEA+UK see more clearly that they cannot order an eidooCARD",
+          "it" : "Gli utenti residenti al di fuori di EEA+UK ora vedono chiaramente che non possono ordinare una eidooCARD",
+          "fr" : "Les utilisateurs résidant en dehors de l'EEA+UK voient désormais clairement qu'ils ne peuvent pas commander une eidooCARD"
+        },
+      "important": false,
+      "type": "feature"
+    },
+    {
+      "text": {
+          "en" : "Cash in flow is now more optimized",
+          "it" : "Ottimizzato il flusso del cash in",
+          "fr" : "Optimisation du flux du cash in"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Improved card transactions history view",
+          "it" : "Migliorata la visualizzazione della cronologia delle transazioni della carta",
+          "fr" : "Amélioration de l'affichage de l'historique des transactions par carte"
+        },
+      "important": false,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug which did not allow users to set the dates for their card statements",
+          "it" : "Risolto un bug che non permetteva agli utenti di impostare le date per i card statement",
+          "fr" : "Correction d'un bug qui ne permettait pas aux utilisateurs de définir des dates pour les relevés de carte."
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Fixed a bug in the display of the countervalue of the crypto-assets' countervalues after importing a wallet",
+          "it" : "Risolto un bug che impediva la visualizzazione dei controvalori dei token dopo l'importazione di un wallet",
+          "fr" : "Correction d'un bogue qui empêchait l'affichage des contre-valeurs des jetons après l'importation d'un wallet"
+        },
+      "important": true,
+      "type": "fix"
+    },
+    {
+      "text": {
+          "en" : "Other bug fixes and improvements regarding the card page",
+          "it" : "Risoluzione di altri bug e miglioramenti riguardanti la sezione carta",
+          "fr" : "Autres corrections de bugs et améliorations concernant la section carte"
+        },
+      "important": false,
+      "type": "fix"
+    }
+  ]
