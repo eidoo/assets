@@ -680,22 +680,6 @@
     "address": "hzrcwxp2vq9pcppxooayhj2bxtpo5xfpqrwb1svh332p"
   },
   {
-    "name": "Cream (Portal)",
-    "type": "SPL",
-    "decimals": 8,
-    "symbol": "CREAM",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh"
-  },
-  {
-    "name": "Hxro (Portal)",
-    "type": "SPL",
-    "decimals": 8,
-    "symbol": "HXRO",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "hxhwkvpk5ns4ltg5nij2g671ckxfrkpk8vy271ub4uek"
-  },
-  {
     "name": "PancakeSwap Token (Portal)",
     "type": "SPL",
     "decimals": 8,
