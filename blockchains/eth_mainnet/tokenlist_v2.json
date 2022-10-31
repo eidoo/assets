@@ -216,14 +216,6 @@
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
   },
   {
-    "name": "Crypterium",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CRPT",
-    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
-    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
-  },
-  {
     "name": "CITY",
     "type": "ERC20",
     "decimals": 18,
@@ -534,6 +526,14 @@
     "symbol": "CHR",
     "description": "-",
     "address": "0x161a5d1fc314727ba7ffd8ef166f32ca30ff87df"
+  },
+  {
+    "name": "Enecuum",
+    "type": "ERC20",
+    "decimals": 10,
+    "symbol": "ENQ",
+    "description": "Blockchain Mobile Network for decentralized application.",
+    "address": "0x16ea01acb4b0bca2000ee5473348b6937ee6f72f"
   },
   {
     "name": "Route",
@@ -896,6 +896,14 @@
     "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe"
   },
   {
+    "name": "BitBall Treasure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTRS",
+    "description": "-",
+    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
+  },
+  {
     "name": "FirstEnergy Token",
     "type": "ERC20",
     "decimals": 18,
@@ -960,28 +968,12 @@
     "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
   },
   {
-    "name": "VideoCoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VID",
-    "description": "-",
-    "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5"
-  },
-  {
     "name": "Viberate",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "VIB",
     "description": "Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace where we're matching musicians with event organizers.",
     "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
-  },
-  {
-    "name": "All Sports Coin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SOC",
-    "description": "All Sports (SOC) is a cryptocurrency and operates on the Ethereum platform.",
-    "address": "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3"
   },
   {
     "name": "LITonium",
@@ -1014,14 +1006,6 @@
     "symbol": "USDx",
     "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
     "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
-  },
-  {
-    "name": "TEMCO",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TEMCO",
-    "description": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
-    "address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
   },
   {
     "name": "HUMToken",
@@ -1118,6 +1102,14 @@
     "symbol": "ALICE",
     "description": "-",
     "address": "0x33dcd369d697132de252884336225de31fb474b2"
+  },
+  {
+    "name": "BLOCKv (VEE)",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "VEE",
+    "description": "BLOCKv provides a platform enabling the creation of Vatoms, a digital asset class (NFT) that bridges the gap between physical & digital worlds, creating new levels of human engagement.",
+    "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
   },
   {
     "name": "Frax Share",
@@ -1294,14 +1286,6 @@
     "symbol": "JST",
     "description": "-",
     "address": "0x3c55b99c58a1dc7001dd96b902212d11c8ec7e15"
-  },
-  {
-    "name": "Cajutel",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CAJ",
-    "description": "Solar powered high speed internet for West Africa.",
-    "address": "0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e"
   },
   {
     "name": "DEX Token",
@@ -1904,6 +1888,14 @@
     "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa"
   },
   {
+    "name": "Hegic",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "HEGIC",
+    "description": "Hegic is an on-chain, non-custodial peer-to-pool options trading protocol built on Ethereum. Currently Hegic supports options trading in for Bitcoin (wBTC) and Ether (ETH).",
+    "address": "0x584bc13c7d411c00c01a62e8019472de68768430"
+  },
+  {
     "name": "Contentos",
     "type": "ERC20",
     "decimals": 18,
@@ -2096,14 +2088,6 @@
     "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024"
   },
   {
-    "name": "QASH",
-    "type": "ERC20",
-    "decimals": 6,
-    "symbol": "QASH",
-    "description": "Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
-    "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6"
-  },
-  {
     "name": "Cybereits Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2230,6 +2214,14 @@
     "symbol": "CTX",
     "description": "-",
     "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
+  },
+  {
+    "name": "Robries",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "RBC",
+    "description": "-",
+    "address": "0x66446ab822206ce050bccec8fdcad37a584ebdf1"
   },
   {
     "name": "BTSE Token",
@@ -2462,6 +2454,14 @@
     "symbol": "HIGH",
     "description": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players.",
     "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282"
+  },
+  {
+    "name": "BitBall Treasure",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "BTRS",
+    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
+    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
   },
   {
     "name": "JasmyCoin",
@@ -3248,14 +3248,6 @@
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
   },
   {
-    "name": "Rupiah Token",
-    "type": "ERC20",
-    "decimals": 2,
-    "symbol": "IDRT",
-    "description": "-",
-    "address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a"
-  },
-  {
     "name": "Polymath",
     "type": "ERC20",
     "decimals": 18,
@@ -3326,14 +3318,6 @@
     "symbol": "TPT",
     "description": "-",
     "address": "0x9ee4f2f8a4ee74a982d2ccb2bba962e572f39679"
-  },
-  {
-    "name": "Tapcoin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TTT",
-    "description": "Tapcoin (TTT) is a revolutionary token that decentralizes the gaming industry by providing gamers and developers with in-game virtual currencies.",
-    "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382"
   },
   {
     "name": "Maker",
@@ -3478,6 +3462,14 @@
     "symbol": "LOOM",
     "description": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+  },
+  {
+    "name": "Rubic",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RBC",
+    "description": "Rubic is a multichain DeFi ecosystem, which features cross-chain, P2P, and instant swaps across multiple blockchains, aiming to deliver a complete ONE-STOP decentralized platform. For the moment, Rubic supports trades on Ethereum, Matic, and Binance Smart Chain networks.",
+    "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
   },
   {
     "name": "MASTER USD",
@@ -4288,14 +4280,6 @@
     "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
   },
   {
-    "name": "SODA Coin",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SOC",
-    "description": "-",
-    "address": "0xcad49c39b72c37b32cee8b14f33f316d3a8bc335"
-  },
-  {
     "name": "Wings",
     "type": "ERC20",
     "decimals": 18,
@@ -5096,14 +5080,6 @@
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
   },
   {
-    "name": "PUSH",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "PUSH",
-    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
-    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
-  },
-  {
     "name": "Metal",
     "type": "ERC20",
     "decimals": 8,
@@ -5206,14 +5182,6 @@
     "symbol": "FRONT",
     "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
     "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
-  },
-  {
-    "name": "TTism",
-    "type": "ERC20",
-    "decimals": 0,
-    "symbol": "TTT",
-    "description": "-",
-    "address": "0xf9366471f3c2f94608afa3e4951a5754c8606c32"
   },
   {
     "name": "Yield",

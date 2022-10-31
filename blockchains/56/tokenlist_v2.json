@@ -376,6 +376,14 @@
     "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1"
   },
   {
+    "name": "SafeNFT",
+    "type": "BEP20",
+    "decimals": 0,
+    "symbol": "SNFT",
+    "description": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens",
+    "address": "0x311827832c1f670229ef0afbe96d2df8195c8c9a"
+  },
+  {
     "name": "Basic Attention Token (Portal)",
     "type": "BEP20",
     "decimals": 18,
@@ -486,6 +494,14 @@
     "symbol": "DEGO",
     "description": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.",
     "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc"
+  },
+  {
+    "name": "social NFT ",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "SNFT",
+    "description": "SOCIAL NFT is a BNB based NFT (non-fungible token) platform for social media personalities who want to create digital collectibles of their likeness. Secured with blockchain technology.",
+    "address": "0x406c3ed15d4537dd23870260cad503b591ff1b31"
   },
   {
     "name": "AgeOfGods",
@@ -726,14 +742,6 @@
     "symbol": "BSCPAD",
     "description": "BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network.",
     "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
-  },
-  {
-    "name": "Gamium",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "GMM",
-    "description": "GMM is the governance and medium of exchange token of Gamium",
-    "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3"
   },
   {
     "name": "Hero Floki",
@@ -1126,14 +1134,6 @@
     "symbol": "ALPACA",
     "description": "ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.",
     "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
-  },
-  {
-    "name": "Pallapay",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "PALLA",
-    "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
-    "address": "0x8f49733210700d38098d7375c221c7d02f700cc8"
   },
   {
     "name": "Binance-Peg Bitcoin Cash Token",
@@ -1750,6 +1750,14 @@
     "symbol": "CEEK",
     "description": "CEEK VR",
     "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66"
+  },
+  {
+    "name": "MOONBOYS FINANCE",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "MBS",
+    "description": "MoonBoys Finance is a community-driven, fair-launched DeFi token which builds exponential value for its holders using three main principles : static rewards, liquidity pool acquisition, and burns.",
+    "address": "0xe361344013cc906c56bba111bde00c421852c73b"
   },
   {
     "name": "Orion Protocol",
