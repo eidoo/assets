@@ -196,7 +196,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "vXVS",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
     "address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d"
   },
   {
@@ -784,6 +784,14 @@
     "address": "0x5f88ab06e8dfe89df127b2430bba4af600866035"
   },
   {
+    "name": "MCB",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "MCB",
+    "description": "MCDEX is the first fully-permissionless DEX for trading perpetual contracts, powered by MCDEX's revolutionary AMM technology",
+    "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b"
+  },
+  {
     "name": "Ape Swap Finance Banana",
     "type": "BEP20",
     "decimals": 18,
@@ -910,14 +918,6 @@
     "symbol": "XCN",
     "description": "Chain is a cloud blockchain infrastructure that enables organizations to build better financial services from the ground up. Chain has launched Chain Core which is a permissioned and open source blockchain and Sequence, its ledger as a service product. Clients can receive discounts and pay for commercial fees with Chain Tokens (XCN) as well as participate in community protocol governance and access to premium features.",
     "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b"
-  },
-  {
-    "name": "PEEL Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "PEEL",
-    "description": "PEEL is the governance token of Meta Apes, a mobile strategy game.",
-    "address": "0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab"
   },
   {
     "name": "LINA",
@@ -1180,7 +1180,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "vBUSD",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
     "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
   },
   {
@@ -1784,14 +1784,6 @@
     "address": "0xe76804b43f17fc41f226d63fd2a676df409d4678"
   },
   {
-    "name": "VoltBit",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "VBit",
-    "description": "A deflationary cryptocurrency that has a locked liquidity and is community backed. Our aim is to help those without electricity receive it in a way that helps our planet.",
-    "address": "0xe78a58acb18811e840dd828d4f0116389e953592"
-  },
-  {
     "name": "Step Hero",
     "type": "BEP20",
     "decimals": 18,
@@ -1828,7 +1820,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "vUSDC",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
     "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
   },
   {
@@ -1956,7 +1948,7 @@
     "type": "BEP20",
     "decimals": 8,
     "symbol": "vUSDT",
-    "description": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively.",
+    "description": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
     "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
   },
   {

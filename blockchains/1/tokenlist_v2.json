@@ -216,6 +216,14 @@
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
   },
   {
+    "name": "Crypterium",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CRPT",
+    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
+    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+  },
+  {
     "name": "CITY",
     "type": "ERC20",
     "decimals": 18,
@@ -448,20 +456,20 @@
     "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
   },
   {
+    "name": "Marginless Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MRS",
+    "description": "-",
+    "address": "0x1254e59712e6e727dc71e0e3121ae952b2c4c3b6"
+  },
+  {
     "name": "Planetagro-Exchange",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "BANANA",
     "description": "This token is meant to boost and facilitate reliable banana product trade.",
     "address": "0x12a64ae35cccbf75c169f0a4bdafeeefefa1958c"
-  },
-  {
-    "name": "GRID",
-    "type": "ERC20",
-    "decimals": 12,
-    "symbol": "GRID",
-    "description": "GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
-    "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
   },
   {
     "name": "mosExpensiveToken",
@@ -526,14 +534,6 @@
     "symbol": "CHR",
     "description": "-",
     "address": "0x161a5d1fc314727ba7ffd8ef166f32ca30ff87df"
-  },
-  {
-    "name": "Enecuum",
-    "type": "ERC20",
-    "decimals": 10,
-    "symbol": "ENQ",
-    "description": "Blockchain Mobile Network for decentralized application.",
-    "address": "0x16ea01acb4b0bca2000ee5473348b6937ee6f72f"
   },
   {
     "name": "Route",
@@ -896,14 +896,6 @@
     "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe"
   },
   {
-    "name": "BitBall Treasure",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "-",
-    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
-  },
-  {
     "name": "FirstEnergy Token",
     "type": "ERC20",
     "decimals": 18,
@@ -1006,6 +998,14 @@
     "symbol": "USDx",
     "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
     "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
+  },
+  {
+    "name": "TEMCO",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "TEMCO",
+    "description": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
+    "address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
   },
   {
     "name": "HUMToken",
@@ -1176,6 +1176,14 @@
     "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
   },
   {
+    "name": "Civilization",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CIV",
+    "description": "The World's First 100% Decentralized Investment Fund (DIF)",
+    "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
+  },
+  {
     "name": "The Sandbox",
     "type": "ERC20",
     "decimals": 18,
@@ -1286,6 +1294,14 @@
     "symbol": "JST",
     "description": "-",
     "address": "0x3c55b99c58a1dc7001dd96b902212d11c8ec7e15"
+  },
+  {
+    "name": "Cajutel",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "CAJ",
+    "description": "Solar powered high speed internet for West Africa.",
+    "address": "0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e"
   },
   {
     "name": "DEX Token",
@@ -1742,6 +1758,14 @@
     "symbol": "FTM",
     "description": "Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.",
     "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+  },
+  {
+    "name": "MCDEX Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MCB",
+    "description": "Monte Carlo Decentralized Exchange is a crypto trading platform. MCDEX is powered by the Mai Protocol smart contracts deployed on the Ethereum blockchain. The Mai Protocol smart contracts are fully audited by Open Zeppelin, Consensys and Chain Security.",
+    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
   },
   {
     "name": "Convex Token",
@@ -2216,14 +2240,6 @@
     "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
   },
   {
-    "name": "Robries",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "RBC",
-    "description": "-",
-    "address": "0x66446ab822206ce050bccec8fdcad37a584ebdf1"
-  },
-  {
     "name": "BTSE Token",
     "type": "ERC20",
     "decimals": 8,
@@ -2376,14 +2392,6 @@
     "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
   },
   {
-    "name": "GENE TOKEN (PARKGENE)",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "GENE",
-    "description": "Parkgene (GENE) is a cryptocurrency and operates on the Ethereum platform.",
-    "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d"
-  },
-  {
     "name": "Render Token",
     "type": "ERC20",
     "decimals": 18,
@@ -2456,12 +2464,12 @@
     "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282"
   },
   {
-    "name": "BitBall Treasure",
+    "name": "GLOBALFOUNDATION",
     "type": "ERC20",
-    "decimals": 18,
-    "symbol": "BTRS",
-    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
-    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
+    "decimals": 2,
+    "symbol": "GF",
+    "description": "-",
+    "address": "0x727443713e3ff01411feaae52dae5d142a3c7b29"
   },
   {
     "name": "JasmyCoin",
@@ -2712,11 +2720,11 @@
     "address": "0x809faaf63ee61b9133102b4fbe560219b534b6e4"
   },
   {
-    "name": "Clover Finance",
+    "name": "Clover",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "CLV",
-    "description": "Clover Finance is an infrastructure platform focused on cross-chain compatibility.",
+    "description": "Clover is the native token of CLV M-Chain, and is used for staking to take part in network consensus, transaction fees, platform rewards, and network governance.",
     "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52"
   },
   {
@@ -2910,14 +2918,6 @@
     "symbol": "UQC",
     "description": "UQC is a decentralized virtual currency based on the ERC20 token - one of Ethereum Technological trends. The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cashing out their coins.",
     "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
-  },
-  {
-    "name": "Gene Source Code Chain",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "Gene",
-    "description": "The Gene Source Code Foundation is building the world's largest distributed genomic and healthcare data storage system based on blockchain technology.",
-    "address": "0x884181554dfa9e578d36379919c05c25dc4a15bb"
   },
   {
     "name": "Alien Worlds Trilium",
@@ -3248,6 +3248,14 @@
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
   },
   {
+    "name": "Rupiah Token",
+    "type": "ERC20",
+    "decimals": 2,
+    "symbol": "IDRT",
+    "description": "-",
+    "address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a"
+  },
+  {
     "name": "Polymath",
     "type": "ERC20",
     "decimals": 18,
@@ -3270,6 +3278,14 @@
     "symbol": "HUNT",
     "description": "HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.",
     "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
+  },
+  {
+    "name": "Marsan Exchange Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "MRS",
+    "description": "MRS, Marsan Exchange, aims to become the leading Canadian Cryptoassets exchange.The initial product is MRS Terminal, a multi-platform crypto trading desk.",
+    "address": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08"
   },
   {
     "name": "Hydro Protocol",
@@ -3462,14 +3478,6 @@
     "symbol": "LOOM",
     "description": "Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
-  },
-  {
-    "name": "Rubic",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "RBC",
-    "description": "Rubic is a multichain DeFi ecosystem, which features cross-chain, P2P, and instant swaps across multiple blockchains, aiming to deliver a complete ONE-STOP decentralized platform. For the moment, Rubic supports trades on Ethereum, Matic, and Binance Smart Chain networks.",
-    "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
   },
   {
     "name": "MASTER USD",
@@ -3872,14 +3880,6 @@
     "address": "0xb70835d7822ebb9426b56543e391846c107bd32c"
   },
   {
-    "name": "VALOBIT",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "VBIT",
-    "description": "Valobit Technology is described to be an advanced cybersecurity solution that will proactively identify hackers and distribute their profile information to the protected community over blockchain.",
-    "address": "0xb8366948b4a3f07bcbf14eb1739daa42a26b07c4"
-  },
-  {
     "name": "GoldenRatio",
     "type": "ERC20",
     "decimals": 18,
@@ -3920,12 +3920,12 @@
     "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
   },
   {
-    "name": "0chain",
+    "name": "digitalbits",
     "type": "ERC20",
-    "decimals": 10,
-    "symbol": "ZCN",
-    "description": "0Chain is pronounced as zero chain, and it is a decentralized storage platform that aims to makes data breaches impossible and as such can reduce legal discovery and compliance costs.",
-    "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+    "decimals": 7,
+    "symbol": "XDB",
+    "description": "DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.",
+    "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
   },
   {
     "name": "Star Atlas (Portal)",
@@ -5078,6 +5078,14 @@
     "symbol": "VRA",
     "description": "Verasity",
     "address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+  },
+  {
+    "name": "PUSH",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "PUSH",
+    "description": "PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
+    "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
   },
   {
     "name": "Metal",

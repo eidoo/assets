@@ -592,14 +592,6 @@
     "address": "fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp"
   },
   {
-    "name": "Genopets",
-    "type": "SPL",
-    "decimals": 9,
-    "symbol": "GENE",
-    "description": "A Genopet is your NFT spirit animal encoded with your personality and fitness data. ",
-    "address": "geneth5amgsi8khatqoezp1xexwzj8vcuepynxdkrmyz"
-  },
-  {
     "name": "0x (Portal)",
     "type": "SPL",
     "decimals": 8,
