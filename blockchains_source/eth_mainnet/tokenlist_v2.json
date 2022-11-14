@@ -216,14 +216,6 @@
     "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
   },
   {
-    "name": "Crypterium",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "CRPT",
-    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
-    "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
-  },
-  {
     "name": "CITY",
     "type": "ERC20",
     "decimals": 18,
@@ -470,6 +462,14 @@
     "symbol": "BANANA",
     "description": "This token is meant to boost and facilitate reliable banana product trade.",
     "address": "0x12a64ae35cccbf75c169f0a4bdafeeefefa1958c"
+  },
+  {
+    "name": "GRID",
+    "type": "ERC20",
+    "decimals": 12,
+    "symbol": "GRID",
+    "description": "GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
+    "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
   },
   {
     "name": "mosExpensiveToken",
@@ -808,14 +808,6 @@
     "address": "0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530"
   },
   {
-    "name": "Unisocks Edition 0",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "SOCKS",
-    "description": "Unisocks is an “experimental” non-fungible token (NFT) listed on the Uniswap exchange.",
-    "address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5"
-  },
-  {
     "name": "The Truth",
     "type": "ERC20",
     "decimals": 18,
@@ -888,12 +880,12 @@
     "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
   },
   {
-    "name": "Tael",
+    "name": "BitBall Treasure",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "WaBi",
-    "description": "WABI enables fair value transfer between consumers and brands",
-    "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe"
+    "symbol": "BTRS",
+    "description": "-",
+    "address": "0x2932746414a6766a2b4a472cb3a2624f5667fd83"
   },
   {
     "name": "FirstEnergy Token",
@@ -998,14 +990,6 @@
     "symbol": "USDx",
     "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
     "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
-  },
-  {
-    "name": "TEMCO",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "TEMCO",
-    "description": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
-    "address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
   },
   {
     "name": "HUMToken",
@@ -1262,14 +1246,6 @@
     "symbol": "AVT",
     "description": "-",
     "address": "0x3b16fb80ab6ac8562203f3913f58ee0c4dfc08b8"
-  },
-  {
-    "name": "ALUCHAIN",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "ALU",
-    "description": "-",
-    "address": "0x3b2f94c251c2cccb7ad16a68f040a220cc2bdd72"
   },
   {
     "name": "OpenDAO",
@@ -1960,6 +1936,14 @@
     "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f"
   },
   {
+    "name": "AllWensCoin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "AWC",
+    "description": "-",
+    "address": "0x5a95527ed7616d35fb2a113cd68832f4edefa2df"
+  },
+  {
     "name": "Lido DAO",
     "type": "ERC20",
     "decimals": 18,
@@ -2432,12 +2416,12 @@
     "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
-    "name": "openANX Token",
+    "name": "New York Exchange Coin",
     "type": "ERC20",
     "decimals": 18,
-    "symbol": "OAX",
-    "description": "Developing and promoting a sustainable digital asset ecosystem for the future.",
-    "address": "0x701c244b988a513c945973defa05de933b23fe1d"
+    "symbol": "NYE",
+    "description": "It utilizes the blockchain technology to create a financial integration between old classic stock and commodities market with the new trend of Crypto Trading platforms. Transaction Transparency: Records and manages price, contracts, and transaction history. Re-evaluation of Corporate Values: In order to safeguard ITO participants, our crypto holders and their assets, NYE controls potential risks by depending on objective metrics analysis and multi-variable assessment.",
+    "address": "0x6f5e77cea0abdda40013a8ef53639c96972fb745"
   },
   {
     "name": "Unica Coin",
@@ -2464,12 +2448,12 @@
     "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282"
   },
   {
-    "name": "GLOBALFOUNDATION",
+    "name": "BitBall Treasure",
     "type": "ERC20",
-    "decimals": 2,
-    "symbol": "GF",
-    "description": "-",
-    "address": "0x727443713e3ff01411feaae52dae5d142a3c7b29"
+    "decimals": 18,
+    "symbol": "BTRS",
+    "description": "Bitball Ecosystem: All in one crypto Solution. Peer to Peer digital currencies with Multiple utilities.",
+    "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f"
   },
   {
     "name": "JasmyCoin",
@@ -3136,14 +3120,6 @@
     "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551"
   },
   {
-    "name": "ZBCoin",
-    "type": "ERC20",
-    "decimals": 3,
-    "symbol": "ZBC",
-    "description": "-",
-    "address": "0x9443528ec80759098287a01c0856eb2cddbd19c2"
-  },
-  {
     "name": "Mandala Exchange Token",
     "type": "ERC20",
     "decimals": 18,
@@ -3520,14 +3496,6 @@
     "address": "0xa59ca48e4799cd1f8e9d251769bf226f4caa48ed"
   },
   {
-    "name": "Huobi Pool Token",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "HPT",
-    "description": "Huobi Pool Token (HPT) is an ecological sub-token based on Huobi Token (HT).",
-    "address": "0xa66daa57432024023db65477ba87d4e7f5f95213"
-  },
-  {
     "name": "Gemx",
     "type": "ERC20",
     "decimals": 4,
@@ -3654,6 +3622,14 @@
     "symbol": "BABYDOGE",
     "description": "BabyDoge is fully decentralized and on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project.",
     "address": "0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5"
+  },
+  {
+    "name": "Atomic Wallet Token",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "AWC",
+    "description": "Atomic describes itself as a non-custodial decentralized wallet to manage, exchange, and buy 300+ cryptocurrencies in a single interface. AWC token holders receive benefits such as staking, discounts on exchange services, extra features for trading desks, affiliate and bounty rewards, and dedicated support. It claims to be the first wallet to have implemented cross chain Atomic Swaps.",
+    "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4"
   },
   {
     "name": "TERASU",
@@ -3928,14 +3904,6 @@
     "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27"
   },
   {
-    "name": "Star Atlas (Portal)",
-    "type": "ERC20",
-    "decimals": 8,
-    "symbol": "ATLAS",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7"
-  },
-  {
     "name": "Balancer",
     "type": "ERC20",
     "decimals": 18,
@@ -4144,6 +4112,14 @@
     "address": "0xc254664c7408dde413969fbcd593328f6099e32f"
   },
   {
+    "name": "QuadrantProtocol",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "eQUAD",
+    "description": "Quadrant Protocol is the engine that powers Quadrant's data mapping capabilities.",
+    "address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2"
+  },
+  {
     "name": "ERC20",
     "type": "ERC20",
     "decimals": 18,
@@ -4206,14 +4182,6 @@
     "symbol": "TRIBE",
     "description": "The governance token for Fei Protocol",
     "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
-  },
-  {
-    "name": "Insights Network",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "INSTAR",
-    "description": "-",
-    "address": "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d"
   },
   {
     "name": "Billionaire Ambition",
@@ -4398,14 +4366,6 @@
     "symbol": "LUNA",
     "description": "Luna is the native staking token recognized by the Terra protocol.",
     "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
-  },
-  {
-    "name": "Rari Governance Token (RGT)",
-    "type": "ERC20",
-    "decimals": 18,
-    "symbol": "RGT",
-    "description": "The Rari Governance Token is the native token behind Rari Capital.",
-    "address": "0xd291e7a03283640fdc51b121ac401383a46cc623"
   },
   {
     "name": "Cubefinex",
@@ -4776,6 +4736,14 @@
     "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
   },
   {
+    "name": "RAE Token",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "RAE",
+    "description": "-",
+    "address": "0xe5a3229ccb22b6484594973a03a3851dcd948756"
+  },
+  {
     "name": "ZEON",
     "type": "ERC20",
     "decimals": 18,
@@ -4912,7 +4880,7 @@
     "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f"
   },
   {
-    "name": "Melon",
+    "name": "Enzyme",
     "type": "ERC20",
     "decimals": 18,
     "symbol": "MLN",
@@ -4950,6 +4918,14 @@
     "symbol": "FIS",
     "description": "StaFi is a DeFi protocol unlocking liquidity of staked assets. Users can stake PoS tokens through StaFi and receive rTokens in return, which are available for trading, while still earning staking rewards.",
     "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
+  },
+  {
+    "name": "Dacxi Coin",
+    "type": "ERC20",
+    "decimals": 18,
+    "symbol": "DACXI",
+    "description": "Trade, learn, and build crypto wealth with Dacxi.",
+    "address": "0xefab7248d36585e2340e5d25f8a8d243e6e3193f"
   },
   {
     "name": "iEx.ec Network Token",
@@ -5150,6 +5126,14 @@
     "symbol": "ENJ",
     "description": "The Enjin ecosystem (comprising the Enjin Platform, Explorer, Wallet, Beam) aims to empower gamers with ownership of digital assets and enables game industry businesses to increase revenue.",
     "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+  },
+  {
+    "name": "All World Coin",
+    "type": "ERC20",
+    "decimals": 8,
+    "symbol": "AWC",
+    "description": "-",
+    "address": "0xf649c39e7efdbac6c9adb65c43e87894fc14aedd"
   },
   {
     "name": "Dicet",

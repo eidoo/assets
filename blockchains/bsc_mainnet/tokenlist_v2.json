@@ -216,6 +216,14 @@
     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a"
   },
   {
+    "name": "Hodl Finance Token",
+    "type": "BEP20",
+    "decimals": 9,
+    "symbol": "HFT",
+    "description": "Hodl Finance merges centralized and decentralized finance to create a sustainable ecosystem for constant innovation. By combining the best aspects of community governance and a transparent foundation, the growth of the community and ecosystem is ensured.",
+    "address": "0x186866858aef38c05829166a7711b37563e15994"
+  },
+  {
     "name": "Binance-Peg Dai Token",
     "type": "BEP20",
     "decimals": 18,
@@ -528,6 +536,14 @@
     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
   },
   {
+    "name": "GoldCoin Reserve",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "GCR",
+    "description": "GCR is a stable digital asset, that is both backed by and tethered to the price of gold",
+    "address": "0x451d0e4b04a16223bbaece67b2276223db0d19da"
+  },
+  {
     "name": "Wootrade Network",
     "type": "BEP20",
     "decimals": 18,
@@ -688,7 +704,7 @@
     "address": "0x557233e794d1a5fbcc6d26dca49147379ea5073c"
   },
   {
-    "name": "Binance-Peg BSC-USD",
+    "name": "Tether USD",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "USDT",
@@ -742,6 +758,14 @@
     "symbol": "BSCPAD",
     "description": "BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network.",
     "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+  },
+  {
+    "name": "Position",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "POSI",
+    "description": "Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees.",
+    "address": "0x5ca42204cdaa70d5c773946e69de942b85ca6706"
   },
   {
     "name": "Hero Floki",
@@ -1032,28 +1056,12 @@
     "address": "0x80d04e44955aa9c3f24041b2a824a20a88e735a8"
   },
   {
-    "name": "Altura",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "ALU",
-    "description": "Altura is the next generation gaming NFT platform.",
-    "address": "0x8263cd1601fe73c066bf49cc09841f35348e3be0"
-  },
-  {
     "name": "aleph.im BEP-20 v2",
     "type": "BEP20",
     "decimals": 18,
     "symbol": "ALEPH",
     "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
     "address": "0x82d2f8e02afb160dd5a480a617692e62de9038c4"
-  },
-  {
-    "name": "Star Atlas (Portal)",
-    "type": "BEP20",
-    "decimals": 8,
-    "symbol": "ATLAS",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "0x83850d97018f665eb746fbb8f18351e977d1b0d6"
   },
   {
     "name": "Bella Protocol",
@@ -1134,6 +1142,14 @@
     "symbol": "ALPACA",
     "description": "ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain.",
     "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+  },
+  {
+    "name": "Pallapay",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "PALLA",
+    "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
+    "address": "0x8f49733210700d38098d7375c221c7d02f700cc8"
   },
   {
     "name": "Binance-Peg Bitcoin Cash Token",
@@ -1278,14 +1294,6 @@
     "symbol": "TKO",
     "description": "The first local Indonesian Crypto Asset Project to offer a unique hybrid token model.",
     "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809"
-  },
-  {
-    "name": "Thetan Gem",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "THG",
-    "description": "Thetan Arena is an e-sport game based on Blockchain technology. You can gather your friends, form a team, battle with others and earn money with just your skills. Thetan Arena's gameplay is designed to revolve around the combination of your personal skills and teamwork with various game modes: MOBA & Battle Royale, coming with monthly updates and attractive rewards. Gear your heroes up with a large selection of hundreds of weapons. Play for Free, Play to Earn!",
-    "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f"
   },
   {
     "name": "wBitcoin",
@@ -1616,6 +1624,14 @@
     "address": "0xc748673057861a797275cd8a068abb95a902e8de"
   },
   {
+    "name": "ApeCoin",
+    "type": "BEP20",
+    "decimals": 18,
+    "symbol": "APE",
+    "description": "ApeCoin is an BEP-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.",
+    "address": "0xc762043e211571eb34f1ef377e5e8e76914962f9"
+  },
+  {
     "name": "Biconomy Token",
     "type": "BEP20",
     "decimals": 9,
@@ -1824,14 +1840,6 @@
     "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8"
   },
   {
-    "name": "NUM Token",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "NUM",
-    "description": "Numbers protocol is a decentralised photo network, for creating community, value and trust in digital media.",
-    "address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9"
-  },
-  {
     "name": "Scooby",
     "type": "BEP20",
     "decimals": 18,
@@ -1854,14 +1862,6 @@
     "symbol": "ANKR",
     "description": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.",
     "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
-  },
-  {
-    "name": "Aurory (Portal)",
-    "type": "BEP20",
-    "decimals": 9,
-    "symbol": "AURY",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "0xf5a367b7809e5683538c93ce638b9258a0b88271"
   },
   {
     "name": "Anyswap-BEP20",
@@ -1958,13 +1958,5 @@
     "symbol": "ONT",
     "description": "Binance-Peg Ontology Token (ONT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Ontology Token (ONT) at a ratio of 1:1.",
     "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
-  },
-  {
-    "name": "Vita Inu",
-    "type": "BEP20",
-    "decimals": 18,
-    "symbol": "VINU",
-    "description": "Vita Inu is the world’s first fast and feeless dog coin with high TPS and native smart contracts. VINU is the powerful multi-chain currency and governance token of the Vinuverse. The VINU community believes cryptocurrencies should be moved around freely, securely, and efficiently.",
-    "address": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa"
   }
 ]

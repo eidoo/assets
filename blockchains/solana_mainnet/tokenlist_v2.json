@@ -312,30 +312,6 @@
     "address": "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3"
   },
   {
-    "name": "Rari Governance Token (Portal)",
-    "type": "SPL",
-    "decimals": 8,
-    "symbol": "RGT",
-    "description": "Cross Chain Portal Bridged Token",
-    "address": "ask8bss7poxffvjfxnsjepj9kuptx15qarnhdjs6ddye"
-  },
-  {
-    "name": "Star Atlas",
-    "type": "SPL",
-    "decimals": 8,
-    "symbol": "ATLAS",
-    "description": "Star Atlas is a virtual gaming metaverse based in the year 2620",
-    "address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx"
-  },
-  {
-    "name": "Aurory",
-    "type": "SPL",
-    "decimals": 9,
-    "symbol": "AURY",
-    "description": "The Aurory team is composed of 30+ talents from the gaming and the cryptocurrency industry. ",
-    "address": "auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp"
-  },
-  {
     "name": "1INCH Token (Portal)",
     "type": "SPL",
     "decimals": 8,
