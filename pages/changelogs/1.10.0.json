@@ -1,0 +1,20 @@
+[
+    {
+      "text": {
+        "en" : "The WalletConnect integration is now handling multichain connections better",
+        "it" : "L'integrazione di WalletConnect ora gestisce meglio le connessioni multichain",
+        "fr" : "L'intégration de WalletConnect gère désormais mieux les connexions multichaînes"
+      },
+      "important": true,
+      "type": "feature"
+    },
+    {
+        "text": {
+          "en" : "The RPC endpoint can now be edited on any blockchain",
+          "it" : "L'endpoint RPC può ora essere modificato su qualsiasi blockchain",
+          "fr" : "Le point de terminaison RPC peut désormais être modifié sur n'importe quelle blockchain"
+        },
+        "important": true,
+        "type": "feature"
+      }
+  ]
