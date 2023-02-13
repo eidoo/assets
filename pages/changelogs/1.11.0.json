@@ -1,0 +1,29 @@
+[
+    {
+        "text": {
+            "en": "Added customer support section",
+            "it": "Aggiunta la sezione per il servizio clienti",
+            "fr": "Ajout de la section service client"
+        },
+        "important": true,
+        "type": "feature"
+    },
+    {
+        "text": {
+            "en": "Fixed an issue that caused the pNetwork widget not to work",
+            "it": "Risolto il problema che rendeva il widget pNetwork non funzionante",
+            "fr": "Correction d'un problème qui empêchait le widget pNetwork de fonctionner"
+        },
+        "important": true,
+        "type": "bug"
+    },
+    {
+        "text": {
+            "en": "Fixed app crash when editing the nonce of a transaction",
+            "it": "Risolto il crash dell'app durante la modifica del nonce di una transazione",
+            "fr": "Correction du crash de l'application lors de la modification du nonce d'une transaction"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
