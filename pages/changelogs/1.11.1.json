@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "fixed connectivity problem with in the eidooCARD section",
+            "it": "Risolto problema di connettività con nella sezione eidooCARD",
+            "fr": "Correction du problème de connectivité avec dans la section eidooCARD"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
