@@ -1,0 +1,20 @@
+[
+    {
+        "text": {
+            "en": "Fixed Bitcoin balance bug after wallet restore using a legacy seed",
+            "it": "Risolto problema del balance bitcoin dopo il restore del wallet usando un seed legacy",
+            "fr": "Problème de solde de bitcoin résolu après la restauration du portefeuille à l'aide d'une graine héritée"
+        },
+        "important": true,
+        "type": "bug"
+    },
+    {
+        "text": {
+            "en": "Fixed bug that caused the app to randomly crash",
+            "it": "Risolto bug che causava il crash casuale dell'app",
+            "fr": "Correction d'un bug qui provoquait un plantage aléatoire de l'application"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
