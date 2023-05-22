@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Fixed the upgdating token prices isssue",
+            "it": "Risolto il problema dell'aggiornamento dei prezzi dei tokens",
+            "fr": "Correction du problème de mise à jour des prix des jetons"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
