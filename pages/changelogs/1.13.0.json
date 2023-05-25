@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Changed the rpc nodes",
+            "it": "Cambiati i nodi rpc",
+            "fr": "Changé les nœuds rpc"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
