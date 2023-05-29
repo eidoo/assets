@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Fixed RPC nodes connectivity",
+            "it": "Risolto il problema di connettività dei nodi RPC",
+            "fr": "Fixe connectivité des nœuds RPC"
+        },
+        "important": true,
+        "type": "bug"
+    }
+]
