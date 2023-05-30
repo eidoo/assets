@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Fixed daoPNT price bug",
+            "it": "Risolto il problema del prezzo di daoPNT",
+            "fr": "Correction du bug de prix daoPNT"
+        },
+        "important": true,
+        "type": "fix"
+    }
+]
