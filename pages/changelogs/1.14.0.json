@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+          "en" : "Added support to Wallet Connect v2",
+          "it" : "Aggiunto supporto a Wallet Connect v2",
+          "fr" : "Ajout de la prise en charge de Wallet Connect v2"
+        },
+        "important": true,
+        "type": "feature"
+      }
+]
