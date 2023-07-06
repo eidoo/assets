@@ -1,0 +1,20 @@
+[
+    {
+        "text": {
+            "en": "Fixed WalletConnect v2 integration",
+            "it": "Risolto il problema dell'integrazione di WalletConnect v2",
+            "fr": "Intégration fixe de WalletConnect v2"
+        },
+        "important": true,
+        "type": "fix"
+    },
+    {
+        "text": {
+            "en": "Fixed peices",
+            "it": "Risolto il problema dei prezzi",
+            "fr": "Correction du problème de prix"
+        },
+        "important": true,
+        "type": "fix"
+    }
+]
