@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Fixed missing utxos causing wrong Bitcoin balance.",
+            "it": "Risolto il problema degli utxos mancanti che causavano il saldo Bitcoin errato.",
+            "fr": "Correction des utxos manquants causant un mauvais solde Bitcoin."
+        },
+        "important": true,
+        "type": "fix"
+    }
+]
