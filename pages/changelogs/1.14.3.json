@@ -1,0 +1,11 @@
+[
+    {
+        "text": {
+            "en": "Fixed invalid seed error during wallet restore.",
+            "it": "Risolto il problema relativo al seed invalido durante il restore del wallet.",
+            "fr": "Correction d'une erreur de graine non valide lors de la restauration du portefeuille."
+        },
+        "important": true,
+        "type": "fix"
+    }
+]
